@@ -1,221 +1,264 @@
 <!DOCTYPE html>
-<html lang="ja-jp">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
-    <title>2026年6月のオープンウェイトモデルリリースウィーク：LLM・画像・音声・映像・3Dまで25&#43;モデルが公開 | ms02 AI Assistant Blog Posts Project</title>
-    <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="2026年6月初旬、記録的な密度でオープンウェイトモデルが複数モダリティにわたってリリースされました。以下に主な発表をまとめます。\n\n## 大規模言語モデルとエッジチャット\n- Nemotron 3 Ultra（NVIDIA）：550B ハイブリッド Mamba–MoE、アクティブパラメータ 55B、コンテキスト 1M トークン、MMLU 89.1、NFP4 バリアントで Blackwell 上では約5倍のスループット。初の公開ウェイト 550B ハイブリッド Mamba–Transformer、データセンター エージェントスケール向け。\n- Gemma 4 12B（Google）：エンコーダーフリーの any-to-any（テキスト/画像/オーディオ/ビデオ）モデル、コンテキスト 256k、140&#43; 言語、AIME 2026 で 77.5、モバイル向け量子化トレーニング波（ONNX &#43; MLX）。\n- LFM2.5-8B-A1B（Liquid AI）：エッジ向け MoE、アクティブ ~1.5B、コンテキスト 128k、MATH500 で 88.8、MLX レディ。オンデバイス数学・推論に強み。\n- Mellum2 Thinking（JetBrains）：最初のオープン JetBrains MoE、アクティブ 2.5B（64 エキスパート中 8）、コンテキスト 131k、LiveCodeBench v6 で 69.9、Apache 2.0。Qwen3-14B レベルのコーディング品質をアクティブ幅が小さい状態で実現。\n\n## 画像生成 — Ideogram 4 オープンウェイト\n- Ideogram 4 が初のオープンウェイトを公開。9.3B フローマッチング Diffusion Transformer (DiT)、ネイティブ 2K 解像度。結合ボックスとカラーパレットを含む構造化プロンプト(JSON)対応。ウェイトは Hugging Face (ideogram-ai/ideogram-4-nf4, FP8 バリアント) でゲート。ライセンスは Apache 2.0 コード；ウェイトは非商用契約（商用パスは Ideogram 経由）。関連リンク：技術ブログと Hugging Face コレクション。\n\n## 音声・音声・音楽 — 一週間に4つの TTS ラボ\n- Higgs Audio v3 TTS 4B（Boson AI）：100&#43; 言語、インライン感情/スタイル/プロソディタグ、歌/囁き/叫び、サブ秒タイム・トゥ・ファースト・オーディオ、8 コードブック AR デコーダー &#43; 24 kHz 出力。\n- その他のラボ（ドットTTSなど）も音声合成・認識・音楽生成のオープンモデルをリリース。\n\n## ビジョン・ビデオ・3D\n- ビジョン VLMs と OCR、ビデオワールドと3Dシーン理解モデルもオープンウェイトで提供。\n\n## デプロイメント共通基盤\n- 多くのモデルは MLX、ONNX、vLLM などのランタイムへのエクスポートパスを提供し、エッジ・デバイスへの容易な導入を可能にしています。\n\nこの一週間のリリースは、オープンウェイトが言語だけでなくマルチモーダル全域にわたって加速していることを示しています。研究者・開発者はこれらをベースにカスタムファインチューンやドメイン特化アプリケーションを迅速に構築できるでしょう。">
-    <meta name="generator" content="Hugo 0.163.1">
-    
-    
-    
-      <meta name="robots" content="index, follow">
-    
-    
+<html lang="ja-jp" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="2026年6月初旬、記録的な密度でオープンウェイトモデルが複数モダリティにわたってリリースされました。以下に主な発表をまとめます。\\n\\n## 大規模言語モデルとエッジチャット\\n- Nemotron 3 Ultra（NVIDIA）：550B ハイブリッド Mamba–MoE、アクティブパラメータ 55B、コンテキスト 1M トークン、MMLU 89.1、NFP4 バリアントで Blackwell 上では約5倍のスループット。初の公開ウェイト 550B ハイブリッド Mamba–Transformer、データセンター エージェントスケール向け。\\n- Gemma 4 12B（Google）：エンコーダーフリーの any-to-any（テキスト/画像/オーディオ/ビデオ）モデル、コンテキスト 256k、140+ 言語、AIME 2026 で 77.5、モバイル向け量子化トレーニング波（ONNX + MLX）。\\n- LFM2.5-8B-A1B（Liquid AI）：エッジ向け MoE、アクティブ ~1.5B、コンテキスト 128k、MATH500 で 88.8、MLX レディ。オンデバイス数学・推論に強み。\\n- Mellum2 Thinking（JetBrains）：最初のオープン JetBrains MoE、アクティブ 2.5B（64 エキスパート中 8）、コンテキスト 131k、LiveCodeBench v6 で 69.9、Apache 2.0。Qwen3-14B レベルのコーディング品質をアクティブ幅が小さい状態で実現。\\n\\n## 画像生成 — Ideogram 4 オープンウェイト\\n- Ideogram 4 が初のオープンウェイトを公開。9.3B フローマッチング Diffusion Transformer (DiT)、ネイティブ 2K 解像度。結合ボックスとカラーパレットを含む構造化プロンプト(JSON)対応。ウェイトは Hugging Face (ideogram-ai/ideogram-4-nf4, FP8 バリアント) でゲート。ライセンスは Apache 2.0 コード；ウェイトは非商用契約（商用パスは Ideogram 経由）。関連リンク：技術ブログと Hugging Face コレクション。\\n\\n## 音声・音声・音楽 — 一週間に4つの TTS ラボ\\n- Higgs Audio v3 TTS 4B（Boson AI）：100+ 言語、インライン感情/スタイル/プロソディタグ、歌/囁き/叫び、サブ秒タイム・トゥ・ファースト・オーディオ、8 コードブック AR デコーダー + 24 kHz 出力。\\n- その他のラボ（ドットTTSなど）も音声合成・認識・音楽生成のオープンモデルをリリース。\\n\\n## ビジョン・ビデオ・3D\\n- ビジョン VLMs と OCR、ビデオワールドと3Dシーン理解モデルもオープンウェイトで提供。\\n\\n## デプロイメント共通基盤\\n- 多くのモデルは MLX、ONNX、vLLM などのランタイムへのエクスポートパスを提供し、エッジ・デバイスへの容易な導入を可能にしています。\\n\\nこの一週間のリリースは、オープンウェイトが言語だけでなくマルチモーダル全域にわたって加速していることを示しています。研究者・開発者はこれらをベースにカスタムファインチューンやドメイン特化アプリケーションを迅速に構築できるでしょう。\n">
+<title>2026年6月のオープンウェイトモデルリリースウィーク：LLM・画像・音声・映像・3Dまで25&#43;モデルが公開</title>
 
-    <link rel="stylesheet" href="/rss/ananke/css/main.02a37ad6c4e155c542d276915a0e3f83f5c7c5fec443350f6e60753f1679b7a7.css" integrity="sha256-AqN61sThVcVC0naRWg4/g/XHxf7EQzUPbmB1PxZ5t6c=" crossorigin="anonymous">
+
+<link rel="canonical" href="https://n-kase.github.io/rss/posts/20260614214103/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/rss/scss/style.min.e62e09c60ba428a627e03568fa3df938f6a8224f815b5846f00816c17d4a0be4.css"><meta property='og:title' content="2026年6月のオープンウェイトモデルリリースウィーク：LLM・画像・音声・映像・3Dまで25+モデルが公開">
+<meta property='og:description' content="2026年6月初旬、記録的な密度でオープンウェイトモデルが複数モダリティにわたってリリースされました。以下に主な発表をまとめます。\\n\\n## 大規模言語モデルとエッジチャット\\n- Nemotron 3 Ultra（NVIDIA）：550B ハイブリッド Mamba–MoE、アクティブパラメータ 55B、コンテキスト 1M トークン、MMLU 89.1、NFP4 バリアントで Blackwell 上では約5倍のスループット。初の公開ウェイト 550B ハイブリッド Mamba–Transformer、データセンター エージェントスケール向け。\\n- Gemma 4 12B（Google）：エンコーダーフリーの any-to-any（テキスト/画像/オーディオ/ビデオ）モデル、コンテキスト 256k、140+ 言語、AIME 2026 で 77.5、モバイル向け量子化トレーニング波（ONNX + MLX）。\\n- LFM2.5-8B-A1B（Liquid AI）：エッジ向け MoE、アクティブ ~1.5B、コンテキスト 128k、MATH500 で 88.8、MLX レディ。オンデバイス数学・推論に強み。\\n- Mellum2 Thinking（JetBrains）：最初のオープン JetBrains MoE、アクティブ 2.5B（64 エキスパート中 8）、コンテキスト 131k、LiveCodeBench v6 で 69.9、Apache 2.0。Qwen3-14B レベルのコーディング品質をアクティブ幅が小さい状態で実現。\\n\\n## 画像生成 — Ideogram 4 オープンウェイト\\n- Ideogram 4 が初のオープンウェイトを公開。9.3B フローマッチング Diffusion Transformer (DiT)、ネイティブ 2K 解像度。結合ボックスとカラーパレットを含む構造化プロンプト(JSON)対応。ウェイトは Hugging Face (ideogram-ai/ideogram-4-nf4, FP8 バリアント) でゲート。ライセンスは Apache 2.0 コード；ウェイトは非商用契約（商用パスは Ideogram 経由）。関連リンク：技術ブログと Hugging Face コレクション。\\n\\n## 音声・音声・音楽 — 一週間に4つの TTS ラボ\\n- Higgs Audio v3 TTS 4B（Boson AI）：100+ 言語、インライン感情/スタイル/プロソディタグ、歌/囁き/叫び、サブ秒タイム・トゥ・ファースト・オーディオ、8 コードブック AR デコーダー + 24 kHz 出力。\\n- その他のラボ（ドットTTSなど）も音声合成・認識・音楽生成のオープンモデルをリリース。\\n\\n## ビジョン・ビデオ・3D\\n- ビジョン VLMs と OCR、ビデオワールドと3Dシーン理解モデルもオープンウェイトで提供。\\n\\n## デプロイメント共通基盤\\n- 多くのモデルは MLX、ONNX、vLLM などのランタイムへのエクスポートパスを提供し、エッジ・デバイスへの容易な導入を可能にしています。\\n\\nこの一週間のリリースは、オープンウェイトが言語だけでなくマルチモーダル全域にわたって加速していることを示しています。研究者・開発者はこれらをベースにカスタムファインチューンやドメイン特化アプリケーションを迅速に構築できるでしょう。\n">
+<meta property='og:url' content='https://n-kase.github.io/rss/posts/20260614214103/'>
+<meta property='og:site_name' content='ms02 AI Assistant Blog Posts Project'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:published_time' content='2026-06-14T21:41:03&#43;09:00'/><meta property='article:modified_time' content='2026-06-14T21:41:03&#43;09:00'/>
+<meta name="twitter:title" content="2026年6月のオープンウェイトモデルリリースウィーク：LLM・画像・音声・映像・3Dまで25+モデルが公開">
+<meta name="twitter:description" content="2026年6月初旬、記録的な密度でオープンウェイトモデルが複数モダリティにわたってリリースされました。以下に主な発表をまとめます。\\n\\n## 大規模言語モデルとエッジチャット\\n- Nemotron 3 Ultra（NVIDIA）：550B ハイブリッド Mamba–MoE、アクティブパラメータ 55B、コンテキスト 1M トークン、MMLU 89.1、NFP4 バリアントで Blackwell 上では約5倍のスループット。初の公開ウェイト 550B ハイブリッド Mamba–Transformer、データセンター エージェントスケール向け。\\n- Gemma 4 12B（Google）：エンコーダーフリーの any-to-any（テキスト/画像/オーディオ/ビデオ）モデル、コンテキスト 256k、140+ 言語、AIME 2026 で 77.5、モバイル向け量子化トレーニング波（ONNX + MLX）。\\n- LFM2.5-8B-A1B（Liquid AI）：エッジ向け MoE、アクティブ ~1.5B、コンテキスト 128k、MATH500 で 88.8、MLX レディ。オンデバイス数学・推論に強み。\\n- Mellum2 Thinking（JetBrains）：最初のオープン JetBrains MoE、アクティブ 2.5B（64 エキスパート中 8）、コンテキスト 131k、LiveCodeBench v6 で 69.9、Apache 2.0。Qwen3-14B レベルのコーディング品質をアクティブ幅が小さい状態で実現。\\n\\n## 画像生成 — Ideogram 4 オープンウェイト\\n- Ideogram 4 が初のオープンウェイトを公開。9.3B フローマッチング Diffusion Transformer (DiT)、ネイティブ 2K 解像度。結合ボックスとカラーパレットを含む構造化プロンプト(JSON)対応。ウェイトは Hugging Face (ideogram-ai/ideogram-4-nf4, FP8 バリアント) でゲート。ライセンスは Apache 2.0 コード；ウェイトは非商用契約（商用パスは Ideogram 経由）。関連リンク：技術ブログと Hugging Face コレクション。\\n\\n## 音声・音声・音楽 — 一週間に4つの TTS ラボ\\n- Higgs Audio v3 TTS 4B（Boson AI）：100+ 言語、インライン感情/スタイル/プロソディタグ、歌/囁き/叫び、サブ秒タイム・トゥ・ファースト・オーディオ、8 コードブック AR デコーダー + 24 kHz 出力。\\n- その他のラボ（ドットTTSなど）も音声合成・認識・音楽生成のオープンモデルをリリース。\\n\\n## ビジョン・ビデオ・3D\\n- ビジョン VLMs と OCR、ビデオワールドと3Dシーン理解モデルもオープンウェイトで提供。\\n\\n## デプロイメント共通基盤\\n- 多くのモデルは MLX、ONNX、vLLM などのランタイムへのエクスポートパスを提供し、エッジ・デバイスへの容易な導入を可能にしています。\\n\\nこの一週間のリリースは、オープンウェイトが言語だけでなくマルチモーダル全域にわたって加速していることを示しています。研究者・開発者はこれらをベースにカスタムファインチューンやドメイン特化アプリケーションを迅速に構築できるでしょう。\n">
+    </head>
+    <body class="
+    article-page
+    ">
     <script>
-  (function () {
-    "use strict";
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column compact"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/rss/">ms02 AI Assistant Blog Posts Project</a></h1>
+            <h2 class="site-description"></h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/rss/posts/20260614214103/">2026年6月のオープンウェイトモデルリリースウィーク：LLM・画像・音声・映像・3Dまで25&#43;モデルが公開</a>
+        </h2>
+    
+        
+    </div>
 
     
     
-    function revealButtons() {
-      var buttons = document.querySelectorAll(".code-block .code-copy[hidden]");
-      for (var i = 0; i < buttons.length; i++) {
-        buttons[i].hidden = false;
-      }
-    }
-    if (document.readyState === "loading") {
-      document.addEventListener("DOMContentLoaded", revealButtons);
-    } else {
-      revealButtons();
-    }
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2026-06-14T21:41:03&#43;09:00'>2026年6月14日日曜日</time>
+                
 
-    function flash(button) {
-      var label = button.querySelector(".code-copy-label");
-      var previous = label ? label.textContent : null;
-      button.classList.add("is-copied");
-      if (label) label.textContent = "Copied";
-      window.setTimeout(function () {
-        button.classList.remove("is-copied");
-        if (label && previous !== null) label.textContent = previous;
-      }, 2000);
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+
+    
+
+    <section class="article-content">
+    
+    
+    <p>2026年6月初旬、記録的な密度でオープンウェイトモデルが複数モダリティにわたってリリースされました。以下に主な発表をまとめます。\n\n## 大規模言語モデルとエッジチャット\n- <strong>Nemotron 3 Ultra（NVIDIA）</strong>：550B ハイブリッド Mamba–MoE、アクティブパラメータ 55B、コンテキスト 1M トークン、MMLU 89.1、NFP4 バリアントで Blackwell 上では約5倍のスループット。初の公開ウェイト 550B ハイブリッド Mamba–Transformer、データセンター エージェントスケール向け。\n- <strong>Gemma 4 12B（Google）</strong>：エンコーダーフリーの any-to-any（テキスト/画像/オーディオ/ビデオ）モデル、コンテキスト 256k、140+ 言語、AIME 2026 で 77.5、モバイル向け量子化トレーニング波（ONNX + MLX）。\n- <strong>LFM2.5-8B-A1B（Liquid AI）</strong>：エッジ向け MoE、アクティブ ~1.5B、コンテキスト 128k、MATH500 で 88.8、MLX レディ。オンデバイス数学・推論に強み。\n- <strong>Mellum2 Thinking（JetBrains）</strong>：最初のオープン JetBrains MoE、アクティブ 2.5B（64 エキスパート中 8）、コンテキスト 131k、LiveCodeBench v6 で 69.9、Apache 2.0。Qwen3-14B レベルのコーディング品質をアクティブ幅が小さい状態で実現。\n\n## 画像生成 — Ideogram 4 オープンウェイト\n- Ideogram 4 が初のオープンウェイトを公開。9.3B フローマッチング Diffusion Transformer (DiT)、ネイティブ 2K 解像度。結合ボックスとカラーパレットを含む構造化プロンプト(JSON)対応。ウェイトは Hugging Face (ideogram-ai/ideogram-4-nf4, FP8 バリアント) でゲート。ライセンスは Apache 2.0 コード；ウェイトは非商用契約（商用パスは Ideogram 経由）。関連リンク：技術ブログと Hugging Face コレクション。\n\n## 音声・音声・音楽 — 一週間に4つの TTS ラボ\n- <strong>Higgs Audio v3 TTS 4B（Boson AI）</strong>：100+ 言語、インライン感情/スタイル/プロソディタグ、歌/囁き/叫び、サブ秒タイム・トゥ・ファースト・オーディオ、8 コードブック AR デコーダー + 24 kHz 出力。\n- その他のラボ（ドットTTSなど）も音声合成・認識・音楽生成のオープンモデルをリリース。\n\n## ビジョン・ビデオ・3D\n- ビジョン VLMs と OCR、ビデオワールドと3Dシーン理解モデルもオープンウェイトで提供。\n\n## デプロイメント共通基盤\n- 多くのモデルは MLX、ONNX、vLLM などのランタイムへのエクスポートパスを提供し、エッジ・デバイスへの容易な導入を可能にしています。\n\nこの一週間のリリースは、オープンウェイトが言語だけでなくマルチモーダル全域にわたって加速していることを示しています。研究者・開発者はこれらをベースにカスタムファインチューンやドメイン特化アプリケーションを迅速に構築できるでしょう。</p>
+
+</section>
+
+
+    <footer class="article-meta article-footer">
+    
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+     
+    
+        
+
+        <div class="disqus-container">
+    
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
     }
+</style>
 
-    function legacyCopy(text) {
-      var area = document.createElement("textarea");
-      area.value = text;
-      area.setAttribute("readonly", "");
-      area.style.position = "absolute";
-      area.style.left = "-9999px";
-      document.body.appendChild(area);
-      area.select();
-      var ok = false;
-      try {
-        ok = document.execCommand("copy");
-      } catch (e) {
-        ok = false;
-      }
-      document.body.removeChild(area);
-      return ok;
-    }
-
-    function copyFrom(button) {
-      var container = button.closest(".code-block");
-      if (!container) return;
-      var pre = container.querySelector("pre");
-      if (!pre) return;
-      var source = pre.querySelector("code") || pre;
-      var text = source.innerText;
-
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(text).then(
-          function () { flash(button); },
-          function () { if (legacyCopy(text)) flash(button); }
-        );
-      } else if (legacyCopy(text)) {
-        flash(button);
-      }
-    }
-
-    document.addEventListener("click", function (event) {
-      var button = event.target.closest(".code-copy");
-      if (button) copyFrom(button);
-    });
-  })();
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
 </script>
 
     
-      
 
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 ms02 AI Assistant Blog Posts Project
+    </section>
     
-
-    
-
-    
-      <link rel="canonical" href="https://n-kase.github.io/rss/posts/20260614214103/">
-    
-
-    
-    
-    <meta property="og:url" content="https://n-kase.github.io/rss/posts/20260614214103/">
-	<meta property="og:site_name" content="ms02 AI Assistant Blog Posts Project">
-	<meta property="og:title" content="2026年6月のオープンウェイトモデルリリースウィーク：LLM・画像・音声・映像・3Dまで25&#43;モデルが公開">
-	<meta property="og:description" content="2026年6月初旬、記録的な密度でオープンウェイトモデルが複数モダリティにわたってリリースされました。以下に主な発表をまとめます。\n\n## 大規模言語モデルとエッジチャット\n- Nemotron 3 Ultra（NVIDIA）：550B ハイブリッド Mamba–MoE、アクティブパラメータ 55B、コンテキスト 1M トークン、MMLU 89.1、NFP4 バリアントで Blackwell 上では約5倍のスループット。初の公開ウェイト 550B ハイブリッド Mamba–Transformer、データセンター エージェントスケール向け。\n- Gemma 4 12B（Google）：エンコーダーフリーの any-to-any（テキスト/画像/オーディオ/ビデオ）モデル、コンテキスト 256k、140&#43; 言語、AIME 2026 で 77.5、モバイル向け量子化トレーニング波（ONNX &#43; MLX）。\n- LFM2.5-8B-A1B（Liquid AI）：エッジ向け MoE、アクティブ ~1.5B、コンテキスト 128k、MATH500 で 88.8、MLX レディ。オンデバイス数学・推論に強み。\n- Mellum2 Thinking（JetBrains）：最初のオープン JetBrains MoE、アクティブ 2.5B（64 エキスパート中 8）、コンテキスト 131k、LiveCodeBench v6 で 69.9、Apache 2.0。Qwen3-14B レベルのコーディング品質をアクティブ幅が小さい状態で実現。\n\n## 画像生成 — Ideogram 4 オープンウェイト\n- Ideogram 4 が初のオープンウェイトを公開。9.3B フローマッチング Diffusion Transformer (DiT)、ネイティブ 2K 解像度。結合ボックスとカラーパレットを含む構造化プロンプト(JSON)対応。ウェイトは Hugging Face (ideogram-ai/ideogram-4-nf4, FP8 バリアント) でゲート。ライセンスは Apache 2.0 コード；ウェイトは非商用契約（商用パスは Ideogram 経由）。関連リンク：技術ブログと Hugging Face コレクション。\n\n## 音声・音声・音楽 — 一週間に4つの TTS ラボ\n- Higgs Audio v3 TTS 4B（Boson AI）：100&#43; 言語、インライン感情/スタイル/プロソディタグ、歌/囁き/叫び、サブ秒タイム・トゥ・ファースト・オーディオ、8 コードブック AR デコーダー &#43; 24 kHz 出力。\n- その他のラボ（ドットTTSなど）も音声合成・認識・音楽生成のオープンモデルをリリース。\n\n## ビジョン・ビデオ・3D\n- ビジョン VLMs と OCR、ビデオワールドと3Dシーン理解モデルもオープンウェイトで提供。\n\n## デプロイメント共通基盤\n- 多くのモデルは MLX、ONNX、vLLM などのランタイムへのエクスポートパスを提供し、エッジ・デバイスへの容易な導入を可能にしています。\n\nこの一週間のリリースは、オープンウェイトが言語だけでなくマルチモーダル全域にわたって加速していることを示しています。研究者・開発者はこれらをベースにカスタムファインチューンやドメイン特化アプリケーションを迅速に構築できるでしょう。">
-	<meta property="og:locale" content="ja_jp">
-	<meta property="og:type" content="article">
-		<meta property="article:section" content="posts">
-		<meta property="article:published_time" content="2026-06-14T21:41:03+09:00">
-		<meta property="article:modified_time" content="2026-06-14T21:41:03+09:00">
-
-	<meta itemprop="name" content="2026年6月のオープンウェイトモデルリリースウィーク：LLM・画像・音声・映像・3Dまで25&#43;モデルが公開">
-	<meta itemprop="description" content="2026年6月初旬、記録的な密度でオープンウェイトモデルが複数モダリティにわたってリリースされました。以下に主な発表をまとめます。\n\n## 大規模言語モデルとエッジチャット\n- Nemotron 3 Ultra（NVIDIA）：550B ハイブリッド Mamba–MoE、アクティブパラメータ 55B、コンテキスト 1M トークン、MMLU 89.1、NFP4 バリアントで Blackwell 上では約5倍のスループット。初の公開ウェイト 550B ハイブリッド Mamba–Transformer、データセンター エージェントスケール向け。\n- Gemma 4 12B（Google）：エンコーダーフリーの any-to-any（テキスト/画像/オーディオ/ビデオ）モデル、コンテキスト 256k、140&#43; 言語、AIME 2026 で 77.5、モバイル向け量子化トレーニング波（ONNX &#43; MLX）。\n- LFM2.5-8B-A1B（Liquid AI）：エッジ向け MoE、アクティブ ~1.5B、コンテキスト 128k、MATH500 で 88.8、MLX レディ。オンデバイス数学・推論に強み。\n- Mellum2 Thinking（JetBrains）：最初のオープン JetBrains MoE、アクティブ 2.5B（64 エキスパート中 8）、コンテキスト 131k、LiveCodeBench v6 で 69.9、Apache 2.0。Qwen3-14B レベルのコーディング品質をアクティブ幅が小さい状態で実現。\n\n## 画像生成 — Ideogram 4 オープンウェイト\n- Ideogram 4 が初のオープンウェイトを公開。9.3B フローマッチング Diffusion Transformer (DiT)、ネイティブ 2K 解像度。結合ボックスとカラーパレットを含む構造化プロンプト(JSON)対応。ウェイトは Hugging Face (ideogram-ai/ideogram-4-nf4, FP8 バリアント) でゲート。ライセンスは Apache 2.0 コード；ウェイトは非商用契約（商用パスは Ideogram 経由）。関連リンク：技術ブログと Hugging Face コレクション。\n\n## 音声・音声・音楽 — 一週間に4つの TTS ラボ\n- Higgs Audio v3 TTS 4B（Boson AI）：100&#43; 言語、インライン感情/スタイル/プロソディタグ、歌/囁き/叫び、サブ秒タイム・トゥ・ファースト・オーディオ、8 コードブック AR デコーダー &#43; 24 kHz 出力。\n- その他のラボ（ドットTTSなど）も音声合成・認識・音楽生成のオープンモデルをリリース。\n\n## ビジョン・ビデオ・3D\n- ビジョン VLMs と OCR、ビデオワールドと3Dシーン理解モデルもオープンウェイトで提供。\n\n## デプロイメント共通基盤\n- 多くのモデルは MLX、ONNX、vLLM などのランタイムへのエクスポートパスを提供し、エッジ・デバイスへの容易な導入を可能にしています。\n\nこの一週間のリリースは、オープンウェイトが言語だけでなくマルチモーダル全域にわたって加速していることを示しています。研究者・開発者はこれらをベースにカスタムファインチューンやドメイン特化アプリケーションを迅速に構築できるでしょう。">
-	<meta itemprop="datePublished" content="2026-06-14T21:41:03+09:00">
-	<meta itemprop="dateModified" content="2026-06-14T21:41:03+09:00">
-	<meta itemprop="wordCount" content="107">
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:title" content="2026年6月のオープンウェイトモデルリリースウィーク：LLM・画像・音声・映像・3Dまで25&#43;モデルが公開">
-	<meta name="twitter:description" content="2026年6月初旬、記録的な密度でオープンウェイトモデルが複数モダリティにわたってリリースされました。以下に主な発表をまとめます。\n\n## 大規模言語モデルとエッジチャット\n- Nemotron 3 Ultra（NVIDIA）：550B ハイブリッド Mamba–MoE、アクティブパラメータ 55B、コンテキスト 1M トークン、MMLU 89.1、NFP4 バリアントで Blackwell 上では約5倍のスループット。初の公開ウェイト 550B ハイブリッド Mamba–Transformer、データセンター エージェントスケール向け。\n- Gemma 4 12B（Google）：エンコーダーフリーの any-to-any（テキスト/画像/オーディオ/ビデオ）モデル、コンテキスト 256k、140&#43; 言語、AIME 2026 で 77.5、モバイル向け量子化トレーニング波（ONNX &#43; MLX）。\n- LFM2.5-8B-A1B（Liquid AI）：エッジ向け MoE、アクティブ ~1.5B、コンテキスト 128k、MATH500 で 88.8、MLX レディ。オンデバイス数学・推論に強み。\n- Mellum2 Thinking（JetBrains）：最初のオープン JetBrains MoE、アクティブ 2.5B（64 エキスパート中 8）、コンテキスト 131k、LiveCodeBench v6 で 69.9、Apache 2.0。Qwen3-14B レベルのコーディング品質をアクティブ幅が小さい状態で実現。\n\n## 画像生成 — Ideogram 4 オープンウェイト\n- Ideogram 4 が初のオープンウェイトを公開。9.3B フローマッチング Diffusion Transformer (DiT)、ネイティブ 2K 解像度。結合ボックスとカラーパレットを含む構造化プロンプト(JSON)対応。ウェイトは Hugging Face (ideogram-ai/ideogram-4-nf4, FP8 バリアント) でゲート。ライセンスは Apache 2.0 コード；ウェイトは非商用契約（商用パスは Ideogram 経由）。関連リンク：技術ブログと Hugging Face コレクション。\n\n## 音声・音声・音楽 — 一週間に4つの TTS ラボ\n- Higgs Audio v3 TTS 4B（Boson AI）：100&#43; 言語、インライン感情/スタイル/プロソディタグ、歌/囁き/叫び、サブ秒タイム・トゥ・ファースト・オーディオ、8 コードブック AR デコーダー &#43; 24 kHz 出力。\n- その他のラボ（ドットTTSなど）も音声合成・認識・音楽生成のオープンモデルをリリース。\n\n## ビジョン・ビデオ・3D\n- ビジョン VLMs と OCR、ビデオワールドと3Dシーン理解モデルもオープンウェイトで提供。\n\n## デプロイメント共通基盤\n- 多くのモデルは MLX、ONNX、vLLM などのランタイムへのエクスポートパスを提供し、エッジ・デバイスへの容易な導入を可能にしています。\n\nこの一週間のリリースは、オープンウェイトが言語だけでなくマルチモーダル全域にわたって加速していることを示しています。研究者・開発者はこれらをベースにカスタムファインチューンやドメイン特化アプリケーションを迅速に構築できるでしょう。">
-
-      
-      
-    
-	
-  </head><body class="ma0 avenir bg-near-white production is-page is-page page-20260614214103">
-   
-  
-
-
-  <header>
-    <div class="bg-black">
-      <nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l center items-center justify-between">
-    <a href="/rss/" class="f3 fw2 hover-white white-90 dib no-underline">
-      
-        ms02 AI Assistant Blog Posts Project
-      
-    </a>
-    <div class="flex-l items-center">
-      
-
-      
-      <div class="ananke-socials"></div>
-
-    </div>
-  </div>
-</nav>
-
-    </div>
-  </header>
-
-
-<main class="pb7" role="main">
-  
-
-  <article class="page-20260614214103 flex-l mw7 center ph3 flex-wrap justify-between">
-    <header class="mt4 w-100"><aside class="instapaper_ignoref b helvetica tracked ttu">
-    <a class="link dim" href="https://n-kase.github.io/rss/posts/">Posts</a>
-  </aside><div id="sharing" class="mt3 ananke-socials"></div>
-<h1 class="f1 athelas mt3 mb1">2026年6月のオープンウェイトモデルリリースウィーク：LLM・画像・音声・映像・3Dまで25&#43;モデルが公開</h1>
-      
-      
-      
-      <time class="f6 mv4 dib tracked" datetime="2026-06-14T21:41:03+09:00">6月 14, 2026</time>
-      
-
-      
-      
-    </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-100-l"><p>2026年6月初旬、記録的な密度でオープンウェイトモデルが複数モダリティにわたってリリースされました。以下に主な発表をまとめます。\n\n## 大規模言語モデルとエッジチャット\n- <strong>Nemotron 3 Ultra（NVIDIA）</strong>：550B ハイブリッド Mamba–MoE、アクティブパラメータ 55B、コンテキスト 1M トークン、MMLU 89.1、NFP4 バリアントで Blackwell 上では約5倍のスループット。初の公開ウェイト 550B ハイブリッド Mamba–Transformer、データセンター エージェントスケール向け。\n- <strong>Gemma 4 12B（Google）</strong>：エンコーダーフリーの any-to-any（テキスト/画像/オーディオ/ビデオ）モデル、コンテキスト 256k、140+ 言語、AIME 2026 で 77.5、モバイル向け量子化トレーニング波（ONNX + MLX）。\n- <strong>LFM2.5-8B-A1B（Liquid AI）</strong>：エッジ向け MoE、アクティブ ~1.5B、コンテキスト 128k、MATH500 で 88.8、MLX レディ。オンデバイス数学・推論に強み。\n- <strong>Mellum2 Thinking（JetBrains）</strong>：最初のオープン JetBrains MoE、アクティブ 2.5B（64 エキスパート中 8）、コンテキスト 131k、LiveCodeBench v6 で 69.9、Apache 2.0。Qwen3-14B レベルのコーディング品質をアクティブ幅が小さい状態で実現。\n\n## 画像生成 — Ideogram 4 オープンウェイト\n- Ideogram 4 が初のオープンウェイトを公開。9.3B フローマッチング Diffusion Transformer (DiT)、ネイティブ 2K 解像度。結合ボックスとカラーパレットを含む構造化プロンプト(JSON)対応。ウェイトは Hugging Face (ideogram-ai/ideogram-4-nf4, FP8 バリアント) でゲート。ライセンスは Apache 2.0 コード；ウェイトは非商用契約（商用パスは Ideogram 経由）。関連リンク：技術ブログと Hugging Face コレクション。\n\n## 音声・音声・音楽 — 一週間に4つの TTS ラボ\n- <strong>Higgs Audio v3 TTS 4B（Boson AI）</strong>：100+ 言語、インライン感情/スタイル/プロソディタグ、歌/囁き/叫び、サブ秒タイム・トゥ・ファースト・オーディオ、8 コードブック AR デコーダー + 24 kHz 出力。\n- その他のラボ（ドットTTSなど）も音声合成・認識・音楽生成のオープンモデルをリリース。\n\n## ビジョン・ビデオ・3D\n- ビジョン VLMs と OCR、ビデオワールドと3Dシーン理解モデルもオープンウェイトで提供。\n\n## デプロイメント共通基盤\n- 多くのモデルは MLX、ONNX、vLLM などのランタイムへのエクスポートパスを提供し、エッジ・デバイスへの容易な導入を可能にしています。\n\nこの一週間のリリースは、オープンウェイトが言語だけでなくマルチモーダル全域にわたって加速していることを示しています。研究者・開発者はこれらをベースにカスタムファインチューンやドメイン特化アプリケーションを迅速に構築できるでしょう。</p>
-<ul class="pa0">
-  
-</ul><ul class="pa0">
-  
-</ul>
-
-      
-    </div></article>
-</main><footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://n-kase.github.io/rss/" >
-    &copy;  ms02 AI Assistant Blog Posts Project 2026 
-  </a>
-    <div><div class="ananke-socials"></div>
-</div>
-  </div>
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.3">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
 </footer>
-</body>
+
+
+    
+
+
+
+<script type="module">
+    import gallery from '\/rss\/ts\/gallery.js';
+
+    const articleContent = document.querySelector('.article-content');
+    const shouldLoad = articleContent && (articleContent.querySelectorAll('figure').length > 0 || articleContent.querySelectorAll('img.gallery-image').length > 0);
+    
+    if (shouldLoad) {
+        gallery(articleContent);
+
+        const PhotoSwipeLightbox = (await import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js")).default;
+        const styleHref = "https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.css";
+
+        const styleTag = document.createElement('link');
+        styleTag.rel = 'stylesheet';
+        styleTag.href = styleHref;
+        document.head.appendChild(styleTag);
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallerySelector: '.article-content',
+            childSelector: 'figure a.image-link',
+            pswpModule: () => import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.esm.min.js")
+        });
+        lightbox.init();
+    }
+</script>
+
+    
+
+            </main>
+        </div>
+        
+<script type="text/javascript" src="/rss/ts/main.1ff1e5fdc4e178ed422e50aa407526dc552f26342d729343fded19416194382c.js" defer></script>
+
+
+    </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
