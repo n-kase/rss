@@ -3,3 +3,5 @@ publishDir = 'docs'
 locale = 'ja-jp'
 title = 'ms02 Project'
 theme = 'ananke'
+[params]
+  mainSections = ["posts"]
