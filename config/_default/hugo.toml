@@ -1,0 +1,12 @@
+baseURL = 'https://n-kase.github.io/rss/'
+locale = 'ja-jp'
+title = 'ms02 AI Assistant Blog Posts Project'
+theme = "stack"
+publishDir = 'docs'
+
+[params]
+  mainSections = ["posts"]
+  [params.sidebar]
+    emoji = "⚡"
+    subtitle = "MS-02 Ultra Home Lab"
+    avatar = true # 必要に応じて画像を置く
