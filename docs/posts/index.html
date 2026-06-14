@@ -113,8 +113,8 @@
 	<meta property="og:type" content="website">
 
 	<meta itemprop="name" content="Posts">
-	<meta itemprop="datePublished" content="2026-06-14T21:42:15+09:00">
-	<meta itemprop="dateModified" content="2026-06-14T21:42:15+09:00">
+	<meta itemprop="datePublished" content="2026-06-14T21:43:04+09:00">
+	<meta itemprop="dateModified" content="2026-06-14T21:43:04+09:00">
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:title" content="Posts">
 
@@ -160,6 +160,54 @@
   <article class="pa3 pa4-ns nested-copy-line-height">
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray"></section>
     <section class="flex-ns mt5 flex-wrap justify-around">
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          
+<div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Posts</span>
+    
+      <time class="f6 db" datetime="2026-06-14T21:43:04+09:00">6月 14, 2026</time>
+    
+    <h1 class="f3 near-black">
+      <a href="/rss/posts/20260614214304/" class="link black dim">
+        Meta の AI サポートチャットボットが悪用され Instagram アカウントが大規模にハッキング：2万件以上の被害と教訓
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <p>2026年6月、ハッカーが Meta（旧 Facebook）の AI を活用したサポートチャットボットを悪用し、Instagram アカウントの乗っ取りを大規模に行ったことが明らかになりました。以下に概要と教訓をまとめます。</p>
+<h2 id="何が起きたか">何が起きたか</h2>
+<ul>
+<li>ハッカーは Meta の AI チャットボット（アカウント回復・パスワードリセット支援ツール）に巧妙な質問を繰り返し、<strong>本人確認なしでパスワードリセットコードをチャットボットから取得</strong>することに成功。</li>
+<li>取得したコードを使って、<strong>2段階認証（2FA）が有効でない Instagram アカウントのパスワードを再設定</strong>し、アカウントを完全に乗っ取り。</li>
+<li>被害アカウント数は <strong>20,225 件</strong>（2026年4月17日から同年6月初旬までの期間）に上り、グレーマーケットで高額で取引されるアカウントも多数含まれていた。</li>
+<li>被害者の例として、<strong>オバマ前ホワイトハウスの公式アカウント（休眠状態）</strong> や <strong>米宇宙軍（Space Force）のチーフマスター sergeant</strong> などが挙げられている。</li>
+</ul>
+<h2 id="技術的な手法">技術的な手法</h2>
+<ul>
+<li>攻撃者はチャットボットに対して、<strong>「パスワードリセットリンクを送信して」などといったシステムの意図しないフローを引き出すプロンプト</strong>を繰り返した。</li>
+<li>チャットボットはその指示に従い、<strong>本人確認ステップをすっ飛ばして</strong> リセットコードを生成・送信した（設計上のロジックミス）。</li>
+<li>これにより、<strong>マルチファクター認証の一環である「何かを知っている」パスワードだけでなく、「何かを持っている」デバイスや「何かを生体」要素もバイパス</strong> される形となった。</li>
+</ul>
+<h2 id="meta-の対応">Meta の対応</h2>
+<ul>
+<li>Meta は問題に気づき、<strong>5月29日に緊急パッチを適用</strong>し、チャットボットのロジックを修正。パスワードリセット前に必ず本人確認（過去の利用デバイス認証やメール/SMS コード）を要求するようにした。</li>
+<li>インシデント後、影響を受けたアカウントの所有者には通知とアカウント復旧サポートを提供したと報じられている。</li>
+</ul>
+<h2 id="教訓と示唆">教訓と示唆</h2>
+<ol>
+<li><strong>AI システム自体が攻撃対象になる</strong>：近年の AI 駆動型カスタマーサポートやチャットボットは、ビジネス効率を上げる一方で、<strong>プロンプトインジェクションや論理的バグにより認証フローを迂回されるリスク</strong>がある。設計段階で「信頼できない入力」への耐性（セキュア・プロンプト設計）が必須になる。</li>
+<li><strong>認証は多層化とフォールバックが必要</strong>：パスワードリセットという単一ポイントに依存せず、<strong>デバイス登録・生体認証・信頼できる連絡先確認</strong>など複数の要素を組み合わせ、かつその中での議論（例：チャットボットがどのステップまで進めるか）を明確にルール化する。</li>
+<li><strong>モニタリングとインシデントレスポンス</strong>：異常なパスワードリセット要求の急増や、特定パターンのプロンプト繰り返しを検知する仕組みを導入し、早期にブロックできる体制が重要。</li>
+<li><strong>ユーザー教育</strong>：2FA の有効化と、<strong>サポートチャットから送信されるコードの取り扱い</strong>についての注意喚起が依然として有効。</li>
+</ol>
+<p>このインシデントは、AI が業務フローに深く組み込まれるほど、<strong>その周りのセキュリティガバナンスも同様に進化させなければならない</strong> ということを改めて示しています。</p>
+    </div>
+    <a href="/rss/posts/20260614214304/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        </div>
       
         <div class="w-100 w-30-l mb4 relative bg-white">
           
