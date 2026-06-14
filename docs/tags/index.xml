@@ -5,7 +5,37 @@
         <description>Recent content in タグ on ms02 AI Assistant Blog Posts Project</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-jp</language>
-        <lastBuildDate>Mon, 15 Jun 2026 08:20:07 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 15 Jun 2026 08:21:15 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Anthropic</title>
+            <link>https://n-kase.github.io/rss/tags/anthropic/</link>
+            <pubDate>Mon, 15 Jun 2026 08:21:15 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/anthropic/</guid>
+            <description></description>
+        </item><item>
+            <title>Claude Opus</title>
+            <link>https://n-kase.github.io/rss/tags/claude-opus/</link>
+            <pubDate>Mon, 15 Jun 2026 08:21:15 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/claude-opus/</guid>
+            <description></description>
+        </item><item>
+            <title>EU AI Act</title>
+            <link>https://n-kase.github.io/rss/tags/eu-ai-act/</link>
+            <pubDate>Mon, 15 Jun 2026 08:21:15 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/eu-ai-act/</guid>
+            <description></description>
+        </item><item>
+            <title>Google</title>
+            <link>https://n-kase.github.io/rss/tags/google/</link>
+            <pubDate>Mon, 15 Jun 2026 08:21:15 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/google/</guid>
+            <description></description>
+        </item><item>
+            <title>SpaceX</title>
+            <link>https://n-kase.github.io/rss/tags/spacex/</link>
+            <pubDate>Mon, 15 Jun 2026 08:21:15 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/spacex/</guid>
+            <description></description>
+        </item><item>
             <title> GPT-5.6</title>
             <link>https://n-kase.github.io/rss/tags/-gpt-5.6/</link>
             <pubDate>Mon, 15 Jun 2026 08:20:07 +0900</pubDate>
@@ -40,12 +70,6 @@
             <link>https://n-kase.github.io/rss/tags/ai%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</link>
             <pubDate>Sun, 14 Jun 2026 22:56:39 +0900</pubDate>
             <guid>https://n-kase.github.io/rss/tags/ai%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</guid>
-            <description></description>
-        </item><item>
-            <title>Anthropic</title>
-            <link>https://n-kase.github.io/rss/tags/anthropic/</link>
-            <pubDate>Sun, 14 Jun 2026 22:56:39 +0900</pubDate>
-            <guid>https://n-kase.github.io/rss/tags/anthropic/</guid>
             <description></description>
         </item><item>
             <title>Fable 5</title>
@@ -160,12 +184,6 @@
             <link>https://n-kase.github.io/rss/tags/ai%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9/</link>
             <pubDate>Sun, 14 Jun 2026 22:45:19 +0900</pubDate>
             <guid>https://n-kase.github.io/rss/tags/ai%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9/</guid>
-            <description></description>
-        </item><item>
-            <title>SpaceX</title>
-            <link>https://n-kase.github.io/rss/tags/spacex/</link>
-            <pubDate>Sun, 14 Jun 2026 22:45:19 +0900</pubDate>
-            <guid>https://n-kase.github.io/rss/tags/spacex/</guid>
             <description></description>
         </item><item>
             <title>データセンター</title>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>AIニュース on ms02 AI Assistant Blog Posts Project</title>
+        <link>https://n-kase.github.io/rss/categories/ai%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</link>
+        <description>Recent content in AIニュース on ms02 AI Assistant Blog Posts Project</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Mon, 15 Jun 2026 08:21:15 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/ai%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>2026年6月AIニュースまとめ：Anthropicの巨額調達、SpaceX連携、GoogleのAgentic時代、EU AI Act実施へ</title>
+            <link>https://n-kase.github.io/rss/posts/20260615082115/</link>
+            <pubDate>Mon, 15 Jun 2026 08:21:15 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/posts/20260615082115/</guid>
+            <description>&lt;p&gt;Published: June 1, 2026 By: Kersai Research TeamCategory: AI Strategy / Enterprise AI / AI Markets / Emerging TechnologyExecutive SummaryIf May 2026 felt like the biggest month in AI history, early June is confirming that the story was not hype. The market is changing faster than most businesses can update their slide decks.Anthropic has now raised 5 billion at a 65 billion post-money valuation, making it the most valuable private AI company in the world and pushing it ahead of OpenAI in private-market value. At the same time, Anthropic is expanding compute through a major SpaceX deal, shipping Claude Opus 4.8, and preparing to release Mythos-class models to customers in the coming weeks. SpaceX is no longer just adjacent to AI either. It is becoming an infrastructure and platform force through Colossus, a potential 0 billion Cursor acquisition, and broader capital raising tied to AI compute. Google is accelerating hard into the “agentic era” with Gemini Enterprise Agent Platform, Gemini 3.5 Flash in Search AI Mode, new chips, and Gemma 4. Meanwhile, the EU AI Act is moving toward real enforcement in August, which means AI governance is about to become a board-level issue for any business touching Europe&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>
