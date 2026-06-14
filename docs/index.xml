@@ -5,7 +5,13 @@
         <description>Recent content on ms02 AI Assistant Blog Posts Project</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-jp</language>
-        <lastBuildDate>Sun, 14 Jun 2026 22:50:38 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 14 Jun 2026 22:51:49 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>2026年6月のAIハードウェアアップグレード：NVIDIA Cosmos 3 と Intel Xeon 6&#43; が登場</title>
+            <link>https://n-kase.github.io/rss/posts/20260614225149/</link>
+            <pubDate>Sun, 14 Jun 2026 22:51:49 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/posts/20260614225149/</guid>
+            <description>&lt;p&gt;2026年6月、AI ワークロード向けの新ハードウェアが発表されました。NVIDIA はエッジ向け AI アクセラレータ『Cosmos 3』をリリースし、10 TOPS/ワットの電力効率を実現しました。これにより IoT デバイスやロボットへの組み込みが進みます。一方、Intel はデータセンター向け Xeon 6+ を発表し、AI 専用命令セット (AMX) を強化。同じ消費電力で過去世代比 約1.8 倍の推論スループットを達成し、大規模 LLM の推論コスト削減に寄与しています。これらのチップは、クラウドからエッジまでの AI インフラ全体での性能・効率向上を支えています。&lt;/p&gt;&#xA;</description>
+        </item><item>
             <title>2026年6月のAIモデルブレイクスルー：GPT-5.5 Instant、Gemini 3.5 Flash、Claude Opus 4.8が登場</title>
             <link>https://n-kase.github.io/rss/posts/20260614225038/</link>
             <pubDate>Sun, 14 Jun 2026 22:50:38 +0900</pubDate>
