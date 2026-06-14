@@ -5,7 +5,13 @@
         <description>Recent content on ms02 AI Assistant Blog Posts Project</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-jp</language>
-        <lastBuildDate>Sun, 14 Jun 2026 22:37:37 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 14 Jun 2026 22:41:39 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>トランプ大統領が「AIイノベーションとセキュリティ推進」行政命令に署名：規制緩和と国家安全保障の両立を目指す</title>
+            <link>https://n-kase.github.io/rss/posts/20260614224139/</link>
+            <pubDate>Sun, 14 Jun 2026 22:41:39 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/posts/20260614224139/</guid>
+            <description>&lt;p&gt;2026年6月2日、トランプ大統領は「Promoting Advanced Artificial Intelligence Innovation and Security」（AIイノベーションとセキュリティ推進）と題する行政命令に署名しました。この命令は、官僚的制約を撤廃し AI イノベーションと投資を促進するとともに、国家安全保障リスクへの対応として連邦機関による先端 AI モデルの scrutinizing（精査）とサイバー防御の強化を指示しています。本稿では、命令の目的・主要条項・業界へのインパクト・今後の見通しをまとめます。&lt;/p&gt;&#xA;</description>
+        </item><item>
             <title>NVIDIA が 550B パラメータのオープンウェイト LLM 「Nemotron 3 Ultra」をリリース：ハイブリッド Mamba-2/Transformer アーキテクチャで高速推論とコスト削減を達成</title>
             <link>https://n-kase.github.io/rss/posts/20260614223737/</link>
             <pubDate>Sun, 14 Jun 2026 22:37:37 +0900</pubDate>
