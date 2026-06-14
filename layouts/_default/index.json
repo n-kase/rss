@@ -1,0 +1,9 @@
+[  
+  {{- range .Site.RegularPages -}}
+    {
+      "title": {{- .Title | jsonify -}},
+      "contents": {{- .Plain | jsonify -}},
+      "permalink": {{- .Permalink | jsonify -}}
+    }
+  {{- end -}}
+]
