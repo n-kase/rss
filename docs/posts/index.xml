@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 14 Jun 2026 21:41:03 +0900</lastBuildDate>
+			<lastBuildDate>Sun, 14 Jun 2026 21:41:36 +0900</lastBuildDate>
 		
 			<atom:link href="https://n-kase.github.io/rss/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Anthropic が米政府の指令により Fable 5 と Mythos 5 へのアクセスを停止：国家安全保障とジェイルブレイク懸念が背景</title>
+				<link>https://n-kase.github.io/rss/posts/20260614214136/</link>
+				<pubDate>Sun, 14 Jun 2026 21:41:36 +0900</pubDate>
+				<guid>https://n-kase.github.io/rss/posts/20260614214136/</guid>
+				<description>&lt;p&gt;2026年6月12日、米政府は国家安全保障当局を理由に輸出管理指令を発出し、Anthropic の最強力モデルである Fable 5 と Mythos 5 への外国籍（米国内外問わず）からのアクセスを停止するよう命じました。Anthropic は公式声明でこれを受け入れ、全顧客に対してこれらのモデルへのアクセスを即時無効にしたと発表しています。その他の Claude シリーズモデルへの影響はないと説明しています。&lt;/p&gt;&#xA;&lt;p&gt;政府の指令は具体的な国家安全保障の懸念を開示していませんが、Anthropic はジェイルブレイク（プロンプトインジェクションやモデルの制約回避）のデモを確認したと指摘。そのデモでは既に知られている軽微な脆弱性が突かれたといい、同様の脆弱性は公開されている他のモデルでも同様に見つかると述べています。これにより、フロンティアモデルのセキュリティとガバナンスが改めて注目される形となりました。&lt;/p&gt;&#xA;&lt;p&gt;この出来事は、AI モデルの力が増すにつれて国家レベルでの輸出管理やアクセス制限が現実化していることを示しています。今後はモデル提供者側でもセーフガードの透明性・監査可能性、そして政府との協力枠組みが求められるでしょう。&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>2026年6月のオープンウェイトモデルリリースウィーク：LLM・画像・音声・映像・3Dまで25&#43;モデルが公開</title>
 				<link>https://n-kase.github.io/rss/posts/20260614214103/</link>
