@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 14 Jun 2026 21:06:10 +0900</lastBuildDate>
+			<lastBuildDate>Sun, 14 Jun 2026 21:10:10 +0900</lastBuildDate>
 		
 			<atom:link href="https://n-kase.github.io/rss/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>2026年6月のAI・テックニュース：訴訟・IPO・サイバー攻撃・水リスクなど7つの衝撃的出来事</title>
+				<link>https://n-kase.github.io/rss/posts/20260614211010/</link>
+				<pubDate>Sun, 14 Jun 2026 21:10:10 +0900</pubDate>
+				<guid>https://n-kase.github.io/rss/posts/20260614211010/</guid>
+				<description>&lt;p&gt;今週のAI・テック業界では、訴訟、巨額投資、IPO、サイバー攻撃、インフラリスクなどが相次ぎました。以下に主要7つの出来事をまとめます。\n\n1. &lt;strong&gt;SpaceX が投資家に水リスクを警告&lt;/strong&gt;：データセンターの冷却に必要な水資源の枯渇がAIインフラ拡張のボトルネックになる可能性を指摘。\n2. &lt;strong&gt;フロリダ州が OpenAI を提訴&lt;/strong&gt;：AI生成コンテンツによる名誉毀損・誤情報拡散を理由に訴訟を起こし、法的責任の議論が活発化。\n3. &lt;strong&gt;Alphabet が AI 向けに800億ドルの投資計画を発表&lt;/strong&gt;：今後3年間でAI研究・データセンター・人材確保に巨額資金を投入。\n4. &lt;strong&gt;Anthropic が IPO 前進&lt;/strong&gt;：機関投資家向けに非公開株式の販売を開始し、上市への足固め。\n5. &lt;strong&gt;NVIDIA が GPU 以外へ事業拡張&lt;/strong&gt;：AIソフトウェアプラットフォーム・ドラゴンチップ・データセンター設計まで領域を拡大。\n6. &lt;strong&gt;AI駆動型カスタマーサポートシステムへのサイバー攻撃&lt;/strong&gt;：プロンプトインジェクションやモデル差し替えにより、顧客データ漏洩や不正な応答が発生。\n7. &lt;strong&gt;その他の波及効果&lt;/strong&gt;：サプライチェーンの半導体不足、規制当局のAIガイドライン強化、エネルギー消費への懸念などが同時に顕在化。\n\nこれらの出来事は、AI技術の進化とともに法・インフラ・セキュリティ・資金面での課題が表面化していることを示しています。今後は技術開発と同時に、リスクマネジメントとガバナンスが不可欠になるでしょう。&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Slack Post: 2026-06-14 21:06</title>
 				<link>https://n-kase.github.io/rss/posts/20260614210610/</link>

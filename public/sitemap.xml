@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://n-kase.github.io/rss/posts/20260614211010/</loc>
+    <lastmod>2026-06-14T21:10:10+09:00</lastmod>
+  </url><url>
     <loc>https://n-kase.github.io/rss/</loc>
-    <lastmod>2026-06-14T21:06:10+09:00</lastmod>
+    <lastmod>2026-06-14T21:10:10+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/</loc>
-    <lastmod>2026-06-14T21:06:10+09:00</lastmod>
+    <lastmod>2026-06-14T21:10:10+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/20260614210610/</loc>
     <lastmod>2026-06-14T21:06:10+09:00</lastmod>
