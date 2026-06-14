@@ -10,9 +10,8 @@ publishDir = 'docs' # GitHub Pages設定に合わせて明記
     emoji = "⚡"
     subtitle = "MS-02 Ultra Home Lab"
     avatar = false
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+    # サイドバーにウィジェットを常に表示する設定
+    widgets = ["search", "archives", "categories", "tags"]
 
 [[menu.main]]
     name = "検索"
@@ -41,3 +40,6 @@ publishDir = 'docs' # GitHub Pages設定に合わせて明記
     weight = 40
     identifier = "archives"
     pre = "archive"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
