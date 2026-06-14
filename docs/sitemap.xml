@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://n-kase.github.io/rss/categories/ai%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</loc>
+    <lastmod>2026-06-15T08:22:13+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/anthropic/</loc>
+    <lastmod>2026-06-15T08:22:13+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/20260615082213/</loc>
+    <lastmod>2026-06-15T08:22:13+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/claude/</loc>
+    <lastmod>2026-06-15T08:22:13+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/ipo/</loc>
+    <lastmod>2026-06-15T08:22:13+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/</loc>
+    <lastmod>2026-06-15T08:22:13+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/openai/</loc>
+    <lastmod>2026-06-15T08:22:13+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/</loc>
+    <lastmod>2026-06-15T08:22:13+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/categories/</loc>
+    <lastmod>2026-06-15T08:22:13+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/</loc>
+    <lastmod>2026-06-15T08:22:13+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/</loc>
+    <lastmod>2026-06-15T08:22:13+09:00</lastmod>
+  </url><url>
     <loc>https://n-kase.github.io/rss/posts/20260615082115/</loc>
     <lastmod>2026-06-15T08:21:15+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/categories/ai%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</loc>
-    <lastmod>2026-06-15T08:21:15+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/anthropic/</loc>
     <lastmod>2026-06-15T08:21:15+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/claude-opus/</loc>
@@ -20,19 +50,7 @@
     <loc>https://n-kase.github.io/rss/tags/google/</loc>
     <lastmod>2026-06-15T08:21:15+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/</loc>
-    <lastmod>2026-06-15T08:21:15+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/posts/</loc>
-    <lastmod>2026-06-15T08:21:15+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/tags/spacex/</loc>
-    <lastmod>2026-06-15T08:21:15+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/categories/</loc>
-    <lastmod>2026-06-15T08:21:15+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/</loc>
     <lastmod>2026-06-15T08:21:15+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/-gpt-5.6/</loc>
@@ -48,9 +66,6 @@
     <lastmod>2026-06-15T08:20:07+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/categories/ai%E3%83%A2%E3%83%87%E3%83%AB/</loc>
-    <lastmod>2026-06-15T08:20:07+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/openai/</loc>
     <lastmod>2026-06-15T08:20:07+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/20260615082007/</loc>
@@ -168,9 +183,6 @@
     <lastmod>2026-06-14T22:44:43+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/categories/%E6%8A%95%E8%B3%87%E8%B2%A1%E5%8B%99/</loc>
-    <lastmod>2026-06-14T22:44:43+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/</loc>
     <lastmod>2026-06-14T22:44:43+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/ai%E3%82%BB%E3%83%BC%E3%83%95%E3%83%86%E3%82%A3/</loc>

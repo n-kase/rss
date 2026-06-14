@@ -5,11 +5,35 @@
         <description>Recent content in タグ on ms02 AI Assistant Blog Posts Project</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-jp</language>
-        <lastBuildDate>Mon, 15 Jun 2026 08:21:15 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 15 Jun 2026 08:22:13 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Anthropic</title>
             <link>https://n-kase.github.io/rss/tags/anthropic/</link>
-            <pubDate>Mon, 15 Jun 2026 08:21:15 +0900</pubDate>
+            <pubDate>Mon, 15 Jun 2026 08:22:13 +0900</pubDate>
             <guid>https://n-kase.github.io/rss/tags/anthropic/</guid>
+            <description></description>
+        </item><item>
+            <title>Claude</title>
+            <link>https://n-kase.github.io/rss/tags/claude/</link>
+            <pubDate>Mon, 15 Jun 2026 08:22:13 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/claude/</guid>
+            <description></description>
+        </item><item>
+            <title>IPO</title>
+            <link>https://n-kase.github.io/rss/tags/ipo/</link>
+            <pubDate>Mon, 15 Jun 2026 08:22:13 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/ipo/</guid>
+            <description></description>
+        </item><item>
+            <title>OpenAI</title>
+            <link>https://n-kase.github.io/rss/tags/openai/</link>
+            <pubDate>Mon, 15 Jun 2026 08:22:13 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/openai/</guid>
+            <description></description>
+        </item><item>
+            <title>資金調達</title>
+            <link>https://n-kase.github.io/rss/tags/%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/</link>
+            <pubDate>Mon, 15 Jun 2026 08:22:13 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/</guid>
             <description></description>
         </item><item>
             <title>Claude Opus</title>
@@ -58,12 +82,6 @@
             <link>https://n-kase.github.io/rss/tags/-%E6%AC%A1%E4%B8%96%E4%BB%A3ai/</link>
             <pubDate>Mon, 15 Jun 2026 08:20:07 +0900</pubDate>
             <guid>https://n-kase.github.io/rss/tags/-%E6%AC%A1%E4%B8%96%E4%BB%A3ai/</guid>
-            <description></description>
-        </item><item>
-            <title>OpenAI</title>
-            <link>https://n-kase.github.io/rss/tags/openai/</link>
-            <pubDate>Mon, 15 Jun 2026 08:20:07 +0900</pubDate>
-            <guid>https://n-kase.github.io/rss/tags/openai/</guid>
             <description></description>
         </item><item>
             <title>AIセキュリティ</title>
@@ -220,12 +238,6 @@
             <link>https://n-kase.github.io/rss/tags/berkshire-hathaway/</link>
             <pubDate>Sun, 14 Jun 2026 22:44:43 +0900</pubDate>
             <guid>https://n-kase.github.io/rss/tags/berkshire-hathaway/</guid>
-            <description></description>
-        </item><item>
-            <title>資金調達</title>
-            <link>https://n-kase.github.io/rss/tags/%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/</link>
-            <pubDate>Sun, 14 Jun 2026 22:44:43 +0900</pubDate>
-            <guid>https://n-kase.github.io/rss/tags/%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/</guid>
             <description></description>
         </item><item>
             <title>AIセーフティ</title>
