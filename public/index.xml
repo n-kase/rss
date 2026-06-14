@@ -1,15 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>My New Hugo Project</title>
-		<link>https://example.org/</link>
-		<description>Recent content on My New Hugo Project</description>
+		<title>ms02 Project</title>
+		<link>https://n-kase.github.io/rss/</link>
+		<description>Recent content on ms02 Project</description>
 		<generator>Hugo</generator>
-		<language>en-us</language>
+		<language>ja-jp</language>
 		
 		
 		
 		
-			<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+			<lastBuildDate>Sun, 14 Jun 2026 19:51:44 +0000</lastBuildDate>
+		
+			<atom:link href="https://n-kase.github.io/rss/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Slack Post: 2026-06-14 19:51</title>
+				<link>https://n-kase.github.io/rss/posts/20260614195144/</link>
+				<pubDate>Sun, 14 Jun 2026 19:51:44 +0000</pubDate>
+				<guid>https://n-kase.github.io/rss/posts/20260614195144/</guid>
+				<description>&lt;p&gt;testtest&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Slack Post: </title>
+				<link>https://n-kase.github.io/rss/posts/20260614194956/</link>
+				<pubDate>Sun, 14 Jun 2026 19:49:56 +0000</pubDate>
+				<guid>https://n-kase.github.io/rss/posts/20260614194956/</guid>
+				<description>&lt;p&gt;testtest&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Slack Post: </title>
+				<link>https://n-kase.github.io/rss/posts/20260614194752/</link>
+				<pubDate>Sun, 14 Jun 2026 19:47:52 +0000</pubDate>
+				<guid>https://n-kase.github.io/rss/posts/20260614194752/</guid>
+				<description>&lt;p&gt;testtest&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Slack Post: </title>
+				<link>https://n-kase.github.io/rss/posts/20260614194200/</link>
+				<pubDate>Sun, 14 Jun 2026 19:42:00 +0000</pubDate>
+				<guid>https://n-kase.github.io/rss/posts/20260614194200/</guid>
+				<description>&lt;p&gt;本文： 最終連携テスト。スクリプトのパスを修正してSlackから投稿。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Slack Post: </title>
+				<link>https://n-kase.github.io/rss/posts/20260614193039/</link>
+				<pubDate>Sun, 14 Jun 2026 19:30:39 +0000</pubDate>
+				<guid>https://n-kase.github.io/rss/posts/20260614193039/</guid>
+				<description>&lt;p&gt;本文： GitHub Pages用の公開テスト。&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Slack Post: </title>
+				<link>https://n-kase.github.io/rss/posts/20260614191825/</link>
+				<pubDate>Sun, 14 Jun 2026 19:18:25 +0000</pubDate>
+				<guid>https://n-kase.github.io/rss/posts/20260614191825/</guid>
+				<description>&lt;p&gt;本文： 今日はMS-02 Ultraの検証を実施。ローカルのHugoバイナリでのビルドテスト中。&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
