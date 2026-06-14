@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 14 Jun 2026 21:41:36 +0900</lastBuildDate>
+			<lastBuildDate>Sun, 14 Jun 2026 21:42:15 +0900</lastBuildDate>
 		
 			<atom:link href="https://n-kase.github.io/rss/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>SpaceX が投資家に警告：AI インフラ拡大の鍵は水資源へのアクセス</title>
+				<link>https://n-kase.github.io/rss/posts/20260614214215/</link>
+				<pubDate>Sun, 14 Jun 2026 21:42:15 +0900</pubDate>
+				<guid>https://n-kase.github.io/rss/posts/20260614214215/</guid>
+				<description>&lt;p&gt;SpaceX は IPO ファイルの修正で、大規模 AI インフラの運転・拡大において冷却に必要な水へのアクセスがクリティカルなファクターになりつつあると警告しました。データセンターは massive な冷却水を消費し、干ばつ・水不足・地元での競合・規制制約が将来的な成長のリスクとなります。これにより、AI ブームは単なる演算課題ではなく資源課題でもあることが浮き彫りになりました。将来の AI 拡大は環境・規制許可と技術革新の両方に依存する可能性が高まっています。&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Anthropic が米政府の指令により Fable 5 と Mythos 5 へのアクセスを停止：国家安全保障とジェイルブレイク懸念が背景</title>
 				<link>https://n-kase.github.io/rss/posts/20260614214136/</link>
