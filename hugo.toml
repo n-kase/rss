@@ -2,3 +2,7 @@ baseURL = 'https://n-kase.github.io/rss/'
 locale = 'ja-jp'
 title = 'ms02 Project'
 theme = 'ananke'
+publish = 'docs'
+
+[timeZoneInfo]
+default = "Asia/Tokyo"
