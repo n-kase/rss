@@ -1,8 +1,5 @@
 baseURL = 'https://n-kase.github.io/rss/'
 locale = 'ja-jp'
-title = 'ms02 Project'
+title = 'ms02 AI Assistant Blog Posts Project'
 theme = 'ananke'
-publish = 'docs'
-
-[timeZoneInfo]
-default = "Asia/Tokyo"
+publishDir = 'docs'
