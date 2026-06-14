@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://n-kase.github.io/rss/categories/</loc>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/</loc>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/</loc>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/</loc>
+  </url>
+</urlset>
