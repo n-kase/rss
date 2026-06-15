@@ -1,0 +1,49 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>フレームワーク on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF/</link>
+    <description>Recent content in フレームワーク on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 18:06:31 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updated Apple Developer Program License Agreement now available</title>
+      <link>https://n-kase.github.io/rss/posts/post-444/</link>
+      <pubDate>Mon, 15 Jun 2026 18:06:31 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-444/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年3月30日に開発者プログラムライセンス契約を改訂し、Foveated StreamingやFamily Controls、Accessory Notificationsなどの新しいフレームワークに対応するための定義やデータプライバシー要件を明確化した。これにより開発者は新機能を利用する際のルールを確認し、契約に同意する必要が生じ、プライバシー保護や機能利用の透明性が向上すると予想される。したがって、開発者は変更点を慎重に確認し、適切に対応することでコンプライアンスを維持し、新しい技術を安全に活用すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="アップデートされたapple-developer-program-license-agreementが利用可能に">アップデートされたApple Developer Program License Agreementが利用可能に
+</h2><p>2026年3月30日</p>
+<p><a class="link" href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/"  target="_blank" rel="noopener"
+    >Apple Developer Program License Agreement</a>は、新しい機能、更新されたポリシー、および clarification（明確化）をサポートするために改訂されました。変更点を確認し、<a class="link" href="https://developer.apple.com/account"  target="_blank" rel="noopener"
+    >アカウントにサインイン</a>して更新された利用規約に同意してください。</p>
+<ul>
+<li>定義、セクション3.3.3(B)、セクション3.3.7(K): Foveated Streamingフレームワークの使用に関する要件を特定し、データプライバシー要件を明確化しました。</li>
+<li>定義、セクション3.3.3(Q): Family Controlsフレームワークの使用に関する要件を特定しました。</li>
+<li>定義、セクション3.3.7(J): Accessory NotificationsフレームワークおよびAccessory Live Activitiesフレームワークの使用に関する要件を特定しました。</li>
+</ul>
+<p>更新された契約の翻訳は、<a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developerウェブサイト</a>で1か月以内に利用可能になります。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="updated-apple-developer-program-license-agreement-now-available">Updated Apple Developer Program License Agreement now available
+</h2><p>March 30, 2026</p>
+<p>The <a class="link" href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/"  target="_blank" rel="noopener"
+    >Apple Developer Program License Agreement</a> has been revised to support new features, updated policies, and clarifications. Please review the changes and <a class="link" href="https://developer.apple.com/account"  target="_blank" rel="noopener"
+    >sign in to your account</a> to accept the updated terms.</p>
+<ul>
+<li>Definitions, Section 3.3.3(B), Section 3.3.7(K): Specified requirements for use of the Foveated Streaming framework and clarified data privacy requirements.</li>
+<li>Definitions, Section 3.3.3(Q): Specified requirements for use of the Family Controls framework.</li>
+<li>Definitions, Section 3.3.7(J): Specified requirements for use of the Accessory Notifications framework and Accessory Live Activities framework.</li>
+</ul>
+<p>Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

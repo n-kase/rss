@@ -1,0 +1,40 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>サイバー犯罪 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E7%8A%AF%E7%BD%AA/</link>
+    <description>Recent content in サイバー犯罪 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 15:42:03 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E7%8A%AF%E7%BD%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ユーロポール、サイバー攻撃で得た暗号資産のマネーロンダリングを行っていたグループを摘発。警察庁も捜査に協力</title>
+      <link>https://n-kase.github.io/rss/posts/post-84/</link>
+      <pubDate>Mon, 15 Jun 2026 15:42:03 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-84/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>ユーロポールは、ランサムウェアグループなどが盗んだ暗号資産を現金化するために利用されていたミキシングサービス「AudiA6」の管理者と見られるロシア国籍とウクライナ国籍の被疑者2人を逮捕し、関連するウェブサイトを取り下げ、資産を凍結したと発表した。</p>
+<p>このグループは2022年から2025年にかけて約3億3600万ユーロ（約622億円）のマネーロンダリングを行っていたと見られ、さらにダークウェブのサイバー犯罪フォーラム「Dark2Web」も運営していたとされている。</p>
+<p>日本の警察庁も捜査に協力し、サーバーデータの提供や復元作業などで支援を行っている。</p>
+<p>今回の摘発は、サイバー犯罪が暗号資産の匿名性を悪用した資金洗浄にますます巧妙になっていることを示し、国境を越えた犯罪ネットワークへの対応が急務であることを改めて浮き彫りにした。</p>
+<p>したがって、各国の捜査機関は暗号資産ミキシングサービスへの監視を強化し、国際的な情報共有と共同捜査の枠組みをさらに深めて、こうした資金洗浄のルートを断つ取り組みを継続すべきである。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>ニュース</p>
+<h1 id="ユーロポールサイバー攻撃で得た暗号資産のマネーロンダリングを行っていたグループを摘発警察庁も捜査に協力">ユーロポール、サイバー攻撃で得た暗号資産のマネーロンダリングを行っていたグループを摘発。警察庁も捜査に協力
+</h1><p>2026年6月15日 07:00</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5781a4e1735e3fdd867eb4cdc0f7be66.jpg"></p>
+<p><a class="link" href="https://www.europol.europa.eu/media-press/newsroom/news/ransomware-gangs-cut-eur-336-million-audia6-crypto-laundering-pipeline"  target="_blank" rel="noopener"
+    >ユーロポールの発表</a>より</p>
+<p>欧州刑事警察機構（ユーロポール）は6月10日、犯罪グループが犯罪収益の洗浄のために利用していた暗号資産のミキシングサービス（多数のユーザーの資金を混ぜ合わせ、取引履歴の追跡を困難にするサービス）の管理者と見られるロシア国籍、ウクライナ国籍の被疑者2人を逮捕し、同グループが運営・管理するウェブサイトのテイクダウンや被疑者らの資産凍結も行ったと発表した。日本の警察庁も、この捜査に協力している。</p>
+<p>今回摘発されたのはミキシングサービスの「AudiA6」。同サービスでは、ランサムウェアグループやサイバー犯罪者が盗んだ暗号資産を現金化するため、複雑な経路で取引を行い、ミキシングによって資金の出所を隠蔽することによるマネーロンダリングを行っていた。ユーロポールによると、2022年～2025年の間に3億3600万ユーロ（622億円相当）以上のマネーロンダリングを実行した疑いが持たれているという。</p>
+<p>被疑者たちは、違法なサービスを宣伝したり、世界中のサイバー犯罪者をつなげたりするために利用されるダークウェブのサイバー犯罪フォーラム「Dark2Web」も運営していたとみられている。ユーロポールは、今回の摘発に合わせて、AudiA6とDark2Webのウェブサイトを法執行機関による押収を示すバナーに置き換えている。</p>
+<p>捜査および摘発は、複数国の警察組織が協力する形で実行された。警察庁の関東管区警察局サイバー特別捜査部は、今回の捜査において、関係国から被疑者グループが使用していたサーバーデータの提供を受け、犯行実態を明らかにするデータの復元などの協力を行っている。</p>
+<p>同庁は引き続き、サイバー空間における一層の安全・安心の確保を図るため、外国捜査機関などとの連携を深め、サイバー事案の実態解明や厳正な取り締まりを推進するとコメントしている。</p>
+</details>]]></description>
+    </item>
+    
+  </channel>
+</rss>

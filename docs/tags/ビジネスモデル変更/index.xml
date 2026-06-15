@@ -1,0 +1,75 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ビジネスモデル変更 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%A4%89%E6%9B%B4/</link>
+    <description>Recent content in ビジネスモデル変更 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 18:40:46 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%A4%89%E6%9B%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updates for apps in the European Union</title>
+      <link>https://n-kase.github.io/rss/posts/post-488/</link>
+      <pubDate>Mon, 15 Jun 2026 18:40:46 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-488/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>欧州委員会はデジタル市場法に基づき、Appleに一連の追加変更を要求し、AppleはEU向けApp Storeの利用規約を更新しました。これにより開発者はアプリ内または外部のウェブサイト・代替マーケットプレイス・別のアプリへリンクしてデジタル商品やサービスのオファーを宣伝できるようになり、新たなビジネス条件として初回取得手数料、ストアサービス手数料、およびCore Technology Commission（CTC）が適用されます。さらにAppleは2026年1月1日までにEU全体で単一のビジネスモデルへ移行し、現在のCore Technology Fee（CTF）からCTCへ統一するとともに、iOS 18.6/iPadOS 18.6以降で代替マーケットプレイスやウェブからのアプリインストール体験を改善し、開発者向けにダウンロードを起動するAPIも提供する予定です。</p>
+<p>これらの変更は、開発者にさらに自由な販路とプロモーション手段を与える一方で、Appleの従来の手数料構造を見直す必要が生じ、代替アプリマーケットプレイスの普及やユーザー体験の多様化が進む可能性があります。また、規制当局の監視が強まる中で、プラットフォームの安全性と公正な競争のバランスが試される状況となります。</p>
+<p>したがって、開発者は新しいビジネス条件に合わせて収益モデルを見直し、外部リンクや代替配信を活用する戦略を検討すべきです。Appleは規制への対応とプラットフォームの信頼性維持を両立させるため、透明性の高い手続きと開発者支援を強化する必要があります。ユーザーは選択肢が広がるメリットを享受できる反面、複数の配信経路に伴うセキュリティや利便性への影響にも注意を払うべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="eu向けアプリのアップデート">EU向けアプリのアップデート
+</h2><p>2025年6月26日</p>
+<p>欧州委員会は、デジタル市場法（DMA）に基づいてAppleに一連の追加変更を要求しました。</p>
+<p><strong>オファーのコミュニケーションとプロモーション</strong></p>
+<ul>
+<li>本日、欧州連合のApp Storeストアフロントにあるアプリの開発者が、デジタル商品またはサービスの購入オファーを通信・宣伝できるよう、更新された利用規約を導入します。転送先はウェブサイト、代替アプリマーケットプレイス、または別のアプリであり、アプリ内またはウェブビューまたはネイティブ体験を通じてアプリ外からアクセスできます。</li>
+<li>デジタル商品またはサービスのオファーを通信・宣伝するApp Storeのアプリは、これらの取引に対して新しいビジネス条件の対象となります——初回取得手数料、ストアサービス手数料、およびStoreKit External Purchase Link Entitlement (EU) アドendumに対応するアプリについてはCore Technology Commission (CTC) が適用されます。CTCは、開発者がユーザーに革新的なアプリを構築・共有できるよう継続的に投資しているツール、技術、サービスを通じてAppleが提供する価値を反映しています。</li>
+<li>欧州経済領域（EEA）のApp Storeにおける音楽ストリーミングアプリで、Music Streaming Services Entitlement (EEA) を利用したいものは、これらのオプションを利用できます。</li>
+</ul>
+<p><strong>EU向けアプリのビジネス条件の更新</strong></p>
+<ul>
+<li>2026年1月1日までに、AppleはEUのすべての開発者に対して単一のビジネスモデルへ移行する計画です。この単一ビジネスモデルでは、Appleはデジタル商品またはサービスに対するCore Technology Fee (CTF) からCTCへ移行します。CTCは、App Store、ウェブ配信、および/または代替マーケットプレイスから配信されるアプリによって販売されるデジタル商品またはサービスに適用されます。</li>
+<li>EU向けアプリのAlternative Terms Addendumに現在従っているアプリは、来年までCTCへの移行が完全に実施されるまで、CTFのみの対象となります。その時点で、該当する取引はCTCの対象となり、CTFは適用されなくなります。この移行に関する詳細は後日提供されます。</li>
+</ul>
+<p><strong>ユーザー体験のアップデート</strong></p>
+<ul>
+<li>iOS 18.6およびiPadOS 18.6以降、EUにおいて、代替マーケットプレイスまたは開発者のウェブサイトからのアプリインストールのための<a class="link" href="https://developer.apple.com/support/alt-distribution-ux-in-the-eu/"  target="_blank" rel="noopener"
+    >更新されたユーザー体験</a>が提供されます。さらに、同年後半には、開発者が自分のアプリ内から代替配信されたアプリのダウンロードを開始できるAPIを提供します。</li>
+</ul>
+<p>詳細については、<a class="link" href="https://developer.apple.com/support/communication-and-promotion-of-offers-on-the-app-store-in-the-eu/"  target="_blank" rel="noopener"
+    >Communication and promotion of offers on the App Store in the EU</a> をご覧ください。完全な利用規約については、<a class="link" href="https://developer.apple.com/contact/request/download/external/Alternative-EU-Terms-Addendum.pdf"  target="_blank" rel="noopener"
+    >Alternative Terms Addendum for Apps in the EU</a> または <a class="link" href="https://developer.apple.com/contact/request/download/external/StoreKit-External-Purchase-Link-%28EU%29-Entitlement-Addendum.pdf"  target="_blank" rel="noopener"
+    >StoreKit External Purchase Link Entitlement Addendum for EU Apps</a> をご参照ください。また、<a class="link" href="https://developer.apple.com/events/view/upcoming-events"  target="_blank" rel="noopener"
+    >30分のオンライン予約</a> をリクエストして、これらの変更について質問やフィードバックを提供することもできます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="updates-for-apps-in-the-european-union">Updates for apps in the European Union
+</h2><p>June 26, 2025</p>
+<p>The European Commission has required Apple to make a series of additional changes under the Digital Markets Act:</p>
+<p><strong>Communication and promotion of offers</strong></p>
+<ul>
+<li>Today, we’re introducing updated terms that let developers with apps in the European Union storefronts of the App Store communicate and promote offers for purchase of digital goods or services available at a destination of their choice. The destination can be a website, alternative app marketplace, or another app, and can be accessed outside the app or within the app via a web view or native experience.</li>
+<li>App Store apps that communicate and promote offers for digital goods or services will be subject to new business terms for those transactions — an initial acquisition fee, store services fee, and for apps on the StoreKit External Purchase Link Entitlement (EU) Addendum, the Core Technology Commission (CTC). The CTC reflects value Apple provides developers through ongoing investments in the tools, technologies, and services that enable them to build and share innovative apps with users.</li>
+<li>Music streaming apps on the App Store in the European Economic Area (EEA) wanting to use the Music Streaming Services Entitlement (EEA) can use these options.</li>
+</ul>
+<p><strong>Update to Business Terms for Apps in the European Union</strong></p>
+<ul>
+<li>By January 1, 2026, Apple plans to move to a single business model in the EU for all developers. Under this single business model, Apple will transition from the Core Technology Fee (CTF) to the CTC on digital goods or services. The CTC will apply to digital goods or services sold by apps distributed from the App Store, Web Distribution, and/or alternative marketplaces.</li>
+<li>Apps currently under the Alternative Terms Addendum for Apps in the EU continue to be subject only to the CTF until the transition to the CTC is fully implemented next year. At that time, qualifying transactions will be subject to the CTC, and the CTF will no longer apply. Additional details regarding this transition will be provided at a later date.</li>
+</ul>
+<p><strong>User Experience Update</strong></p>
+<ul>
+<li>Beginning with iOS 18.6 and iPadOS 18.6, iOS and iPadOS will provide an <a class="link" href="https://developer.apple.com/support/alt-distribution-ux-in-the-eu/"  target="_blank" rel="noopener"
+    >updated user experience</a>in the EU for installing alternative marketplaces or apps from a developer’s website. Additionally, later this year, we will provide an API which will allow developers to initiate the download of alternatively distributed apps they publish from within their app.</li>
+</ul>
+<p>To learn more, view <a class="link" href="https://developer.apple.com/support/communication-and-promotion-of-offers-on-the-app-store-in-the-eu/"  target="_blank" rel="noopener"
+    >Communication and promotion of offers on the App Store in the EU</a>. To read the full terms, view the <a class="link" href="https://developer.apple.com/contact/request/download/external/Alternative-EU-Terms-Addendum.pdf"  target="_blank" rel="noopener"
+    >Alternative Terms Addendum for Apps in the EU</a> or the <a class="link" href="https://developer.apple.com/contact/request/download/external/StoreKit-External-Purchase-Link-%28EU%29-Entitlement-Addendum.pdf"  target="_blank" rel="noopener"
+    >StoreKit External Purchase Link Entitlement Addendum for EU Apps</a>. You can also request a <a class="link" href="https://developer.apple.com/events/view/upcoming-events"  target="_blank" rel="noopener"
+    >30-minute online appointment</a> to ask questions and provide feedback about these changes.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

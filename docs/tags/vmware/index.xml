@@ -1,0 +1,50 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VMware on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/vmware/</link>
+    <description>Recent content in VMware on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 17:03:37 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/vmware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VMwareの代替として再注目　困っているサービスプロバイダーをZadaraが救う？</title>
+      <link>https://n-kase.github.io/rss/posts/post-355/</link>
+      <pubDate>Mon, 15 Jun 2026 17:03:37 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-355/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>VMwareのライセンス体系変更により、企業だけでなくVMwareをサービスとして提供しているサービスプロバイダーも代替プラットフォームを探し始めており、ZadaraはInterop Tokyo 2026で自社のエッジクラウドとソブリンAIクラウドをアピールし、AT東京との戦略的パートナーシップを発表した。これにより、VMwareからの移行を検討するプロバイダーがZadaraのKVMベースのハイパーバイザーや無停止移行機能を活用しやすくなり、脱VMwareの流れが加速し、国内のデータセンター事業者とクラウドベンダーの連携が強まる可能性がある。したがって、サービスプロバイダーやSIerはZadaraを実用的なVMware代替として評価し、エッジやAIワークロード向けの導入を検討すべきである。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>アット東京との戦略的パートナーシップも発表</p>
+<h1 id="vmwareの代替として再注目-困っているサービスプロバイダーをzadaraが救う">VMwareの代替として再注目 困っているサービスプロバイダーをZadaraが救う？
+</h1><p>2026年06月15日 11時30分更新</p>
+<p>VMwareのライセンス体系変更で加速する「脱VMware」の流れ。導入したユーザー企業よりもっと困っているのは、VMwareをサービスとして提供しているサービスプロバイダーと言えるかもしれない。そんな脱VMwareの受け皿を提供するZadataがInterop Tokyo 2026にブースを出していた。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fb581a0812c4ae18bfe4211c8ab2f17d.jpg"></p>
+<p>Interop Tokyo 2026のZadaraブース</p>
+<h2 id="ストレージベンダーからソブリンaiクラウドへ進化">ストレージベンダーからソブリンAIクラウドへ進化
+</h2><p>Zadaraは、2011年にストレージベンダーとしてスタート。Amazon S3互換のオブジェクトストレージを提供しており、サービスプロバイダーはマルチテナントでユーザーに提供できる。ここまでだとWasabi Technologiesに近いが、Zadaraは仮想のコンピュートやネットワークも提供するようになっており、現在は世界中に500カ所以上のエッジクラウド拠点を保有する。この拠点をベースにした「Zadara Edge Cloud」はAWSとの互換性があり、データ転送料が無料という従量課金制のIaaSとして注目を集めている。</p>
+<p>最近では、マルチテナントのGPUコンピューティング環境も提供しており、マルチテナント環境におけるLLMの学習・推論、マルチモーダルAI開発も可能だ。NVIDIA Cloud Partner（NCP）向けソフトウェアリファレンスガイドに準拠しており、AIを前提としたソブリンAIクラウドとして利用できる。</p>
+<p>日本でのユーザーとして公表されているのが、KDDIと楽天モバイルだ。KDDIは企業向けのストレージサービスとして「Zadara Cloud Storage」を提供。楽天モバイルは5Gネットワークや完全仮想化モバイルネットワーク（vRAN）の構築でZadataを採用している。パブリッククラウドに依存せず、実績のあるストレージやネットワークを使いたいというサービスプロバイダーのニーズに応えているわけだ。</p>
+<p>そして、Interop初日の6月10日にはZadaraとアット東京との戦略的パートナーシップが発表されている。データセンターを拠点とした「Zadara Cloud アット東京リージョン」を共同開設するとともに、アット東京がサービス「ATBeX Edge Compute powered by Zadara」として提供する。提供開始は2026年8月の予定だ。</p>
+<h2 id="脱vmwareの受け皿としてアピール">脱VMwareの受け皿としてアピール
+</h2><p>さて、Zadara自体はすでに15年の歴史を持っているが、最近は「脱VMware」の受け皿として再度注目を集めている。ブロードコムによるVMwareの買収やライセンス体系の変更で脱VMwareを検討するエンタープライズ企業は多いが、企業にサービスを提供しているサービスプロバイダーやSIerも代替の選択肢を模索している。こうしたニーズに対して、NutanixやKVMが選択肢として上がることも多いが、ZadaraはKVMベースのハイパーバイザーを前提に脱VMwareの受け皿をアピールしている。</p>
+<p>Zadara Edge Cloudはマネージド型のKVMハイパーバイザーを採用しているが、独自の分散仮想スイッチ（DVS）とVPCサポートを提供しており、VMwareでライブマイグレーション可能なEVCモードのVMware環境とネットワークを共有できる。これにより、ツールを使ってクラスターを無停止でZadaraのハイパーバイザーに移行したり、両者を共存させることが可能だ。脱VMwareの受け皿としても注目しておきたい。</p>
+<p>Interopをアスキーでは「<a class="link" href="https://ascii.jp/featuredarticles/3001326/"  target="_blank" rel="noopener"
+    >Interop Tokyo 2026 アスキー全力特集！</a>として、現地取材チームによる記事をどんどん掲載。さらに、会場とアスキースタジオをつなぐ<a class="link" href="https://www.youtube.com/watch?v=p3IhiL9gc_o"  target="_blank" rel="noopener"
+    >特別中継</a>も配信しています！</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5ca74b1a6875d68d3654f40d0e42401b.jpg"></p>
+<p>Interop Tokyo 2026、会場の模様</p>
+<p>週刊アスキーの最新情報を購読しよう</p>
+<ul>
+<li><a class="link" href="https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >Follow @weeklyascii</a></li>
+</ul>
+<p>本記事はアフィリエイトプログラムによる収益を得ている場合があります</p>
+</details>]]></description>
+    </item>
+    
+  </channel>
+</rss>

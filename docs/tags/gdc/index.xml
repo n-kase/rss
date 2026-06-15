@@ -1,0 +1,47 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDC on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/gdc/</link>
+    <description>Recent content in GDC on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 18:11:35 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/gdc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: March 2026</title>
+      <link>https://n-kase.github.io/rss/posts/post-451/</link>
+      <pubDate>Mon, 15 Jun 2026 18:11:35 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-451/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年3月の「Hello Developer」ニュースレターで、GDCへの参加呼びかけ、新たなプライバシー・セキュリティ開発者アクティビティ、Xcode 26におけるコーディングインテリジェンスの深掘り、SpeechifyチームのAI全力取り組み、そして最新ニュースの提供を発表しました。これにより、Appleは開発者向けに最先端のツールと知識を提供し続け、プライバシー保護とAI活用という業界の重要なトレンドを強調し、開発者コミュニティのエンゲージメントと技術採用を促進することが期待されます。したがって、開発者はこれらのイベントやリソースを積極的に活用し、プライバシーベストプラクティスを学びながらAIを活用したコーディングインテリジェンスを習得することで、競争力を維持すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-2026年3月">Hello Developer: 2026年3月
+</h2><p>2026年3月3日</p>
+<p><img alt="濃い青の背景に対してライトブルーのアイコンが並んでいる。アイコンには大きなゲームコントローラーがあり、その周りに小さなiPhone、iMac、Apple TV、Apple Vision Pro、iPadが配置されている。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a386bf17e2862e48517131b7f1a24301.jpeg"></p>
+<p>今回の内容：</p>
+<ul>
+<li>AppleのGDCに参加しましょう。</li>
+<li>新しい開発者向けアクティビティでプライバシーとセキュリティのヒントを得ましょう。</li>
+<li>Xcode 26のコーディングインテリジェンスに深く入り込みましょう。</li>
+<li>SpeechifyチームがAIに全力で取り組んでいる方法を学びましょう。</li>
+<li>最新のニュースとアップデートをキャッチアップしましょう。</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-march-2026">Hello Developer: March 2026
+</h2><p>March 3, 2026</p>
+<p><img alt="A series of light-blue icons against a darker blue background. The icons include a large game controller, surrounded by a smaller iPhone, iMac, Apple TV, Apple Vision Pro, and iPad." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a386bf17e2862e48517131b7f1a24301.jpeg"></p>
+<p>In this edition:</p>
+<ul>
+<li>Join Apple at GDC.</li>
+<li>Get tips on privacy and security in a new developer activity.</li>
+<li>Dive deep on coding intelligence in Xcode 26.</li>
+<li>Learn how the Speechify team is going all in on AI.</li>
+<li>Catch up on the latest news and updates.</li>
+</ul>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

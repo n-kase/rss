@@ -1,0 +1,45 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>エージェンティックコーディング on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+    <description>Recent content in エージェンティックコーディング on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 18:15:10 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: February 2026</title>
+      <link>https://n-kase.github.io/rss/posts/post-456/</link>
+      <pubDate>Mon, 15 Jun 2026 18:15:10 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-456/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年2月の開発者向けニュースで、Xcodeにおけるエージェンティックコーディングの大きな発表を行い、これに加えてオンラインでのコードアロングセッションやSwift Student Challengeへの応募準備、SwiftUI・新デザイン・セキュリティなどの新しい開発者向けアクティビティの紹介、そして最新アップデートのキャッチアップを呼びかけている。これにより、AIを活用したコーディング支援への関心が高まり、開発者コミュニティ全体での学びや実践の機会が増えることが予想され、特にSwiftUIやセキュリティ分野での技術習得が加速するだろう。したがって、開発者は今回の発表を機にエージェンティックコーディングの動向を注視し、提供されるオンラインイベントや教材を積極的に活用してスキルをアップデートすべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-february-2026">Hello Developer: February 2026
+</h2><p>2026年2月3日</p>
+<p><img alt="A MacBook with Xcode on the screen." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ae24316bc62ee2fd3e977ef5dae476f1.jpeg"></p>
+<p>今回の号では：Xcodeにおけるエージェンティックコーディングの大きなニュース。さらに：</p>
+<ul>
+<li>コーディングインテリジェンスについてのオンラインコードアロングに参加しましょう。</li>
+<li>Swift Student Challengeの応募作品の準備をしましょう。</li>
+<li>SwiftUI、新しいデザイン、セキュリティなど、新しい開発者向けアクティビティを閲覧しましょう。</li>
+<li>最新のアップデートをキャッチアップしましょう。</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-february-2026-1">Hello Developer: February 2026
+</h2><p>February 3, 2026</p>
+<p><img alt="A MacBook with Xcode on the screen." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ae24316bc62ee2fd3e977ef5dae476f1.jpeg"></p>
+<p>In this edition: Big news about agentic coding in Xcode. Plus:</p>
+<ul>
+<li>Join us for an online code-along about coding intelligence.</li>
+<li>Get your Swift Student Challenge submissions ready.</li>
+<li>Browse new developer activities on SwiftUI, the new design, security, and more.</li>
+<li>Catch up on the latest updates.</li>
+</ul>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

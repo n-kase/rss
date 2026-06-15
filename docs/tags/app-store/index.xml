@@ -1,0 +1,1844 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App Store on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/app-store/</link>
+    <description>Recent content in App Store on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:32:59 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/app-store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App Store submissions now open for the latest OS releases</title>
+      <link>https://n-kase.github.io/rss/posts/post-547/</link>
+      <pubDate>Mon, 15 Jun 2026 19:32:59 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-547/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはiOS 18、iPadOS 18、macOS Sequoia、tvOS 18、visionOS 2、watchOS 11のリリースを控えており、開発者はXcode 16リリース候補と最新SDKを使ってアプリをビルドし、TestFlightでテストした後App Storeに提出できるようになったほか、watchOS Live Activitiesやアプリアイカスタマイズ、Swift・Siri・Controls・Core MLのアップデート、さらに来月から利用可能になるApple Intelligenceなどの新機能を活用してより独自の体験を提供できる状況になっています。これにより、開発者は新しい機能を早期に取り入れて競争力を高める必要が生じ、ユーザーはより高度でパーソナライズされたサービスを期待できるようになるでしょう。したがって、開発者は今すぐXcode 16と最新SDKを導入し、2025年4月から義務付けられるiOS 18以降のSDKでのビルドに備えてアプリをアップデートすべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="最新OSリリースのApp Store提出が今オープン" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a0c5138e2ba690e7f0014b3be0264826.png"></p>
+<h2 id="最新osリリースのapp-store提出が今オープン">最新OSリリースのApp Store提出が今オープン
+</h2><p>2024年9月9日</p>
+<p>iOS 18, iPadOS 18, macOS Sequoia, tvOS 18, visionOS 2, watchOS 11は近く世界中のユーザーに提供されます。Xcode 16リリース候補と最新SDKを使ってアプリやゲームを構築し、TestFlightでテストし、App Storeの審査に提出してください。Xcode CloudからTestFlightとApp Storeへシームレスにデプロイを開始できます。watchOS Live Activities、アプリアイカスタマイズ、Swift、Siri、Controls、Core MLの強力なアップデートなどの興味深い新機能により、Appleプラットフォームでさらに独自の体験を提供できます。</p>
+<p>来月から、Apple Intelligenceの驚くべき新機能をアプリに組み込み、ユーザーのコミュニケーション、仕事、自己表現を刺激できるようになります。</p>
+<p>2025年4月から、App Store Connectにアップロードするアプリは、iOS 18、iPadOS 18、tvOS 18、visionOS 2、またはwatchOS 11のSDKでビルドされている必要があります。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="App Store submissions now open for the latest OS releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a0c5138e2ba690e7f0014b3be0264826.png"></p>
+<h2 id="app-store-submissions-now-open-for-the-latest-os-releases">App Store submissions now open for the latest OS releases
+</h2><p>September 9, 2024</p>
+<p>iOS 18, iPadOS 18, macOS Sequoia, tvOS 18, visionOS 2, and watchOS 11 will soon be available to customers worldwide. Build your apps and games using the Xcode 16 Release Candidate and latest SDKs, test them using TestFlight, and submit them for review to the App Store. You can now start deploying seamlessly to TestFlight and the App Store from Xcode Cloud. With exciting new features like <a class="link" href="https://developer.apple.com/watchos/"  target="_blank" rel="noopener"
+    >watchOS Live Activities</a>, <a class="link" href="https://developer.apple.com/design/human-interface-guidelines/app-icons#iOS-iPadOS"  target="_blank" rel="noopener"
+    >app icon customization</a>, and powerful updates to Swift, Siri, Controls, and Core ML, you can deliver even more unique experiences on Apple platforms.</p>
+<p>And beginning next month, you’ll be able to bring the incredible new features of <a class="link" href="https://developer.apple.com/apple-intelligence/"  target="_blank" rel="noopener"
+    >Apple Intelligence</a> into your apps to help inspire the way users communicate, work, and express themselves.</p>
+<p>Starting April 2025, apps uploaded to App Store Connect must be built with SDKs for iOS 18, iPadOS 18, tvOS 18, visionOS 2, or watchOS 11.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Win-back offers for auto-renewable subscriptions now available</title>
+      <link>https://n-kase.github.io/rss/posts/post-546/</link>
+      <pubDate>Mon, 15 Jun 2026 19:32:05 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-546/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2024年9月10日から、App Store Connectで自動更新型サブスクリプション向けの「win‑backオファー」を設定できるようになり、過去に解約したユーザーに割引価格などの特別オファーを提示して再加入を促すことが可能になった。これにより開発者は離脱した顧客を取り戻しやすくなり、サブスクリプションの継続率や収益の向上が期待される一方、ユーザーはプロモーション価格にさらされる機会が増え、価格感覚やサブスクリプション選択の基準が変化する可能性がある。したがって、開発者はこの新機能を活用して離脱防止策を強化し、ユーザーはオファーの条件をよく確認した上で利用判断を行うべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="win-back-offers-for-auto-renewable-subscriptions-now-available">Win-back offers for auto-renewable subscriptions now available
+</h2><p>September 10, 2024</p>
+<p><img alt="Two iPhone screens that show different ways win-back offers can appear on the App Store: On the product page and in personalized recommendations, such as the Apps tabs." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/60532270efb2d66a3015b9f503a37c2f.jpeg"></p>
+<p>You can now configure win-back offers — a new type of offer for auto-renewable subscriptions — in App Store Connect. Win-back offers allow you to reach previous subscribers and encourage them to resubscribe to your app or game. For example, you can create a pay up front offer for a reduced subscription price of $9.99 for six months, with a standard renewal price of $39.99 per year. Based on your offer configuration, Apple displays these offers to eligible customers in various places, including:</p>
+<ul>
+<li>Across the App Store, including on your product page, as well as in personalized recommendations and editorial selections on the Today, Games, and Apps tabs.</li>
+<li>In your app or game.</li>
+<li>Via a direct link you share using your own marketing channels.</li>
+<li>In Subscription settings.</li>
+</ul>
+<p>When creating win-back offers in App Store Connect, you’ll determine customer eligibility, select regional availability, and choose the discount type. Eligible customers will be able to discover win-back offers this fall.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="win-back-offers-for-auto-renewable-subscriptions-now-available-1">Win-back offers for auto-renewable subscriptions now available
+</h2><p>September 10, 2024</p>
+<p><img alt="Two iPhone screens that show different ways win-back offers can appear on the App Store: On the product page and in personalized recommendations, such as the Apps tabs." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/60532270efb2d66a3015b9f503a37c2f.jpeg"></p>
+<p>You can now configure win-back offers — a new type of offer for auto-renewable subscriptions — in App Store Connect. Win-back offers allow you to reach previous subscribers and encourage them to resubscribe to your app or game. For example, you can create a pay up front offer for a reduced subscription price of $9.99 for six months, with a standard renewal price of $39.99 per year. Based on your offer configuration, Apple displays these offers to eligible customers in various places, including:</p>
+<ul>
+<li>Across the App Store, including on your product page, as well as in personalized recommendations and editorial selections on the Today, Games, and Apps tabs.</li>
+<li>In your app or game.</li>
+<li>Via a direct link you share using your own marketing channels.</li>
+<li>In Subscription settings.</li>
+</ul>
+<p>When creating win-back offers in App Store Connect, you’ll determine customer eligibility, select regional availability, and choose the discount type. Eligible customers will be able to discover win-back offers this fall.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Update on iPadOS 18 apps distributed in the European Union</title>
+      <link>https://n-kase.github.io/rss/posts/post-545/</link>
+      <pubDate>Mon, 15 Jun 2026 19:31:37 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-545/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2024年9月13日にAppleは、EUでのiPadOS 18アプリの配信に関するApp Review Guidelinesを改訂し、9月16日からEUのユーザーがApp Storeおよび代替配信経由でiPadOSアプリをダウンロードできるようになると発表した。これにより、代替ブラウザーエンジンの利用や過去のインストールレポートへのiPadOSの組み込みが可能になり、既存の契約を結んでいる開発者は最新バージョンに署名する必要がある。この変更は、EUのデジタル市場法に対応したものであり、開発者にとっては新たな配信ルールへの適応が求められ、ユーザーには選択肢が広がるという示唆がある。したがって、開発者はガイドラインの最新版を確認し、必要な追加契約に署名することで、EU市場でのコンプライアンスを保ちつつ、より柔軟なアプリ配信を活用すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="EUでのiPadOS\u00a018アプリ配信のアップデート" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d1bdbf4b0124c7a25021690401ccdda8.png"></p>
+<h2 id="euでのipados-18アプリ配信のアップデート">EUでのiPadOS 18アプリ配信のアップデート
+</h2><p>2024年9月13日</p>
+<p><a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a>は、iPadOSを公証(Notarization)に追加する形で改訂されました。</p>
+<p>9月16日から：</p>
+<ul>
+<li>EUのユーザーは、App Storeおよび代替配信経由でiPadOSアプリをダウンロードできるようになります。<a class="link" href="https://developer.apple.com/news/?id=d0z8d8rx"  target="_blank" rel="noopener"
+    >5月に述べた通り</a>、EU向けアプリの代替利用規約追加文書に同意している場合、iPadOSの初年度インストールが累積を開始し、App Storeの低い手数料率が適用されます。</li>
+<li>iPadOSアプリでは代替ブラウザーエンジンを使用できます。</li>
+<li>App Store Connectの過去のAppインストールレポートは、<a class="link" href="https://developer.apple.com/support/fee-calculator-for-apps-in-the-eu/"  target="_blank" rel="noopener"
+    >EU向けアプリの手数料計算ツール</a>と併用してiPadOSを含むようになります。</li>
+</ul>
+<p>以下の契約の以前のバージョンに同意している場合は、iPadOSをサポートする最新バージョンに必ず署名してください：</p>
+<ul>
+<li><a class="link" href="https://developer.apple.com/contact/request/alternative-eu-terms-addendum/"  target="_blank" rel="noopener"
+    >EU向けアプリの代替利用規約追加文書</a></li>
+<li><a class="link" href="https://developer.apple.com/contact/request/web-browser-engine/"  target="_blank" rel="noopener"
+    >EU向けアプリのウェブブラウザーエンジン権利追加文書</a></li>
+<li><a class="link" href="https://developer.apple.com/contact/request/embdedded-browser-engine/"  target="_blank" rel="noopener"
+    >EU向けアプリの組み込みブラウザーエンジン権利追加文書</a></li>
+</ul>
+<p><a class="link" href="https://developer.apple.com/support/dma-and-apps-in-the-eu"  target="_blank" rel="noopener"
+    >EUでのアプリ配信のアップデートについて詳しくはこちら</a></p>
+<p>ガイドラインの翻訳は、<a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developerウェブサイト</a>で1か月以内に公開されます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Update on iPadOS\u00a018 apps distributed in the European\u00a0Union" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d1bdbf4b0124c7a25021690401ccdda8.png"></p>
+<h2 id="update-on-ipados-18-apps-distributed-in-the-european-union">Update on iPadOS 18 apps distributed in the European Union
+</h2><p>September 13, 2024</p>
+<p>The <a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a> have been revised to add iPadOS to Notarization.</p>
+<p>Starting September 16:</p>
+<ul>
+<li>Users in the EU can download iPadOS apps on the App Store and through alternative distribution. <a class="link" href="https://developer.apple.com/news/?id=d0z8d8rx"  target="_blank" rel="noopener"
+    >As mentioned in May</a>, if you have entered into the Alternative Terms Addendum for Apps in the EU, iPadOS first annual installs will begin to accrue and the lower App Store commission rate will apply.</li>
+<li>Alternative browser engines can be used in iPadOS apps.</li>
+<li>Historical App Install Reports in App Store Connect that can be used with our <a class="link" href="https://developer.apple.com/support/fee-calculator-for-apps-in-the-eu/"  target="_blank" rel="noopener"
+    >fee calculator</a>will include iPadOS.</li>
+</ul>
+<p>If you’ve entered into a previous version of the following agreements, be sure to sign the latest version, which supports iPadOS:</p>
+<ul>
+<li><a class="link" href="https://developer.apple.com/contact/request/alternative-eu-terms-addendum/"  target="_blank" rel="noopener"
+    >Alternative Terms Addendum for Apps in the EU</a></li>
+<li><a class="link" href="https://developer.apple.com/contact/request/web-browser-engine/"  target="_blank" rel="noopener"
+    >Web Browser Engine Entitlement Addendum for Apps in the EU</a></li>
+<li><a class="link" href="https://developer.apple.com/contact/request/embdedded-browser-engine/"  target="_blank" rel="noopener"
+    >Embedded Browser Engine Entitlement Addendum for Apps in the EU</a></li>
+</ul>
+<p><a class="link" href="https://developer.apple.com/support/dma-and-apps-in-the-eu"  target="_blank" rel="noopener"
+    >Learn more about the update on apps distributed in the EU</a></p>
+<p>Translations of the guidelines will be available on the <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Upcoming regional age ratings in Australia and France</title>
+      <link>https://n-kase.github.io/rss/posts/post-544/</link>
+      <pubDate>Mon, 15 Jun 2026 19:30:34 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-544/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは、オーストラリアとフランスの現地法に従って、App Storeにおける地域別の年齢レーティングを今後数か月で導入すると発表しました。オーストラリアではシミュレートされたギャンブルを含むアプリにR18+の地域レーティングが追加され、フランスでは既にグローバルレーティングが17+のアプリに18+の地域レーティングが併記されます。これにより、ユーザーは特に未成年者に対してより適切なコンテンツフィルタリングが期待でき、開発者は現地の規制に合わせてアプリのレーティングを見直す必要が生じるでしょう。したがって、開発者は自社のアプリが新しいレーティング要件に合致しているか確認し、ユーザーは安心してアプリを利用できる環境が整うという教訓が得られます。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="オーストラリアとフランスの今後の地域別年齢レーティング" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c04297658a0756cbd751f514dfddc779.png"></p>
+<h2 id="オーストラリアとフランスの今後の地域別年齢レーティング">オーストラリアとフランスの今後の地域別年齢レーティング
+</h2><p>2024年9月26日</p>
+<p>Appleは、特に子どもたちを含むすべての人にとって安全なApp Storeを提供することに取り組んでいます。今後数か月の間、オーストラリアとフランスの以下の地域別年齢レーティングが現地の法律に従って実装されます。あなた側で何かを行う必要はありません。現地の規制で必要とされる場合、地域別レーティングはAppleのグローバル年齢レーティングとともに表示されます。</p>
+<p><strong>オーストラリア</strong></p>
+<p>シミュレートされたギャンブルのインスタンスがあるあらゆるアプリは、オーストラリアのApp StoreにおいてAppleのグローバル年齢レーティングに加えてR18+の地域別年齢レーティングを表示します。</p>
+<p><strong>フランス</strong></p>
+<p>Appleのグローバル年齢レーティングが17+のアプリは、フランスのApp Storeにおいてさらに18+の地域別年齢レーティングを表示します。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Upcoming regional age ratings in Australia and\u00a0France" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c04297658a0756cbd751f514dfddc779.png"></p>
+<h2 id="upcoming-regional-age-ratings-in-australia-and-france">Upcoming regional age ratings in Australia and France
+</h2><p>September 26, 2024</p>
+<p>Apple is committed to making the App Store a safe place for everyone — especially kids. Within the next few months, the following regional age ratings for Australia and France will be implemented in accordance with local laws. No action is needed on your part. Where required by local regulations, regional ratings will appear alongside Apple global age ratings.</p>
+<p><strong>Australia</strong></p>
+<p>Apps with any instances of simulated gambling will display an R18+ regional age rating in addition to the Apple global age rating on the App Store in Australia.</p>
+<p><strong>France</strong></p>
+<p>Apps with a 17+ Apple global age rating will also display an 18+ regional age rating on the App Store in France.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>New requirement for app updates in the European Union</title>
+      <link>https://n-kase.github.io/rss/posts/post-539/</link>
+      <pubDate>Mon, 15 Jun 2026 19:25:51 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-539/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2024年10月17日から、欧州連合（EU）向けのApp Storeでアプリのアップデートを提出する際、開発者アカウントの保持者または管理者がApp Store Connectでトレーダー状態を入力することを義務付けました。トレーダーである場合は、アプリの審査提出前にトレーダー情報を提供する必要があります。さらに、2025年2月17日からはトレーダー状態が未登録のアプリはEUのApp Storeから削除され、状態が提供・確認されるまで復帰できません。この措置はEUのデジタルサービス法に準拠するためのもので、プラットフォームの透明性と責任を高めようとする動きです。それにより、特に個人開発者や小規模チームは新たな手続きに対応する負担が増え、情報提供の遅れがアプリ配信の中断リスクを高める可能性があります。したがって、開発者は早めにトレーダー情報を登録し、規制要件を満たすことでサービスの継続を確保すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="New requirement for app updates in the European\u00a0Union" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a0c5138e2ba690e7f0014b3be0264826.png"></p>
+<h2 id="new-requirement-for-app-updates-in-the-european-union">New requirement for app updates in the European Union
+</h2><p>October 17, 2024</p>
+<p><strong>Starting today</strong>, in order to submit updates for apps on the App Store in the European Union (EU) Account Holders or Admins in the Apple Developer Program need to enter trader status in App Store Connect. If you’re a trader, you’ll need to provide your trader information before you can submit your app for review.</p>
+<p><strong>Starting February 17, 2025</strong>, apps without trader status will be removed from the App Store in the EU until trader status is provided and verified in order to comply with the <a class="link" href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en"  target="_blank" rel="noopener"
+    >Digital Services Act</a>.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="New requirement for app updates in the European\u00a0Union" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a0c5138e2ba690e7f0014b3be0264826.png"></p>
+<h2 id="new-requirement-for-app-updates-in-the-european-union-1">New requirement for app updates in the European Union
+</h2><p>October 17, 2024</p>
+<p><strong>Starting today</strong>, in order to submit updates for apps on the App Store in the European Union (EU) Account Holders or Admins in the Apple Developer Program need to enter trader status in App Store Connect. If you’re a trader, you’ll need to provide your trader information before you can submit your app for review.</p>
+<p><strong>Starting February 17, 2025</strong>, apps without trader status will be removed from the App Store in the EU until trader status is provided and verified in order to comply with the <a class="link" href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en"  target="_blank" rel="noopener"
+    >Digital Services Act</a>.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Upcoming changes to the App Store Receipt Signing Intermediate Certificate</title>
+      <link>https://n-kase.github.io/rss/posts/post-535/</link>
+      <pubDate>Mon, 15 Jun 2026 19:21:45 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-535/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleはセキュリティ向上のため、App Storeのレシートに署名する中間証明書をSHA-256アルゴリズムに変更し、2025年1月24日から適用します。この変更により、デバイス上でレシートを検証し、SHA-256に対応していないアプリは検証に失敗し、その結果ユーザーがアプリや有料コンテンツにアクセスできなくなる可能性があります。そのため、開発者はアプリをSHA-256に対応させるか、AppTransactionやTransaction APIを使ってトランザクションを検証するよう対応するべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Upcoming changes to the App Store Receipt Signing Intermediate Certificate" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1df3c9b947e5dcde1ae52cfde4a0945b.png"></p>
+<h2 id="app-store-レシート署名中間証明書の今後の変更">App Store レシート署名中間証明書の今後の変更
+</h2><p>2024年10月31日</p>
+<p>Apple プラットフォームのセキュリティとプライバシーを向上させる継続的な取り組みの一環として、App Store レシート署名中間証明書が SHA-256 暗号アルゴリズムを使用するように更新されています。この証明書は、アプリおよびアプリ内購入の購入証明である App Store レシートに署名するために使用されます。</p>
+<p>この更新は、<a class="link" href="https://developer.apple.com/news/?id=smofnyhj"  target="_blank" rel="noopener"
+    >複数のフェーズ</a> で完了され、レシートの検証方法によっては、次の更新で App Store 上の既存の一部のアプリに影響が出る可能性があります。</p>
+<p><strong>2025年1月24日</strong> から、デバイス上でレシート検証を行い、SHA-256 アルゴリズムをサポートしていないアプリは、レシートの検証に失敗します。レシート検証に失敗するとアプリやプレミアムコンテンツへのアクセスをブロックするアプリの場合、ユーザーはコンテンツへのアクセスを失う可能性があります。</p>
+<p>デバイス上でレシート検証を行うアプリは、SHA-256 アルゴリズムを使用する証明書をサポートするようにアプリを更新してください。あるいは、<a class="link" href="https://developer.apple.com/documentation/storekit/apptransaction"  target="_blank" rel="noopener"
+    >AppTransaction</a> と <a class="link" href="https://developer.apple.com/documentation/storekit/transaction"  target="_blank" rel="noopener"
+    >Transaction</a> API を使用して App Store トランザクションを検証してください。</p>
+<p>詳細については、<a class="link" href="https://developer.apple.com/documentation/technotes/tn3138-handling-app-store-receipt-signing-certificate-changes"  target="_blank" rel="noopener"
+    >TN3138: App Store レシート署名証明書の変更への対応</a> を参照してください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Upcoming changes to the App Store Receipt Signing Intermediate Certificate" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1df3c9b947e5dcde1ae52cfde4a0945b.png"></p>
+<h2 id="upcoming-changes-to-the-app-store-receipt-signing-intermediate-certificate">Upcoming changes to the App Store Receipt Signing Intermediate Certificate
+</h2><p>October 31, 2024</p>
+<p>As part of ongoing efforts to improve security and privacy on Apple platforms, the App Store receipt signing intermediate certificate is being updated to use the SHA-256 cryptographic algorithm. This certificate is used to sign App Store receipts, which are the proof of purchase for apps and In-App Purchases.</p>
+<p>This update is being completed in <a class="link" href="https://developer.apple.com/news/?id=smofnyhj"  target="_blank" rel="noopener"
+    >multiple phases</a> and some existing apps on the App Store may be impacted by the next update, depending on how they verify receipts.</p>
+<p>Starting <strong>January 24, 2025</strong>, if your app performs on-device receipt validation and doesn&rsquo;t support a SHA-256 algorithm, your app will fail to validate the receipt. If your app prevents customers from accessing the app or premium content when receipt validation fails, your customers may lose access to their content.</p>
+<p>If your app performs on-device receipt validation, update your app to support certificates that use the SHA-256 algorithm; alternatively, use the <a class="link" href="https://developer.apple.com/documentation/storekit/apptransaction"  target="_blank" rel="noopener"
+    >AppTransaction</a> and <a class="link" href="https://developer.apple.com/documentation/storekit/transaction"  target="_blank" rel="noopener"
+    >Transaction</a> APIs to verify App Store transactions.</p>
+<p>For more details, view <a class="link" href="https://developer.apple.com/documentation/technotes/tn3138-handling-app-store-receipt-signing-certificate-changes"  target="_blank" rel="noopener"
+    >TN3138: Handling App Store receipt signing certificate change</a>.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Enhancements to the App Store featuring process</title>
+      <link>https://n-kase.github.io/rss/posts/post-531/</link>
+      <pubDate>Mon, 15 Jun 2026 19:18:14 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-531/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2024年11月12日に、App Store Connectに新たな「Featuring Nominations」機能を追加し、開発者が新規リリースやアプリ内コンテンツ、機能追加などを審査対象として nominate できるようになったと発表しました。これにより、選ばれたプレイスメント（例：Todayタブ）に掲載されると開発者はApp Store Connectアプリを通じて通知を受け取れるほか、リリースやバージョンアップなどの大きな瞬間を強調するための完成済みマーケティングアセットを生成し、SNSで共有できるようになりました。開発者はこれらのツールを活用してアプリの認知度を高め、ダウンロード促進につなげることが期待されます。したがって、開発者は新機能を積極的に使い、タイミングよくプロモーションを行うべきだと示唆されます。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="app-storeのフィーチャー-プロセスの強化">App Storeのフィーチャー プロセスの強化
+</h2><p>2024年11月12日</p>
+<p><img alt="さまざまなApp Store画面を表示するMacBook、iPad、iPhone" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e89098b2211420358baab57cf6d18653.jpeg"></p>
+<p>新しいFeaturing Nominations機能を使って、App Store Connectでアプリまたはゲームの今後のコンテンツや機能強化をフィーチャー検討のために共有できます。ノミネートを送信して、新しいリリース、アプリ内コンテンツ、または追加機能について私たちのチームに知らせてください。Todayタブの選ばれたプレイスメントにフィーチャーされた場合、App Store Connectアプリを通じても通知を受け取ります。</p>
+<p>さらに、アプリまたはゲームの大きな瞬間—例えばアプリのリリース、新しいバージョン、またはApp Storeでの選ばれたフィーチャー プレイスメント—を、完成済みのマーケティングアセットでプロモーションできます。App Store Connectアプリを使ってAppleがデザインしたアセットを生成し、ソーシャルメディアチャンネルで共有してください。提供されたリンクをアセットと一緒に含めると、人々はApp Storeであなたのアプリまたはゲームを簡単にダウンロードできます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="enhancements-to-the-app-store-featuring-process">Enhancements to the App Store featuring process
+</h2><p>November 12, 2024</p>
+<p><img alt="A MacBook, iPad, and iPhone showing various App Store screens." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e89098b2211420358baab57cf6d18653.jpeg"></p>
+<p>Share your app or game’s upcoming content and enhancements for App Store featuring consideration with new Featuring Nominations in App Store Connect. Submit a nomination to tell our team about a new launch, in-app content, or added functionality. If you’re featured in select placements on the Today tab, you’ll also receive a notification via the App Store Connect app.</p>
+<p>In addition, you can promote your app or game’s biggest moments — such as an app launch, new version, or select featuring placements on the App Store — with readymade marketing assets. Use the App Store Connect app to generate Apple-designed assets and share them to your social media channels. Include the provided link alongside your assets so people can easily download your app or game on the App Store.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Price and tax updates for apps, In-App Purchases, and subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-530/</link>
+      <pubDate>Mon, 15 Jun 2026 19:17:10 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-530/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは税制や為替の変動に応じてアプリおよびアプリ内購入の価格と開発者への収益を調整すると発表し、10月にネパールとカザフスタンでは付加価値税の納付を停止して現地開発者の収益を増額し、マデイラではニュース関連出版物のVAT率を5%から4%に引き下げた。12月2日からは日本とトルコのストアフロントで価格が更新され、ベースとして選択していない場合は自動的に調整され、ベースとして選択している場合は変更されないため、開発者はグローバルでの価格統一を保ちつつ柔軟に価格管理できる。したがって、開発者は自分のアプリのベース国・地域を確認し、必要に応じて価格設定を見直すことが推奨される。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Price and tax updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a0c5138e2ba690e7f0014b3be0264826.png"></p>
+<h2 id="アプリアプリ内購入およびサブスクリプションの価格と税金の更新">アプリ、アプリ内購入、およびサブスクリプションの価格と税金の更新
+</h2><p>2024年11月14日</p>
+<p>App Storeは、44種類の通貨に対応し、175のストアフロントでデジタル商品およびサービスを世界中で簡単に販売できるように設計されています。</p>
+<p>税規則や為替レートの変更により、価格または開発者への収益を調整する必要が生じることがあります。これらの調整は、金融データプロバイダーから公開されている為替レート情報を使用して行われ、アプリおよびアプリ内購入の価格がすべてのストアフロントで一貫しているように保つためです。</p>
+<p><strong>2024年10月の税金更新：</strong></p>
+<p>該当するアプリおよびアプリ内購入の販売による開発者への収益が以下の地域で増加しました：</p>
+<ul>
+<li>**ネパール：**Appleはネパールの付加価値税（VAT）をローカル開発者に対して納付しなくなり、それに応じて収益が増加しました。</li>
+<li>**カザフスタン：**AppleはカザフスタンのVATをローカル開発者に対して納付しなくなり、それに応じて収益が増加しました。</li>
+<li>**マデイラ：**ニュース出版物、雑誌、その他の定期刊行物、書籍、オーディオブックに対するマデイラのVAT率が5%から4%に引き下げられました。</li>
+</ul>
+<p>有料アプリケーション契約の展示Bが更新され、Appleがネパールおよびカザフスタンのローカル開発者に対してVATを納付しないことを示すようになりました。</p>
+<p><strong>収益について詳しくはこちら</strong></p>
+<p><strong>2024年12月2日の価格更新：</strong></p>
+<p>アプリおよびアプリ内購入の価格は、日本およびトルコのストアフロントで更新されます。これらをアプリまたはアプリ内購入のベースとして選択していない場合に適用されます。</p>
+<p>日本またはトルコのストアフロントをアプリまたはアプリ内購入のベースとして選択している場合、価格は変更されません。その他のストアフロントでは、選択したベース価格との均等化を維持するために価格が更新されます。</p>
+<p>アプリ内購入が自動更新サブスクリプションである場合、どの地域でも価格は変更されません。また、自動均等価格ではなく手動で価格を管理しているストアフロントでも価格は変更されません。</p>
+<p>Appの「価格と利用可能性」セクションが<a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a>で更新され、これらの今後の価格変更が表示されます。いつでもアプリ、アプリ内購入、および自動更新サブスクリプションの価格を変更できます。</p>
+<p><strong>価格管理について詳しくはこちら</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >今後の価格変更を表示または編集する</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >アプリのベース国または地域を編集する</a></p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Price and tax updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a0c5138e2ba690e7f0014b3be0264826.png"></p>
+<h2 id="price-and-tax-updates-for-apps-in-app-purchases-and-subscriptions">Price and tax updates for apps, In-App Purchases, and subscriptions
+</h2><p>November 14, 2024</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.</p>
+<p>From time to time, we may need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>Tax updates as of October:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been increased in:</p>
+<ul>
+<li>**Nepal:**Apple no longer remits Nepal value-added tax (VAT) for local developers and proceeds were increased accordingly.</li>
+<li>**Kazakhstan:**Apple no longer remits Kazakstan VAT for local developers and proceeds were increased accordingly.</li>
+<li>**Madeira:**Decrease of the Madeira VAT rate from 5% to 4% for news publications, magazines and other periodicals, books, and audiobooks.</li>
+</ul>
+<p>Exhibit B of the Paid Applications Agreement has been updated to indicate that Apple will not remit VAT in Nepal and Kazakhstan for local developers.</p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p><strong>Price updates as of December 2:</strong></p>
+<ul>
+<li>Pricing for apps and In-App Purchases will be updated for the Japan and Türkiye storefronts if you haven’t selected one of these as the base for your app or In‑App Purchases.</li>
+</ul>
+<p>If you’ve selected the Japan or Türkiye storefront as the base for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription and won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>App Store Award finalists announced</title>
+      <link>https://n-kase.github.io/rss/posts/post-529/</link>
+      <pubDate>Mon, 15 Jun 2026 19:16:16 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-529/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2024年11月25日にApp Storeの賞のファイナリストが発表され、今年も40以上の優れたアプリやゲームが選出された。この賞は、技術的な革新や優れたユーザー体験、デザイン、そしてポジティブな文化的影響を示す作品を称えるものであり、毎年多くの開発者に刺激を与えている。今回の発表により、優れたアプリがさらに注目され、ユーザーは新しい体験や便利なツールへの期待が高まる一方で、開発者側には品質向上やイノベーションへの継続的な投資が促されそうだ。したがって、このような賞を通じて優れたデジタル製品を支援し、フィードバックを活かすことが、全体のエコシステムを健全に成長させる鍵となるだろう。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="app-store-award-finalists-announced">App Store Award finalists announced
+</h2><p>November 25, 2024</p>
+<p><img alt="A white App Store logo set against a deep blue background" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b906fa9cfa3631f29f3e177e710dcced.jpeg"></p>
+<p>Every year, the App Store Awards celebrate exceptional apps and games that improve people&rsquo;s lives while showcasing the highest levels of technical innovation, user experience, design, and positive cultural impact. This year, the App Store Editorial team is proud to recognize over 40 outstanding finalists. Winners will be announced in the coming weeks.</p>
+<p>毎年、App Store Awardは人々の生活を向上させる優れたアプリやゲームを称え、技術革新、ユーザー体験、デザイン、そしてポジティブな文化的影響における最高レベルを示します。今年、App Store編集チームは40以上の優れたファイナリストを誇りを持って認めます。受賞者は今後数週間以内に発表されます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="app-store-award-finalists-announced-1">App Store Award finalists announced
+</h2><p>November 25, 2024</p>
+<p><img alt="A white App Store logo set against a deep blue background" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b906fa9cfa3631f29f3e177e710dcced.jpeg"></p>
+<p>Every year, the App Store Awards celebrate exceptional apps and games that improve people&rsquo;s lives while showcasing the highest levels of technical innovation, user experience, design, and positive cultural impact. This year, the App Store Editorial team is proud to recognize over 40 outstanding finalists. Winners will be announced in the coming weeks.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Get your apps and games ready for the holidays</title>
+      <link>https://n-kase.github.io/rss/posts/post-528/</link>
+      <pubDate>Mon, 15 Jun 2026 19:16:05 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-528/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはApp Storeのホリデーシーズンが目前に迫っていることを受けて、開発者にアプリやゲームを最新状態に保ち、早めに提出するよう呼びかけ、特に12月20日から26日は審査件数が増えて時間がかかる可能性があるため、時間に敏感なアップデートは余裕を持って行うべきだと指摘した。これにより、開発者は提出のタイミングを誤るとレビュー遅延や品質低下のリスクに直面し、ユーザー体験にも影響が出る可能性がある。したがって、開発者は余裕を持ったスケジュールで事前にテストと準備を済ませ、ホリデー需要に備えることが求められる。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="ホリデーに向けてアプリとゲームを準備しよう">ホリデーに向けてアプリとゲームを準備しよう
+</h2><p>2024年12月2日</p>
+<p><img alt="ライトグレーの背景に青いApp Storeロゴ" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6bbbce894bc49e644e01cb05d59cf3b2.jpeg"></p>
+<p>App Storeの最も忙しいシーズンが目前に迫っています。アプリとゲームを最新の状態に保ち、準備を整えてください。</p>
+<p>App Reviewはホリデーシーズンを通じて提出を受け付け続けます。ボリュームが高くなり、12月20日から26日の間は審査に時間がかかることが予想されるため、時間に敏感な提出は早めに計画してください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="get-your-apps-and-games-ready-for-the-holidays">Get your apps and games ready for the holidays
+</h2><p>December 2, 2024</p>
+<p><img alt="The App Store logo in blue against a light gray background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6bbbce894bc49e644e01cb05d59cf3b2.jpeg"></p>
+<p>The busiest season on the App Store is almost here. Make sure your apps and games are up to date and ready.</p>
+<p>App Review will continue to accept submissions throughout the holiday season. Please plan to submit time-sensitive submissions early, as we anticipate high volume and reviews may take longer to complete from December 20-26.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>App Store Award winners announced</title>
+      <link>https://n-kase.github.io/rss/posts/post-525/</link>
+      <pubDate>Mon, 15 Jun 2026 19:14:32 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-525/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2024年12月11日にApp Storeの受賞者が発表され、世界中の開発者の優れた仕事が称えられたことで、開発コミュニティへの注目が高まり、今後のアプリ開発への意欲や革新がさらに促進されることが期待され、開発者を応援し、技術の進歩を支援する姿勢が求められている。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p>App Store Award winners announced December 11, 2024 Join us in celebrating the outstanding work of these developers from around the world.Meet the winners</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p>App Store Award winners announced December 11, 2024 Join us in celebrating the outstanding work of these developers from around the world.Meet the winners</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Reminder: Upcoming Changes to the App Store Receipt Signing Intermediate Certificate</title>
+      <link>https://n-kase.github.io/rss/posts/post-520/</link>
+      <pubDate>Mon, 15 Jun 2026 19:10:41 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-520/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは、セキュリティ向上のためApp Storeレシート署名の中間証明書をSHA-256アルゴリズムに変更しており、2025年1月24日からデバイス上でレシート検証を行いSHA-256に対応していないアプリは検証に失敗し、コンテンツへのアクセスがブロックされる可能性がある。これにより、影響を受けるアプリのユーザーが購入した機能やコンテンツを利用できなくなるリスクが高まる。したがって、開発者はアプリをSHA-256に対応させるか、AppTransaction／Transaction APIを使った検証に切り替えることで、サービスの中断を防ぐべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="App\u00a0Store レシート署名中間証明書の今後の変更についてのリマインダー" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9a06ed283499b7f13b5c9e3be007df56.png"></p>
+<h2 id="appstore-レシート署名中間証明書の今後の変更についてのリマインダー">App Store レシート署名中間証明書の今後の変更についてのリマインダー
+</h2><p>2025年1月16日</p>
+<p>Apple プラットフォームのセキュリティとプライバシーを向上させる継続的な取り組みの一環として、App Store レシート署名の中間証明書が SHA-256 暗号アルゴリズムを使用するように更新されています。この証明書は、アプリおよびアプリ内購入の購入証明である App Store レシートに署名するために使用されます。</p>
+<p>この更新は<a class="link" href="https://developer.apple.com/news/?id=smofnyhj"  target="_blank" rel="noopener"
+    >複数のフェーズ</a>で行われており、レシートの検証方法によっては、次の更新で App Store 上の既存の一部のアプリに影響が出る可能性があります。</p>
+<p><strong>2025年1月24日</strong> から、デバイス上でレシート検証を行い、SHA-256 アルゴリズムをサポートしていないアプリはレシートの検証に失敗します。検証に失敗したときにアプリまたはプレミアムコンテンツへのアクセスをブロックする仕組みになっているアプリでは、ユーザーがコンテンツにアクセスできなくなる可能性があります。</p>
+<p>デバイス上でレシート検証を行うアプリについては、SHA-256 を使用する証明書をサポートするようにアプリを更新してください。あるいは、<a class="link" href="https://developer.apple.com/documentation/storekit/apptransaction"  target="_blank" rel="noopener"
+    >AppTransaction</a> と <a class="link" href="https://developer.apple.com/documentation/storekit/transaction"  target="_blank" rel="noopener"
+    >Transaction</a> API を使って App Store のトランザクションを検証してください。</p>
+<p>詳細については、<a class="link" href="https://developer.apple.com/documentation/technotes/tn3138-handling-app-store-receipt-signing-certificate-changes"  target="_blank" rel="noopener"
+    >TN3138: App Store レシート署名証明書の変更への対応</a> を参照してください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Reminder: Upcoming Changes to the App\u00a0Store Receipt Signing Intermediate Certificate" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9a06ed283499b7f13b5c9e3be007df56.png"></p>
+<h2 id="reminder-upcoming-changes-to-the-app-store-receipt-signing-intermediate-certificate">Reminder: Upcoming Changes to the App Store Receipt Signing Intermediate Certificate
+</h2><p>January 16, 2025</p>
+<p>As part of ongoing efforts to improve security and privacy on Apple platforms, the App Store receipt signing intermediate certificate is being updated to use the SHA-256 cryptographic algorithm. This certificate is used to sign App Store receipts, which are the proof of purchase for apps and In-App Purchases.</p>
+<p>This update is being completed in <a class="link" href="https://developer.apple.com/news/?id=smofnyhj"  target="_blank" rel="noopener"
+    >multiple phases</a> and some existing apps on the App Store may be impacted by the next update, depending on how they verify receipts.</p>
+<p>Starting <strong>January 24, 2025</strong>, if your app performs on-device receipt validation and doesn’t support the SHA-256 algorithm, your app will fail to validate the receipt. If your app prevents customers from accessing the app or premium content when receipt validation fails, your customers may lose access to their content.</p>
+<p>If your app performs on-device receipt validation, update your app to support certificates that use the SHA-256 algorithm; alternatively, use the <a class="link" href="https://developer.apple.com/documentation/storekit/apptransaction"  target="_blank" rel="noopener"
+    >AppTransaction</a> and <a class="link" href="https://developer.apple.com/documentation/storekit/transaction"  target="_blank" rel="noopener"
+    >Transaction</a> APIs to verify App Store transactions.</p>
+<p>For more details, view <a class="link" href="https://developer.apple.com/documentation/technotes/tn3138-handling-app-store-receipt-signing-certificate-changes"  target="_blank" rel="noopener"
+    >TN3138: Handling App Store receipt signing certificate changes</a>.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Apps without trader status will be removed from the App Store in the EU</title>
+      <link>https://n-kase.github.io/rss/posts/post-519/</link>
+      <pubDate>Mon, 15 Jun 2026 19:09:53 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-519/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>EUのデジタルサービス法に基づき、2025年2月17日からトレーダー ステータスを持たないアプリはEUのApp Storeから削除され、ステータスが提供・確認されるまで復帰しない。これにより開発者はApp Store Connectでトレーダー ステータスを速やかに登録しなければならず、未対応のアプリが利用できなくなるリスクやユーザーへの影響が懸念される。したがって、開発者は今すぐ必要な情報を入力してコンプライアンスを確保し、サービスの中断を防ぐべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Apps without trader status will be removed from the App\u00a0Store in\u00a0the\u00a0EU" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a0c5138e2ba690e7f0014b3be0264826.png"></p>
+<h2 id="apps-without-trader-status-will-be-removed-from-the-app-store-in-the-eu">Apps without trader status will be removed from the App Store in the EU
+</h2><p>2025年1月16日</p>
+<p><strong>2025年2月17日から開始</strong>：欧州連合の<a class="link" href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en"  target="_blank" rel="noopener"
+    >デジタルサービス法</a>により、トレーダー ステータスを持たないアプリは、トレーダー ステータスが提供され、必要に応じて確認されるまで、EUのApp Storeから削除されます。</p>
+<p>リマインダーとして、Apple Developer Programのアカウント保持者または管理者は、EUのApp Storeに掲載されているアプリについて、デジタルサービス法への準拠のためにApp Store Connectでトレーダー ステータスを入力する必要があります。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Apps without trader status will be removed from the App\u00a0Store in\u00a0the\u00a0EU" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a0c5138e2ba690e7f0014b3be0264826.png"></p>
+<h2 id="apps-without-trader-status-will-be-removed-from-the-app-store-in-the-eu-1">Apps without trader status will be removed from the App Store in the EU
+</h2><p>January 16, 2025</p>
+<p><strong>Starting February 17, 2025</strong>: Due to the European Union’s <a class="link" href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en"  target="_blank" rel="noopener"
+    >Digital Services Act</a>, apps without trader status will be removed from the App Store in the European Union until trader status is provided and verified, if necessary.</p>
+<p>As a reminder, Account Holders or Admins in the Apple Developer Program need to enter trader status in App Store Connect for apps on the App Store in the European Union in order to comply with the Digital Services Act.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Introducing the Advanced Commerce API</title>
+      <link>https://n-kase.github.io/rss/posts/post-518/</link>
+      <pubDate>Mon, 15 Jun 2026 19:09:40 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-518/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年1月23日に、開発者が非常に大きなコンテンツカタログやクリエイター体験、オプションのアドオンを含むサブスクリプションなどの進化するビジネスモデルをサポートし、アプリ内課金をより柔軟に管理できるようにするAdvanced Commerce APIを発表した。このAPIは、エンドツーエンドの支払い処理、税務サポート、カスタマーサービスなど、信頼できるApp Storeのコマースシステムを活用できるため、開発者はアプリ体験の向上に専念できるようになる。その結果、ビジネスの成長や顧客満足度の向上が期待され、多様なサービスが生まれやすくなる環境が整う。したがって、開発者はこのAPIを積極的に申請・活用し、信頼できるインフラストラクチャを基盤にイノベーティブなサービスを提供すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Introducing the Advanced\u00a0Commerce\u00a0API" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c04297658a0756cbd751f514dfddc779.png"></p>
+<h2 id="advanced-commerce-api-の紹介">Advanced Commerce API の紹介
+</h2><p>2025年1月23日</p>
+<p>App Store は年間数十億件の取引を仲介し、開発者がビジネスを成長させ、世界クラスの顧客体験を提供できるよう支援しています。開発者の進化するビジネスモデル——たとえば非常に大きなコンテンツカタログ、クリエイター体験、オプションのアドオンを含むサブスクリプション——をさらにサポートするため、Advanced Commerce API を導入します。</p>
+<p>開発者は Advanced Commerce API を利用するために申請でき、該当する App Store のビジネスモデルをサポートし、アプリ内での In-App Purchases をより柔軟に管理できます。これらの購入は、エンドツーエンドの支払い処理、税務サポート、カスタマーサービスなど、信頼できる App Store コマースシステムの力を活用するため、開発者は優れたアプリ体験の提供に集中できます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Introducing the Advanced\u00a0Commerce\u00a0API" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c04297658a0756cbd751f514dfddc779.png"></p>
+<h2 id="introducing-the-advanced-commerce-api">Introducing the Advanced Commerce API
+</h2><p>January 23, 2025</p>
+<p>The App Store facilitates billions of transactions annually to help developers grow their businesses and provide a world-class customer experience. To further support developers’ evolving business models — such as exceptionally large content catalogs, creator experiences, and subscriptions with optional add-ons — we’re introducing the Advanced Commerce API.</p>
+<p>Developers can apply to use the Advanced Commerce API to support eligible App Store business models and more flexibly manage their In-App Purchases within their app. These purchases leverage the power of the trusted App Store commerce system, including end-to-end payment processing, tax support, customer service, and more, so developers can focus on providing great app experiences.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Tax and price updates for apps, In-App Purchases, and subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-513/</link>
+      <pubDate>Mon, 15 Jun 2026 19:05:06 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-513/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年2月6日から税規則や為替レートの変化に応じてアプリおよびアプリ内購入の価格と開発者への収益を調整すると発表し、アゼルバイジャンやペルーでのVAT導入、スロバキア・エストニア・フィンランドでの税率変更、さらには4月1日から日本の新たなプラットフォーム課税制度による10％の消費税徴収が適用されることを明らかにした。これにより、開発者は特定の国での収益変動や価格の自動均等化の影響を受け、特に自動更新サブスクリプション以外の商品では価格が変更される可能性があるため、App Store Connectで今後の価格変更を確認し、ベース国・地域の設定や価格管理を見直す必要がある。したがって、開発者は税と価格の更新情報を定期的にチェックし、収益への予期しない影響を避けるために適切な価格設定と税務対応を行うべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="アプリ、アプリ内購入、サブスクリプションの税と価格アップデート" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="アプリアプリ内購入サブスクリプションの税と価格アップデート">アプリ、アプリ内購入、サブスクリプションの税と価格アップデート
+</h2><p>2025年2月6日</p>
+<p>App Storeは、44種類の通貨に対応し、175のストアフロントでデジタル商品やサービスを世界中で簡単に販売できるように設計されています。</p>
+<p>税規則や為替レートの変化により、価格や開発者への収益を調整する必要が生じることがあります。これらの調整は、金融データプロバイダーが提供する公開為替レート情報を使用して行われ、アプリおよびアプリ内購入の価格がすべてのストアフロントで一定になるよう支援します。</p>
+<h3 id="2月の税と価格アップデート">2月の税と価格アップデート
+</h3><p><strong>2025年2月6日現在：</strong></p>
+<p>対象となるアプリおよびアプリ内購入の販売による開発者への収益が、以下の国・地域で変更されました。</p>
+<ul>
+<li>アゼルバイジャン：付加価値税（VAT）の導入（18％）</li>
+<li>ペルー：付加価値税（VAT）の導入（18％）</li>
+<li>スロバキア：標準VAT税率が20％から23％へ引き上げ</li>
+<li>スロバキア：電子書籍に対する軽減VAT税率の導入（5％）</li>
+<li>エストニア：ニュース出版物、雑誌、その他の定期刊行物に対する軽減VAT税率が5％から9％へ引き上げ</li>
+<li>フィンランド：電子書籍に対する軽減VAT税率が10％から14％へ引き上げ</li>
+</ul>
+<p>有料アプリ契約の付属書類Bが更新され、アゼルバイジャンおよびペルーでの適用税金をAppleが徴収・納付することを示すようになりました。¹</p>
+<p><strong>2025年2月24日現在：</strong></p>
+<p>開発者がアゼルバイジャンまたはペルーをアプリまたはアプリ内購入のベースとして選択していない場合、これらのストアフロントでのアプリおよびアプリ内購入の価格が更新されます。これらの更新は、前述の税アップデートセクションに記載されたVAT導入も考慮に入れます。</p>
+<p>開発者がアゼルバイジャンまたはペルーをベースとして選択している場合、価格は変更されません。その他のストアフロントでは、選択したベース価格との均等を保つために価格が更新されます。</p>
+<p>アプリ内購入が自動更新サブスクリプションである場合、どの地域でも価格は変更されません。また、開発者が自動均等価格ではなく手動で価格を管理しているストアフロントでも価格は変更されません。</p>
+<p><a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> の「価格と提供状況」セクションが更新され、これらの今後の価格変更が表示されます。常に、開発者はいつでもアプリ、アプリ内購入、および自動更新サブスクリプションの価格を変更できます。</p>
+<p><strong>価格管理について詳しくは</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >今後の価格変更を表示または編集</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >アプリのベース国または地域を編集</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >国または地域別の価格と提供状況の開始時刻</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >アプリ内購入の価格を設定</a></p>
+<p><strong>2025年4月1日から：</strong></p>
+<p>昨年の<a class="link" href="https://www.nta.go.jp/english/taxes/consumption_tax/05.htm"  target="_blank" rel="noopener"
+    >日本の税規則の変更</a>の影響により、Apple（日本のiTunes K.K.を通じて）は日本の税当局によって「特定プラットフォーム事業者」に指定されました。日本国内のApp Storeで日本以外に拠点を置く開発者が販売するすべての有料アプリおよびアプリ内購入（ゲーム内アイテムなどのコインを含む）は、プラットフォーム課税の対象となります。Appleは購入時にこれらの取引に対して10％の日本消費税（JCT）を徴収し、日本国税庁に納付します。開発者への収益はそれに応じて調整されます。</p>
+<p>2025年4月1日以前に販売された前払い支払い手段（コインなど）はプラットフォーム課税の対象とはならず、関連するJCTの遵守は開発者が引き続き管理する必要があります。</p>
+<p>JCTがゲーム内アイテムに与える影響について詳しくは、日本税庁の<a class="link" href="https://www.nta.go.jp/english/taxes/consumption_tax/PFQA_en_foreign.pdf"  target="_blank" rel="noopener"
+    >消費税プラットフォーム課税に関するQ&amp;A</a>の質問7を参照してください。</p>
+<p><strong>収益について詳しくは</strong></p>
+<p><em>¹ 更新された契約の翻訳は、今日Apple Developerウェブサイトで利用可能です。</em></p>
+<p><em>² 自動更新サブスクリプションは除外されます。</em></p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Tax and price updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="tax-and-price-updates-for-apps-in-app-purchases-and-subscriptions">Tax and price updates for apps, In-App Purchases, and subscriptions
+</h2><p>February 6, 2025</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.</p>
+<p>From time to time, we may need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<h3 id="tax-and-pricing-updates-for-february">Tax and pricing updates for February
+</h3><p><strong>As of February 6:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in:</p>
+<ul>
+<li>Azerbaijan: value-added tax (VAT) introduction of 18%</li>
+<li>Peru: VAT introduction of 18%</li>
+<li>Slovakia: Standard VAT rate increase from 20% to 23%</li>
+<li>Slovakia: Reduced VAT rate introduction of 5% for ebooks</li>
+<li>Estonia: Reduced VAT rate increase from 5% to 9% for news publications, magazines, and other periodicals</li>
+<li>Finland: Reduced VAT rate increase from 10% to 14% for ebooks</li>
+</ul>
+<p>Exhibit B of the Paid Applications Agreement has been updated to indicate that Apple collects and remits applicable taxes in Azerbaijan and Peru.¹</p>
+<p><strong>As of February 24:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for the Azerbaijan and Peru storefronts if you haven’t selected one of these as the base for your app or In‑App Purchase.² These updates also consider VAT introductions listed in the tax updates section above.</p>
+<p>If you’ve selected the Azerbaijan or Peru storefront as the base for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p><strong>Beginning April 1:</strong></p>
+<p>As a result of last year’s <a class="link" href="https://www.nta.go.jp/english/taxes/consumption_tax/05.htm"  target="_blank" rel="noopener"
+    >change in Japan’s tax regulations</a>, Apple (through iTunes K.K. in Japan) is now designated as a Specified Platform Operator by the Japan tax authority. All paid apps and In-App Purchases, (including game items, such as coins) sold by non-Japan-based developers on the App Store in Japan will be subject to the platform tax regime. Apple will collect and remit a 10% Japanese consumption tax (JCT) to the National Tax Agency JAPAN on such transactions at the time of purchase. Your proceeds will be adjusted accordingly.</p>
+<p>Please note any prepaid payment instruments (such as coins) sold prior to April 1, 2025, will not be subject to platform taxation, and the relevant JCT compliance should continue to be managed by the developer.</p>
+<p>For specific information on how the JCT affects in-game items, see Question 7 in the Tax Agency of Japan’s <a class="link" href="https://www.nta.go.jp/english/taxes/consumption_tax/PFQA_en_foreign.pdf"  target="_blank" rel="noopener"
+    >Q&amp;A about Platform Taxation of Consumption Tax</a>.</p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p><em>¹ Translations of the updated agreement are available on the Apple Developer website today.</em></p>
+<p><em>² Excludes auto-renewable subscriptions.</em></p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Upcoming changes to offers and trials for subscriptions in South Korea</title>
+      <link>https://n-kase.github.io/rss/posts/post-512/</link>
+      <pubDate>Mon, 15 Jun 2026 19:03:44 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-512/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2025年2月14日から韓国では、自動更新型サブスクリプションの無料トライアルや割引オファーを提供するすべてのアプリに対し、初回取引後に追加のユーザー同意を30日以内に取得する新たな規制要件が適用され、Appleはメール、プッシュ通知、アプリ内価格同意シートを通じてこの同意取得を支援する；無料トライアルや割引オファーを提供しないアプリは影響を受けない。この変更は消費者の予期せぬ課金を防ぎ、透明性を高めることが期待され、開発者はサブスクリプションフローを見直し、価格提示の明確化を進める必要がある。したがって、韓国市場での信頼を維持し法令遵守を確保するため、開発者は今すぐトライアルやオファーの仕組みを見直し、適切な同意取得フローを実装すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="upcoming-changes-to-offers-and-trials-for-subscriptions-in-south-korea">Upcoming changes to offers and trials for subscriptions in South Korea
+</h2><p>February 14, 2025</p>
+<p>Starting February 14, 2025, new regulatory requirements in South Korea will apply to all apps with offers and trials for auto-renewing subscriptions.</p>
+<p>To comply, if you offer trials or offers for auto-renewing subscriptions to your app or game, additional consent must be obtained for your trial or offer after the initial transaction. The App Store will help to get consent by informing the affected subscribers with an email, push notification, and in-app price consent sheet, and asking your subscribers to agree to the new price.</p>
+<p>This additional consent must be obtained from customers within 30 days from the payment or conversion date for:</p>
+<ul>
+<li>Free to paid trials</li>
+<li>Discounted subscription offers to standard-price subscriptions</li>
+</ul>
+<p>Apps that do not offer a free trial or discounted offer before a subscription converts to the regular price are not affected.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="upcoming-changes-to-offers-and-trials-for-subscriptions-in-south-korea-1">Upcoming changes to offers and trials for subscriptions in South Korea
+</h2><p>February 14, 2025</p>
+<p>Starting February 14, 2025, new regulatory requirements in South Korea will apply to all apps with offers and trials for auto-renewing subscriptions.</p>
+<p>To comply, if you offer trials or offers for auto-renewing subscriptions to your app or game, additional consent must be obtained for your trial or offer after the initial transaction. The App Store will help to get consent by informing the affected subscribers with an email, push notification, and in-app price consent sheet, and asking your subscribers to agree to the new price.</p>
+<p>This additional consent must be obtained from customers within 30 days from the payment or conversion date for:</p>
+<ul>
+<li>Free to paid trials</li>
+<li>Discounted subscription offers to standard-price subscriptions</li>
+</ul>
+<p>Apps that do not offer a free trial or discounted offer before a subscription converts to the regular price are not affected.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>New requirement for apps on the App Store in the European Union</title>
+      <link>https://n-kase.github.io/rss/posts/post-510/</link>
+      <pubDate>Mon, 15 Jun 2026 19:02:38 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-510/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2025年2月18日から、Appleは欧州連合（EU）のApp Storeにおいて、トレーダー ステータスを持っていないアプリを一時的に削除しました。この措置は、EUのデジタルサービス法に準拠するため、アプリ開発者がApp Store Connectでトレーダー ステータスを入力し、Appleによる確認を受けることを求めているものです。これにより、特に個人開発者や小規模チームは、ステータスの取得手続きに時間やコストをかける必要が生じ、EU市場でのアプリ提供が一時的に制限される可能性があります。また、この動向は他の地域でも同様の規制が広がる兆しとなり、デジタルサービスにおける透明性と責任の重要性が再認識されるきっかけになるでしょう。したがって、開発者は速やかにトレーダー ステータスを登録し、継続的なコンプライアンス体制を整えることが求められ、法規制の変化に柔軟に対応できる体制づくりが今後の成功に不可欠です。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="New requirement for apps on the App\u00a0Store in the European\u00a0Union" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="new-requirement-for-apps-on-the-app-store-in-the-european-union">New requirement for apps on the App Store in the European Union
+</h2><p>February 18, 2025</p>
+<p><strong>As of today</strong>, apps without trader status have been removed from the App Store in the European Union (EU) until trader status is provided and verified by Apple.</p>
+<p>Account Holders or Admins in the Apple Developer Program will need to enter this status in App Store Connect to comply with the <a class="link" href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en"  target="_blank" rel="noopener"
+    >Digital Services Act</a>.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="New requirement for apps on the App\u00a0Store in the European\u00a0Union" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="new-requirement-for-apps-on-the-app-store-in-the-european-union-1">New requirement for apps on the App Store in the European Union
+</h2><p>February 18, 2025</p>
+<p><strong>As of today</strong>, apps without trader status have been removed from the App Store in the European Union (EU) until trader status is provided and verified by Apple.</p>
+<p>Account Holders or Admins in the Apple Developer Program will need to enter this status in App Store Connect to comply with the <a class="link" href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en"  target="_blank" rel="noopener"
+    >Digital Services Act</a>.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Updated guidelines now available</title>
+      <link>https://n-kase.github.io/rss/posts/post-502/</link>
+      <pubDate>Mon, 15 Jun 2026 18:56:35 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-502/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>アメリカの裁判所の判断を受けて、アプリ内のボタンや外部リンク、その他の呼びかけに関するApp Reviewガイドラインが更新され、米国のApp Storeで配信されるアプリに影響が出ています。これにより開発者はアプリのインターフェースやリンクの扱いを見直す必要が生じ、審査基準への適合が厳しくなる可能性があり、開発者コミュニティでは対応の急務や今後の動向について議論が高まっています。したがって、開発者は最新のガイドラインを速やかに確認し、アプリを適合させることで審査落ちを防ぎ、ユーザーに安心して利用してもらえる環境を維持すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="updated-guidelines-now-available">Updated guidelines now available
+</h2><p>May 1, 2025</p>
+<p>The App Review Guidelines have been updated for compliance with a United States court decision regarding buttons, external links, and other calls to action in apps. These changes affect apps distributed on the United States storefront of the App Store, and are reflected in updates to Guidelines 3.1.1, 3.1.1(a), 3.1.3, and 3.1.3(a).</p>
+<p><a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >View the App Review Guidelines</a></p>
+<p>Translations of the guidelines will be available on <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="updated-guidelines-now-available-1">Updated guidelines now available
+</h2><p>May 1, 2025</p>
+<p>The App Review Guidelines have been updated for compliance with a United States court decision regarding buttons, external links, and other calls to action in apps. These changes affect apps distributed on the United States storefront of the App Store, and are reflected in updates to Guidelines 3.1.1, 3.1.1(a), 3.1.3, and 3.1.3(a).</p>
+<p><a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >View the App Review Guidelines</a></p>
+<p>Translations of the guidelines will be available on <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Tax and Price updates for Apps, In-App Purchases, and Subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-499/</link>
+      <pubDate>Mon, 15 Jun 2026 18:53:49 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-499/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年5月16日にブラジルで新たに導入された10％のCIDE税を反映して、ブラジル以外に拠点を置く開発者のアプリおよびアプリ内購入からの収益を調整し、6月2日からブラジルとカザフスタンの価格を更新すると発表しました。さらに、8月4日からオーストリア、ドイツ、ポーランドでの自動更新サブスクリプションの価格上昇には顧客の同意が必要となり、同意がない場合は定期的に同意を求める通知が送られます。これらの変更は、税制や為替の変動に対応しつつ、世界中のストアで価格の一貫性を保ちつつ、ユーザーに価格変更の透明性を提供することを目的としており、開発者は価格設定のタイミングに注意し、必要に応じてユーザーの同意を得る準備をするべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Tax and Price updates for Apps, In-App Purchases, and Subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="アプリアプリ内購入サブスクリプションの税と価格の更新">アプリ、アプリ内購入、サブスクリプションの税と価格の更新
+</h2><p>2025年5月16日</p>
+<p>App Storeは、175のストアフロントで44通貨をサポートし、デジタル商品とサービスを世界中で簡単に販売できるように設計されています。</p>
+<p>時折、税規制や為替レートの変更により、価格または開発者の収益を調整する必要があります。これらの調整は、金融データプロバイダーから公開されている為替レート情報を使用して行われ、アプリおよびアプリ内購入の価格がすべてのストアフロントで一貫しているようにします。</p>
+<p><strong>税と価格の更新</strong></p>
+<p><strong>2025年5月16日現在：</strong></p>
+<p>ブラジルにおいて、ブラジル以外に拠点を置く開発者に対して導入された10％のCIDE税（Contribuições de Intervenção no Domínio Econômico）を考慮して、該当するアプリおよびアプリ内購入の販売による収益が変更されました。</p>
+<p><strong>2025年6月2日から：</strong></p>
+<p>アプリまたはアプリ内購入のベースストアフロントとしてブラジルまたはカザフスタンを選択していない場合、ブラジルおよびカザフスタンでのアプリおよびアプリ内購入の価格が更新されます。ブラジルの更新も、前述の10％のCIDE税導入を考慮しています。</p>
+<p>アプリまたはアプリ内購入のベースストアフロントとしてブラジルまたはカザフスタンを選択している場合、価格は変更されません。その他のストアフロントでは、選択したベース価格と均等になるように価格が更新されます。</p>
+<p>アプリ内購入が自動更新サブスクリプションの場合、どの地域でも価格は変更されません。また、自動均等価格ではなく手動で価格を管理しているストアフロントでも価格は変更されません。</p>
+<p><a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> の「価格と利用可能性」セクションが更新され、これらの今後の価格変更が表示されます。いつでも、アプリ、アプリ内購入、および自動更新サブスクリプションの価格を変更できます。</p>
+<p><strong>その他の今後の変更</strong></p>
+<p><strong>2025年8月4日から：</strong></p>
+<p>オーストリア、ドイツ、ポーランドにおけるすべての自動更新サブスクリプションの価格上昇は、サブスクリプションの継続更新のために顧客の同意が必要になります。</p>
+<ul>
+<li>
+<p>**8月4日以降開始日が設定されている価格上昇：**すべての顧客が新しい価格に同意する必要があります。同意しないか、何もしない場合、Appleはサブスクリプションが現在の請求サイクルの終了時に期限切れになるまで、約週1回の頻度でメール、プッシュ通知、アプリ内メッセージを通じて同意を求め続けます。</p>
+</li>
+<li>
+<p>**8月4日より前に開始日が設定されている価格上昇：**現在の通知基準が適用され続けます（年間サブスクリプションの場合、更新は2026年8月まで遅れる可能性があります）。<a class="link" href="https://developer.apple.com/help/app-store-connect/manage-subscriptions/manage-pricing-for-auto-renewable-subscriptions/#increase-the-price-of-an-auto-renewable-subscription"  target="_blank" rel="noopener"
+    >詳細を見る</a>、ただし、価格上昇の規模や速度によって顧客に同意が適用される場合があります。</p>
+</li>
+</ul>
+<p>スムーズな移行を支援するため、8月2日から8月4日までの間に価格上昇の開始日を設定することは避けることをお勧めします。</p>
+<p><strong>価格管理について詳しくは</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >今後の価格変更を表示または編集</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >アプリのベース国または地域を編集</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >国または地域別の価格と利用可能性の開始時間</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >アプリ内購入の価格を設定</a></p>
+<p><strong>収益について詳しくは</strong></p>
+<p>¹ 自動更新サブスクリプションは除きます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Tax and Price updates for Apps, In-App Purchases, and Subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="tax-and-price-updates-for-apps-in-app-purchases-and-subscriptions">Tax and Price updates for Apps, In-App Purchases, and Subscriptions
+</h2><p>May 16, 2025</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.</p>
+<p>From time to time, we may need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>Tax and price updates</strong></p>
+<p><strong>As of May 16:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in Brazil to account for the Contribuições de Intervenção no Domínio Econômico (CIDE) tax introduction of 10% for developers based outside of Brazil.</p>
+<p><strong>Beginning June 2:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for Brazil and Kazakhstan if you haven’t selected one of these storefronts as the base storefront for your app or In‑App Purchase.¹ The updates in Brazil also consider the 10% CIDE tax introduction.</p>
+<p>If you’ve selected Brazil or Kazakhstan as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Additional upcoming changes</strong></p>
+<p><strong>Beginning August 4:</strong></p>
+<p>All auto-renewable subscription price increases in Austria, Germany, and Poland will require customers to consent to the new price for their subscription to continue renewing.</p>
+<ul>
+<li>
+<p>**Price increases scheduled with a start date on or after August 4:**All customers must consent to the new price. If a subscriber doesn’t agree to the new price or takes no action, Apple will continue to request consent approximately weekly through email, push notifications, and in-app messaging until their subscription expires at the end of their current billing cycle.</p>
+</li>
+<li>
+<p>**Price increases scheduled with a start date before August 4:**Current notice criteria will remain in effect, even if the renewal occurs after August 4 (for annual subscriptions, renewal could be as late as August 2026).- <a class="link" href="https://developer.apple.com/help/app-store-connect/manage-subscriptions/manage-pricing-for-auto-renewable-subscriptions/#increase-the-price-of-an-auto-renewable-subscription"  target="_blank" rel="noopener"
+    >See criteria</a>, noting that consent may apply to customers depending on the size or velocity of your price increases.</p>
+</li>
+</ul>
+<p>To help ensure a smooth transition, we recommend avoiding scheduling price increases with a start date between August 2 and August 4.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p>¹ Excludes auto-renewable subscriptions.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Updated agreements and guidelines now available</title>
+      <link>https://n-kase.github.io/rss/posts/post-494/</link>
+      <pubDate>Mon, 15 Jun 2026 18:49:36 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-494/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年6月9日に、Developer Program License AgreementとApp Reviewガイドラインを改訂し、新機能への対応やポリシーの明確化のために複数の項目を更新した。具体的には、データとプライバシーに関する要件やID Verifier、Declared Age Range、Wi‑Fi Aware、TelephonyMessagingKit、Default Dialer、EnergyKit、Foundation Models、iCloud Extended ShareなどのAPI利用条件が細かく定義され、Bitcode提出に関する記述は削除されてCarPlay向けiOSアプリウィジェットの規定に置き換わったほか、TestFlightのデジタル購入やテスター招待に関するルール、アイコンやウィジェットのカスタマイズ、Apple Gamesアプリ、中国でのマップ配信事業者に関する条項も見直された。ガイドライン側では、自社アプリ間で共有できるサブスクリプションの記述が削除され、特定の誘導を許可する新しいガイドラインが追加される一方で、金融アプリは提供地域での必要なライセンス取得が明確化された。これらの変更により、開発者はプライバシー保護やAPI利用のルールを再確認し、特に金融やマップ、CarPlay関連機能を提供するアプリでは審査基準への適合が求められる状況が生じそうだ。したがって、開発者は速やかに更新された契約とガイドラインを確認し、データ取扱いやAPI利用、金融サービスのライセンス、ウィジェットやマップ機能などの実装を見直すことで、アプリの審査通過や継続的な提供を確保すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="updated-agreements-and-guidelines-now-available">Updated agreements and guidelines now available
+</h2><p>June 9, 2025</p>
+<p>The <a class="link" href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/"  target="_blank" rel="noopener"
+    >Apple Developer Program License Agreement</a> and <a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a> have been revised to support new features and updated policies, and to provide clarification. Please review the changes below.</p>
+<p><strong>Apple Developer Program License Agreement</strong></p>
+<ul>
+<li>Section 3.3.3(D): Updated language on requirements for data and privacy.</li>
+<li>Section 3.3.3(N): Updated requirements for use of the ID Verifier APIs.</li>
+<li>Definitions, 3.3.3(P): Specified requirements for use of the Declared Age Range API.</li>
+<li>Definitions, 3.3.7(G): Specified requirements for use of the Wi-Fi Aware framework.</li>
+<li>Definitions, 3.3.7(H): Specified requirements for use of the TelephonyMessagingKit APIs.</li>
+<li>Definitions, 3.3.7(I): Specified requirements for use of the Default Dialer APIs.</li>
+<li>Definition, Section 3.3.8(H), Attachment 11: Specified requirements for use of EnergyKit.</li>
+<li>Definitions, 3.3.8(I): Specified requirements for use of the Foundation Models framework.</li>
+<li>Definitions, Attachment 4: Specified requirements for use of the iCloud Extended Share APIs.</li>
+<li>Section 6.4: Removed language on Bitcode submissions as it is no longer applicable, and replaced it with terms regarding iOS app widgets on CarPlay.</li>
+<li>Section 7.4(B): Updated and clarified requirements for TestFlight related to digital purchases and tester invitations.</li>
+<li>Section 7.7: Updated language on customization of icons and widgets.</li>
+<li>Section 7.8: Specified terms related to the Apple Games app.</li>
+<li>Attachment 6: Updated terms regarding the entity that distributes the map in China.</li>
+</ul>
+<p><strong>App Review Guidelines</strong></p>
+<ul>
+<li>3.1.2(a), bullet 2: This language has been deleted (“You may offer a single subscription that is shared across your own apps and services”).</li>
+<li>3.1.2(a), bullet 5: This language has been relocated to Guideline 3.2.2(x).</li>
+<li>3.2.1(viii): Clarified that financial apps must have necessary licensing and permissions in the locations where developers make them available.</li>
+<li>3.2.2(x): This new guideline contains the language relocated from Guideline 3.1.2(a), bullet 5, and permits developers to otherwise incentivize users to take specific actions within app.</li>
+</ul>
+<p>Please <a class="link" href="https://developer.apple.com/account"  target="_blank" rel="noopener"
+    >sign in to your account</a> to accept the updated Apple Developer Program License Agreement.</p>
+<p>Translations of the guidelines will be available on <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="updated-agreements-and-guidelines-now-available-1">Updated agreements and guidelines now available
+</h2><p>June 9, 2025</p>
+<p>The <a class="link" href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/"  target="_blank" rel="noopener"
+    >Apple Developer Program License Agreement</a> and <a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a> have been revised to support new features and updated policies, and to provide clarification. Please review the changes below.</p>
+<p><strong>Apple Developer Program License Agreement</strong></p>
+<ul>
+<li>Section 3.3.3(D): Updated language on requirements for data and privacy.</li>
+<li>Section 3.3.3(N): Updated requirements for use of the ID Verifier APIs.</li>
+<li>Definitions, 3.3.3(P): Specified requirements for use of the Declared Age Range API.</li>
+<li>Definitions, 3.3.7(G): Specified requirements for use of the Wi-Fi Aware framework.</li>
+<li>Definitions, 3.3.7(H): Specified requirements for use of the TelephonyMessagingKit APIs.</li>
+<li>Definitions, 3.3.7(I): Specified requirements for use of the Default Dialer APIs.</li>
+<li>Definition, Section 3.3.8(H), Attachment 11: Specified requirements for use of EnergyKit.</li>
+<li>Definitions, 3.3.8(I): Specified requirements for use of the Foundation Models framework.</li>
+<li>Definitions, Attachment 4: Specified requirements for use of the iCloud Extended Share APIs.</li>
+<li>Section 6.4: Removed language on Bitcode submissions as it is no longer applicable, and replaced it with terms regarding iOS app widgets on CarPlay.</li>
+<li>Section 7.4(B): Updated and clarified requirements for TestFlight related to digital purchases and tester invitations.</li>
+<li>Section 7.7: Updated language on customization of icons and widgets.</li>
+<li>Section 7.8: Specified terms related to the Apple Games app.</li>
+<li>Attachment 6: Updated terms regarding the entity that distributes the map in China.</li>
+</ul>
+<p><strong>App Review Guidelines</strong></p>
+<ul>
+<li>3.1.2(a), bullet 2: This language has been deleted (“You may offer a single subscription that is shared across your own apps and services”).</li>
+<li>3.1.2(a), bullet 5: This language has been relocated to Guideline 3.2.2(x).</li>
+<li>3.2.1(viii): Clarified that financial apps must have necessary licensing and permissions in the locations where developers make them available.</li>
+<li>3.2.2(x): This new guideline contains the language relocated from Guideline 3.1.2(a), bullet 5, and permits developers to otherwise incentivize users to take specific actions within app.</li>
+</ul>
+<p>Please <a class="link" href="https://developer.apple.com/account"  target="_blank" rel="noopener"
+    >sign in to your account</a> to accept the updated Apple Developer Program License Agreement.</p>
+<p>Translations of the guidelines will be available on <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Updates for apps in the European Union</title>
+      <link>https://n-kase.github.io/rss/posts/post-488/</link>
+      <pubDate>Mon, 15 Jun 2026 18:40:46 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-488/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>欧州委員会はデジタル市場法に基づき、Appleに一連の追加変更を要求し、AppleはEU向けApp Storeの利用規約を更新しました。これにより開発者はアプリ内または外部のウェブサイト・代替マーケットプレイス・別のアプリへリンクしてデジタル商品やサービスのオファーを宣伝できるようになり、新たなビジネス条件として初回取得手数料、ストアサービス手数料、およびCore Technology Commission（CTC）が適用されます。さらにAppleは2026年1月1日までにEU全体で単一のビジネスモデルへ移行し、現在のCore Technology Fee（CTF）からCTCへ統一するとともに、iOS 18.6/iPadOS 18.6以降で代替マーケットプレイスやウェブからのアプリインストール体験を改善し、開発者向けにダウンロードを起動するAPIも提供する予定です。</p>
+<p>これらの変更は、開発者にさらに自由な販路とプロモーション手段を与える一方で、Appleの従来の手数料構造を見直す必要が生じ、代替アプリマーケットプレイスの普及やユーザー体験の多様化が進む可能性があります。また、規制当局の監視が強まる中で、プラットフォームの安全性と公正な競争のバランスが試される状況となります。</p>
+<p>したがって、開発者は新しいビジネス条件に合わせて収益モデルを見直し、外部リンクや代替配信を活用する戦略を検討すべきです。Appleは規制への対応とプラットフォームの信頼性維持を両立させるため、透明性の高い手続きと開発者支援を強化する必要があります。ユーザーは選択肢が広がるメリットを享受できる反面、複数の配信経路に伴うセキュリティや利便性への影響にも注意を払うべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="eu向けアプリのアップデート">EU向けアプリのアップデート
+</h2><p>2025年6月26日</p>
+<p>欧州委員会は、デジタル市場法（DMA）に基づいてAppleに一連の追加変更を要求しました。</p>
+<p><strong>オファーのコミュニケーションとプロモーション</strong></p>
+<ul>
+<li>本日、欧州連合のApp Storeストアフロントにあるアプリの開発者が、デジタル商品またはサービスの購入オファーを通信・宣伝できるよう、更新された利用規約を導入します。転送先はウェブサイト、代替アプリマーケットプレイス、または別のアプリであり、アプリ内またはウェブビューまたはネイティブ体験を通じてアプリ外からアクセスできます。</li>
+<li>デジタル商品またはサービスのオファーを通信・宣伝するApp Storeのアプリは、これらの取引に対して新しいビジネス条件の対象となります——初回取得手数料、ストアサービス手数料、およびStoreKit External Purchase Link Entitlement (EU) アドendumに対応するアプリについてはCore Technology Commission (CTC) が適用されます。CTCは、開発者がユーザーに革新的なアプリを構築・共有できるよう継続的に投資しているツール、技術、サービスを通じてAppleが提供する価値を反映しています。</li>
+<li>欧州経済領域（EEA）のApp Storeにおける音楽ストリーミングアプリで、Music Streaming Services Entitlement (EEA) を利用したいものは、これらのオプションを利用できます。</li>
+</ul>
+<p><strong>EU向けアプリのビジネス条件の更新</strong></p>
+<ul>
+<li>2026年1月1日までに、AppleはEUのすべての開発者に対して単一のビジネスモデルへ移行する計画です。この単一ビジネスモデルでは、Appleはデジタル商品またはサービスに対するCore Technology Fee (CTF) からCTCへ移行します。CTCは、App Store、ウェブ配信、および/または代替マーケットプレイスから配信されるアプリによって販売されるデジタル商品またはサービスに適用されます。</li>
+<li>EU向けアプリのAlternative Terms Addendumに現在従っているアプリは、来年までCTCへの移行が完全に実施されるまで、CTFのみの対象となります。その時点で、該当する取引はCTCの対象となり、CTFは適用されなくなります。この移行に関する詳細は後日提供されます。</li>
+</ul>
+<p><strong>ユーザー体験のアップデート</strong></p>
+<ul>
+<li>iOS 18.6およびiPadOS 18.6以降、EUにおいて、代替マーケットプレイスまたは開発者のウェブサイトからのアプリインストールのための<a class="link" href="https://developer.apple.com/support/alt-distribution-ux-in-the-eu/"  target="_blank" rel="noopener"
+    >更新されたユーザー体験</a>が提供されます。さらに、同年後半には、開発者が自分のアプリ内から代替配信されたアプリのダウンロードを開始できるAPIを提供します。</li>
+</ul>
+<p>詳細については、<a class="link" href="https://developer.apple.com/support/communication-and-promotion-of-offers-on-the-app-store-in-the-eu/"  target="_blank" rel="noopener"
+    >Communication and promotion of offers on the App Store in the EU</a> をご覧ください。完全な利用規約については、<a class="link" href="https://developer.apple.com/contact/request/download/external/Alternative-EU-Terms-Addendum.pdf"  target="_blank" rel="noopener"
+    >Alternative Terms Addendum for Apps in the EU</a> または <a class="link" href="https://developer.apple.com/contact/request/download/external/StoreKit-External-Purchase-Link-%28EU%29-Entitlement-Addendum.pdf"  target="_blank" rel="noopener"
+    >StoreKit External Purchase Link Entitlement Addendum for EU Apps</a> をご参照ください。また、<a class="link" href="https://developer.apple.com/events/view/upcoming-events"  target="_blank" rel="noopener"
+    >30分のオンライン予約</a> をリクエストして、これらの変更について質問やフィードバックを提供することもできます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="updates-for-apps-in-the-european-union">Updates for apps in the European Union
+</h2><p>June 26, 2025</p>
+<p>The European Commission has required Apple to make a series of additional changes under the Digital Markets Act:</p>
+<p><strong>Communication and promotion of offers</strong></p>
+<ul>
+<li>Today, we’re introducing updated terms that let developers with apps in the European Union storefronts of the App Store communicate and promote offers for purchase of digital goods or services available at a destination of their choice. The destination can be a website, alternative app marketplace, or another app, and can be accessed outside the app or within the app via a web view or native experience.</li>
+<li>App Store apps that communicate and promote offers for digital goods or services will be subject to new business terms for those transactions — an initial acquisition fee, store services fee, and for apps on the StoreKit External Purchase Link Entitlement (EU) Addendum, the Core Technology Commission (CTC). The CTC reflects value Apple provides developers through ongoing investments in the tools, technologies, and services that enable them to build and share innovative apps with users.</li>
+<li>Music streaming apps on the App Store in the European Economic Area (EEA) wanting to use the Music Streaming Services Entitlement (EEA) can use these options.</li>
+</ul>
+<p><strong>Update to Business Terms for Apps in the European Union</strong></p>
+<ul>
+<li>By January 1, 2026, Apple plans to move to a single business model in the EU for all developers. Under this single business model, Apple will transition from the Core Technology Fee (CTF) to the CTC on digital goods or services. The CTC will apply to digital goods or services sold by apps distributed from the App Store, Web Distribution, and/or alternative marketplaces.</li>
+<li>Apps currently under the Alternative Terms Addendum for Apps in the EU continue to be subject only to the CTF until the transition to the CTC is fully implemented next year. At that time, qualifying transactions will be subject to the CTC, and the CTF will no longer apply. Additional details regarding this transition will be provided at a later date.</li>
+</ul>
+<p><strong>User Experience Update</strong></p>
+<ul>
+<li>Beginning with iOS 18.6 and iPadOS 18.6, iOS and iPadOS will provide an <a class="link" href="https://developer.apple.com/support/alt-distribution-ux-in-the-eu/"  target="_blank" rel="noopener"
+    >updated user experience</a>in the EU for installing alternative marketplaces or apps from a developer’s website. Additionally, later this year, we will provide an API which will allow developers to initiate the download of alternatively distributed apps they publish from within their app.</li>
+</ul>
+<p>To learn more, view <a class="link" href="https://developer.apple.com/support/communication-and-promotion-of-offers-on-the-app-store-in-the-eu/"  target="_blank" rel="noopener"
+    >Communication and promotion of offers on the App Store in the EU</a>. To read the full terms, view the <a class="link" href="https://developer.apple.com/contact/request/download/external/Alternative-EU-Terms-Addendum.pdf"  target="_blank" rel="noopener"
+    >Alternative Terms Addendum for Apps in the EU</a> or the <a class="link" href="https://developer.apple.com/contact/request/download/external/StoreKit-External-Purchase-Link-%28EU%29-Entitlement-Addendum.pdf"  target="_blank" rel="noopener"
+    >StoreKit External Purchase Link Entitlement Addendum for EU Apps</a>. You can also request a <a class="link" href="https://developer.apple.com/events/view/upcoming-events"  target="_blank" rel="noopener"
+    >30-minute online appointment</a> to ask questions and provide feedback about these changes.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Updated age ratings in App Store Connect</title>
+      <link>https://n-kase.github.io/rss/posts/post-485/</link>
+      <pubDate>Mon, 15 Jun 2026 18:38:15 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-485/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはApp Store Connectの年齢評価システムを更新し、既存の4+と9+に加えて13+、16+、18+の評価を追加し、アプリ内コントロール、機能、医療・ウェルネス、暴力的テーマに関する新しい必須質問を導入しました。これにより、より細かい年齢区分が可能になり、保護者やユーザーが年齢に適したアプリを選びやすくなるとともに、開発者はセンシティブなコンテンツの頻度を考慮して適切な評価を設定する責任が増し、COPPAやGDPRなどの規制への対応も求められます。したがって、開発者は2026年1月31日までに各アプリの新しい質問に回答し、適切な年齢評価を確保することで、アプリ更新の中断を防ぎ、安全で信頼できるエコシステムを維持すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="App Store Connect の年齢評価が更新" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3421ad350dbdb4abc1ef37aeaefd2d7a.png"></p>
+<h2 id="app-store-connect-の年齢評価が更新">App Store Connect の年齢評価が更新
+</h2><p>2025年7月24日</p>
+<p>App Store は、子どもを含むすべての年齢層にとって安全で信頼できる場所となるように設計されています。より細かい年齢評価を提供するため、アプリとゲームの年齢評価システムが更新されました。また、アプリ内のセンシティブなコンテンツを特定するのに役立つ新しい年齢評価の質問を導入し、アプリの最低利用年齢を反映してより高い評価を設定できる機能も追加しました。App Store 上のすべてのアプリとゲームの評価は、この新しいシステムに合わせて自動的に更新され、iOS 26、iPadOS 26、macOS Tahoe 26、tvOS 26、visionOS 26、watchOS 26 のベータ版を実行する Apple デバイスに反映されます。</p>
+<p>更新された年齢評価システムでは、既存の 4+ と 9+ の評価に 13+、16+、18+ が追加されます。年齢評価は各国・地域ごとに割り当てられ、地域ごとの適切性基準によって異なる場合があります。</p>
+<p>すべてのアプリの評価アンケートに新しい必須質問のセットを導入しました。これらの新しい質問は以下をカバーします：</p>
+<ul>
+<li>アプリ内コントロール。</li>
+<li>機能。</li>
+<li>医療またはウェルネスに関するトピック。</li>
+<li>アプリまたはゲーム内の暴力的テーマ。</li>
+</ul>
+<p>これらの質問への回答により、Apple は評価をより正確に算出でき、年齢に適した体験を提供する手助けとなります。</p>
+<p>アプリに、Apple が付与した評価よりも高い最低利用年齢を要求するポリシーがある場合、年齢評価の質問に回答した後、より高い年齢評価を設定できます。更新後のシステムにおいて、各アプリの年齢評価を確認し、<a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> の App Information セクションで各アプリの新しい質問に回答できます。</p>
+<p>リマインダーとして、AI アシスタントやチャットボット機能を含むすべてのアプリ機能が、アプリ内でセンシティブなコンテンツが表示される頻度にどのように影響するかを考慮し、適切な評価を受けるようにしてください。すべてのアプリは、<a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a> （不適切なコンテンツやユーザー生成コンテンツに関する安全ガイドラインなど）の対象となり、子どものオンラインプライバシー保護法（COPPA）や欧州連合の一般データ保護規則（GDPR）など、適用されるすべての地域の法律および規則を遵守しなければなりません。</p>
+<p>2026年1月31日までに、各アプリの更新された年齢評価の質問に回答してください。これにより、App Store Connect でアプリのアップデートを送信する際の中断を避けることができます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Updated age ratings in App Store Connect" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3421ad350dbdb4abc1ef37aeaefd2d7a.png"></p>
+<h2 id="updated-age-ratings-in-app-store-connect">Updated age ratings in App Store Connect
+</h2><p>July 24, 2025</p>
+<p>The App Store is designed to be a safe and trusted place for all ages, including children. The age rating system for apps and games has been updated in order to provide people with more granular age ratings. We’ve also introduced new age rating questions to help identify sensitive content in your app and added the ability to set a higher rating to reflect your app’s minimum age requirement. Ratings for all apps and games on the App Store have been automatically updated to align with this new system and will be reflected on Apple devices running beta versions of iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26.</p>
+<p>The updated age rating system adds 13+, 16+, and 18+ to the existing 4+ and 9+ ratings. Age ratings are assigned to each country or region and may vary based on region-specific suitability standards.</p>
+<p>We’ve introduced a new set of required questions to the ratings questionnaire for all apps. These new questions cover:</p>
+<ul>
+<li>In-app controls.</li>
+<li>Capabilities.</li>
+<li>Medical or wellness topics.</li>
+<li>Violent themes in your app or game.</li>
+</ul>
+<p>Your answers to these questions will help Apple better calculate a rating and help you deliver an age-appropriate experience.</p>
+<p>If your app has a policy requiring a higher minimum user age than the rating assigned by Apple, you can set a higher age rating after you respond to the age ratings questions. You can view the age rating for each of your apps under the updated system and respond to the new questions for each app in the App Information section in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a>.</p>
+<p>As a reminder, you must consider how all app features, including AI assistants and chatbot functionality, impact the frequency of sensitive content appearing within your app to make sure it receives the appropriate rating. All apps are subject to the <a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a>, such as the safety guidelines regarding objectionable content or user generated content, and must abide by all applicable local laws and regulations, like the Children’s Online Privacy Protection Act (“COPPA”), and the European Union’s General Data Protection Regulation (“GDPR”).</p>
+<p>Please provide responses to the updated age rating questions for each of your apps by January 31, 2026, to avoid an interruption when submitting your app updates in App Store Connect.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Tax and Price Updates for Apps, In-App Purchases, and Subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-483/</link>
+      <pubDate>Mon, 15 Jun 2026 18:36:33 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-483/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年8月21日から税制や為替の変動に応じてアプリおよびアプリ内課金の価格と開発者への収入を調整すると発表し、ブラジル、カナダ、エストニア、ルーマニア、フィリピン、ベトナムなどの国・地域で税率の変更や新たな課税が適用されることを明らかにした。これにより開発者は収入が増減したり、特定のマーケット向けの価格を見直す必要が生じ、特にベースストアフロントを設定していない場合には9月8日から価格が自動的に更新される可能性がある。したがって、開発者はApp Store Connectの価格設定を確認し、ベースストアフロントを適切に選択するか、手動で価格管理を行うことで収益の安定化を図るべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Tax and Price Updates for Apps, In-App Purchases, and Subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="tax-and-price-updates-for-apps-in-app-purchases-and-subscriptions">Tax and Price Updates for Apps, In-App Purchases, and Subscriptions
+</h2><p>2025年8月21日</p>
+<p>App Storeは、44種類の通貨に対応し、175のストアフロントでデジタル商品およびサービスを世界中で簡単に販売できるように設計されています。</p>
+<p>税規制や為替レートの変更により、価格または開発者への収入を調整する必要が生じることがあります。これらの調整は、金融データプロバイダーが提供する公開されている為替レート情報に基づいて行われ、アプリおよびアプリ内購入の価格がすべてのストアフロントで一貫しているように保つために行われます。</p>
+<p><strong>税および価格の更新</strong></p>
+<p><strong>2025年8月21日現在：</strong></p>
+<p>以下の国・地域において、該当するアプリおよびアプリ内購入の販売による開発者への収入が変更されました：</p>
+<ul>
+<li>
+<p>ブラジル：金融取引税（IOF）3.5%</p>
+</li>
+<li>
+<p>カナダ：デジタルサービス税（DST）は適用されなくなった</p>
+</li>
+<li>
+<p>エストニア：付加価値税（VAT）の税率が22%から24%に引き上げられた</p>
+</li>
+<li>
+<p>ルーマニア：</p>
+<ul>
+<li>VAT税率が19%から21%に引き上げられた</li>
+<li>ニュース、雑誌、書籍、オーディオブックに対する軽減税率が5%から11%に引き上げられた</li>
+</ul>
+</li>
+<li>
+<p>フィリピン：フィリピン以外に拠点を置く開発者に対してVAT 12%が導入された</p>
+</li>
+<li>
+<p>ベトナム：</p>
+<ul>
+<li>ベトナム以外に拠点を置く組織：VAT税率が5%から10%に引き上げられた</li>
+<li>ベトナム以外に拠点を置く個人開発者：個人所得税（PIT）5%が導入され、法人所得税（CIT）に代わった。ニュース、雑誌、書籍に対する軽減税率0%のVATは適用されなくなり、すべてのコンテンツが標準税率で課税される。</li>
+<li>ベトナムに拠点を置く組織：Appleはエンドユーザーへの販売に対する外国人請負税（FCT）の徴収・納付をやめなくなった。代わりに、Appleの手数料に対してFCT 5%が導入された。</li>
+<li>ベトナムに拠点を置く個人開発者：個人所得税（PIT）2%が導入され、法人所得税（CIT）に代わった。Appleの手数料に対してFCT 5%が導入された。ニュース、雑誌、書籍に対する軽減税率0%のVATは適用されなくなり、すべてのコンテンツが標準税率で課税される。</li>
+</ul>
+</li>
+</ul>
+<p>Paid Applications Agreementの展示BおよびCは、フィリピンにおいてAppleが適用税を徴収・納付すること、およびベトナムにおける関連する税制変更を示すように更新される。¹</p>
+<p><strong>2025年9月8日から：</strong></p>
+<p>開発者がフィリピンまたはベトナムをアプリまたはアプリ内購入のベースストアフロントとして選択していない場合、これらの国・地域におけるアプリおよびアプリ内購入の価格が更新される。これらの更新は、前述の税更新セクションに記載されているVATの導入および変更も考慮に入れる。</p>
+<p>開発者がフィリピンまたはベトナムをベースストアフロントとして選択している場合、価格は変更されない。その他のストアフロントでは、選択したベース価格との均等化を維持するために価格が更新される。</p>
+<p>アプリ内購入が自動更新サブスクリプションである場合、どの地域でも価格は変更されない。また、開発者が自動均等価格ではなく手動で価格を管理しているストアフロントでは価格は変更されない。</p>
+<p>Appsの「価格と提供状況」セクションは、<a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> で更新され、これらの今後の価格変更が表示される。これまで通り、開発者はいつでもアプリ、アプリ内購入、および自動更新サブスクリプションの価格を変更できる。</p>
+<p><strong>価格管理について詳しくは</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >今後の価格変更を表示または編集する</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >アプリのベース国または地域を編集する</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >国または地域別の価格と提供状況の開始時刻</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >アプリ内購入の価格を設定する</a></p>
+<p><strong>開発者への収入について詳しくは</strong></p>
+<p>¹ 更新された契約の翻訳は、1か月以内に<a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developerウェブサイト</a>で利用可能になる。</p>
+<p>² 自動更新サブスクリプションは除く。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Tax and Price Updates for Apps, In-App Purchases, and Subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="tax-and-price-updates-for-apps-in-app-purchases-and-subscriptions-1">Tax and Price Updates for Apps, In-App Purchases, and Subscriptions
+</h2><p>August 21, 2025</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.</p>
+<p>From time to time, we need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>Tax and price updates</strong></p>
+<p><strong>As of August 21:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in:</p>
+<ul>
+<li>
+<p>Brazil: Imposto sobre Operações Financeiras (IOF) of 3.5%</p>
+</li>
+<li>
+<p>Canada: Digital services tax (DST) no longer applicable</p>
+</li>
+<li>
+<p>Estonia: Value‑added tax (VAT) rate increase from 22% to 24%</p>
+</li>
+<li>
+<p>Romania:</p>
+</li>
+<li>
+<p>VAT rate increase from 19% to 21%</p>
+</li>
+<li>
+<p>Reduced VAT rate increase from 5% to 11% for news, magazines, books, and audiobooks</p>
+</li>
+<li>
+<p>The Philippines: VAT introduction of 12% for developers based outside of the Philippines</p>
+</li>
+<li>
+<p>Vietnam:</p>
+</li>
+<li>
+<p>Organizations based outside of Vietnam: VAT rate increase from 5% to 10%.</p>
+</li>
+<li>
+<p>Individual developers based outside of Vietnam: Personal income tax (PIT) introduction of 5%, replacing the corporate income tax (CIT). Reduced VAT rate of 0% for news, magazines, and books no longer applies and all content will be taxed at the standard rate.</p>
+</li>
+<li>
+<p>Organizations based in Vietnam: Apple will no longer remit foreign contractor tax (FCT) on sales to end customers. FCT of 5% introduced on Apple’s commission.</p>
+</li>
+<li>
+<p>Individual developers based in Vietnam: Personal income tax (PIT) introduction of 2%, replacing the corporate income tax (CIT). FCT of 5% introduced on Apple’s commission. Reduced VAT rate of 0% for news, magazines, and books no longer applies and all content will be taxed at the standard rate.</p>
+</li>
+</ul>
+<p>Exhibit B and C of the Paid Applications Agreement will be updated to indicate that Apple collects and remits applicable taxes in the Philippines, and the relevant tax changes in Vietnam.¹</p>
+<p><strong>Beginning September 8:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for the Philippines and Vietnam if you haven’t selected one of these storefronts as the base storefront for your app or In‑App Purchase.² These updates also consider VAT introductions and changes listed in the tax updates section above.</p>
+<p>If you’ve selected the Philippines or Vietnam as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p>¹ Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+<p>² Excludes auto-renewable subscriptions.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>App Store submissions now open for the latest OS releases</title>
+      <link>https://n-kase.github.io/rss/posts/post-480/</link>
+      <pubDate>Mon, 15 Jun 2026 18:33:46 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-480/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは最新のOSリリース（iOS 26、iPadOS 26、macOS Tahoe 26、tvOS 26、visionOS 26、watchOS 26）向けのApp Storeへのアプリ提出を開始し、開発者はXcode 26リリース候補と最新SDKを使ってアプリをビルドし、TestFlightでテストした後、4月2026以降に求められる最小要件（各OSのSDKバージョン以上）を満たす形で審査に出すことができるようになった。これにより、新しいデザイン言語やLiquid Glass、Foundation Modelsフレームワーク、Apple Gamesアプリなどを活用したより独自性の高い体験を提供できるようになり、開発者は早めに新しいツールに慣れ、OSの機能を取り入れたアプリを準備する必要がある。したがって、開発者は今すぐXcode 26 RCをダウンロードし、SDKを使って開発を進め、TestFlightで十分にテストした上で、2026年4月の要件適用前にApp Storeへ提出するべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="app-store-submissions-now-open-for-the-latest-os-releases">App Store submissions now open for the latest OS releases
+</h2><p>September 9, 2025</p>
+<p><img alt="A collage of icons of Apple apps — including Xcode, Apple Developer, Swift, and more —\u00a0set diagonally against a light blue background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7ec0c870b64acd13fec43953841dfb65.jpeg"></p>
+<p>iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26 will soon be available to customers worldwide — which means you can now submit apps and games that take advantage of Apple’s broadest design update ever.</p>
+<p>Build your apps and games using the <a class="link" href="https://developer.apple.com/download/"  target="_blank" rel="noopener"
+    >Xcode 26 Release Candidate</a> and latest SDKs, test with TestFlight, and submit for review to the App Store. By taking advantage of the <a class="link" href="https://developer.apple.com/design/"  target="_blank" rel="noopener"
+    >new design and Liquid Glass</a>, the <a class="link" href="https://developer.apple.com/documentation/FoundationModels"  target="_blank" rel="noopener"
+    >Foundation Models framework</a>, the new <a class="link" href="https://developer.apple.com/games-app/"  target="_blank" rel="noopener"
+    >Apple Games app</a>, and more, you can deliver even more unique experiences on Apple platforms.</p>
+<p>Starting April 2026, apps and games uploaded to App Store Connect need to meet the following minimum requirements.</p>
+<ul>
+<li>iOS and iPadOS apps must be built with the iOS 26 &amp; iPadOS 26 SDK or later</li>
+<li>tvOS apps must be built with the tvOS 26 SDK or later</li>
+<li>visionOS apps must be built with the visionOS 26 SDK or later</li>
+<li>watchOS apps must be built with the watchOS 26 SDK or later</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="app-store-submissions-now-open-for-the-latest-os-releases-1">App Store submissions now open for the latest OS releases
+</h2><p>September 9, 2025</p>
+<p><img alt="A collage of icons of Apple apps — including Xcode, Apple Developer, Swift, and more —\u00a0set diagonally against a light blue background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7ec0c870b64acd13fec43953841dfb65.jpeg"></p>
+<p>iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26 will soon be available to customers worldwide — which means you can now submit apps and games that take advantage of Apple’s broadest design update ever.</p>
+<p>Build your apps and games using the <a class="link" href="https://developer.apple.com/download/"  target="_blank" rel="noopener"
+    >Xcode 26 Release Candidate</a> and latest SDKs, test with TestFlight, and submit for review to the App Store. By taking advantage of the <a class="link" href="https://developer.apple.com/design/"  target="_blank" rel="noopener"
+    >new design and Liquid Glass</a>, the <a class="link" href="https://developer.apple.com/documentation/FoundationModels"  target="_blank" rel="noopener"
+    >Foundation Models framework</a>, the new <a class="link" href="https://developer.apple.com/games-app/"  target="_blank" rel="noopener"
+    >Apple Games app</a>, and more, you can deliver even more unique experiences on Apple platforms.</p>
+<p>Starting April 2026, apps and games uploaded to App Store Connect need to meet the following minimum requirements.</p>
+<ul>
+<li>iOS and iPadOS apps must be built with the iOS 26 &amp; iPadOS 26 SDK or later</li>
+<li>tvOS apps must be built with the tvOS 26 SDK or later</li>
+<li>visionOS apps must be built with the visionOS 26 SDK or later</li>
+<li>watchOS apps must be built with the watchOS 26 SDK or later</li>
+</ul>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Upcoming Currency Change in Bulgaria</title>
+      <link>https://n-kase.github.io/rss/posts/post-478/</link>
+      <pubDate>Mon, 15 Jun 2026 18:32:46 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-478/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2025年9月25日の発表によると、ブルガリアは2026年1月1日から公式通貨をレフからユーロに変更し、これに伴いApp Storeでの購入やサブスクリプションの通貨もブルガリアレフからユーロに切り替わる。開発者はレフを銀行通貨として選択している場合は12月1日に自動的にユーロに変更され、それ以外の通貨を選んでいる場合はそのまま支払われる。法定換算レートは1.95583レフ＝1ユーロで、これによりブルガリアストアフロントの価格はユーロに換算し、切り下げてサポートされる価格ポイントに調整され、その他のストアフロントでも価格の均衡を保つために更新される。サブスクリプションは中断されず自動更新され、移行期間中はレフとユーロの両価格をアプリ内で表示しなければならず、売上や財務報告もユーロベースに変更される。これにより開発者は価格設定の見直しと通貨変動への対応が求められ、ユーザーには通貨変更の案内が行われるという教訓が得られる。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="ブルガリアにおける今後の通貨変更" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="ブルガリアにおける今後の通貨変更">ブルガリアにおける今後の通貨変更
+</h2><p>2025年9月25日</p>
+<p>2026年1月1日から、ブルガリアはブルガリアレフ（BGN）に代わりユーロ（EUR）を公式通貨として採用します。その結果、ブルガリアにおけるApp Storeの購入およびサブスクリプションの通貨は、この日付でBGNからEURに変更されます。ブルガリアでの売上から得られる収入もユーロに変更されます。</p>
+<p>App Store Connectで銀行の通貨としてレフを選択している場合、2025年12月1日に自動的にユーロに変更されます。銀行口座に異なる通貨を選択している場合は、その通貨で支払いを続けます。法定固定換算レートは、2025年7月8日に欧州連合理事会によって定められた1.95583 BGN = 1 EURで、ブルガリア共和国におけるユーロの公式通貨としての導入に関連して設定されました。</p>
+<ul>
+<li>
+<p>**自動更新サブスクリプション、手動価格設定のアプリおよびアプリ内購入、またはブルガリアをベースストアフロントとするアプリおよびアプリ内購入:**ブルガリアストアフロントの価格は、法定換算レートに基づいてユーロ価格に更新され、サポートされているユーロ価格ポイントに切り下げられます。ブルガリアをアプリまたはアプリ内購入のベースストアフロントとして選択している場合、他のストアフロントの価格は新しいユーロ価格と均等を保つために更新される可能性があります。</p>
+</li>
+<li>
+<p>**その他のアプリまたはアプリ内購入:**ブルガリアストアフロントの価格は、付加価値税（VAT）が課されるユーロ市場における標準的な均等化を用いてユーロに換算されます。</p>
+</li>
+</ul>
+<p>アプリ、アプリ内購入、および自動更新サブスクリプションの価格はいつでも変更できます。</p>
+<p>自動更新サブスクリプションは中断されません。サブスクリプション価格は、現在の価格、保持されている価格、および今後の予定価格すべてについて自動的にユーロに更新されます。自動更新サブスクリプションを利用しているお客様には、通貨変更を知らせるメールが送信されます。</p>
+<p>ユーロ法に従い、移行期間中（現在から2026年8月8日の移行期間終了まで）は、アプリ内でアプリ内購入についてレフとユーロの両方の価格を顧客に伝える必要があります。この案内は価格が表示されるどこにでも表示されるべきです。</p>
+<p>売上およびトレンドレポートおよび月次財務レポートも更新されます。売上およびトレンドレポートでは、通貨変更後の取引についてはユーロが示されます。月次財務レポートでは、通貨変更前に発生した売上の収益はBGレポートに、通貨変更後に発生した売上の収益はEUレポートに記載されます。</p>
+<p>2026年1月1日以降に発行されるすべての返金は、購入日の有無にかかわらずユーロで返金されます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Upcoming Currency Change in Bulgaria" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="upcoming-currency-change-in-bulgaria">Upcoming Currency Change in Bulgaria
+</h2><p>September 25, 2025</p>
+<p>Beginning January 1, 2026, Bulgaria will adopt the euro (EUR) as its official currency, replacing the Bulgarian lev (BGN). As a result, the currency for App Store purchases and subscriptions in Bulgaria will change from BGN to EUR on this date. Your proceeds from sales in Bulgaria will also change to euros.</p>
+<p>If you’ve selected the lev as the currency for your bank in App Store Connect, it will automatically change to the euro on December 1, 2025. If you’ve selected a different currency for your bank account, you’ll continue to be paid in that currency. The statutory fixed conversion rate is 1.95583 BGN = 1 EUR as established on July 8, 2025, by the Council of the European Union in connection with the introduction of the euro as the official currency in the Republic of Bulgaria.</p>
+<ul>
+<li>
+<p>**Auto-renewing subscriptions, manually priced apps and In‑App Purchases, or apps and In‑App Purchases with Bulgaria as the base storefront:**Pricing on the Bulgaria storefront will be updated to a euro price based on the statutory conversion rate and rounded down to a supported euro price point. If you’ve chosen Bulgaria as the base storefront for your app or In‑App Purchases, pricing in other storefronts may be updated to maintain equalization with the new euro price.</p>
+</li>
+<li>
+<p>**Other apps or In‑App Purchases:**Pricing on the Bulgaria storefront will be converted to the euro using the standard equalization for euro markets where App Store sales are subject to value‑added tax (VAT).</p>
+</li>
+</ul>
+<p>You can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p>Auto‑renewable subscriptions won’t be interrupted. Subscription prices will be automatically updated for each current, preserved, and future scheduled price to euros. Customers with auto‑renewable subscriptions will receive an email informing them of the currency change.</p>
+<p>Per the Euro Act, you’ll need to communicate both the lev and euro prices for In‑App Purchases to customers within your app for the duration of the transitional period from now until the end of the transition period on August 8, 2026. This messaging should appear anywhere prices are displayed.</p>
+<p>Your Sales and Trends reports and monthly financial reports will also be updated. For Sales and Trends, euros will be indicated for transactions after the currency change. For monthly financial reports, earnings from sales that occurred before the currency change will be in the BG report, and earnings from sales after the currency change will be in the EU report.</p>
+<p>All refunds issued after January 1, 2026, will be refunded in euros, regardless of the date of purchase.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: October 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-477/</link>
+      <pubDate>Mon, 15 Jun 2026 18:31:39 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-477/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年10月の開発者向けニュースレターで、Foundation Modelsフレームワークを使ってデバイス上のLLMにアクセスする新しいコードアロングビデオを公開し、それに加えて新しいゲーム提供、App Store Connectのアップデート、そして空気質アプリ「Paku」がユーザーの呼吸を楽にしていることを紹介した。これにより開発者はオンデバイスAIを活用したアプリ開発が容易になり、ゲームやサービスの質向上、健康志向のアプリへの関心が高まることが予想される。したがって、開発者はこれらのリソースを積極的にチェックし、AIを組み込んだ機能やウェルネスに焦点を当てたアプリ開発を検討すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-october-2025">Hello Developer: October 2025
+</h2><p>October 7, 2025</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6b8c25c9c5039066ab8126b7abadfcc4.jpeg"></p>
+<p>今月: Foundation Models フレームワークを使って Apple Intelligence を支えるオンデバイス LLM にアクセスする方法を学ぶ新しいコードアロングビデオをご覧ください。</p>
+<p>さらに、新しいゲーム提供に飛び込み、新しい App Store Connect の機能を探り、空気質アプリ <em>Paku</em> がユーザーの呼吸を楽にしている仕組みを知ってください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-october-2025-1">Hello Developer: October 2025
+</h2><p>October 7, 2025</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6b8c25c9c5039066ab8126b7abadfcc4.jpeg"></p>
+<p>This month: Watch a new code-along video to discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.</p>
+<p>Plus, dive into new games offerings, explore new App Store Connect features, and find out how the air-quality app <em>Paku</em> is helping its users breathe easy.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Enhancements to help you submit and market your apps and games</title>
+      <link>https://n-kase.github.io/rss/posts/post-473/</link>
+      <pubDate>Mon, 15 Jun 2026 18:28:36 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-473/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年10月29日に、App Storeでのアプリ提出とマーケティングを強化する新機能を発表しました。これにより、開発者は審査中でも追加のアイテムを別途提出でき、カスタム製品ページの上限が2倍（最大70）になりキーワード付与で検索しやすくなり、さらにすべてのApp内購入タイプにオファーコードが利用可能になる一方で、2026年3月26日からApp内購入向けプロモコードの新規作成が終了します。これらの変化は開発者に柔軟性とプロモーションの幅を広げるとともに、新しい仕組みへの移行と既存プロモコードの有効期限管理への対応を求めるため、開発者は新たな提出・マーケティングオプションを積極的に活用し、プロモコード廃止に備えた戦略を見直すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="アプリとゲームの提出およびマーケティングを支援する機能強化" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="アプリとゲームの提出およびマーケティングを支援する機能強化">アプリとゲームの提出およびマーケティングを支援する機能強化
+</h2><p>2025年10月29日</p>
+<p>App Storeで開発者が成功できるよう継続的に取り組んでいる一環として、アプリが審査中でもコンテンツとアップデートを提出できる新しいオプション、カスタム製品ページの数を2倍に増やすこと、そしてすべてのApp内購入タイプに対応したオファーコードを導入します。</p>
+<h3 id="app-reviewへの追加アイテムの提出">App Reviewへの追加アイテムの提出
+</h3><p>現在、既存の提出とは独立して追加のアイテムをApp Reviewに送信できるため、アプリやゲームの提出時に柔軟性が高まります。たとえば、次のように提出できます。</p>
+<ul>
+<li>アプリのバージョンが審査中の場合、別途提出として1つ以上のApp内イベント。</li>
+<li>既に審査中のカスタム製品ページとは別に、重大なバグに対応するアプリバージョン。</li>
+<li>アプリのバージョンが審査中とは別に、達成度、リーダーボード、チャレンジなどを含む1つ以上のGame Center機能。</li>
+</ul>
+<h3 id="カスタム製品ページの数を2倍に増やしキーワードを追加">カスタム製品ページの数を2倍に増やし、キーワードを追加
+</h3><p>カスタム製品ページは、独自のスクリーンショット、アプリプレビュー、プロモーションテキストを使用してアプリやゲーム内のさまざまなコンテンツや機能を強調できます。さらに柔軟性を高めるため、現在は同時に最大70ページのカスタム製品ページを作成・公開できます。また、各カスタム製品ページにキーワードを割り当てられるようになり、App Storeでの検索しやすさが向上します。キーワードが割り当てられたカスタム製品ページは、デフォルトの製品ページではなく、選択したキーワードの検索結果に表示されるようになります。</p>
+<p><a class="link" href="https://developer.apple.com/app-store/custom-product-pages/"  target="_blank" rel="noopener"
+    >カスタム製品ページについて詳しくはこちら</a></p>
+<h3 id="オファーコードがすべてのapp内購入タイプに拡大">オファーコードがすべてのApp内購入タイプに拡大
+</h3><p>オファーコードは、消費型、非消費型、非更新型サブスクリプションを含むすべてのApp内購入タイプをサポートし、さらに自動更新型サブスクリプションへのサポートも拡張されました。オファーコードを使うと、期間限定で無料または割引されたApp内購入を提示でき、これによりアプリ内のApp内購入の価値を共有し、エンゲージメントと購入を促進できます。この拡張サポートには、次のオファーコードを作成できる機能が含まれます。</p>
+<ul>
+<li>消費型、非消費型、非更新型サブスクリプション。</li>
+<li>プロモーション期間終了後に自動更新されない自動更新型サブスクリプション。</li>
+</ul>
+<p>Schedule 1およびPaid Applications Agreement（Schedules 2および3）は、オファーコードがすべてのApp内購入タイプで利用可能であることを示すように更新されます。¹</p>
+<p><strong>App内購入のプロモコード</strong></p>
+<p>オファーコードは<a class="link" href="https://developer.apple.com/help/app-store-connect/offer-promo-codes/request-and-manage-promo-codes/"  target="_blank" rel="noopener"
+    >プロモコード</a>の機能を基盤とし、設定と顧客 eligibility オプションが改善されました。その結果、2026年3月26日から、App Store ConnectでApp内購入のプロモコードを新規作成できなくなります。既に作成したApp内購入のプロモコードは、有効期限まで利用できます。引き続きプロモコードを使ってアプリの無料ダウンロードを提供することは可能です。</p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/create-offer-codes-for-in-app-purchases"  target="_blank" rel="noopener"
+    >オファーコードの作成方法について詳しくはこちら</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-subscriptions/set-up-offer-codes"  target="_blank" rel="noopener"
+    >自動更新型サブスクリプションのオファーコードについて詳しくはこちら</a></p>
+<p>¹ 更新された契約書の翻訳は、<a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developerウェブサイト</a>で1か月以内に公開されます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Enhancements to help you submit and market your apps and games" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="enhancements-to-help-you-submit-and-market-your-apps-and-games">Enhancements to help you submit and market your apps and games
+</h2><p>October 29, 2025</p>
+<p>As part of our ongoing commitment to helping developers succeed on the App Store, we’re introducing new options for submitting content and updates while your app is in review, double the number of custom product pages, and offer codes for all In-App Purchase types.</p>
+<h3 id="submit-additional-items-to-app-review">Submit additional items to App Review
+</h3><p>Now you can send additional items to App Review independent of an existing submission, giving you greater flexibility when submitting your apps and games. For example, you can now submit:</p>
+<ul>
+<li>One or more In-App Events in a separate submission if you have an app version under review.</li>
+<li>An app version to address a critical bug that’s separate from any existing custom product pages under review.</li>
+<li>One or more Game Center features — including achievements, leaderboards, challenges, and more — in a submission that’s separate from an app version under review.</li>
+</ul>
+<h3 id="create-double-the-number-of-custom-product-pages-and-add-keywords">Create double the number of custom product pages and add keywords
+</h3><p>Custom product pages let you highlight different content and features within your app or game using unique screenshots, app previews, and promotional text. To provide you with even more flexibility, you can now create and publish up to 70 custom pages at a given time. Additionally, you can now assign keywords to each custom product page so they’re more discoverable on the App Store. Custom product pages with keywords assigned to them can appear in search results for those selected keywords instead of your default product page.</p>
+<p><a class="link" href="https://developer.apple.com/app-store/custom-product-pages/"  target="_blank" rel="noopener"
+    >Learn more about custom product pages</a></p>
+<h3 id="offer-codes-expand-to-all-in-app-purchase-types">Offer codes expand to all In-App Purchase types
+</h3><p>Offer codes now support all In-App Purchase types, including consumable, non-consumable, and non-renewing subscriptions, in addition to expanded support for auto-renewable subscriptions. With offer codes, you can present people with a limited-time offer for a free or discounted In-App Purchase. This allows you to share the value of your In-App Purchases and encourage engagement and purchases within your apps and games. This expanded support includes the ability to create offer codes for:</p>
+<ul>
+<li>Consumable, non-consumable, and non-renewing subscriptions.</li>
+<li>Auto-renewable subscriptions that don’t auto-renew once the promotional period ends.</li>
+</ul>
+<p>Schedule 1 and the Paid Applications Agreement (Schedules 2 and 3) will be updated to indicate that offer codes are available for all In-App Purchase types.¹</p>
+<p><strong>Promo codes for In-App Purchases</strong></p>
+<p>Offer codes build on the functionality of <a class="link" href="https://developer.apple.com/help/app-store-connect/offer-promo-codes/request-and-manage-promo-codes/"  target="_blank" rel="noopener"
+    >promo codes</a> and provide improved configuration and customer eligibility options. As a result, starting March 26, 2026, you’ll no longer be able to create promo codes for In-App Purchases in App Store Connect. Any existing promo codes for In-App Purchases you’ve created can be redeemed until they expire. You can continue to use promo codes in order to provide people with a free download of your app.</p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/create-offer-codes-for-in-app-purchases"  target="_blank" rel="noopener"
+    >Learn about creating offer codes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-subscriptions/set-up-offer-codes"  target="_blank" rel="noopener"
+    >Learn about offer codes for auto-renewable subscriptions</a></p>
+<p>¹ Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Price updates for apps, In-App Purchases, and subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-472/</link>
+      <pubDate>Mon, 15 Jun 2026 18:27:13 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-472/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年11月17日から、ポーランド、スイス、トルコのストアフロントにおいてアプリおよびアプリ内購入の価格を更新すると発表しました。ただし、これらの地域をベースストアフロントとして選択している場合や、自動更新サブスクリプションおよび手動価格管理を行っている場合は価格変更は行われません。この変更は税規則や為替レートの変動に対応するために行われ、開発者は価格の不整合を防ぐために自分のベース価格と他地域の価格を合わせる必要が出てきます。したがって、開発者は定期的に価格設定を見直し、ベースストアフロントの選択や手動管理を活用することで予期しない収益への影響を最小限に抑えるべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="アプリ、アプリ内購入、サブスクリプションの価格更新" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="アプリアプリ内購入サブスクリプションの価格更新">アプリ、アプリ内購入、サブスクリプションの価格更新
+</h2><p>2025年10月30日</p>
+<p>App Storeは、44種類の通貨に対応し、175のストアフロントでデジタル商品やサービスを世界中で簡単に販売できるように設計されています。</p>
+<p>税規則や為替レートの変化により、価格や収益を調整する必要が生じることがあります。これらの調整は、金融データプロバイダーから公開されている為替レート情報を使用して行われ、アプリおよびアプリ内購入の価格がすべてのストアフロントで一貫しているように保つためです。</p>
+<p><strong>価格更新</strong></p>
+<p><strong>2025年11月17日から：</strong></p>
+<p>アプリおよびアプリ内購入の価格は、ポーランド、スイス、トルコ（Türkiye）のストアフロントをアプリまたはアプリ内購入のベースストアフロントとして選択していない場合、更新されます。¹</p>
+<p>ポーランド、スイス、またはトルコをベースストアフロントとして選択している場合、価格は変更されません。他のストアフロントでは、選択したベース価格との均等化を維持するために価格が更新されます。</p>
+<p>アプリ内購入が自動更新サブスクリプションである場合、どの地域でも価格は変更されません。また、自動均等価格ではなく手動で価格を管理しているストアフロントでも価格は変更されません。</p>
+<p>App Store Connectの<a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a>の「価格と利用可能性」セクションが更新され、これらの今後の価格変更が表示されます。常に、アプリ、アプリ内購入、および自動更新サブスクリプションの価格はいつでも変更できます。</p>
+<p><strong>価格管理について詳しくは</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >今後の価格変更を表示または編集する</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >アプリのベース国または地域を編集する</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >国または地域別の価格と利用可能性の開始時刻</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >アプリ内購入の価格を設定する</a></p>
+<p>¹ 自動更新サブスクリプションは除きます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Price updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="price-updates-for-apps-in-app-purchases-and-subscriptions">Price updates for apps, In-App Purchases, and subscriptions
+</h2><p>October 30, 2025</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.</p>
+<p>From time to time, we may need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>Price updates</strong></p>
+<p><strong>Beginning November 17:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for Poland, Switzerland, and Türkiye if you haven’t selected one of these storefronts as the base storefront for your app or In‑App Purchase.¹</p>
+<p>If you’ve selected Poland, Switzerland, or Türkiye as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p>¹ Excludes auto-renewable subscriptions.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Introducing the App Store Mini Apps Partner Program</title>
+      <link>https://n-kase.github.io/rss/posts/post-467/</link>
+      <pubDate>Mon, 15 Jun 2026 18:23:00 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-467/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年11月13日に、ミニアプリを提供するアプリをさらに支援するための「Mini Apps Partner Program」を発表しました。このプログラムでは、Declared Age Range APIやAdvanced Commerce APIなどの特定のApp Store技術をサポートすることで、対象となるアプリ内課金に対して手数料率を15%に引き下げる特典が提供されます。これにより、ミニアプリの開発者はビジネスを拡大しやすくなり、ユーザーにとっても安全でシームレスな体験が期待できます。したがって、開発者はこのプログラムへの参加を検討し、低い手数料と広いリーチを活用することで、ミニアプリエコシステムの成長に貢献すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Introducing the App Store Mini Apps Partner Program" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c04297658a0756cbd751f514dfddc779.png"></p>
+<h2 id="introducing-the-app-store-mini-apps-partner-program">Introducing the App Store Mini Apps Partner Program
+</h2><p>November 13, 2025</p>
+<p>Today, we’re introducing the Mini Apps Partner Program, which expands on the App Store’s ongoing support for apps that offer mini apps. Mini apps are self-contained experiences that are built using web technologies like HTML5 and JavaScript. This program is designed to help developers who host mini apps grow their business and further the availability of mini apps on the App Store — all while providing a great customer experience.</p>
+<p>Participating developers may benefit from a reduced commission rate of 15% on the sales of qualifying In-App Purchases. To be eligible for this reduced commission rate, participating apps must support certain App Store technologies, including the Declared Age Range API and the Advanced Commerce API in order to help provide a safe and seamless experience for customers of all ages.</p>
+<p><a class="link" href="https://developer.apple.com/programs/mini-apps-partner/"  target="_blank" rel="noopener"
+    >Learn more about the Mini Apps Partner Program and eligibility</a></p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Introducing the App Store Mini Apps Partner Program" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c04297658a0756cbd751f514dfddc779.png"></p>
+<h2 id="introducing-the-app-store-mini-apps-partner-program-1">Introducing the App Store Mini Apps Partner Program
+</h2><p>November 13, 2025</p>
+<p>Today, we’re introducing the Mini Apps Partner Program, which expands on the App Store’s ongoing support for apps that offer mini apps. Mini apps are self-contained experiences that are built using web technologies like HTML5 and JavaScript. This program is designed to help developers who host mini apps grow their business and further the availability of mini apps on the App Store — all while providing a great customer experience.</p>
+<p>Participating developers may benefit from a reduced commission rate of 15% on the sales of qualifying In-App Purchases. To be eligible for this reduced commission rate, participating apps must support certain App Store technologies, including the Declared Age Range API and the Advanced Commerce API in order to help provide a safe and seamless experience for customers of all ages.</p>
+<p><a class="link" href="https://developer.apple.com/programs/mini-apps-partner/"  target="_blank" rel="noopener"
+    >Learn more about the Mini Apps Partner Program and eligibility</a></p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>App Store Award finalists announced</title>
+      <link>https://n-kase.github.io/rss/posts/post-466/</link>
+      <pubDate>Mon, 15 Jun 2026 18:22:21 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-466/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>毎年恒例のApp Store Awardsが2025年11月19日にファイナリストを発表し、技術革新やユーザー体験、デザイン、文化的影響において優れたアプリやゲーム49作品が選出されたことが明らかになりました。この発表は、優れたデジタル製品が社会に与える好影響を再認識させるとともに、開発者たちにさらなるイノベーションへの意欲を喚起する可能性があります。そのため、ユーザーは質の高いアプリやゲームを積極的に探し、開発者はユーザー中心の設計とポジティブな社会貢献を意識した製品作りを続けるべきだと示唆されます。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="app-store-award-finalists-announced">App Store Award finalists announced
+</h2><p>November 19, 2025</p>
+<p><img alt="A white App Store logo set against a deep blue background" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/72f63623ebabbd9290cbd05033ba7aa6.jpeg"></p>
+<p>毎年、App Store Awardsは人々の生活を向上させながら、最高レベルの技術革新、ユーザー体験、デザイン、そしてポジティブな文化的影響を示す優れたアプリとゲームを称えています。今年、App Store編集チームは49の優れたファイナリストを誇りを持って認定します。受賞者は今後数週間以内に発表される予定です。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="app-store-award-finalists-announced-1">App Store Award finalists announced
+</h2><p>November 19, 2025</p>
+<p><img alt="A white App Store logo set against a deep blue background" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/72f63623ebabbd9290cbd05033ba7aa6.jpeg"></p>
+<p>Every year, the App Store Awards celebrate exceptional apps and games that improve people’s lives while showcasing the highest levels of technical innovation, user experience, design, and positive cultural impact. This year, the App Store Editorial team is proud to recognize 49 outstanding finalists. Winners will be announced in the coming weeks.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: December 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-464/</link>
+      <pubDate>Mon, 15 Jun 2026 18:21:36 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-464/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年12月の開発者向けニュースレターで、2025年のApp Store賞受賞者を紹介し、新年に向けたデザインとLiquid Glassの体験イベントへの参加を呼びかけ、拡充中の動画ライブラリの最新コンテンツを案内し、シール中心の語学学習アプリ『CapWords』の開発チームを特集し、さらに新しいドキュメントとヒューマンインターフェイスガイドラインのアップデートを参照できるようにした。これにより、開発者は最新のデザイントレンドや受賞アプリから学び、動画やドキュメントを活用してスキルを向上させる機会が増え、ネット上でも新しいデザイン言語や語学学習アプリへの関心が高まると予想される。したがって、開発者はこれらのリソースに積極的に参加し、新しいデザインガイドラインを実践に取り入れ、語学学習アプリのアイデアを参考にすることで、自分のアプリの品質と魅力を高めるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-2025年12月">Hello Developer: 2025年12月
+</h2><p>2025年12月4日</p>
+<p><img alt="いくつかの人がテーブルで作業しているトップダウンビュー。新しいデザインとLiquid Glassを連想させるカラフルなオブジェクトを組み立てている様子。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c39b20b3e0818dcc8273fcbbb5177c39.jpeg"></p>
+<p>今回の内容：</p>
+<ul>
+<li>2025年のApp Store賞受賞者に会う。</li>
+<li>新年に向けた新しいデザインとLiquid Glassのアクティビティにサインアップする。</li>
+<li>拡充中の動画ライブラリの最新追加コンテンツをチェックする。</li>
+<li>シール中心の語学学習アプリ<em>CapWords</em>の開発チームに会う。</li>
+<li>新しいドキュメントとHIGのアップデートを閲覧する。</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-december-2025">Hello Developer: December 2025
+</h2><p>December 4, 2025</p>
+<p><img alt="A top-down view of several people working at a table assembling colorful objects that evoke the new design and Liquid Glass." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c39b20b3e0818dcc8273fcbbb5177c39.jpeg"></p>
+<p>In this edition:</p>
+<ul>
+<li>Meet the 2025 App Store Award winners.</li>
+<li>Sign up for new design and Liquid Glass activities in the new year.</li>
+<li>Check out the latest additions to our ever-expanding video library.</li>
+<li>Meet the team behind the sticker-centric language-learning app <em>CapWords.</em></li>
+<li>Browse new documentation and HIG updates.</li>
+</ul>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Price updates for apps, In-App Purchases, and subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-458/</link>
+      <pubDate>Mon, 15 Jun 2026 18:16:58 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-458/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年1月29日付で、税制や為替変動に応じてアプリおよびアプリ内課金の収益を調整し、ブータンでのGST導入やフィンランド・リトアニアでの軽減税率引き下げ、ガーナのCOVID-19関連課金撤廃、カザフスタン・ロシア・モーリシャス・ジンバブエでのVAT増税、トルコのデジタル販売税率引き下げなど、複数の国・地域で税率変更を反映した卸売価格の改定を発表した。これにより、開発者はベースストアフロントがモーリシャスでない場合、2月16日からアプリやアプリ内課金の価格が自動的に更新され、税負担の変動に応じて世界中のストアフロント間で価格が均等化される見込みであり、開発者は価格管理ツールを活用して柔軟に対応できる。したがって、税制変更に迅速に対応し、価格設定の自動調整機能を理解して適切に利用することが、国際市場での競争力を維持するために重要だ。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Price updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="price-updates-for-apps-in-app-purchases-and-subscriptions">Price updates for apps, In-App Purchases, and subscriptions
+</h2><p>January 29, 2026</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts.</p>
+<p>From time to time, we need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>As of January 29:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in:</p>
+<ul>
+<li>Bhutan: Goods and Services Tax (GST) introduction of 5%</li>
+<li>Finland: Reduced value‑added tax (VAT) rate decrease from 14% to 13.5% for news, magazines, books, and audiobooks</li>
+<li>Ghana: Removal of 2019 COVID-19 Health Recovery Levy</li>
+<li>Kazakhstan: VAT rate increase from 12% to 16%</li>
+<li>Lithuania: Reduced VAT rate decrease from 9% to 5% for news, magazines, books, and audiobooks</li>
+<li>Mauritius: VAT introduction of 15%</li>
+<li>Russia: VAT rate increase from 20% to 22%</li>
+<li>Türkiye: Digital sales tax (DST) rate decrease from 7.5% to 5%</li>
+<li>Zimbabwe: VAT rate increase from 15% to 15.5%</li>
+</ul>
+<p>Exhibit B of the Paid Applications Agreement will be updated to indicate that Apple collects and remits applicable taxes in Bhutan and Mauritius.¹</p>
+<p><strong>Beginning February 16:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for Mauritius if you haven’t selected Mauritius as the base storefront for your app or In‑App Purchase.² This update considers the VAT introduction listed in the tax updates section above.</p>
+<p>If you’ve selected Mauritius as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p>¹ Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms#paid-applications-agreement"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+<p>² Excludes auto-renewable subscriptions.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Price updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="price-updates-for-apps-in-app-purchases-and-subscriptions-1">Price updates for apps, In-App Purchases, and subscriptions
+</h2><p>January 29, 2026</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts.</p>
+<p>From time to time, we need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>As of January 29:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in:</p>
+<ul>
+<li>Bhutan: Goods and Services Tax (GST) introduction of 5%</li>
+<li>Finland: Reduced value‑added tax (VAT) rate decrease from 14% to 13.5% for news, magazines, books, and audiobooks</li>
+<li>Ghana: Removal of 2019 COVID-19 Health Recovery Levy</li>
+<li>Kazakhstan: VAT rate increase from 12% to 16%</li>
+<li>Lithuania: Reduced VAT rate decrease from 9% to 5% for news, magazines, books, and audiobooks</li>
+<li>Mauritius: VAT introduction of 15%</li>
+<li>Russia: VAT rate increase from 20% to 22%</li>
+<li>Türkiye: Digital sales tax (DST) rate decrease from 7.5% to 5%</li>
+<li>Zimbabwe: VAT rate increase from 15% to 15.5%</li>
+</ul>
+<p>Exhibit B of the Paid Applications Agreement will be updated to indicate that Apple collects and remits applicable taxes in Bhutan and Mauritius.¹</p>
+<p><strong>Beginning February 16:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for Mauritius if you haven’t selected Mauritius as the base storefront for your app or In‑App Purchase.² This update considers the VAT introduction listed in the tax updates section above.</p>
+<p>If you’ve selected Mauritius as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p>¹ Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms#paid-applications-agreement"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+<p>² Excludes auto-renewable subscriptions.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Upcoming SDK minimum requirements</title>
+      <link>https://n-kase.github.io/rss/posts/post-457/</link>
+      <pubDate>Mon, 15 Jun 2026 18:15:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-457/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年4月28日から、App Store Connectに新規アップロードするすべてのアプリおよびゲームについて、iOS・iPadOS・tvOS・visionOS・watchOSそれぞれのバージョン26以降のSDKでビルドすることを必須とすることを発表した。これにより開発者は現在のビルド環境をアップデートし、新しいSDKに対応したコードや依存ライブラリを準備する必要があり、対応が遅れるとアプリ審査でのリジェクトリスクが高まる。したがって、開発者は今すぐXcodeやCI/CDパイプラインをSDK 26にアップデートし、テストを完了させて期限前に対応を終えるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Upcoming SDK minimum requirements" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5d7971e7a94735fc24d58aecf90c7c77.png"></p>
+<h2 id="今後のsdk最低要件">今後のSDK最低要件
+</h2><p>2026年2月3日</p>
+<p>2026年4月28日から、App Store Connectにアップロードされるアプリおよびゲームは、次の最低要件を満たす必要があります：</p>
+<ul>
+<li>iOSおよびiPadOSアプリは、iOS 26およびiPadOS 26 SDK以降でビルドされている必要があります</li>
+<li>tvOSアプリは、tvOS 26 SDK以降でビルドされている必要があります</li>
+<li>visionOSアプリは、visionOS 26 SDK以降でビルドされている必要があります</li>
+<li>watchOSアプリは、watchOS 26 SDK以降でビルドされている必要があります</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Upcoming SDK minimum requirements" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5d7971e7a94735fc24d58aecf90c7c77.png"></p>
+<h2 id="upcoming-sdk-minimum-requirements">Upcoming SDK minimum requirements
+</h2><p>February 3, 2026</p>
+<p>Starting April 28, 2026, apps and games uploaded to App Store Connect need to meet the following minimum requirements:</p>
+<ul>
+<li>iOS and iPadOS apps must be built with the iOS 26 &amp; iPadOS 26 SDK or later</li>
+<li>tvOS apps must be built with the tvOS 26 SDK or later</li>
+<li>visionOS apps must be built with the visionOS 26 SDK or later</li>
+<li>watchOS apps must be built with the watchOS 26 SDK or later</li>
+</ul>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Updated App Review Guidelines now available</title>
+      <link>https://n-kase.github.io/rss/posts/post-454/</link>
+      <pubDate>Mon, 15 Jun 2026 18:13:51 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-454/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2026年2月6日にAppleはApp Review Guidelinesを改訂し、ランダムまたは匿名のチャット機能を持つアプリはユーザー生成コンテンツに関するガイドラインの対象であることを明確にした。これにより、こうしたアプリを提供する開発者はコンテンツモデレーションや利用規約の遵守により一層注意を払う必要が生じ、不適切な投稿が増えればアプリの審査落ちや利用制限のリスクが高まる可能性がある。ネット上ではプライバシーや安全性への懸念が再燃し、ユーザー側も利用前にアプリの方針を確認する動きが見られる。したがって、開発者は今すぐ自分のアプリのチャット機能を見直し、適切な監視体制と利用者へのガイドライン提示を行うべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="app-review-guidelinesの更新版が公開">App Review Guidelinesの更新版が公開
+</h2><p>2026年2月6日</p>
+<p>App Review Guidelinesは改訂され、ランダムまたは匿名のチャット機能を持つアプリが<a class="link" href="https://developer.apple.com/app-store/review/guidelines/#user-generated-content"  target="_blank" rel="noopener"
+    >1.2 User-Generated Contentガイドライン</a>の対象であることが明確にされた。</p>
+<p>ガイドラインの翻訳は、1か月以内に<a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developerウェブサイト</a>で利用可能になる。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="updated-app-review-guidelines-now-available">Updated App Review Guidelines now available
+</h2><p>February 6, 2026</p>
+<p>The App Review Guidelines have been revised to clarify that apps with random or anonymous chat are subject to the <a class="link" href="https://developer.apple.com/app-store/review/guidelines/#user-generated-content"  target="_blank" rel="noopener"
+    >1.2 User-Generated Content guideline</a>.</p>
+<p>Translations of the guidelines will be available on <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Adjustments to the China storefront of the App Store on iOS and iPadOS</title>
+      <link>https://n-kase.github.io/rss/posts/post-450/</link>
+      <pubDate>Mon, 15 Jun 2026 18:10:53 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-450/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは中国の規制当局との話し合いを受けて、2026年3月15日から中国向けApp Storeの手数料率を引き下げ、標準取引は30%から25%、小規模事業者向けプログラムや特定のサブスクリプションは15%から12%に変更すると発表し、これにより開発者への負担軽減と規制への対応を図るとともに、他市場との競争力を維持しようとしているため、開発者は収益への影響を注視し、今後の戦略を見直すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Adjustments to the China storefront of the App Store on iOS and\u00a0iPadOS" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3421ad350dbdb4abc1ef37aeaefd2d7a.png"></p>
+<h2 id="iosおよびipadosの中国向けapp-storeの調整">iOSおよびiPadOSの中国向けApp Storeの調整
+</h2><p>2026年3月12日</p>
+<p>Appleは、中国の規制当局との議論を受けて、中国のApp Storeに変更を加えています。</p>
+<p>2026年3月15日から、iOSおよびiPadOSの中国本土向けApp Storeに適用される手数料率が変更されます。</p>
+<p>標準のApple In-App Purchaseおよび有料アプリ取引の手数料率は25%になります。現在の率は30%です。App Store Small Business ProgramおよびMini Apps Partner Programの対象となるApple In-App Purchase取引および最初の年以降の自動更新のApple In-App Purchaseサブスクリプションの手数料率は12%になります。現在の率は15%です。</p>
+<p>3月15日までに更新された利用規約に署名する必要はなく、その日付からこれらの手数料率変更の恩恵を受けることができます。</p>
+<p>私たちは、iOSおよびiPadOSを中国の開発者にとって最高のアプリエコシステムかつ大きなビジネスチャンスにするよう努めています。すべての開発者に対して公平で透明性のある条件を維持し、中国でアプリを配信する開発者に対して他の市場全体の率を超えない競争力のあるApp Storeの率を提供し続けることを約束します。</p>
+<p><a class="link" href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/"  target="_blank" rel="noopener"
+    >Apple Developer Program License Agreement</a>は、更新されたポリシーをサポートするために改訂されました。<a class="link" href="https://developer.apple.com/account/"  target="_blank" rel="noopener"
+    >アカウントにサインイン</a>して、更新された規約に同意してください。</p>
+<p>更新された規約の翻訳は、<a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developerウェブサイト</a>で1か月以内に利用可能になります。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Adjustments to the China storefront of the App Store on iOS and\u00a0iPadOS" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3421ad350dbdb4abc1ef37aeaefd2d7a.png"></p>
+<h2 id="adjustments-to-the-china-storefront-of-the-app-store-on-ios-and-ipados">Adjustments to the China storefront of the App Store on iOS and iPadOS
+</h2><p>March 12, 2026</p>
+<p>Apple is making changes to the App Store in China following discussions with the Chinese regulator.</p>
+<p>As of March 15, 2026, changes will be made to the commission rates that apply to the China mainland storefront of the App Store on iOS and iPadOS.</p>
+<p>The commission rate for standard Apple In-App Purchase and paid app transactions will be 25%. Currently, the rate is 30%. The commission rate for qualifying Apple In-App Purchase transactions under the App Store Small Business Program and Mini Apps Partner Program, and for auto-renewals of Apple In-App Purchase subscriptions after the first year, will be 12%. Currently, the rate is 15%.</p>
+<p>Signing the updated terms by March 15 is not required to receive the benefit of these commission rate changes starting that date.</p>
+<p>We strive for iOS and iPadOS to be the best app ecosystem and a great business opportunity for developers in China. We are committed to terms that remain fair and transparent to all developers, and to always offering competitive App Store rates to developers distributing apps in China that are no higher than overall rates in other markets.</p>
+<p>The <a class="link" href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/"  target="_blank" rel="noopener"
+    >Apple Developer Program License Agreement</a> has been revised to support updated policies. You can <a class="link" href="https://developer.apple.com/account/"  target="_blank" rel="noopener"
+    >sign in to your account</a> to accept the updated terms.</p>
+<p>Translations of the updated agreement will be available on <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Update on regulated medical device apps in the European Economic Area, United Kingdom, and United States</title>
+      <link>https://n-kase.github.io/rss/posts/post-446/</link>
+      <pubDate>Mon, 15 Jun 2026 18:07:53 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-446/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは、欧州経済領域、イギリス、アメリカ合衆国のApp Store製品ページに、アプリが規制された医療機器であるかどうかを表示する仕組みを導入し、開発者に対してApp Store Connectで該当する状態と関連する規制情報を申告することを義務付けた。これにより、利用者は医療関連アプリの安全性や適合性をより簡単に確認できるようになるとともに、開発者には規制当局への登録や承認状況を開示する社会的責任が求められ、未対応のアプリは2027年初頭以降アップデートができなくなるという制約が生じる。したがって、開発者は今すぐ自分のアプリがヘルス＆フィットネスまたはメディカルのカテゴリに属しているか、または年齢評価で医療・治療情報への頻繁な参照があるかを確認し、早期に状態を申告してコンプライアンスを維持し、サービスの継続提供を確保すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="欧州経済領域イギリスアメリカ合衆国における規制された医療機器アプリのアップデート">欧州経済領域、イギリス、アメリカ合衆国における規制された医療機器アプリのアップデート
+</h2><p>2026年3月26日</p>
+<p><img alt="健康とウェルネスを表す3つのアイコン：緑の走っている人物、赤い心臓が付いた医療クリップボード、青い聴診器。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/842757cb886fec0f7adec9b701ed8aec.jpeg"></p>
+<p>お客様にさらなる透明性を提供するため、App Storeでは現在、<a class="link" href="https://health.ec.europa.eu/medical-devices-sector_en"  target="_blank" rel="noopener"
+    >欧州経済領域（EEA）</a>、<a class="link" href="https://www.gov.uk/guidance/regulating-medical-devices-in-the-uk"  target="_blank" rel="noopener"
+    >イギリス</a>、または[アメリカ合衆国]において、アプリが規制された医療機器であるかどうかを製品ページに表示します。規制された医療機器アプリとは、診断、予防、モニタリング、疾患および生理的状態の治療など、さまざまな医療目的のために単体で、またはシステムの一部として機能するアプリを指します。これらのアプリは、米国食品医薬品局（FDA）などの規制当局から登録または承認を必要とする場合があります。</p>
+<p>EEA、イギリス、またはアメリカ合衆国で配信し、かつ以下のいずれかの条件に該当するアプリを配布する場合は、App Store Connectで規制された医療機器の状態を提供し、連絡先情報や安全情報などの関連する規制情報も併せて提出する必要があります。</p>
+<ul>
+<li>その主要または副次的なカテゴリが「Health &amp; Fitness」または「Medical」である</li>
+<li>App Store Connectの年齢評価質問票において、「Medical」または「Treatment Information」への頻繁な参照があるとマークされている</li>
+</ul>
+<p>本日より、上記のいずれかの条件に該当する新しいアプリについては、これらの地域での配信のためにこの状態の提供が必須となります。これらの地域で既に配信されているアプリで、上記のいずれかの条件に該当するものは、2027年初頭までに状態を提供する必要があります。ただし、2027年初頭までにアプリの状態を宣言しない場合、アプリのアップデートを送信することはできなくなります。アプリが規制された医療機器でない場合は、「No」を選択できます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="update-on-regulated-medical-device-apps-in-the-european-economic-area-united-kingdom-and-united-states">Update on regulated medical device apps in the European Economic Area, United Kingdom, and United States
+</h2><p>March 26, 2026</p>
+<p><img alt="Three icons representing health and wellness: a green running figure, a red medical clipboard with a heart, and a blue stethoscope." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/842757cb886fec0f7adec9b701ed8aec.jpeg"></p>
+<p>To provide additional transparency to customers, the App Store will now display whether an app is a regulated medical device on its product page in the <a class="link" href="https://health.ec.europa.eu/medical-devices-sector_en"  target="_blank" rel="noopener"
+    >European Economic Area (EEA)</a>, <a class="link" href="https://www.gov.uk/guidance/regulating-medical-devices-in-the-uk"  target="_blank" rel="noopener"
+    >United Kingdom</a>, or United States. Regulated medical device apps are those that function on their own or as part of a system for a range of medical purposes, including diagnosis, prevention, monitoring, and treatment of diseases and physiological conditions. These apps may require registration or authorization from regulatory bodies, such as the U.S. Food and Drug Administration (FDA).</p>
+<p>If you distribute in the EEA, UK, or U.S. and your app meets either of the following criteria, you’ll need to provide a regulated medical device status in App Store Connect, along with relevant regulatory information, such as contact details and safety information:</p>
+<ul>
+<li>Its primary or secondary category is Health &amp; Fitness or Medical</li>
+<li>It’s marked as containing frequent references to Medical or Treatment Information in the Age Rating questionnaire in App Store Connect</li>
+</ul>
+<p>Starting today, this status is required for new apps that meet either of the criteria above in order to distribute in these regions. Existing apps distributed in these regions that meet either of the criteria above must provide a status by early 2027. However, if you haven’t declared your app’s status by early 2027, you’ll no longer be able to submit app updates. If your app is not a regulated medical device, you can select No.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>App Store expands support to 11 new languages</title>
+      <link>https://n-kase.github.io/rss/posts/post-443/</link>
+      <pubDate>Mon, 15 Jun 2026 18:05:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-443/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年3月31日に、App Store Connectにおいて新たに11の言語（ベンガル語、グジャラート語、カンナダ語、マラヤーラム語、マラーティー語、オディア語、パンジャブ語、スロベニア語、タミル語、テルグ語、ウルドゥー語）のローカライズドメタデータのサポートを開始し、対応言語数を合計50に拡大したことを発表しました。これにより、特にインド市場を含む世界中のユーザーにアプリやゲームをより適切に届けやすくなり、開発者は自分の製品を各言語・文化に合わせて名前や説明、スクリーンショットなどを調整することで、ビジネスの成長機会を得られるようになります。したがって、開発者は次回のアップデート時にローカライズドメタデータを追加し、新しいローカライズドApp Storeバッジをマーケティングに活用することで、言語の壁を越えたユーザー獲得と売上向上を狙うべきだということが示唆されます。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="app-store-expands-support-to-11-new-languages">App Store expands support to 11 new languages
+</h2><p>March 31, 2026</p>
+<p><img alt="A collection of Apple App Store and Apple TV download badges displayed in multiple languages." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2dbb9f10bf3c0679b9f3abd0f86c83f7.jpeg"></p>
+<p>To help your apps and games reach more people worldwide — especially in India — App Store Connect now supports localized metadata for 11 new languages, bringing the total number of supported localizations to 50. The new languages include Bangla, Gujarati, Kannada, Malayalam, Marathi, Odia, Punjabi, Slovenian, Tamil, Telugu, and Urdu.</p>
+<p>You can now provide localized metadata — such as your app name, description, screenshots, and more — in App Store Connect. When you localize your metadata, it helps make your app relevant to potential users across languages and cultures, and provides an opportunity to grow your business. You can add localized metadata with your next version submission for each platform you support and use new localized App Store badges in your marketing communications.</p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-information/localize-app-information/"  target="_blank" rel="noopener"
+    >Learn how to localize your app information</a></p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="app-store-expands-support-to-11-new-languages-1">App Store expands support to 11 new languages
+</h2><p>March 31, 2026</p>
+<p><img alt="A collection of Apple App Store and Apple TV download badges displayed in multiple languages." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2dbb9f10bf3c0679b9f3abd0f86c83f7.jpeg"></p>
+<p>To help your apps and games reach more people worldwide — especially in India — App Store Connect now supports localized metadata for 11 new languages, bringing the total number of supported localizations to 50. The new languages include Bangla, Gujarati, Kannada, Malayalam, Marathi, Odia, Punjabi, Slovenian, Tamil, Telugu, and Urdu.</p>
+<p>You can now provide localized metadata — such as your app name, description, screenshots, and more — in App Store Connect. When you localize your metadata, it helps make your app relevant to potential users across languages and cultures, and provides an opportunity to grow your business. You can add localized metadata with your next version submission for each platform you support and use new localized App Store badges in your marketing communications.</p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-information/localize-app-information/"  target="_blank" rel="noopener"
+    >Learn how to localize your app information</a></p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Now Available: Monthly Subscriptions with a 12-Month Commitment</title>
+      <link>https://n-kase.github.io/rss/posts/post-438/</link>
+      <pubDate>Mon, 15 Jun 2026 18:00:06 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-438/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは、App Storeの自動更新型サブスクリプションに対して、12か月間の契約を前提とした月額プランを新たに提供し始めた。これにより、利用者は毎月の支払い額を抑えつつ、契約期間中はいつでも解約でき、契約満了後に自動更新が止まる仕組みになる。さらに、利用者はAppleアカウントで支払い済みと残りの回数を確認でき、更新前にメールやプッシュ通知でリマインダーが届くため、透明性が高まる。開発者はApp Store Connectで設定し、Xcodeでテストできるほか、米国とシンガポールを除く世界のiOS 26.4以降の端末で利用可能になる。この新オプションは、価格に敏感なユーザーを獲得しやすくするとともに、解約の自由度と情報開示が利用者の信頼を高め、結果として開発者は柔軟な課金モデルを導入することで継続的な収益基盤を強化すべきだということが示唆される。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="今利用可能-12か月契約の月額サブスクリプション">今利用可能: 12か月契約の月額サブスクリプション
+</h2><p>2026年4月27日</p>
+<p><img alt="App Storeのサブスクリプションにおける、12か月契約の月額サブスクリプション機能、支払いスケジュール、契約詳細を示すスクリーンショット" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/17b418f90b0f61473419351df5dd40db.jpeg"></p>
+<p>今日、私たちはApp Storeでの自動更新型サブスクリプションの支払い方法として、新たに12か月契約の月額サブスクリプションを導入します。この新しい支払いオプションにより、開発者は加入者により手頃な価格の選択肢を提供できます。加入者はいつでも解約でき、解約すると契約で定めた支払いを完了した後に自動更新が行われなくなります。</p>
+<p>透明性を確保するため、加入者はAppleアカウントで完了した支払い回数と残りの支払い回数を簡単に確認できます。また、Appleは更新日の前にメールを送信し、オプトインしている場合はプッシュ通知も送って、 upcoming purchase（今後の購入）を思い出させます。</p>
+<p>これで、App Store Connectでこのタイプのサブスクリプションを設定し、Xcodeでテストすることができます。米国とシンガポールを除き、12か月契約の月額サブスクリプションは、iOS 26.4、iPadOS 26.4、macOS Tahoe 26.4、tvOS 26.4、visionOS 26.4以降、あるいはそれ以降のバージョン（iOS 26.5、iPadOS 26.5、macOS Tahoe 26.5、tvOS 26.5、visionOS 26.5の5月にリリース予定）を搭載した世界中のユーザーに提供されます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="now-available-monthly-subscriptions-with-a-12-month-commitment">Now Available: Monthly Subscriptions with a 12-Month Commitment
+</h2><p>April 27, 2026</p>
+<p><img alt="Screens showing monthly subscriptions with a 12-month commitment feature, payment schedule and commitment details for App Store subscriptions." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/17b418f90b0f61473419351df5dd40db.jpeg"></p>
+<p>Today, we’re introducing a new way that people can pay for your auto-renewable subscriptions on the App Store: monthly subscriptions with a 12-month commitment. This new payment option allows you to offer subscribers more affordable options. People can cancel their subscription at any time, which will prevent the subscription from renewing after they’ve completed their agreed-to payments to fulfill their commitment.</p>
+<p>To provide transparency, people can easily view the number of completed and remaining payments for the subscription in their Apple Account. Apple will also send email and, if opted in, push notifications ahead of their renewal date to remind them of their upcoming purchase.</p>
+<p>You can now configure this type of subscription in App Store Connect and test it in Xcode. With the exception of the United States and Singapore, monthly subscriptions with a 12-month commitment will be available worldwide to people on iOS 26.4, iPadOS 26.4, macOS Tahoe 26.4, tvOS 26.4, and visionOS 26.4, or later, with the release of iOS 26.5, iPadOS 26.5, macOS Tahoe 26.5, tvOS 26.5, and visionOS 26.5 in May.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Brazilian betting license requirement for App Store availability</title>
+      <link>https://n-kase.github.io/rss/posts/post-436/</link>
+      <pubDate>Mon, 15 Jun 2026 17:58:40 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-436/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>ブラジルの固定オッズ賭博規制が変更され、有効な固定オッズ賭博ライセンスを持つアプリのみがブラジルのApp Storeで配信できるようになった。ギャンブル機能を含むアプリは、年齢評価 questionnaire で「はい」と答えることでブラジルの年齢制限がA18になり、ライセンス情報をApp Review Informationの欄に記入し、Notesフィールドに詳細を入力し、必要な書類をファイル添付フィールドで添付した新しいバージョンを提出しなければ審査が開始されない。また、法令に従った年齢制限や賭博リスクの開示・警告を遵守し、不明点は法律顧問に相談すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="ブラジルの賭博ライセンス要件（App Storeでの利用可能性）" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="ブラジルの賭博ライセンス要件app-storeでの利用可能性">ブラジルの賭博ライセンス要件（App Storeでの利用可能性）
+</h2><p>2026年5月8日</p>
+<p>ブラジルの固定オッズ賭博規制の変更により、固定オッズ賭博（ギャンブル）機能を持つアプリは、<a class="link" href="https://www.gov.br/fazenda/pt-br/composicao/orgaos/secretaria-de-premios-e-apostas"  target="_blank" rel="noopener"
+    >賞品と賭博の秘書局（SPA）</a>から有効な固定オッズ賭博ライセンスを取得すれば、ブラジルのApp Storeで配信できるようになります。あなたのアプリにこれらの機能が含まれている場合（App Store Connectの年齢評価 questionnaire でギャンブルの質問に「はい」と答えることを示します）、このライセンスを提供する必要があります。年齢評価 questionnaire でギャンブルの質問に「はい」と答えると、ブラジルでの年齢評価がA18になることに注意してください。</p>
+<p>ライセンス確認プロセスを開始するには、新しいアプリバージョンを提出する必要があります。App Store ConnectのApp Review Informationセクションを更新するだけではレビューは開始されません。アプリの新しいバージョンをレビューのために提出する際は、以下を行ってください：</p>
+<ul>
+<li>App Store ConnectのApp Review Informationセクションにライセンス情報を含める。</li>
+<li>Notesフィールドにライセンスの詳細を入力する。</li>
+<li>ファイル添付フィールドを使用して、必要な補足書類を添付する。</li>
+</ul>
+<p>法律で定められているすべての開示および警告要件に準拠していることを確認してください。これには、年齢制限や賭博リスクに関するものも含まれますが、これらに限られません。法的義務について質問がある場合は、法律顧問に連絡してください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Brazilian betting license requirement for App Store availability" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="brazilian-betting-license-requirement-for-app-store-availability">Brazilian betting license requirement for App Store availability
+</h2><p>May 8, 2026</p>
+<p>Following changes to Brazil’s fixed-odds betting regulation, apps with fixed-odds betting (gambling) features can now be distributed on the App Store in Brazil with a valid fixed-odds betting license from the <a class="link" href="https://www.gov.br/fazenda/pt-br/composicao/orgaos/secretaria-de-premios-e-apostas"  target="_blank" rel="noopener"
+    >Secretariat of Prizes and Bets (SPA)</a>. If any of your apps include these features (indicated by selecting “Yes” to the gambling question in the age rating questionnaire in App Store Connect), you’ll need to provide this license. Keep in mind that answering “Yes” to the gambling question in the age rating questionnaire will set your Brazil age rating to A18.</p>
+<p>A new app version must be submitted to initiate the license verification process. Updating the App Review Information section in App Store Connect alone won’t start a review. When submitting a new version of your app for review:</p>
+<ul>
+<li>Include your license information in the App Review Information section in App Store Connect.</li>
+<li>Enter your license details in the Notes field.</li>
+<li>Attach any supporting documents using the file attachment field.</li>
+</ul>
+<p>Please ensure that your app complies with all disclosures and warnings requirements, including but not limited to age restrictions and gambling risks, as required under the law. For questions regarding your legal obligations, please contact your legal counsel.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Get the most out of your Apple Developer account</title>
+      <link>https://n-kase.github.io/rss/posts/post-435/</link>
+      <pubDate>Mon, 15 Jun 2026 17:57:42 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-435/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは無料のDeveloperアカウントを提供しており、これによってベータ版のXcodeやOS、開発者イベント、フォーラム、フィードバック送信などの基本的なツールとサポートへのアクセスが可能になり、さらに有料のApple Developer Programメンバーシップに加入するとTestFlightによる大規模ベータテストやApp Storeを通じた世界175カ国・地域への配信、複数言語対応、Apple Payなどのサービス統合が利用できるようになる。これにより開発者はリリース前のアプリ検証やユーザーフィードバックの収集、プラットフォームへの貢献がしやすくなり、結果としてアプリの品質向上やグローバル市場への展開、収益機会の拡大が期待できる。したがって、まずは無料アカウントで基本的な開発環境を整え、必要に応じて有料プログラムへアップグレードして、より広範なリソースと国際的な配信チャネルを活用すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="apple-developer-アカウントを最大限に活用する">Apple Developer アカウントを最大限に活用する
+</h2><p>2026年5月12日</p>
+<p><img alt="軽い木のテーブルで横並びに作業している2人の上からのビュー。それぞれMacBook Proを使用。前景のラップトップはXcodeを表示し、仮想iPhoneスクリーン上でカラフルな旅行または写真閲覧アプリのiOSシミュレータを表示。フレームの上部には2人目の手が見え、MacBookでタイプしている。これは共同開発またはコードレビューのセッションを示唆している。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fad84839f6221aba9fcc4e4eee315b65.jpeg"></p>
+<p>無料のApple Developerアカウントは、アプリとゲームを構築およびテストするために必要なツール、リソース、サポートへのアクセスを提供します。無料の開発者アカウントは、Apple Developer Programメンバーシップとは別です。組織が有料メンバーシップを持っている場合でも、自分自身の無料アカウントを作成することで、ダウンロードとサポートリソースへの直接アクセスが得られます。</p>
+<h3 id="アカウントを持っていない場合">アカウントを持っていない場合？
+</h3><p>Apple Developerアカウントを作成するには、Apple Accountにサインインしてください。Apple Accountを持っていない場合は、Apple Developerアカウント登録中に作成できます。</p>
+<h3 id="何が得られますか">何が得られますか：
+</h3><p><strong>XcodeとAppleオペレーティングシステムのベータバージョンへのアクセス:</strong> リリース前に upcoming features と API 変更でアプリをテストできます。ベータ版はフィードバックを送信し、各新しいOSリリースの初日からアプリが正常に動作することを保証するのに役立ちます。さらに、自分のデバイスで直接アプリをテストすることもできます。</p>
+<p>Xcodeのベータバージョンでは、最新の開発ツールとシミュレータを使って新しいSDKを探索し、強化されたAPIをテストし、互換性の問題をデバッグするための完全なツールチェーンにアクセスできます。</p>
+<p><a class="link" href="https://developer.apple.com/support/install-beta"  target="_blank" rel="noopener"
+    >Appleベータテストソフトウェアについて詳しくはこちら &gt;</a></p>
+<p><strong>Appleと会う:</strong> 年中開催される対面およびオンラインの開発者イベントに参加できます。イベントはUI/UXベストプラクティスのデザインワークショップから、フレームワークの技術的深掘り、App Store最適化に関するビジネスセッションまで幅広くあります。</p>
+<p><a class="link" href="https://developer.apple.com/events/"  target="_blank" rel="noopener"
+    >開発者活動に申し込む &gt;</a></p>
+<p><strong>Apple Developerフォーラム:</strong> フォーラムに参加して、世界中の開発者と質問したり知識を共有したりできます。フォーラムは特定のフレームワークやテクノロジーをカバーし、問題のトラブルシューティングやコードサンプルの共有のための場を提供します。</p>
+<p><strong>プラットフォームの形成に貢献:</strong> Feedback Assistantを使ってバグを報告し、機能リクエストを送信できます。サンプルコード、クラッシュログ、再現手順を含む詳細なレポートをファイルできます。新しいAPIをリクエストしたり、機能強化を提案したりできます。今日使っているツールのいくつかは、開発者</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="get-the-most-out-of-your-apple-developer-account">Get the most out of your Apple Developer account
+</h2><p>May 12, 2026</p>
+<p><img alt="An overhead view of two people working side by side at a light wood table, each on a MacBook Pro. The foreground laptop displays Xcode with an iOS app simulator showing a colorful travel or photo-browsing app on a virtual iPhone screen. The second person’s hands are visible in the upper portion of the frame, typing on their MacBook, suggesting a collaborative development or code review session." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fad84839f6221aba9fcc4e4eee315b65.jpeg"></p>
+<p>A free Apple Developer account provides access to the tools, resources, and support you need to build and test apps and games. A free developer account is separate from an Apple Developer Program membership. Even if your organization holds the paid membership, creating your own free account gives you direct access to downloads and support resources.</p>
+<h3 id="dont-have-an-account">Don’t have an account?
+</h3><p>To create your Apple Developer account, sign in to your Apple Account. If you don’t have an Apple Account, you can create one during Apple Developer account registration.</p>
+<h3 id="what-you-get">What you get:
+</h3><p><strong>Access beta versions of Xcode and Apple operating systems:</strong> Test your apps with upcoming features and API changes before release. Betas allow you to submit feedback and ensure your app works on day one of each new OS release. And you can test your apps directly on your own devices.</p>
+<p>With Xcode beta versions, you have access to the complete toolchain to explore new SDKs, test enhanced APIs, and debug compatibility issues using the latest development tools and simulators.</p>
+<p><a class="link" href="https://developer.apple.com/support/install-beta"  target="_blank" rel="noopener"
+    >Learn more about Apple beta testing software &gt;</a></p>
+<p><strong>Meet with Apple:</strong> Attend developer events that take place in person and online all year long. Events range from design workshops on UI/UX best practices to technical deep dives on frameworks and business sessions about App Store optimization.</p>
+<p><a class="link" href="https://developer.apple.com/events/"  target="_blank" rel="noopener"
+    >Sign up for developer activities &gt;</a></p>
+<p><strong>Apple Developer Forums:</strong> Join the forums to ask questions and share knowledge with developers worldwide. The forums cover specific frameworks and technologies, serving as a space to troubleshoot issues and share code samples.</p>
+<p><strong>Help shape the platform:</strong> Report bugs and submit feature requests with Feedback Assistant. File detailed reports with sample code, crash logs, and reproduction steps. Request new APIs or suggest enhancements. Some of the tools you use today started as developer feedback.</p>
+<h3 id="looking-for-more">Looking for more?
+</h3><p>An Apple Developer Program membership unlocks all the resources and support you need to build, test, share, and distribute apps and games.</p>
+<ul>
+<li>**Integrate Apple services:**Configure your app with powerful features like the Foundation Models framework, CloudKit, MusicKit, and Apple Pay.</li>
+<li>**Beta test at scale:**Use TestFlight to distribute beta builds to up to 10,000 external testers before your public release.</li>
+<li>**Unlock exclusive opportunities:**Access more in-person Meet with Apple events and WWDC activities, including one-on-one appointments with Apple experts.</li>
+<li>**Distribute worldwide:**Publish your apps and games on the App Store and grow your business. Easily share with people in 175 countries and regions and 50 languages.</li>
+<li>**Offer content and services for purchase:**Help make purchases effortless in your app or game using Apple In-App Purchase, with secure authentication, and over 200 payment methods supported globally.</li>
+</ul>
+<h3 id="keep-in-mind">Keep in mind:
+</h3><p>As always, you can explore Apple Developer videos, documentation, tutorials, sample code, API references, and the Human Interface Guidelines without an Apple Developer account.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Upcoming changes to age ratings in Australia and Vietnam</title>
+      <link>https://n-kase.github.io/rss/posts/post-431/</link>
+      <pubDate>Mon, 15 Jun 2026 17:54:30 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-431/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2026年6月18日から、AppleはオーストラリアとベトナムのApp Storeにおける年齢制限の表示を変更する。オーストラリアでは15+の区分が廃止され、ウェブへの無制限アクセス、頻繁な医療・治療情報、ロットボックスを含むアプリは16+に移行する。ベトナムでは現地の法令に合わせて、アプリは00+(全年齢)、12+、16+、18+のいずれかの地域別年齢制限を受け、開発者はApp Store Connectの質問票に正確に回答する必要がある。これにより、開発者はアプリの内容を再確認し、質問票の回答を適切に更新しないと表示される年齢制限が実際の内容と合わなくなるリスクがあるため、期限前にStore Connectの情報を見直し、正確なレーティングを設定すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Upcoming changes to age ratings in Australia and Vietnam" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="オーストラリアとベトナムにおける年齢制限の今後の変更">オーストラリアとベトナムにおける年齢制限の今後の変更
+</h2><p>2026年5月21日</p>
+<p>2026年6月18日から、App Storeにおける年齢制限がオーストラリアとベトナムで更新されます。</p>
+<p><strong>オーストラリア</strong></p>
+<p>オーストラリアのApp Storeでは、15+の年齢制限が利用できなくなります。現在15+と評価され、以下のコンテンツ記述子を含むアプリは16+に更新されます：</p>
+<ul>
+<li>ウェブへの無制限アクセス</li>
+<li>頻繁な医療または治療情報</li>
+<li>ロットボックス</li>
+</ul>
+<p>新しい評価は、オーストラリアにおけるアプリの製品ページに表示されます。App Store Connectの年齢制限質問票への回答が、アプリの内容を正確に反映していることを確認してください。</p>
+<p><strong>ベトナム</strong></p>
+<p>ベトナム法令第147号の第38条に準拠するため、ベトナムのApp Storeで提供されるアプリには地域固有の年齢制限が必要となります。App Store Connectにおける年齢制限質問票への回答に基づき、アプリは以下の4つの評価のいずれか（00+(全年齢)、12+、16+、18+）を受け、ベトナムにおけるアプリの製品ページに表示されます。年齢制限の値などの詳細情報は、6月18日からApp Store Connectおよび<a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-information/age-ratings-values-and-definitions"  target="_blank" rel="noopener"
+    >App Store Connect Help</a>で確認できます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Upcoming changes to age ratings in Australia and Vietnam" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="upcoming-changes-to-age-ratings-in-australia-and-vietnam">Upcoming changes to age ratings in Australia and Vietnam
+</h2><p>May 21, 2026</p>
+<p>Starting June 18, 2026, age ratings on the App Store will be updated in Australia and Vietnam.</p>
+<p><strong>Australia</strong></p>
+<p>The 15+ age rating will no longer be available on the App Store in Australia. Apps currently rated 15+ with the following content descriptors will be updated to 16+:</p>
+<ul>
+<li>Unrestricted web access</li>
+<li>Frequent medical or treatment information</li>
+<li>Loot boxes</li>
+</ul>
+<p>The new rating will appear on your app’s product page in Australia. Please ensure your responses to the age rating questionnaire in App Store Connect accurately reflect your app’s content.</p>
+<p><strong>Vietnam</strong></p>
+<p>To align with Article 38 of Vietnam Decree 147, apps available on the App Store in Vietnam will require a region-specific age rating. Based on your age rating questionnaire responses in App Store Connect, your app will receive one of four ratings (00+(all ages), 12+, 16+, or 18+) which will appear on its product page in Vietnam. Additional details, including age rating values, will be available in App Store Connect and <a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-information/age-ratings-values-and-definitions"  target="_blank" rel="noopener"
+    >App Store Connect Help</a> on June 18.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

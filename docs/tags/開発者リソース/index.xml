@@ -1,0 +1,47 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>開発者リソース on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9/</link>
+    <description>Recent content in 開発者リソース on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 18:17:31 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: January 2026</title>
+      <link>https://n-kase.github.io/rss/posts/post-459/</link>
+      <pubDate>Mon, 15 Jun 2026 18:17:31 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-459/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2026年1月にAppleが開発者向けに公開した「Hello Developer: January 2026」では、カップチーノでの特別なSwiftUIワークショップ、Liquid Glassに関する新たな接点、Appleデザインリソースの動画まとめ、最新のDevelop in Swiftチュートリアル、そして基盤モデルを最大限に活用する方法についての記事が発表されました。これらの取り組みは、開発者が最新のフレームワークやAI技術に触れる機会を増やし、エコシステムへの参加を促すことで、アプリ開発のスピードと品質の向上を狙っていると考えられます。したがって、開発者はこれらのリソースを積極的に活用し、SwiftUIや基盤モデルなどの新技術を習得することで、競争力を維持し続けるべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-january-2026">Hello Developer: January 2026
+</h2><p>January 6, 2026</p>
+<p><img alt="A woman wearing a gray sweater stands on stage in front of a large screen showing lines of code." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2c3e5907b31af4b53bf752945b7034b6.jpeg"></p>
+<p>We‘re hitting the ground running in 2026. In this edition:</p>
+<ul>
+<li>A special SwiftUI activity in Cupertino.</li>
+<li>More ways to connect with us about Liquid Glass.</li>
+<li>A snappy video recap of Apple design resources.</li>
+<li>All-new Develop in Swift Tutorials.</li>
+<li>A new article about taking full advantage of foundation models.</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-january-2026-1">Hello Developer: January 2026
+</h2><p>January 6, 2026</p>
+<p><img alt="A woman wearing a gray sweater stands on stage in front of a large screen showing lines of code." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2c3e5907b31af4b53bf752945b7034b6.jpeg"></p>
+<p>We‘re hitting the ground running in 2026. In this edition:</p>
+<ul>
+<li>A special SwiftUI activity in Cupertino.</li>
+<li>More ways to connect with us about Liquid Glass.</li>
+<li>A snappy video recap of Apple design resources.</li>
+<li>All-new Develop in Swift Tutorials.</li>
+<li>A new article about taking full advantage of foundation models.</li>
+</ul>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

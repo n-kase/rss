@@ -1,0 +1,57 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>デベロッパー対応 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC%E5%AF%BE%E5%BF%9C/</link>
+    <description>Recent content in デベロッパー対応 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:05:53 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC%E5%AF%BE%E5%BF%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game distribution on the App Store in Vietnam</title>
+      <link>https://n-kase.github.io/rss/posts/post-514/</link>
+      <pubDate>Mon, 15 Jun 2026 19:05:53 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-514/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>ベトナム情報通信省は、ベトナム版App Storeでゲームを配信し続けるために開発者にライセンス取得を義務付け、ライセンス番号と関連URLを製品ページの説明欄に入力し、ベトナム向けローカライズのみに適用してアップデートを提出する手順を示した。この規制が強化されれば、ライセンス未取得のゲームはストアから削除されるリスクが高まり、外国のゲームデベロッパーにもベトナム市場への参入障壁が増す可能性がある。したがって、デベロッパーは速やかにライセンスを取得し、指定された手順に従ってApp Store Connectで情報を更新し、ゲームの配信を継続すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Game distribution on the App\u00a0Store in Vietnam" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c04297658a0756cbd751f514dfddc779.png"></p>
+<h2 id="app-storeにおけるベトナムでのゲーム配信">App Storeにおけるベトナムでのゲーム配信
+</h2><p>2025年2月4日</p>
+<p>ベトナム情報通信省（MIC）は、ベトナムのApp Storeでゲームを利用可能にし続けるためにライセンス取得を義務付けています。詳細を確認し、ライセンス申請を行うには<a class="link" href="https://game.gov.vn/regulations-on-licensing-game-publishing-in-vietnam-597"  target="_blank" rel="noopener"
+    >規制を確認してください</a>。</p>
+<p><strong>ライセンスを取得したら：</strong></p>
+<ul>
+<li><a class="link" href="https://appstoreconnect.apple.com/"  target="_blank" rel="noopener"
+    >App Store Connect</a>にサインインします。</li>
+<li>ゲームの製品ページの説明セクションにライセンス番号と関連URLを入力します。</li>
+<li>ベトナムストアフロントに表示される<a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-localizations"  target="_blank" rel="noopener"
+    >App Storeローカライズ</a>に対してのみこの情報を提供すればよいことに注意してください。</li>
+<li>App Reviewにアップデートを送信します。</li>
+</ul>
+<p>これらの要件への対応方法について質問がある場合は、ベトナム情報通信省所管の<a class="link" href="https://english.mic.gov.vn/authority-of-broadcasting-and-electronic-information-197114276.htm"  target="_blank" rel="noopener"
+    >放送および電子情報局（ABEI）</a>までお問い合わせください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Game distribution on the App\u00a0Store in Vietnam" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c04297658a0756cbd751f514dfddc779.png"></p>
+<h2 id="game-distribution-on-the-app-store-in-vietnam">Game distribution on the App Store in Vietnam
+</h2><p>February 4, 2025</p>
+<p>The Vietnamese Ministry of Information and Communications (MIC) requires games to be licensed to remain available on the App Store in Vietnam. To learn more and apply for a game license, <a class="link" href="https://game.gov.vn/regulations-on-licensing-game-publishing-in-vietnam-597"  target="_blank" rel="noopener"
+    >review the regulations</a>.</p>
+<p><strong>Once you have obtained your license:</strong></p>
+<ul>
+<li>Sign in to <a class="link" href="https://appstoreconnect.apple.com/"  target="_blank" rel="noopener"
+    >App Store Connect</a>.</li>
+<li>Enter the license number and the associated URL in the description section of your game’s product page.</li>
+<li>Note that you only need to provide this information for the <a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-localizations"  target="_blank" rel="noopener"
+    >App Store localization</a>displayed on the Vietnam storefront.</li>
+<li>Submit an update to App Review.</li>
+</ul>
+<p>If you have questions on how to comply with these requirements, please contact the <a class="link" href="https://english.mic.gov.vn/authority-of-broadcasting-and-electronic-information-197114276.htm"  target="_blank" rel="noopener"
+    >Authority of Broadcasting and Electronic Information (ABEI)</a> under the Vietnamese Ministry of Information and Communications.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

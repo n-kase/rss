@@ -1,0 +1,85 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>視覚障害者支援 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E8%A6%96%E8%A6%9A%E9%9A%9C%E5%AE%B3%E8%80%85%E6%94%AF%E6%8F%B4/</link>
+    <description>Recent content in 視覚障害者支援 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:13:44 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E8%A6%96%E8%A6%9A%E9%9A%9C%E5%AE%B3%E8%80%85%E6%94%AF%E6%8F%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Walk this way: How Oko leverages AI to make street crossings more accessible</title>
+      <link>https://n-kase.github.io/rss/posts/post-523/</link>
+      <pubDate>Mon, 15 Jun 2026 19:13:44 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-523/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>視覚障害者や低視力者が街の通りを安全に渡れるように、ベルギーの三人チームが開発したAIアプリ『Oko』が、信号の状態をカメラで認識し、触覚・音声・視覚フィードバックで知らせることで、2021年末にApp Storeでリリースされ、2024年のApple Design Award（インクルージョン部門）とApp Store Award（カルチャーインパクト部門）を受賞した。シンプルさを追求した開発過程では、iOSやSwiftの経験がゼロだったチームがチュートリアルと実地テストを繰り返し、ユーザーからのフィードバックを取り入れながらUIを改良し、最終的にハプティックと音声のフィードバックを強化した。この取り組みは、技術的ハードルを乗り越えるだけでなく、アクセシビリティへの意識を高め、同様の課題に取り組む開発者にとって「シンプルかつ実用的なソリューションが最も効果的である」という教訓を示している。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="walk-this-way-how-oko-leverages-ai-to-make-street-crossings-more-accessible">Walk this way: How Oko leverages AI to make street crossings more accessible
+</h2><p>2025年1月7日</p>
+<p><img alt="Okoアプリのスクリーンショット。道路横断のライブカメラビューに「Countdown signal」および「Don’t walk signal」というテキストが画像上に表示されている。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0bd08ba3be2c34c09b13adc1e15431db.jpeg"></p>
+<p><em>Oko</em>はシンプルさの力を証明している。</p>
+<p>2024年のApple Design Award（インクルージョン部門）受賞および2024年のApp Store Award（カルチャーインパクト部門）受賞の<em>Oko</em>は、人工知能を活用して、視覚に障害があるか低視力の人々が歩行者用道路を移動できるよう支援する。「Walk」「Don’t Walk」などの信号状態をハプティック、音声、視覚フィードバックで知らせる。このアプリはユーザーの自信を瞬時に高める。シンプルなUIの裏側には、視覚とAIツールが強力に組み合わされており、iOSやSwiftの開発経験がゼロだったチームにとって特に印象的な達成である。</p>
+<p>「『私たちが受ける最大のフィードバックは、「とてもシンプルで、複雑なことは何もない」ということです。それを聞くのは嬉しいです』」と、ベルギー拠点の<em>Oko</em>の共同創設者の一人であるVincent Janssenは言う。「しかし、私たちがそう設計したのは、それが私たちができることだったからです。それがたまたま正しいことでもあったのです。」</p>
+<p>ADA FACT SHEET</p>
+<p><img alt="Okoの共同創設者であるVincent Janssen、Michiel Janssen、Willem Van de Mieropがモニターの前に集まり、アプリを確認している様子。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/022952c0c72cb0ae2072e72345f0db10.jpeg"></p>
+<p>左からWillem Van de Mierop、Michiel Janssen、Vincent Janssenが<em>Oko</em>の三人の共同創設者である。アプリの名前は「eye」（目）を意味する。</p>
+<h3 id="oko">Oko
+</h3><ul>
+<li>**受賞部門:**Inclusivity</li>
+<li>**チーム:**AYES BV</li>
+<li>**対応プラットフォーム:**iPhone</li>
+<li>**チーム規模:**6人</li>
+<li>**過去の受賞歴:**2024年App Store Award（カルチャーインパクト部門）受賞；App Store Editors’ Choice</li>
+</ul>
+<p><a class="link" href="https://apps.apple.com/us/app/oko-cross-streets-and-maps/id1583614988"  target="_blank" rel="noopener"
+    >App StoreからOkoをダウンロード</a></p>
+<p>Janssenとその共同創設者である兄のMichielおよび長年の友人Willem Van de Mieropにとって、<em>Oko</em>（名前は「eye」を意味する）はパンデミック中に生まれた情熱プロジェクトだった。三人ともコンピュータサイエンスを専攻し、AIに特化していた。アンテルペンの故郷で何年も働いていたが、2021年初頭になると三人は落ち着かなくなった。「私たちは皆フルタイムで働</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="walk-this-way-how-oko-leverages-ai-to-make-street-crossings-more-accessible-1">Walk this way: How Oko leverages AI to make street crossings more accessible
+</h2><p>January 7, 2025</p>
+<p><img alt="Screenshots of the app Oko, which show a live camera view of a street crossing with text that says “Countdown signal” and “Don’t walk signal” over the image." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0bd08ba3be2c34c09b13adc1e15431db.jpeg"></p>
+<p><em>Oko</em> is a testament to the power of simplicity.</p>
+<p>The 2024 Apple Design Award winner for Inclusivity and 2024 App Store Award winner for Cultural Impact leverages Artificial Intelligence to help blind or low-vision people navigate pedestrian walkways by alerting them to the state of signals — “Walk,” “Don’t Walk,” and the like — through haptic, audio, and visual feedback. The app instantly affords more confidence to its users. Its bare-bones UI masks a powerful blend of visual and AI tools under the hood. And it’s an especially impressive achievement for a team that had no iOS or Swift development experience before launch.</p>
+<p>“The biggest feedback we get is, ‘It’s so simple, there’s nothing complex about it,’ and that’s great to hear,” says Vincent Janssen, one of <em>Oko</em>’s three Belgium-based founders. “But we designed it that way because that’s what we knew how to do. It just happened to also be the right thing.”</p>
+<p>ADA FACT SHEET</p>
+<p><img alt="Oko’s three cofounders, Vincent Janssen, Michiel Janssen, and Willem Van de Mierop, gather around a bank of monitors to review their app." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/022952c0c72cb0ae2072e72345f0db10.jpeg"></p>
+<p>From left: Willem Van de Mierop, Michiel Janssen, and Vincent Janssen are the three cofounders of <em>Oko</em>. The app’s name means “eye.”</p>
+<h3 id="oko-1">Oko
+</h3><ul>
+<li>**Winner:**Inclusivity</li>
+<li>**Team:**AYES BV</li>
+<li>**Available on:**iPhone</li>
+<li>**Team size:**6</li>
+<li>**Previous accolades:**2024 App Store Award winner for Cultural Impact; App Store Editors’ Choice</li>
+</ul>
+<p><a class="link" href="https://apps.apple.com/us/app/oko-cross-streets-and-maps/id1583614988"  target="_blank" rel="noopener"
+    >Download Oko from the App Store</a></p>
+<p>For Janssen and his cofounders, brother Michiel and longtime friend Willem Van de Mierop, Oko — the name translates to “eye” — was a passion project that came about during the pandemic. All three studied computer science with a concentration in AI, and had spent years working in their hometown of Antwerp. But by the beginning of 2021, the trio felt restless. “We all had full-time jobs,” says Janssen, “but the weekends were pretty boring.” Yet they knew their experience couldn’t compare to that of a longtime friend with low vision, who Janssen noticed was feeling more affected as the autumn and winter months went on.</p>
+<p>“We really started to notice that he was feeling isolated more than others,” says Janssen. “Here in Belgium, we were allowed to go for walks, but you had to be alone or with your household. That meant he couldn’t go with a volunteer or guide. As AI engineers, that got us thinking, ‘Well, there are all these stories about autonomous vehicles. Could we come up with a similar system of images or videos that would help people find their way around public spaces?’”</p>
+<p>I had maybe opened Xcode three times a few years before, but otherwise none of us had any iOS or Swift experience.</p>
+<p>Vincent Janssen,</p>
+<p>Okofounder</p>
+<p>The trio began building a prototype that consisted of a microcomputer, 3D-printed materials, and a small portable speaker borrowed from the Janssen brothers’ father. Today, Janssen calls it “hacky hardware,” something akin to a small computer with a camera. But it allowed the team and their friend — now their primary tester — to walk the idea around and poke at the technology’s potential. Could AI recognize the state of a pedestrian signal? How far away could it detect a Don’t Walk sign? How would it perform in rain or wind or snow? There was just one way to know. “We went out for long walks,” says Janssen.</p>
+<p>And while the AI and hardware performed well in their road tests, issues arose around the hardware’s size and usability, and the team begin to realize that software offered a better solution. The fact that none of the three had the slightest experience building iOS apps was simply a hurdle to clear. “I had maybe opened Xcode three times a few years before,” says Janssen, “but otherwise none of us had any iOS or Swift experience.”</p>
+<p><img alt="Two screenshots of the app Oko. The screenshot on the left shows a suggested walking path through a map view. The screenshot on the right shows a live image of a street crossing with the words “Walk signal” highlighted in a green bubble at the top of the screen." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/24b60bf14692fe0ca68ecfa60492f7f3.jpeg"></p>
+<p><em>Oko</em> helps people navigate pedestrian walkways through interactive maps and audio, visual, and haptic feedback.</p>
+<p>So that summer, the team pivoted to software, quitting their full-time jobs and throwing themselves into learning Swift through tutorials, videos, and trusty web searches. The core idea crystallized quickly: Build a simple app that relied on Camera, the Maps SDK, and a powerful AI algorithm that could help people get around town. “Today, it’s a little more complex, but in the beginning the app basically opened up a camera feed and a Core ML model to process the images,” says Janssen, noting that the original model was brought over from Python. “Luckily, the tools made the conversion really smooth.” (<em>Oko</em>’s AI models run locally on device.)</p>
+<p>With the software taking shape, more field testing was needed. The team reached out to accessibility-oriented organizations throughout Belgium, drafting a team of 100 or so testers to “codevelop the app,” says Janssen. Among the initial feedback: Though <em>Oko</em> was originally designed to be used in landscape mode, pretty much everyone preferred holding their phones in portrait mode. “I had the same experience, to be honest,” said Janssen, “but that meant we needed to redesign the whole thing.”</p>
+<p><img alt="A group of men stand in a room with green walls looking at a large monitor that contains notes and sketches for the app Oko." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6222af067a16f01b65b80123bffb8da6.jpeg"></p>
+<p>The <em>Oko</em> team navigates through prototypes at a review session in their hometown of Antwerp, Belgium.</p>
+<p>Other changes included amending the audio feedback to more closely mimic existing real-world sounds, and addressing requests to add more visual feedback. The experience amounted to getting a real-world education about accessibility on the fly. “We found ourselves learning about VoiceOver and haptic feedback very quickly,” says Janssen.</p>
+<p>Still, the project went remarkably fast — <em>Oko</em> launched on the App Store in December 2021, not even a year after the trio conceived of it. “It took a little while to do things, like make sure the UI wasn’t blocked, especially since we didn’t fully understand the code we wrote in Swift,” laughs Janssen, “but in the end, the app was doing what it needed to do.”</p>
+<p>We found ourselves learning about VoiceOver and haptic feedback.</p>
+<p>Vincent Janssen,</p>
+<p>Okofounder</p>
+<p>The accessibility community took notice. And in the following months, the <em>Oko</em> team continued expanding its reach — Michiel Janssen and Van de Mierop traveled to the U.S. to meet with accessibility organizations and get firsthand experience with American street traffic and pedestrian patterns. But even as the app expanded, the team retained its focus on simplicity. In fact, Janssen says, they explored and eventually jettisoned some expansion ideas — including one designed to help people find and board public transportation — that made the app feel a little too complex.</p>
+<p>Today, the <em>Oko</em> team numbers 6, including a fleet of developers who handle more advanced Swift matters. “About a year after we launched, we got feedback about extra features and speed improvements, and needed to find people who were better at Swift than we are,” laughs Janssen. At the same time, the original trio is now learning about business,</p>
+<p>&hellip;（長文のため省略されました）</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

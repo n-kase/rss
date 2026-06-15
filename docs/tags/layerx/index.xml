@@ -1,0 +1,172 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LayerX on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/layerx/</link>
+    <description>Recent content in LayerX on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 17:37:36 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/layerx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>機能を作るな。楽して作るな。 （LayerX社内資料） Don’t Build Features. Don’t Take the Easy Way Out.</title>
+      <link>https://n-kase.github.io/rss/posts/post-398/</link>
+      <pubDate>Mon, 15 Jun 2026 17:37:36 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-398/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>LayerX社内資料で「機能を作るな。楽して作るな」というメッセージが共有され、機能追加そのものに価値はなく、使われなければ認知負荷や将来のメンテナンスコスト、AIコンテキストの浪費などマイナスになるだけだと指摘されている。これにより、開発チームは機能の乱立が技術的負荷やユーザーへのストレスを増大させ、長期的には製品の価値を損なうリスクがあることを認識し、ネット上でも「使われる価値を提供する」開発姿勢への転換が求められている議論が広がっている。したがって、スピードだけを追求するのではなく、実際に使われる価値を提供する機能のみを厳選し、未来への負荷を減らす持続可能な開発を心がけるべきだという教訓が得られる。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>Upgrade to Pro
+— share decks privately, control downloads, hide ads and more …
+Speaker Deck
+Features
+Speaker Deck
+PRO
+Sign in
+Sign up for free
+Search
+機能を作るな。楽して作るな。 （LayerX社内資料） Don’t Build Feature&hellip;
+Search
+mosa
+June 15, 2026
+6.8k
+20
+Share
+Embed
+Copy iframe code
+Copy JS code
+Copy link
+Start on current slide
+機能を作るな。楽して作るな。 （LayerX社内資料） Don’t Build Features. Don’t Take the Easy Way Out.
+LayerX社内の定例でつかった資料です。
+mosa
+June 15, 2026
+More Decks by mosa
+See All by mosa
+計画と曖昧さ
+mosa_siru
+11
+6.7k
+ベタートラップと夏
+mosa_siru
+9
+5k
+本気でプロダクトに向き合うCTOになるために必要な事 (技育祭2024春)
+mosa_siru
+66
+21k
+CPOが開発する覚悟 〜コンパウンドスタートアップにおける、爆速の新規プロダクト開発スタイル〜
+mosa_siru
+25
+78k
+バクラクの爆速開発を支えるチームとアーキテクチャ
+mosa_siru
+0
+8.2k
+絡み合うSaaSプロダクトのマイクロサービスアーキテクチャ | LayerX
+mosa_siru
+15
+21k
+Featured
+See All Featured
+What the history of the web can teach us about the future of AI
+inesmontani
+PRO
+1
+600
+Future Trends and Review - Lecture 12 - Web Technologies (1019888BNR)
+signer
+PRO
+0
+3.6k
+Abbi&rsquo;s Birthday
+coloredviolet
+2
+7.9k
+sira&rsquo;s awesome portfolio website redesign presentation
+elsirapls
+0
+270
+The Invisible Side of Design
+smashingmag
+302
+52k
+Building Adaptive Systems
+keathley
+44
+3k
+Templates, Plugins, &amp; Blocks: Oh My! Creating the theme that thinks of everything
+marktimemedia
+31
+2.8k
+Dominate Local Search Results - an insider guide to GBP, reviews, and Local SEO
+greggifford
+PRO
+0
+190
+The Myth of the Modular Monolith - Day 2 Keynote - Rails World 2024
+eileencodes
+28
+3.5k
+Done Done
+chrislema
+186
+16k
+Game over? The fight for quality and originality in the time of robots
+wayneb77
+1
+190
+Evolution of real-time – Irina Nazarova, EuRuKo, 2024
+irinanazarova
+9
+1.4k
+Transcript
+© LayerX Inc. 機能を作るな。楽して作るな。 2026/06/15 @mosa_siru (榎本悠介) LayerX社内資料
+2 © LayerX Inc. バクラクは圧倒的に使いやすいことがアイデンティティ 経費精算？勤怠？給与？いつからあるのその市場？ いまバクラクが作っている理由って何？ 後発でも戦えている理由はプロダクト。 体験だけは負けてはいけない。 Read
+Me
+3 © LayerX Inc. toBのプロダクトは構造的に悪くなりやすい 顧客拡⼤のために多様な業務フローに対応したくなるから。 良くないことに、体験が悪化しても使われ続ける。なぜなら • なんらかやらないといけない業務だから（業務整理をしない限り） •
+導⼊意思決定者と利⽤者が異なったりするから • 移⾏のコストが⾼いから ある程度使われ続けること = 良いプロダクトであることの証左ではない そして基本的にバックオフィスプロダクトは恨みを買いやすい。 僕はそれが許せなくてバクラクを作りはじめた Read Me
+機能をつくることはマイナスである
+5 © LayerX Inc. 機能をつくることそれ単体に価値はない、むしろマイナスである 使われて初めて価値が出る 使われて運⽤に乗って初めて価値が出る 使わないユーザーには認知負荷を招く。 端的にいうと邪魔。理解ができない。とっつきづらい。無駄なストレス。 Read
+Me
+6 © LayerX Inc. 機能は未来に負担をおしつける 次の開発が遅くなる。 バグがないか常に動作確認し続ける必要がある。未来永劫。 パフォーマンスが悪くなる。その機能のせいでパフォーマンスの改善ができなくなる。 未来に悪影響をもたらす。 リファクタ、リアーキ、何らかの障壁になり続ける。
+AIのコンテキストを無駄に⾷う。それも永劫。それは遅さとAIコストにつながる。 後続の⼈間の理解を要求し続ける。 そしてもちろんその時間で本来別のものが提供できた。機会コストの無駄である。 機能は、使わないユーザーにとっては百害あって⼀利なし。 Read Me
+使われないものを作るな 正しくないものを作るな
+8 © LayerX Inc. 使われないものを作るな 暇でいい、暇なほうがずっといい エンジニアは、作らないことは悪じゃない PdMは、エンジニアを暇させることは悪じゃない 間違ったものを作って未来とユーザーに負担を強いるより100倍良い 拙速な開発にストップをかけることは明確にあなたの仕事
+PdMとかエンジニアとかデザイナーとかQAとか関係ない。 「AIで作れるから⼀旦作るか」と、とりあえず作ってないか？作ったものを誰かに判断させるコストをお しつけてないか？ Read Me
+9 © LayerX Inc. 過去の例：認証基盤のリニューアル撤退 Read Me <a class="link" href="https://note.com/applism_118/n/n6ac43ace4566"  target="_blank" rel="noopener"
+    >https://note.com/applism_118/n/n6ac43ace4566</a>
+10 © LayerX Inc. じゃあ、⼀部の⼈しか使わない機能はどうすればいいのか ⾊々な業種‧業態‧業務フローがある。⼀部の会社しか使わない機能は構造上存在する。時々し か使わない機能は存在する。 理想は、機能をつくるなら、欲しい⼈が欲しくなったときに気づく場所におく。 AIのSkillとおなじ。 ⼈間のコンテキストは限界がある。
+使おうとおもったら⾃然と気付けるような場所。 Read Me
+11 © LayerX Inc. じゃあ、設定でON/OFFできるようにすればいいのか 明確にNo。 設定の認知コストがかかる。それは⼈間もだし、AIも含む。 設定に気づかせない限り誰も使わない機能である。それは存在しないのと同じ。作らない⽅が良い。気づかない ⼈、使わない⼈には百害あって⼀利なし。 設定に気付く⼈は、適当な場所においたら数%未満だろう。
+設定をおくとしても、デフォルト値はなにかも徹底的に考え続ける必要がある。それを放棄するのはありえな い。 そして設定の分岐の数だけ動作確認で後ろのひとは永遠に苦しみ続ける お客さんへの案内は苦しみ続ける お客さんに設定を探し理解するコストを負担させているだけである。設定という概念は⼀⽣残る。 Read Me
+12 © LayerX Inc. 効果の逓減どころかマイナス 「みんなが使う機能」は減っていく 作る価値は逓減していく。もうそれは宿命。 むしろ判断をミスるとマイナスになる。機能が積み重なるほどリスクがあがる。 「もうコスパ悪いので、このプロダクト開発とめましょう」過去にいってくれたPdMがいた あなたがその現場を⼀番わかっているはず
+それを⾔えるくらいの解像度になれると理想。 あなたのほうがあなたのプロダクトをわかっている。 つくるなら、価値のあるものを作ろう。 Read Me
+アウトプットの誘惑
+14 © LayerX Inc. 機能を作ることは楽しい なんかやった気になる。 速くつくって「すごいね！」と誰だって⾔われたい ⾮エンジニアでも作れるとなるとなおさら。 「もうエンジニアじゃん！」と誰だって⾔われたい Read
+Me
+15 © LayerX Inc. でも、あなたは責任を取り続けられますか Read Me あなたはそのコードがバグったときに責任取れますか セキュリティインシデントがおきたときに責任取れますか コードは、誰かが必ず⾯倒を⾒続ける
+コードは、AIのコンテキストを奪い続ける 動作は、誰かが必ず確認をし続ける ユーザーは、その機能に付き合い続ける 点として速く作る、アウトプットの誘惑に打ち勝たないといけない。
+16 © LayerX Inc. Read Me ⼀瞬のアウトプットが速いだけで 本当にアウトカムが速いですか アウトカムとかむずかしい⽤語だけど、要するに本当にユーザーはうれしがってますか 使わないユーザーに迷惑をかけていませんか
+あなたのつくったものは、全体の総和は未来にわたってプラスと断⾔できますか 点として速いだけではないですか
+17 © LayerX Inc. Read Me 万⼀つくったものが全然だめで、機能を落とすとなったとき あなたが顧客に謝りに⾏けますか 代替となるやり⽅を、丁寧に⽰せますか。 あなたは機能を落とせますか
+18 © LayerX Inc. Read Me Howを考えるのはこちらの仕事。 「要望からプルリクが⾃動でつくられるように」「つくったものをAIがレビューすれば良 い」とかいう世界観を夢想するな。お客さんに⽢えるな。 あなたはなぜその要望が出るのかわかってるのか。その裏側にある業務の全体像をわかって
+いるのか。複数のお客さんに俯瞰して考えられているのか。 AIで増幅された間違い探しを、他のメンバーとユーザーと、後続のメンバーと未来の ユーザーにおしつけない。 ⾔われた通り作るな
+19 © LayerX Inc. Read Me それは前提なだけ。というかコスト掛かってるだけなので無駄に使うことは偉くない。 点として速くつくって偉いねの時代は終わり。 価値を速くつくらないと意味がない。 そして点としてでは意味がない。
+価値を提供し続けるのがプロダクト。 AIで速くつくって偉いねの時代は終わり
+20 © LayerX Inc. Read Me あなたもよく理解していないコードを、誰が責任を取り続けられますか？ 楽して任せたから、解像度低くなってずっとAIに任せざるを得ないだけではないですか。 短期の楽さをとったことで、AI中毒になっているだけではないですか。 持続可能な開発になっていますか。
+価値を提供し続けるのがプロダクト。 楽しているだけではないですか？
+21 © LayerX Inc. Read Me Speed is Moat. もうそれは⼤前提。
+でも間違ったものを速く作ってもゼロどころかマイナス。 スピードを⾔い訳にしない。 もちろん事業上スピードは⼤事
+まとめ
+23 © LayerX Inc. Read Me なんか楽に速くつくってほめられる、評価される。 それができたらいいよね。 でもそんなに仕事は簡単じゃない。 ドメイン理解、スピード、事業、技術、組織、未来、あらゆるトレードオフと意思決定の連続。プロダク
+ト作りは本当に難しい。 なるべく多くの⼈を幸せにし続けられるプロダクトにしていきましょう。 まとめ：作るな
+24 © LayerX Inc. Read Me 開発速度が速いとは 「点として速い」だけでは意味がない。AI時代のプロダクト開発で本当に⼤事なこと【Bet X】 CPOが開発する覚悟
+(pmconf 2023) 合わせてお読みください</p>
+</details>]]></description>
+    </item>
+    
+  </channel>
+</rss>

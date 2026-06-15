@@ -1,0 +1,101 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/mac/</link>
+    <description>Recent content in Mac on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:01:12 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: March 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-507/</link>
+      <pubDate>Mon, 15 Jun 2026 19:01:12 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-507/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleの開発者向けニュースレターで、Mac向けに待望のAAAタイトルが登場することが発表され、同時に国際女性デーの関連イベントやWeChatの最新情報も紹介されたことが明らかになった。これにより、Macユーザーの間でゲームへの期待が高まるとともに、ジェンダー平等への関心が再燃し、WeChatを通じた新たなサービスや連携の機会が広がりそうだ。したがって、開発者はこうしたプラットフォームの動向を注視し、クロスプラットフォーム対応や包括的な取り組みを積極的に検討すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-march-2025">Hello Developer: March 2025
+</h2><p>March 4, 2025</p>
+<p><img alt="In this screenshot from Assassin’s Creed Shadows, a masked character crouches on the roof of a Japanese temple, preparing to throw a knife at an opponent who is standing on a red bridge in the background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b61c763bf90137a33111bcb9def213c8.jpeg"></p>
+<p>In this edition: An incredible AAA game comes to Mac. Plus, the latest on International Women’s Day activities, WeChat, and more.</p>
+<p>March 4, 2025</p>
+<p>In this edition: An incredible AAA game comes to Mac. Plus, the latest on International Women’s Day activities, WeChat, and more.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-march-2025-1">Hello Developer: March 2025
+</h2><p>March 4, 2025</p>
+<p><img alt="In this screenshot from Assassin’s Creed Shadows, a masked character crouches on the roof of a Japanese temple, preparing to throw a knife at an opponent who is standing on a red bridge in the background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b61c763bf90137a33111bcb9def213c8.jpeg"></p>
+<p>In this edition: An incredible AAA game comes to Mac. Plus, the latest on International Women’s Day activities, WeChat, and more.</p>
+<p>March 4, 2025</p>
+<p>In this edition: An incredible AAA game comes to Mac. Plus, the latest on International Women’s Day activities, WeChat, and more.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Assassin’s Creed Shadows comes to Mac</title>
+      <link>https://n-kase.github.io/rss/posts/post-506/</link>
+      <pubDate>Mon, 15 Jun 2026 19:00:46 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-506/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Ubisoft Québecは、ファン待望の『Assassin’s Creed Shadows』をMacでも同時にリリースすると発表し、開発陣はMetal 3やApple siliconなどの最新Mac技術を活用してゲームの没入感を高めたと語っている。この同時発売は、Macでも高性能なゲームが楽しめることを示し、今後さらに多くの開発者がMac向けタイトルを検討するきっかけになる可能性がある。したがって、ゲーム開発においてはハードウェアの特性を活かしたクロスプラットフォーム展開が成功の鍵となり、開発者はMacを軽視せずに積極的に取り込むべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p>Assassin’s Creed Shadows が Mac に登場</p>
+<p>2025年3月4日</p>
+<p>[このスクリーンショットは、Assassin’s Creed Shadows のもので、仮面をつけたキャラクターが日本の寺の屋根にしゃがみ込み、背景の赤い橋の上に立っている相手にナイフを投げようとしている様子を示しています。]</p>
+<p>カナダの氷のように冷たい晩冬の朝ですが、ユービーアイソフト・ケベックのオフィスは興奮で燃えています。</p>
+<p>ユービーアイソフトのチームは、『Assassin’s Creed Shadows』のリリース準備を進めています。これはシリーズ第14作であり、ほぼあらゆる面でフランチャイズの進化を遂げた作品です。舞台は feudal 16th‑century Japan（封建時代の16世紀日本）で、ファンとユービーアイソフトのスタッフ alike が長く求めてきた豊かで優雅な時代です。ゲームには二人の激しい主人公が登場します：アフリカ系の力強い戦士ヤスケと、敏捷な忍び暗殺者ナオエです。両者は歴史的正確性に細心の注意を払って描かれています。ゲーム世界は、移り変わる天候や回転する季節、光と影の魔法のような相互作用など、あらゆるところに常に変化するダイナミズムを感じさせます。</p>
+<p>さらに嬉しいことに、このゲームはPCおよびコンソールと同じ日にMacでもリリースされます。</p>
+<p>「Macにゲームを届けることは長年の夢でした」と、WWDC24 キーノートでMac版を初めて披露したユービーアイソフト エグゼクティブプロデューサー Marc‑Alexis Côté は言います。「今ではMacBook Proを開けばこのレベルの没入感を得られるのは信じられないです。」<em>Shadows</em> は後日、M シリーズチップ搭載の iPad でも登場します。</p>
+<p>[このスクリーンショットは、Assassin’s Creed Shadows のもので、キャラクター ナオエ のクローズアップです。彼女はフードを被り、背中に剣を背負い、屋外に立っています。]</p>
+<p>ナオエはゲームの二人の主人公のうちの一人で、影の中で攻撃する時に最も力を発揮する敏捷な暗殺者です。</p>
+<p>今日、ゲームコミュニティは『Shadows』を手に取る最初の機会の一つとなります。これを祝って、ユービーアイソフトのオフィス（居心地の良いシャレーにふさわしい再生木材と、雪が積もったケベック市の屋根を見渡せる広い窓を持つ空間）は、<em>Assassin’s Creed</em> テーマに模様替えされました。ヤスケの武器の重さを強調するディスプレイも設置されており、特に彼の剣の13ポンド（約5.9kg）の迫力ある模型が展示されています。（この日のディスプレイは、 associate game director（準ゲームディレクター） Simon Lemay‑Comtois が担当しており、彼はその模型を振り回すこともできそうに見えます。）</p>
+<p><a class="link" href="https://apps.apple.com/us/app/assassins-creed-shadows/id6497794841?mt=12"  target="_blank" rel="noopener"
+    >Mac App Store から Assassin&rsquo;s Creed Shadows をダウンロード</a></p>
+<p>Côté は <em>Shadows</em> を自分のチームにとって「最も野心的」なゲームだと呼びます。広大なゲーム世界を作り上げるにあたり、ユービーアイソフトの開発チームは Mac の先進技術をフル活用しました：Metal 3（ユービーアイソフト次世代の Anvil エンジンと連携）、Apple silicon、そして M3 または M4 搭載の Mac での HDR サポートとリアルタイムレイトレーシングの組み合わせです。Côté はこれを「変革的」だと評価し、ゲームの没入感を生み出す鍵だと述べました。</p>
+<p>「Macにゲームを届けることは長年の夢でした。」</p>
+<p>Marc‑Alexis Côté, ユービーアイソフト エグゼクティブプロデューサー</p>
+<p>「何</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="assassins-creed-shadows-comes-to-mac">Assassin’s Creed Shadows comes to Mac
+</h2><p>March 4, 2025</p>
+<p><img alt="In this screenshot from Assassin’s Creed Shadows, a masked character crouches on the roof of a Japanese temple, preparing to throw a knife at an opponent who is standing on a red bridge in the background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d23bd41acb70bc6f4f6face25083c775.jpeg"></p>
+<p>It’s an ice-cold late winter’s morning in Canada, but the offices of Ubisoft Quebec are ablaze with excitement.</p>
+<p>The Ubisoft team is preparing the release of <em>Assassin’s Creed Shadows</em>, the 14th main entry in the series and an evolution for the franchise in nearly every detail. It’s set in feudal 16th-century Japan, a rich and elegant period that’s been long sought-after by fans and Ubisoft team members alike. It introduces a pair of fierce protagonists: Yasuke, a powerful warrior of African origin, and Naoe, an agile Shinobi assassin, both brought to life with attention to historical accuracy. Its world feels alive with an ever-changing dynamism that’s apparent in everything from the shifting weather to the rotating seasons to the magical interplay of light and shadow.</p>
+<p>And what’s more, it’s set to release on Mac the same day it arrives on PCs and consoles.</p>
+<p>“It’s been a longtime dream to bring the game to Mac,” says Ubisoft executive producer Marc-Alexis Côté, who debuted the game on Mac during the WWDC24 Keynote. “It’s incredible that I can now open a MacBook Pro and get this level of immersion.” <em>Shadows</em> will also be coming later to iPad with M-series chips.</p>
+<p><img alt="In this screenshot from Assassin’s Creed Shadows, the character Naoe is seen in close-up. She is wearing a hood, carrying a sword on her back, and standing outdoors." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/884cd7c56053765e538f80b4809df830.jpeg"></p>
+<p>Naoe, one of the game’s two protagonists, is an agile assassin who’s at her best when striking from the shadows.</p>
+<p>Today marks one of the first times that the gaming community will get its hands on <em>Shadows</em>, and to celebrate the occasion, the Ubisoft offices — a mix of cozy chalet-worthy reclaimed wood and wide-open windows that afford a view of snowy Quebec City rooftops — have been reskinned with an <em>Assassin’s Creed</em> theme, including a display that emphasizes the heft of Yasuke’s weapons, especially an imposing-looking 13-pound model of the character’s sword. (On this day, the display is hosted by associate game director Simon Lemay-Comtois, who appears quite capable of wielding it.)</p>
+<p><a class="link" href="https://apps.apple.com/us/app/assassins-creed-shadows/id6497794841?mt=12"  target="_blank" rel="noopener"
+    >Download Assassin&rsquo;s Creed Shadows from the Mac App Store</a></p>
+<p>Côté calls <em>Shadows</em> his team’s “most ambitious” game. In crafting the game’s expansive world, Ubisoft’s development team took advantage of an array of advanced Mac technologies: Metal 3 (working in concert with Ubisoft’s next-generation Anvil engine), Apple silicon, and a mix of HDR support and real-time ray tracing on Macs with M3 and M4 that Côté says was “transformative” in creating the game’s immersion.</p>
+<p>It’s been a longtime dream to bring the game to Mac.</p>
+<p>Marc-Alexis Côté, Ubisoft executive producer</p>
+<p>“Seeing those millions of lines of code work natively on a Mac was a feeling that’s hard to describe,” Côté says. “When you look at the game’s performance, the curve Apple is on with successive improvements to the M-series chips year after year, and the way the game looks on an HDR screen, you’re like, ‘Is this real?’”</p>
+<p><em>Assassin’s Creed Shadows</em> is a balance of the technical and creative. For the former, associate technical director Mathieu Belanger says the capabilities of Mac laid the groundwork for technical success. “The architecture of the hardware is so well done, thanks in part to the unified memory between the GPU and CPU. That made us think the future is bright for gaming on the platform. So many things about doing this on Mac were great right out of the box.”</p>
+<p><img alt="In this screenshot from Assassin’s Creed Shadows, the fearsome warrior Yasuke battles an opponent with a large club in the courtyard of a snowy Japanese temple." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d667af9e1e6962d7ccc765f3fce524f5.jpeg"></p>
+<p>Naoe’s counterpart, Yasuke, prefers the use of brute force.</p>
+<p>On the creative side, Ubisoft creative director Jonathan Dumont focused on a different opportunity. “The important thing was: Does this feel right? Is it what we want to send to players? And the answer was yes.”</p>
+<p>The creative team’s goal was nothing short of “making this world feel alive,” says Martin Bedard, a 20-year Ubisoft veteran who served as the game’s technology director (and is very good at playing as Naoe). “You’re put into a moment that really existed,” he says. “This story is your playground.”</p>
+<p>There are also fluffy kittens. We’ll get to those.</p>
+<p><img alt="In this screenshot from Assassin’s Creed Shadows, an outdoor garden scene is shown broken into four equal sections that represent the four seasons." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/cda46554564d561c7f3a8d80f53b1ae6.jpeg"></p>
+<p>The ever-changing seasons lend an incredible variety to the game’s environments.</p>
+<p>And there’s tremendous power behind the beauty, because the game’s biomes, seasons, weather, and lighting are all dynamic creations. The sunset hour bathes the mountains in soft purple light; the sun’s rays float in through leaves and temple roofs. Pretty much every room has a candle in it, which means the light is always changing. “Look at the clouds here,” says Bedard, pointing at the screen. “That’s not a rendering. These are all fluid-based cloud simulations.”</p>
+<p>“Japan feels like it’s 80 percent trees and mountains,” says Dumont. “If you’re building this world without the rain, and the winds, and the mountains, it doesn’t feel right.”</p>
+<p>Wherever you are, wherever you go, everything is beautiful and alive.</p>
+<p>Mathieu Belanger, associate technical director</p>
+<p>And those winds? “We developed a lot of features that were barely possible before, and one of them was a full simulation of the wind, not just an animation,” says Belanger. “We even built a humidity simulation that gathers clouds together.” For the in-game seasons, Ubisoft developed an engine that depicted houses, markets, and temples, in ever-changing conditions. “This was all done along the way over the past four years,” he says.</p>
+<p>To pursue historical accuracy, Dumont and the creative team visited Japan to study every detail, including big-picture details (like town maps) to very specific ones (like the varnish that would have been applied to 16th-century wood). It wasn’t always a slam dunk, says Côté: In one visit, their Japanese hosts recommended a revision to the light splashing against the mountains. “We want to get all those little details right,” he says. (A “full-immersion version,” entirely in Japanese with English subtitles, is available.)</p>
+<p><img alt="In this screenshot from Assassin’s Creed Shadows, a Japanese temple is seen in afternoon light. In the background is a misty forest." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fbc115a68ca7a49563c5aa055870c626.jpeg"></p>
+<p>To recreate the world of 16th-century Japan, the Ubisoft creative visited Japan to study every detail.</p>
+<p>Ubisoft’s decision to split the protagonist into two distinct characters with different identities, skill sets, origin stories, and class backgrounds came early in the process. (“That was a fun day,” laughs Belanger.) Ubisoft team members emphasize that choosing between Naoe and Yasuke is a matter of personal preference — lethal subtlety vs. brute force. Players can switch between characters at any time, and, as you might suspect, the pair grows stronger together as the story goes on. Much of Naoe’s advantage comes from her ability to linger in the game’s shadows — not just behind big buildings, but wherever the scene creates a space for her to hide. “The masterclass is clearing out a board withou</p>
+<p>&hellip;（長文のため省略されました）</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>旅行アプリ on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E6%97%85%E8%A1%8C%E3%82%A2%E3%83%97%E3%83%AA/</link>
+    <description>Recent content in 旅行アプリ on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 18:02:08 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E6%97%85%E8%A1%8C%E3%82%A2%E3%83%97%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: April 2026</title>
+      <link>https://n-kase.github.io/rss/posts/post-440/</link>
+      <pubDate>Mon, 15 Jun 2026 18:02:08 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-440/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleの開発者向けニュースレター「Hello Developer」2026年4月号では、bilibiliとLinkedInへの参加を呼びかけ、WWDC26前に必見のセッションを復習できるように案内し、サンプルコードを使った旅行アプリの作成方法や新しいデザインギャラリーの閲覧、そしてApp Store ConnectのAnalyticsにおける過去最大のアップデートについて学ぶことを提案しています。これにより、Appleは中国のプラットフォームへの outreach を強化し、開発者のスキルアップと最新ツールへのアクセスを促進する傾向が見られ、特に旅行系アプリやデータ分析分野でのイノベーションが期待されます。したがって、開発者はこれらのリソースを活用して最新の技術動向に追いつき、サンプルコードを基にしたアプリ開発や強化されたアナリティクス機能を取り入れることで競争力を高めるべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-april-2026">Hello Developer: April 2026
+</h2><p>2026年4月7日</p>
+<p><img alt="宇宙背景に浮かぶ「Hello World」の文字と、その下に浮かぶ地球" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f32f3f89a72d68ca4bc58c6ef762d677.jpeg"></p>
+<p>今回の号では：</p>
+<ul>
+<li>bilibiliとLinkedInに参加しましょう。</li>
+<li>WWDC26前に必見のセッションをキャッチアップしましょう。</li>
+<li>サンプルコードを使って旅行アプリを構築しましょう。</li>
+<li>新しいデザインギャラリーの最新号を閲覧しましょう。</li>
+<li>App Store ConnectのAnalyticsにおける過去最大のアップデートについて学びましょう。</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-april-2026-1">Hello Developer: April 2026
+</h2><p>April 7, 2026</p>
+<p><img alt="The words “Hello World” floating against a space background with the Earth floating beneath." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f32f3f89a72d68ca4bc58c6ef762d677.jpeg"></p>
+<p>In this edition:</p>
+<ul>
+<li>Join us on bilibili and LinkedIn.</li>
+<li>Catch up on essential sessions before WWDC26.</li>
+<li>Build a travel app with sample code.</li>
+<li>Browse the latest edition of our new design gallery.</li>
+<li>Learn about the biggest-ever update to Analytics in App Store Connect.</li>
+</ul>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

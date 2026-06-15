@@ -1,0 +1,158 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>バックエンド on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89/</link>
+    <description>Recent content in バックエンド on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 15:26:28 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>コーディングAIエージェント向けのオープンソースHeroku「InsForge」</title>
+      <link>https://n-kase.github.io/rss/posts/post-69/</link>
+      <pubDate>Mon, 15 Jun 2026 15:26:28 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-69/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>InsForgeというオープンソースのバックエンドプラットフォームが公開され、AIコーディングエージェントがデータベースや認証、ストレージ、エッジ関数などの機能をMCP経由で直接操作できるようになったことが注目されている。</p>
+<p>これにより、これまで管理画面で手動で行っていたバックエンド構築や設定作業をエージェントが自動化できるため、AIを活用したフルスタック開発のハードルが大きく下がり、開発サイクルの短縮やAIエージェントの実用範囲の拡大が期待される。</p>
+<p>したがって、開発者やチームはこうしたエージェントネイティブなインフラストラクチャを積極的に採用し、AIと人間の協業による開発プロセスを再設計するべきである。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<h1 id="コーディングaiエージェント向けのオープンソースherokuinsforge">コーディングAIエージェント向けのオープンソースHeroku「InsForge」
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a7ce8d21dd8faf4ae7849da6b508ffe7.png"></p>
+<p>AIを利用してWebアプリを作成する場合、** Firebase**や</p>
+<p><strong>などのバックエンドサービスを利用することが多いですが、これまで管理画面でユーザーの操作が必須だったほとんどの作業をコーディングAIエージェントが直接行える様に拡張したオープンソースのバックエンドサービス「</strong></p>
+<p><a class="link" href="https://supabase.com/"  target="_blank" rel="noopener"
+    >Supabase</a><strong>InsForge</strong>」が公開されています。</p>
+<p><strong>InsForge - The agent-native cloud infrastructure platform</strong></p>
+<p><a class="link" href="https://insforge.dev/"  target="_blank" rel="noopener"
+    >https://insforge.dev/</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e0021274fe83ef55359bf92bd040b9ed.png"></p>
+<p><strong>InsForge/InsForge: The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.</strong></p>
+<p><a class="link" href="https://github.com/InsForge/InsForge"  target="_blank" rel="noopener"
+    >https://github.com/InsForge/InsForge</a></p>
+<p><strong>◆InsForgeの基本機能一覧</strong></p>
+<table>
+	<thead>
+			<tr>
+					<th>機能名</th>
+					<th>説明</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>Authentication</td>
+					<td>ユーザー管理・認証・セッション</td>
+			</tr>
+			<tr>
+					<td>Database</td>
+					<td><a class="link" href="https://www.postgresql.org/"  target="_blank" rel="noopener"
+    >PostgreSQL</a></td>
+			</tr>
+			<tr>
+					<td>Storage</td>
+					<td>互換ファイルストレージ<a class="link" href="https://aws.amazon.com/jp/s3/"  target="_blank" rel="noopener"
+    >Amazon S3</a></td>
+			</tr>
+			<tr>
+					<td>Edge Functions</td>
+					<td>ベースのエッジで動作するサーバーレスコード<a class="link" href="https://deno.com/"  target="_blank" rel="noopener"
+    >Deno</a></td>
+			</tr>
+			<tr>
+					<td>Compute</td>
+					<td>長時間稼働コンテナサービス</td>
+			</tr>
+			<tr>
+					<td>Site Deployment</td>
+					<td>サイトのビルドとデプロイ</td>
+			</tr>
+			<tr>
+					<td>Realtime</td>
+					<td>データ変更のリアルタイムサブスクリプション</td>
+			</tr>
+			<tr>
+					<td>Vector</td>
+					<td>によるベクトル検索・埋め込み<a class="link" href="https://github.com/pgvector/pgvector"  target="_blank" rel="noopener"
+    >pgvector</a></td>
+			</tr>
+			<tr>
+					<td>Analytics</td>
+					<td>イベント追跡・使用状況分析</td>
+			</tr>
+			<tr>
+					<td>Payment</td>
+					<td>統合による決済・サブスクリプション管理<a class="link" href="https://stripe.com/jp"  target="_blank" rel="noopener"
+    >Stripe</a></td>
+			</tr>
+			<tr>
+					<td>Messaging</td>
+					<td>メール・通知・トランザクションメッセージ送信</td>
+			</tr>
+			<tr>
+					<td>Cron Jobs</td>
+					<td>スケジュールされた定期ジョブ</td>
+			</tr>
+	</tbody>
+</table>
+<p><strong>◆InsForgeが独自に実装している機能</strong></p>
+<p><strong>・Model Gateway</strong></p>
+<p>複数のLLMプロバイダーを** OpenAI**互換APIとしてまとめて扱えるため、アプリからAIモデルへの接続をシンプルにできます。</p>
+<p><strong>・MCP Server</strong></p>
+<p>AIエージェントの拡張機能である</p>
+<p><strong>に対応したサーバーが用意されており、InsForgeのバックエンド機能を外部ツールとして呼び出せるため、データベース・認証・ストレージなどの状態を確認しながら開発を進められます。</strong></p>
+<p><a class="link" href="https://modelcontextprotocol.io/docs/getting-started/intro"  target="_blank" rel="noopener"
+    >MCP</a><strong>・CLIとSkills</strong></p>
+<p>AIエージェントがターミナルから直接呼び出せるCLIとその操作を補助するSkillsが用意されており、クラウド版ではSkillsによってバックエンド操作の手順を把握しながら作業できます。READMEではCLIとSkillsはクラウド版のみと説明されており、セルフホスト版でAIエージェントにInsForgeを操作させる場合はMCP Serverの利用が基本とのこと。</p>
+<p><strong>◆InsForgeのセルフホスト構築方法</strong></p>
+<p>今回はWindowsに</p>
+<p><strong>と</strong></p>
+<p><a class="link" href="https://www.docker.com/ja-jp/products/docker-desktop/"  target="_blank" rel="noopener"
+    >Docker Desktop</a><strong>のGit Bashを用意した環境で構築します。作業フォルダを用意し、</strong></p>
+<p><a class="link" href="https://gitforwindows.org/"  target="_blank" rel="noopener"
+    >Git for Windows</a><strong>と</strong></p>
+<p><a class="link" href="https://raw.githubusercontent.com/insforge/insforge/main/deploy/docker-compose/docker-compose.yml"  target="_blank" rel="noopener"
+    >docker-compose.yml</a><strong>をダウンロードして保存。</strong></p>
+<p><a class="link" href="https://raw.githubusercontent.com/insforge/insforge/main/deploy/docker-compose/.env.example"  target="_blank" rel="noopener"
+    >.env.example</a>mkdir -p insforge cd insforge curl -L -o docker-compose.yml &ldquo;<a class="link" href="https://raw.githubusercontent.com/insforge/insforge/main/deploy/docker-compose/docker-compose.yml%22"  target="_blank" rel="noopener"
+    >https://raw.githubusercontent.com/insforge/insforge/main/deploy/docker-compose/docker-compose.yml"</a> curl -L -o .env.example &ldquo;<a class="link" href="https://raw.githubusercontent.com/insforge/insforge/main/deploy/docker-compose/.env.example%22"  target="_blank" rel="noopener"
+    >https://raw.githubusercontent.com/insforge/insforge/main/deploy/docker-compose/.env.example"</a></p>
+<p>.env.exampleを.envとしてコピー。</p>
+<p>cp .env.example .env</p>
+<p>.envを環境に合わせて書き換えます。</p>
+<h1 id="env-api_base_urlhttplocalhost7130-vite_api_base_urlhttplocalhost7130--authentication--openssl-rand--hex-16などでランダムな値を生成-jwt_secretランダムな値32文字以上推奨-root_admin_username任意のメールアドレス-root_admin_password任意のパスワード">.env API_BASE_URL=http://localhost:7130 VITE_API_BASE_URL=http://localhost:7130 # Authentication # openssl rand -hex 16などでランダムな値を生成 JWT_SECRET=【ランダムな値32文字以上推奨】 ROOT_ADMIN_USERNAME=【任意のメールアドレス】 ROOT_ADMIN_PASSWORD=【任意のパスワード】
+</h1><p>コンテナを立ち上げます。</p>
+<p>docker compose up -d</p>
+<p>コンテナが起動したらブラウザで.envに設定したURLにアクセスするとログインフォームが表示されるので「Email」に.envで設定したメールアドレス、「Password」に.envで設定したパスワードを入力して「Sign in」をクリック。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/518e212479a03490803d141ee8178ee4.png"></p>
+<p>ログインすると連携するAIエージェントの設定画面が表示されるので「AIエージェント選択」フォームから連携するAIエージェントを選択。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3b0de2f052c45674439f08dcb8aee529.png"></p>
+<p>設定の手順が表示されるので、Step1の「Terminal Command」をコピー。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/24cd740783d84b8bc16b70137ac7b85a.png"></p>
+<p>Git Bashでコピーしたコマンドを実行するとMCPサーバーが立ち上がります。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/311f1a2b850beef14f4a4de48046e98e.png"></p>
+<p>次にStep2の「prompt」をコピーしAIエージェントのチャット欄にペーストして実行するとInsForge用のMCPが設定されます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/35f0c497cc8282ff8e9479db7cfc6a08.png"></p>
+<p>** Claude Code**の場合は、MCPサーバー起動後Claude Codeを立ち上げた時点でInsForge用のMCPを導入するかどうか聞かれるのでユーザーレベルでの利用かプロジェクトのみの利用か選択します。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7c894089ade00e91c52c307a1d53fe07.png"></p>
+<p>MCPの設定が完了したら「閉じる」をクリック。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/578061e72885bc28836836c76a50d661.png"></p>
+<p>管理画面が表示されれば構築完了です。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6cc6ca80ccb94cd9a3ff6d6f261fb3c3.png"></p>
+<p>AIエージェントとInsForgeの接続確認として「I&rsquo;m using InsForge as my backend platform, call InsForge MCP&rsquo;s fetch-docs tool to learn about InsForge instructions.」と指示するとMCPサーバーを通してInsForgeから以下のような返答がありました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fefdfb632472ae827219edf4447f0ff9.png"></p>
+<p>日本語の指示による実装テストとして「title、content、authorカラムを持つpostsテーブルを作成してください」と入力すると指示通りのテーブルが作成されました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/346bff40823237b4ac68104c52129197.png"></p>
+<p>管理画面からテーブルが作成されていることが確認できます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/648bb6ecaa344621ce464e27affb6d86.png"></p>
+<p>「ユーザープロフィール用の画像アップロード機能を追加してください」と指示するとバックエンドで必要なストレージやテーブルを作成し、フロントエンドでの実装用スクリプトが表示されました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4e0f08571a01d3a140b8c6cd23ecbb86.png"></p>
+<p>これまで管理画面で行っていた操作をコーディングAIエージェントからMCP経由で実装できます。</p>
+<p>なお、クラウド版にはバックエンドを毎日スキャンしてセキュリティ・パフォーマンス・動作状態の問題を検出し、問題があれば修正内容をAIコーディングエージェントに渡すためのプロンプトを表示する** 機能**があります。</p>
+</details>]]></description>
+    </item>
+    
+  </channel>
+</rss>

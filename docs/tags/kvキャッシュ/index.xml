@@ -1,0 +1,89 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KVキャッシュ on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/kv%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5/</link>
+    <description>Recent content in KVキャッシュ on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 15:39:23 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/kv%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B7%E3%83%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIのLLMアーキテクチャの新技法「KV共有」「mHC」「圧縮アテンション」とは何か？</title>
+      <link>https://n-kase.github.io/rss/posts/post-73/</link>
+      <pubDate>Mon, 15 Jun 2026 15:39:23 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-73/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>最近のオープンウェイト大規模言語モデルでは、Gemma 4のKV共有やレイヤーごとの埋め込み、Laguna XS.2のレイヤーごとのアテンションバジェット、ZAYA1‑8Bの圧縮畳み込みアテンション、DeepSeek V4のmHCおよびCSA/HCAといった新技法が相次いで発表され、長文コンテキストにおけるKVキャッシュやアテンション計算のコスト削減に焦点が当てられている。</p>
+<p>これらの手法はメモリ帯域幅や演算量を抑えながらも表現力を維持することで、自律的エージェントや高精度な課題解決を可能にする推論モデルの実用化を後押しし、研究コミュニティにおいて効率志向のアーキテクチャ設計への関心が高まっている傾向がある。</p>
+<p>したがって、今後のLLM開発ではパラメータ数の単純な削減よりも、リソース効率を高める構造的工夫を優先し、こうした技術を活用して長文コンテキストでの実用性をさらに向上させるべきである。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<h1 id="aiのllmアーキテクチャの新技法kv共有mhc圧縮アテンションとは何か">AIのLLMアーキテクチャの新技法「KV共有」「mHC」「圧縮アテンション」とは何か？
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2f0ecd2505e6d51fb6712ba7308d7953.jpg"></p>
+<p>オープンウェイトの大規模言語モデル(LLM)がプロンプト入力による質疑応答の枠を超え自律的かつ高精度な課題解決を行う方向に進化する上で、推論モデルやエージェントワークフローは欠かすことのできない手法となっていますが、より多くのトークンを長時間保持する必要があることからKey-Valueキャッシュ(KVキャッシュ)のサイズ・メモリ帯域幅・アテンションコストといったリソースが実行上の主要な制約となります。LLM開発者はリソースのコストを削減する目的でLLMアーキテクチャに様々な工夫を取り入れてきましたが、2026年4月から5月にかけてリリースされたLLMについて注目すると長文コンテキストの効率化に非常に重点を置いている傾向にある、とLLMリサーチエンジニアの ** Sebastian Raschka**氏は指摘しています。</p>
+<p><strong>Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention</strong></p>
+<p><a class="link" href="https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"  target="_blank" rel="noopener"
+    >https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures</a><strong>◆新技法の実例</strong></p>
+<p>Raschka氏は特に注目しているアーキテクチャの新技法の実例として以下の4つのLLMを挙げています。</p>
+<p>・</p>
+<p><strong>：KV共有・レイヤーごとの埋め込み(PLE)</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20260403-google-released-gemma-4/"  target="_blank" rel="noopener"
+    >Gemma 4</a>・</p>
+<p><strong>：レイヤーごとのアテンションバジェット</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20260430-laguna-xs2-m1/"  target="_blank" rel="noopener"
+    >Laguna XS.2</a>・</p>
+<p><strong>：圧縮畳み込みアテンション(CCA)</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20260508-zaya1-8b/"  target="_blank" rel="noopener"
+    >ZAYA1-8B</a>・</p>
+<p><strong>：CSA/HCA・mHC・圧縮アテンションキャッシュ</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20260424-deepseek-v4/"  target="_blank" rel="noopener"
+    >DeepSeek V4</a>上記のLLMに見られる変更点の多くはRaschka氏が示した図中では些細な調整のようにも見えますが、中には詳しく検討すべきかなり複雑な設計変更も含まれているとのことです。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6dd22bad52fae58fc51f7ee31cc56112.png"></p>
+<p><strong>◆Gemma 4</strong></p>
+<p>Gemma 4のE2BおよびE4Bバリアントにおけるアーキテクチャの変更点の一つ「** KV共有**」とは、後続レイヤーが先行レイヤーの使用したキー・バリュー(KV)状態を再利用しKVキャッシュサイズを削減することによりロングコンテキストメモリと計算量を削減する手法です。Gemma 4では以前からGrouped Query Attention(GQA)と呼ばれる手法により異なるクエリヘッド間でKVヘッドを共有しKVキャッシュのサイズを削減してきました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c400bce6c6d1cb98e26bf176a7e2421f.png"></p>
+<p>Gemma 4はGQAによりクエリ間でKVを共有することに加え、異なるレイヤー間でKVプロジェクションを共有します。このKV共有方式はクロスレイヤーアテンションとも呼ばれています(下図右)。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/66b9cbe61fc56b6e9f6306f962805520.png"></p>
+<p>レイヤー間でKVの約半分を共有することになりKVキャッシュサイズも約半分に削減できるため、128Kの長文コンテキストにおいてE2Bモデルで約2.7GB、E4Bモデルで約6GBのKVキャッシュサイズ削減を実現しています。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/546ea9adeaf691cd01345aee453fa264.png"></p>
+<p>Gemma 4のE2BおよびE4BバリアントはKV共有以外にも効率性を重視した設計オプションとして「** レイヤーごとの埋め込み(PLE)**」という手法を使っています。PLEはパラメータ効率を重視した設計となっており、同じ総パラメータ数を持つ高密度モデルほどメインのトランスフォーマースタックのコストをかけず、小規模なGemma 4モデルがより多くのトークン固有の情報を利用できるようにしています。</p>
+<p>概念的には、PLEパスはアテンションとフィードフォワードの残差更新を計算した後に層固有のPLEベクトルをゲートし、ゲートされたPLEベクトルはモデルの隠れサイズに投影され正規化されて追加の残差更新として加算されます。PLE構築には「トークンIDのレイヤーごとの埋め込みルックアップ」と「通常のトークン埋め込みのパックされたPLE空間への線形射影」という2つの入力があり、両者は加算・スケーリング・形状変更されて各ブロックが独自のスライスを受け取るレイヤーごとに1つのスライスを持つテンソルになります。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0e3e43d54881a86dfa671b97b33b9902.png"></p>
+<p>PLEは各トランスフォーマーブロックに通常のトークン埋め込みレイヤーの完全な独立したコピーを与えるのではなく、レイヤーごとの埋め込みルックアップを一度だけ計算し各レイヤーにトークン固有の小さな埋め込みスライスを提供します。PLEは計算オーバーヘッドの増加を抑えつつパラメータと小さな射影を埋め込むことでモデルの表現能力を高めています。</p>
+<p><strong>◆Laguna XS.2</strong></p>
+<p>Laguna XS.2のアーキテクチャは一見すると非常に標準的なものに見えますが、「<strong>レイヤーごとのアテンションバジェット(注意予算)</strong>」という概念があります。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/60109b1c7bd9464b46e9ee4a4da9bc82.png"></p>
+<p>「レイヤーごと」とは、全レイヤーに同じアテンションバジェットを割り当てるのではなくレイヤーごとにアテンションコストを変動させることを意味します。具体的には、Laguna XS.2は30のSliding Windowアテンションレイヤーと10のGlobal/Fullアテンションレイヤーを持っていますが、Sliding Windowレイヤーはローカルウィンドウのみにアテンションをかけるため、KVキャッシュとアテンション計算のコストを抑えることができます。対して、Globalレイヤーはコストは高くなるもののコンテキストウィンドウ内のすべての情報にアクセスできる機能を維持します。</p>
+<p>一方、レイヤーごとのクエリヘッド数に注目するとLaguna XS.2 では、スライディングウィンドウ層に多くのクエリヘッドを割り当て、コンテキスト全体を走査するためコストが高いグローバル層にはより少ないクエリヘッドを割り当てます。つまり、レイヤーごとのクエリヘッド数を調整することでアテンション能力を最も有用な箇所に集中させているのです。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/87d20fc556e0366068625eee16d99fe2.png"></p>
+<p><strong>◆ZAYA1-8B</strong></p>
+<p>ZAYA1-8Bのアーキテクチャ上の特徴は** グループ化クエリアテンション(GQA)**と組み合わせて使用される「</p>
+<p><strong>圧縮畳み込みアテンション(CCA)</strong>」です。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e621dbaff285f5efd14ce9325e346e61.png"></p>
+<p>CCAは圧縮された潜在表現をアテンションブロックに導入する点では**マルチヘッド潜在アテンション(MLA)<strong>に似ていますが、MLAの主眼が ** マルチヘッドアテンション</strong>の課題であったKVキャッシュサイズ増大の解消にあるのに対して、CCAは圧縮された潜在空間内で直接アテンション演算を実行するためKVキャッシュサイズだけでなくアテンションFLOPsも削減します。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6d2f75461d86a65c5aa4e57ddf768ad9.png"></p>
+<p>** CCAに関する論文**において、同等の圧縮設定においてCCAはMLAを上回る性能を発揮すると報告されていますが、CCAが圧縮された潜在空間でアテンション操作を直接実行することで圧縮されたアテンションの制約を軽減している点が実に興味深いといえます。つまりZAYA1-8Bは、フィードフォワード層だけでなくアテンションメカニズム自体においても計算コストを削減しようとしているのです。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0a50837cadfe98dd728aa3ca085180cc.png"></p>
+<p><strong>◆DeepSeek V4</strong></p>
+<p>DeepSeek V4のアーキテクチャを図示すると多くの要素が複雑に絡み合って見えますが、残差パスの変化(mHC)・アテンションパスの変化(CSA/HCA)・圧縮アテンションキャッシュを区切って捉えると理解しやすくなります。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/886017d5ac20fdfbcada1daad6773fb9.png"></p>
+<p>「<strong>多様体制約付きハイパーコネクション(mHC)</strong>」の主な目的はトランスフォーマーブロック内の残差接続を近代化することにあり、名前が示す通り** ハイパーコネクション**の研究に基づいています。ハイパーコネクションの基本的な考え方は残差ストリームを拡張することであり、トランスフォーマーブロック内の単一の残差ストリームを複数の並列残差ストリームとその間の学習済みマッピングに置き換えまるというものです。アテンション層やMoE層自体は通常の隠れ層サイズで動作しますが、ハイパーコネクションでは並列残差ストリームをレイヤーの通常の隠れベクトルに結合するための</p>
+<p><strong>プリマッピング</strong>とレイヤーの出力を並列残差ストリームに分配するための</p>
+<p><strong>ポストマッピング</strong>が追加されます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1a10d4376bb26deaf326e7cd661d9ee6.png"></p>
+<p>通常のハイパーコネクションとmHCの最も重要な違いは「マッピングが制約なしではなくなる」ことにあります。通常のハイパーコネクションで行われる学習済み行列による残差マッピングとは異なり、mHCでは残差マッピングが二重確率行列の多様体に投影されます。よって「すべてのエントリが非負」かつ「各行と各列の合計が1になる」という制約が課されることになります。制約があることによって残差混合はストリーム全体にわたる情報の安定した再分配のといった振る舞いを見せるようになります。さらに、プリマッピングとポストマッピングも非負かつ有界であるように制約されているため、拡張された残差状態からの読み取り・書き込み時に相殺が発生するのを防ぎます。つまり大規模なモデルにとって重要なポイントは、mHCがハイパーコネクションの豊富な残差混合を維持しつつより安全にスケーリングできるように制約を追加したことにあります。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0ec1c4fca5bd2d80ff9ad3970e9c4e00.png"></p>
+<p>要約すると、mHCは計算オーバーヘッドを最小限に抑えながらレイヤー間での情報伝達方法を変更し安定性制約を適用しているということになります。さらに付け加えるとmHCはDeepSeek V4のアーキテクチャにおけるもう一つの大きな変更点である「<strong>CSA/HCA</strong>」のアテンション変更と相性がよいとのことです。</p>
+<p>CSA/HCAはロングコンテキスト推論のコストを削減するための2つの圧縮アテンション機構「<strong>圧縮スパースアテンション(CSA)</strong>」と「<strong>高圧縮アテンション(HCA)</strong>」のハイブリッドです。DeepSeek V2/V3で使用されていた圧縮アテンション機構であるMLAは前述の通りトークンごとのKV表現を圧縮するもののトークンごとに1つの潜在エントリを保持しますが、CSAやHCAはシーケンス次元に沿って圧縮するためKVキャッシュサイズをより大幅に削減できます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f97cf762fd9e32fd7375e139e803a300.png"></p>
+<p>CSAは比較的緩やかな圧縮率を持つのに対してHCAはより強力な圧縮率を持ちます。圧縮が強すぎるとモデリングの品質を損なう可能性があることから、DeepSeek V4はCSAとHCAを交互に使用するハイブリッド方式を採用しモデリングの品質を維持しつつ効率性を高めています。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/11a177702d994071a6d2986ffe5c4b80.png"></p>
+<p><strong>◆まとめ</strong></p>
+<p>近年のオープンウェイトLLMアーキテクチャの改良は、パラメータ数を単純に削減するのではなく長文コンテキストの推論コスト削減に焦点が当てられています。Gemma 4はKVキャッシュメモリを削減し、Laguna XS.2はアテンション能力配分を調整し、ZAYA1-8Bはアテンションを圧縮潜在空間に移動させ、DeepSeek V4は制約付き残差ストリーム混合と圧縮長文コンテキストアテンションを採用しています。LLMアーキテクチャはますます複雑さを増してはいるものの、目指す進化の方向性については明確であるといえます。</p>
+</details>]]></description>
+    </item>
+    
+  </channel>
+</rss>

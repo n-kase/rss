@@ -1,0 +1,78 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ベータ版 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%BC%E3%82%BF%E7%89%88/</link>
+    <description>Recent content in ベータ版 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:24:22 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%BC%E3%82%BF%E7%89%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get ready with the latest beta releases</title>
+      <link>https://n-kase.github.io/rss/posts/post-537/</link>
+      <pubDate>Mon, 15 Jun 2026 19:24:22 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-537/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはiOS 18.2、iPadOS 18.2、macOS 15.2のベータ版をリリースし、開発者にアプリの動作確認とXcode 16.2ベータでのビルド・テストを促している。これらのベータ版にはEUユーザー向けのブラウザ選択画面やデフォルトアプリ設定、Safariによるユーザーデータのエクスポート・インポート機能などが含まれ、世界中のユーザーが設定アプリの「Apps」エリアでデフォルトアプリを管理できるようになる。これにより開発者は世界中からEU特有の機能（代替ブラウザエンジンや非接触アプリなど）を開発・テストでき、WebKitを活用したアプリも可能になる。したがって、開発者は最新ベータを活用してアプリの互換性を確認し、EU規制への対応や新機能の実装を早めるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="最新ベータリリースに備えよう" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ff0383ce819efb1bca34abf5bb35cc42.png"></p>
+<h2 id="最新ベータリリースに備えよう">最新ベータリリースに備えよう
+</h2><p>2024年10月23日</p>
+<p>iOS 18.2、iPadOS 18.2、およびmacOS 15.2のベータバージョンが今利用可能になりました。これらの<a class="link" href="https://developer.apple.com/news/releases/"  target="_blank" rel="noopener"
+    >リリース</a>で期待通りに動作することを確認し、アプリの準備を整えてください。また、最新のSDKの進歩を活用するために、Xcode 16.2 ベータでビルドとテストを行うようにしてください。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=zglax7gc"  target="_blank" rel="noopener"
+    >今年初めにプレビューされた通り</a>、EUユーザー向けのブラウザ選択画面、デフォルトアプリ、アプリ削除の変更、そしてSafariでのユーザーデータのエクスポートおよびウェブブラウザによるそのデータのインポートをサポートする機能が、iOS 18.2およびiPadOS 18.2のベータバージョンで利用可能になりました。</p>
+<p>これらのリリースには、iOS 18およびiPadOS 18で初めて導入された設定の「Apps」エリアの改善も含まれています。世界中のすべてのユーザーは、Appsエリアのトップにある「デフォルトアプリ」セクションを通じてデフォルトアプリを管理できるようになります。新しい通話およびメッセージングのデフォルトも、世界中のすべてのユーザーに利用可能になりました。</p>
+<p>欧州委員会および開発者からのフィードバックを受けて、これらのリリースでは開発者は世界中のどこからでも、代替ブラウザエンジン、非接触アプリ、ウェブブラウザからのマーケットプレイスインストール、マーケットプレイスアプリなどのEU特有の機能を開発・テストすることができます。代替ブラウザエンジンを使用するアプリの開発者は、同じアプリ内でWebKitを今では使用できるようになりました。</p>
+<p><a class="link" href="https://developer.apple.com/support/browser-choice-screen/"  target="_blank" rel="noopener"
+    >browser choice screen</a>、<a class="link" href="https://developer.apple.com/documentation/updates/defaultapps"  target="_blank" rel="noopener"
+    >ユーザーがデフォルトとして選択できるようにアプリを提供する方法</a>、<a class="link" href="https://developer.apple.com/documentation/callkit/preparing-your-app-to-be-the-default-calling-app"  target="_blank" rel="noopener"
+    >デフォルトとして使用できる通話アプリ</a>または<a class="link" href="https://developer.apple.com/documentation/messages/preparing-your-app-to-be-the-default-messaging-app"  target="_blank" rel="noopener"
+    >デフォルトとして使用できるメッセージングアプリ</a>の作成方法、そして<a class="link" href="https://developer.apple.com/documentation/SafariServices/importing-data-exported-from-safari"  target="_blank" rel="noopener"
+    >Safariからユーザーデータをインポートする方法</a>の詳細については、以下のリンクを参照してください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Get ready with the latest beta releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ff0383ce819efb1bca34abf5bb35cc42.png"></p>
+<h2 id="get-ready-with-the-latest-beta-releases">Get ready with the latest beta releases
+</h2><p>October 23, 2024</p>
+<p>The beta versions of iOS 18.2, iPadOS 18.2, and macOS 15.2 are now available. Get your apps ready by confirming they work as expected on these <a class="link" href="https://developer.apple.com/news/releases/"  target="_blank" rel="noopener"
+    >releases</a>. And make sure to build and test with Xcode 16.2 beta to take advantage of the advancements in the latest SDKs.</p>
+<p>As <a class="link" href="https://developer.apple.com/news/?id=zglax7gc"  target="_blank" rel="noopener"
+    >previewed earlier this year</a>, changes to the browser choice screen, default apps, and app deletion for EU users, as well as support in Safari for exporting user data and for web browsers to import that data, are now available in the beta versions of iOS 18.2 and iPadOS 18.2.</p>
+<p>These releases also include improvements to the Apps area in Settings first introduced in iOS 18 and iPadOS 18. All users worldwide will be able to manage their default apps via a Default Apps section at the top of the Apps area. New calling and messaging defaults are also now available for all users worldwide.</p>
+<p>Following feedback from the European Commission and from developers, in these releases developers can develop and test EU-specific features, such as alternative browser engines, contactless apps, marketplace installations from web browsers, and marketplace apps, from anywhere in the world. Developers of apps that use alternative browser engines can now use WebKit in those same apps.</p>
+<p>View details about the <a class="link" href="https://developer.apple.com/support/browser-choice-screen/"  target="_blank" rel="noopener"
+    >browser choice screen</a>, <a class="link" href="https://developer.apple.com/documentation/updates/defaultapps"  target="_blank" rel="noopener"
+    >how to make an app available for users to choose as a default</a>, how to create a <a class="link" href="https://developer.apple.com/documentation/callkit/preparing-your-app-to-be-the-default-calling-app"  target="_blank" rel="noopener"
+    >calling</a> or <a class="link" href="https://developer.apple.com/documentation/messages/preparing-your-app-to-be-the-default-messaging-app"  target="_blank" rel="noopener"
+    >messaging</a> app that can be a default, and <a class="link" href="https://developer.apple.com/documentation/SafariServices/importing-data-exported-from-safari"  target="_blank" rel="noopener"
+    >how to import user data from Safari</a>.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Get ready with the latest beta releases</title>
+      <link>https://n-kase.github.io/rss/posts/post-430/</link>
+      <pubDate>Mon, 15 Jun 2026 17:53:46 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-430/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年5月26日にiOS 26.6、iPadOS 26.6、macOS 26.6、tvOS 26.6、visionOS 26.6、watchOS 26.6のベータ版をリリースし、開発者にこれらのプラットフォームでアプリが期待通りに動作することを確認し、Xcode 26.5を使って最新SDKを活用したビルドとテストを行うよう呼びかけている。この発表により、開発者は新しいOSバージョンへの対応を急がざるを得ず、アプリの互換性テストや機能アップデートが増えることが予想され、ネット上でもベータテストのノウハウや不具合報告が活発に交わされるだろう。したがって、開発者は最新のSDKとXcodeを早期に導入し、リリース前に十分な検証を行うことで、ユーザーにスムーズなアップデート体験を提供し、競争力を維持すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Get ready with the latest beta releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fcc43db18b2fd9db013cc0477922a8dc.png"></p>
+<h2 id="get-ready-with-the-latest-beta-releases">Get ready with the latest beta releases
+</h2><p>May 26, 2026</p>
+<p>The beta versions of iOS 26.6, iPadOS 26.6, macOS 26.6, tvOS 26.6, visionOS 26.6, and watchOS 26.6 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.5 to take advantage of the advancements in the latest SDKs.</p>
+<p>Appleは2026年5月26日にiOS 26.6、iPadOS 26.6、macOS 26.6、tvOS 26.6、visionOS 26.6、watchOS 26.6のベータ版をリリースしました。これらのリリースで期待通りに動作することを確認し、アプリの準備を整えてください。さらに、最新SDKの進歩を活かすためにXcode 26.5を使ってビルドとテストを行ってください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Get ready with the latest beta releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fcc43db18b2fd9db013cc0477922a8dc.png"></p>
+<h2 id="get-ready-with-the-latest-beta-releases-1">Get ready with the latest beta releases
+</h2><p>May 26, 2026</p>
+<p>The beta versions of iOS 26.6, iPadOS 26.6, macOS 26.6, tvOS 26.6, visionOS 26.6, and watchOS 26.6 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.5 to take advantage of the advancements in the latest SDKs.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

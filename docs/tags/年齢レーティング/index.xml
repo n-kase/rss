@@ -1,0 +1,41 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>年齢レーティング on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E5%B9%B4%E9%BD%A2%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+    <description>Recent content in 年齢レーティング on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:30:34 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E5%B9%B4%E9%BD%A2%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upcoming regional age ratings in Australia and France</title>
+      <link>https://n-kase.github.io/rss/posts/post-544/</link>
+      <pubDate>Mon, 15 Jun 2026 19:30:34 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-544/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは、オーストラリアとフランスの現地法に従って、App Storeにおける地域別の年齢レーティングを今後数か月で導入すると発表しました。オーストラリアではシミュレートされたギャンブルを含むアプリにR18+の地域レーティングが追加され、フランスでは既にグローバルレーティングが17+のアプリに18+の地域レーティングが併記されます。これにより、ユーザーは特に未成年者に対してより適切なコンテンツフィルタリングが期待でき、開発者は現地の規制に合わせてアプリのレーティングを見直す必要が生じるでしょう。したがって、開発者は自社のアプリが新しいレーティング要件に合致しているか確認し、ユーザーは安心してアプリを利用できる環境が整うという教訓が得られます。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="オーストラリアとフランスの今後の地域別年齢レーティング" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c04297658a0756cbd751f514dfddc779.png"></p>
+<h2 id="オーストラリアとフランスの今後の地域別年齢レーティング">オーストラリアとフランスの今後の地域別年齢レーティング
+</h2><p>2024年9月26日</p>
+<p>Appleは、特に子どもたちを含むすべての人にとって安全なApp Storeを提供することに取り組んでいます。今後数か月の間、オーストラリアとフランスの以下の地域別年齢レーティングが現地の法律に従って実装されます。あなた側で何かを行う必要はありません。現地の規制で必要とされる場合、地域別レーティングはAppleのグローバル年齢レーティングとともに表示されます。</p>
+<p><strong>オーストラリア</strong></p>
+<p>シミュレートされたギャンブルのインスタンスがあるあらゆるアプリは、オーストラリアのApp StoreにおいてAppleのグローバル年齢レーティングに加えてR18+の地域別年齢レーティングを表示します。</p>
+<p><strong>フランス</strong></p>
+<p>Appleのグローバル年齢レーティングが17+のアプリは、フランスのApp Storeにおいてさらに18+の地域別年齢レーティングを表示します。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Upcoming regional age ratings in Australia and\u00a0France" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c04297658a0756cbd751f514dfddc779.png"></p>
+<h2 id="upcoming-regional-age-ratings-in-australia-and-france">Upcoming regional age ratings in Australia and France
+</h2><p>September 26, 2024</p>
+<p>Apple is committed to making the App Store a safe place for everyone — especially kids. Within the next few months, the following regional age ratings for Australia and France will be implemented in accordance with local laws. No action is needed on your part. Where required by local regulations, regional ratings will appear alongside Apple global age ratings.</p>
+<p><strong>Australia</strong></p>
+<p>Apps with any instances of simulated gambling will display an R18+ regional age rating in addition to the Apple global age rating on the App Store in Australia.</p>
+<p><strong>France</strong></p>
+<p>Apps with a 17+ Apple global age rating will also display an 18+ regional age rating on the App Store in France.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

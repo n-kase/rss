@@ -1,0 +1,59 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Declared Age Range API on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/declared-age-range-api/</link>
+    <description>Recent content in Declared Age Range API on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 18:20:54 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/declared-age-range-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Requirements for Social Media Apps in Australia</title>
+      <link>https://n-kase.github.io/rss/posts/post-463/</link>
+      <pubDate>Mon, 15 Jun 2026 18:20:54 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-463/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>オーストラリアでは2025年12月10日から、16歳未満のユーザーがソーシャルメディアアカウントを持つことを禁止する新しい法律が施行され、該当するプラットフォームは既存の未成年アカウントを無効にし、新規登録を監視する義務が生じる。これに対応して、AppleはDeclared Age Range APIやApp Storeのアプリ説明、アプリ内コントロールの質問項目追加、より高い年齢評価の設定、Age Suitability URLなどのツールを提供し、開発者が年齢に応じた体験を提供しやすくしている。したがって、開発者はこれらの機能を活用して法律を遵守し、未成年者への適切なサービス提供とともに、プラットフォームの信頼性と安全性を確保すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="新しいオーストラリアのソーシャルメディアアプリに関する要件">新しいオーストラリアのソーシャルメディアアプリに関する要件
+</h2><p>2025年12月8日</p>
+<p>2025年12月10日より、オーストラリアで運営される特定のソーシャルメディアプラットフォームについては、16歳未満の者がソーシャルメディアアカウントを持つことを防止する新しい法律が施行されます。影響を受ける開発者は、16歳未満の既存のアカウントを無効にし、新規サインアップを監視するなど、この新しい法律の要件を遵守する責任があります。</p>
+<p>Appleは、この法律の要件を満たすためにいくつかのツールを提供しています：</p>
+<p><strong>Declared Age Range API</strong></p>
+<p>新しいDeclared Age Range APIは、開発者がユーザーに年齢に適した体験を提供するのに役立ちます。開発者は、使用ケースに最も関連する年齢範囲（たとえば16歳未満）をリクエストし、この情報に基づいてアプリの動作を変更することができます。</p>
+<p><strong>App Storeでのアプリ説明</strong></p>
+<p>App Storeでアプリを提供する際、開発者はユーザーが自分に適しているかどうかを判断できるよう、説明を含めなければなりません。開発者はこのアプリ説明フィールドを使用して、製品ページの他の部分では捕捉されない情報、たとえば一定の年齢未満の者に対するソーシャルメディアの年齢制限などを示すことができます。</p>
+<p><strong>App Store製品ページでのアプリ内コントロール</strong></p>
+<p>今年、Appleはすべてのアプリに必要な年齢評価の質問票を更新しました。この更新には、年齢保証や親向けコントロールなどのアプリ内コントロールに関する新しい質問が追加されました。法律を遵守し、16歳未満のユーザーがアカウントを作成することを防ぐために年齢保証方法（たとえばDeclared Age Range API）を使用するアプリは、App Store製品ページでこの機能の存在を示すことができます。</p>
+<p><strong>より高い最低年齢評価</strong></p>
+<p>年齢評価の最近のアップデートにより、開発者はApp Store Connectでの年齢評価質問票への回答から生成される評価よりも高い年齢評価を設定できるようになりました。開発者は<a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a>のApp Informationセクションで各アプリの年齢評価を確認し、希望すればより高い評価を選択できます。</p>
+<p><strong>Age Suitability URL</strong></p>
+<p>アプリの年齢評価を更新する際、開発者はAge Suitability URLを含めるオプションがあります。このURLは、開発者がホストするウェブサイトへのリンクで、アプリとその年齢関連コンテンツの詳細が掲載されています。有効にすると、このURLはApp Store製品ページの年齢評価の詳細セクションに表示されます。開発者はこのURLを使用して、オーストラリアにおける16歳未満の者がソーシャルメディアアカウントを持つことを禁止するなど、地域固有の情報や要件を提供することができます。</p>
+<p><a class="link" href="https://developer.apple.com/documentation/declaredagerange"  target="_blank" rel="noopener"
+    >Declared Age Range APIの詳細についてはこちら</a></p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="new-requirements-for-social-media-apps-in-australia">New Requirements for Social Media Apps in Australia
+</h2><p>December 8, 2025</p>
+<p>Beginning December 10, 2025, a new Australian law will require certain social media platforms operating in Australia to prevent people under 16 from having a social media account. Impacted developers are responsible for making sure they follow the requirements of the new law, including deactivating any existing accounts for users under 16 and monitoring new signups.</p>
+<p>Apple provides several tools to help meet the requirements of this law:</p>
+<p><strong>Declared Age Range API</strong></p>
+<p>The new Declared Age Range API helps developers provide age-appropriate experiences for their users. Developers can choose to request the age range that is most relevant to their use case, such as an age range of under 16, and modify app behavior based on this information.</p>
+<p><strong>App description on the App Store</strong></p>
+<p>When making an app available on the App Store, developers must include a description that helps users determine whether the app is appropriate for them. Developers can use this app description field to indicate information that may not be captured in other areas of the product page, such as social media age restrictions for people under a certain age.</p>
+<p><strong>In-app controls on the App Store product page</strong></p>
+<p>This year, Apple updated the age ratings questionnaire that is required for all apps. The update included adding new questions about in-app controls, such as the presence of age assurance and parental controls. Apps using age assurance methods — such as the Declared Age Range API — to comply with the law and prevent users under 16 from creating accounts can indicate the presence of this capability on their App Store product page.</p>
+<p><strong>Higher minimum age rating</strong></p>
+<p>With our recent update to age ratings, developers can set a higher age rating than the one generated by their responses to the age ratings questionnaire in App Store Connect. Developers can view the age rating for each of their apps and select a higher rating if they wish, in the App Information section in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a>.</p>
+<p><strong>Age Suitability URL</strong></p>
+<p>When updating an app&rsquo;s age rating, developers have the option to include an Age Suitability URL that links to a developer-hosted website with details about the app and its age-related content. When enabled, this URL appears on the App Store product page under the age ratings details section. Developers can use this URL to provide region-specific information and requirements, such as the prohibition in Australia of people under 16 having a social media account.</p>
+<p><a class="link" href="https://developer.apple.com/documentation/declaredagerange"  target="_blank" rel="noopener"
+    >Learn more about the Declared Age Range API</a></p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

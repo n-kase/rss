@@ -1,0 +1,101 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>価格調整 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E4%BE%A1%E6%A0%BC%E8%AA%BF%E6%95%B4/</link>
+    <description>Recent content in 価格調整 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 18:16:58 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E4%BE%A1%E6%A0%BC%E8%AA%BF%E6%95%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Price updates for apps, In-App Purchases, and subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-458/</link>
+      <pubDate>Mon, 15 Jun 2026 18:16:58 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-458/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年1月29日付で、税制や為替変動に応じてアプリおよびアプリ内課金の収益を調整し、ブータンでのGST導入やフィンランド・リトアニアでの軽減税率引き下げ、ガーナのCOVID-19関連課金撤廃、カザフスタン・ロシア・モーリシャス・ジンバブエでのVAT増税、トルコのデジタル販売税率引き下げなど、複数の国・地域で税率変更を反映した卸売価格の改定を発表した。これにより、開発者はベースストアフロントがモーリシャスでない場合、2月16日からアプリやアプリ内課金の価格が自動的に更新され、税負担の変動に応じて世界中のストアフロント間で価格が均等化される見込みであり、開発者は価格管理ツールを活用して柔軟に対応できる。したがって、税制変更に迅速に対応し、価格設定の自動調整機能を理解して適切に利用することが、国際市場での競争力を維持するために重要だ。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Price updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="price-updates-for-apps-in-app-purchases-and-subscriptions">Price updates for apps, In-App Purchases, and subscriptions
+</h2><p>January 29, 2026</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts.</p>
+<p>From time to time, we need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>As of January 29:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in:</p>
+<ul>
+<li>Bhutan: Goods and Services Tax (GST) introduction of 5%</li>
+<li>Finland: Reduced value‑added tax (VAT) rate decrease from 14% to 13.5% for news, magazines, books, and audiobooks</li>
+<li>Ghana: Removal of 2019 COVID-19 Health Recovery Levy</li>
+<li>Kazakhstan: VAT rate increase from 12% to 16%</li>
+<li>Lithuania: Reduced VAT rate decrease from 9% to 5% for news, magazines, books, and audiobooks</li>
+<li>Mauritius: VAT introduction of 15%</li>
+<li>Russia: VAT rate increase from 20% to 22%</li>
+<li>Türkiye: Digital sales tax (DST) rate decrease from 7.5% to 5%</li>
+<li>Zimbabwe: VAT rate increase from 15% to 15.5%</li>
+</ul>
+<p>Exhibit B of the Paid Applications Agreement will be updated to indicate that Apple collects and remits applicable taxes in Bhutan and Mauritius.¹</p>
+<p><strong>Beginning February 16:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for Mauritius if you haven’t selected Mauritius as the base storefront for your app or In‑App Purchase.² This update considers the VAT introduction listed in the tax updates section above.</p>
+<p>If you’ve selected Mauritius as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p>¹ Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms#paid-applications-agreement"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+<p>² Excludes auto-renewable subscriptions.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Price updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="price-updates-for-apps-in-app-purchases-and-subscriptions-1">Price updates for apps, In-App Purchases, and subscriptions
+</h2><p>January 29, 2026</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts.</p>
+<p>From time to time, we need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>As of January 29:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in:</p>
+<ul>
+<li>Bhutan: Goods and Services Tax (GST) introduction of 5%</li>
+<li>Finland: Reduced value‑added tax (VAT) rate decrease from 14% to 13.5% for news, magazines, books, and audiobooks</li>
+<li>Ghana: Removal of 2019 COVID-19 Health Recovery Levy</li>
+<li>Kazakhstan: VAT rate increase from 12% to 16%</li>
+<li>Lithuania: Reduced VAT rate decrease from 9% to 5% for news, magazines, books, and audiobooks</li>
+<li>Mauritius: VAT introduction of 15%</li>
+<li>Russia: VAT rate increase from 20% to 22%</li>
+<li>Türkiye: Digital sales tax (DST) rate decrease from 7.5% to 5%</li>
+<li>Zimbabwe: VAT rate increase from 15% to 15.5%</li>
+</ul>
+<p>Exhibit B of the Paid Applications Agreement will be updated to indicate that Apple collects and remits applicable taxes in Bhutan and Mauritius.¹</p>
+<p><strong>Beginning February 16:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for Mauritius if you haven’t selected Mauritius as the base storefront for your app or In‑App Purchase.² This update considers the VAT introduction listed in the tax updates section above.</p>
+<p>If you’ve selected Mauritius as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p>¹ Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms#paid-applications-agreement"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+<p>² Excludes auto-renewable subscriptions.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ローカライズ on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%A9%E3%82%A4%E3%82%BA/</link>
+    <description>Recent content in ローカライズ on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 18:05:43 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%A9%E3%82%A4%E3%82%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App Store expands support to 11 new languages</title>
+      <link>https://n-kase.github.io/rss/posts/post-443/</link>
+      <pubDate>Mon, 15 Jun 2026 18:05:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-443/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年3月31日に、App Store Connectにおいて新たに11の言語（ベンガル語、グジャラート語、カンナダ語、マラヤーラム語、マラーティー語、オディア語、パンジャブ語、スロベニア語、タミル語、テルグ語、ウルドゥー語）のローカライズドメタデータのサポートを開始し、対応言語数を合計50に拡大したことを発表しました。これにより、特にインド市場を含む世界中のユーザーにアプリやゲームをより適切に届けやすくなり、開発者は自分の製品を各言語・文化に合わせて名前や説明、スクリーンショットなどを調整することで、ビジネスの成長機会を得られるようになります。したがって、開発者は次回のアップデート時にローカライズドメタデータを追加し、新しいローカライズドApp Storeバッジをマーケティングに活用することで、言語の壁を越えたユーザー獲得と売上向上を狙うべきだということが示唆されます。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="app-store-expands-support-to-11-new-languages">App Store expands support to 11 new languages
+</h2><p>March 31, 2026</p>
+<p><img alt="A collection of Apple App Store and Apple TV download badges displayed in multiple languages." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2dbb9f10bf3c0679b9f3abd0f86c83f7.jpeg"></p>
+<p>To help your apps and games reach more people worldwide — especially in India — App Store Connect now supports localized metadata for 11 new languages, bringing the total number of supported localizations to 50. The new languages include Bangla, Gujarati, Kannada, Malayalam, Marathi, Odia, Punjabi, Slovenian, Tamil, Telugu, and Urdu.</p>
+<p>You can now provide localized metadata — such as your app name, description, screenshots, and more — in App Store Connect. When you localize your metadata, it helps make your app relevant to potential users across languages and cultures, and provides an opportunity to grow your business. You can add localized metadata with your next version submission for each platform you support and use new localized App Store badges in your marketing communications.</p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-information/localize-app-information/"  target="_blank" rel="noopener"
+    >Learn how to localize your app information</a></p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="app-store-expands-support-to-11-new-languages-1">App Store expands support to 11 new languages
+</h2><p>March 31, 2026</p>
+<p><img alt="A collection of Apple App Store and Apple TV download badges displayed in multiple languages." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2dbb9f10bf3c0679b9f3abd0f86c83f7.jpeg"></p>
+<p>To help your apps and games reach more people worldwide — especially in India — App Store Connect now supports localized metadata for 11 new languages, bringing the total number of supported localizations to 50. The new languages include Bangla, Gujarati, Kannada, Malayalam, Marathi, Odia, Punjabi, Slovenian, Tamil, Telugu, and Urdu.</p>
+<p>You can now provide localized metadata — such as your app name, description, screenshots, and more — in App Store Connect. When you localize your metadata, it helps make your app relevant to potential users across languages and cultures, and provides an opportunity to grow your business. You can add localized metadata with your next version submission for each platform you support and use new localized App Store badges in your marketing communications.</p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-information/localize-app-information/"  target="_blank" rel="noopener"
+    >Learn how to localize your app information</a></p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

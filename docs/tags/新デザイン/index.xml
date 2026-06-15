@@ -1,0 +1,35 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>新デザイン on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E6%96%B0%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</link>
+    <description>Recent content in 新デザイン on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 18:24:11 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E6%96%B0%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: November 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-469/</link>
+      <pubDate>Mon, 15 Jun 2026 18:24:11 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-469/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年11月6日に『Hello Developer: November 2025』を公開し、新しいデザインを実際のアプリで見られるようにし、Appleの専門家がその導入方法を動画で示すとともに、Swift Student Challenge 2026の最新情報やオンデマンドの開発者ビデオを紹介した。これにより、開発者は新しいデザインを早期に取り入れやすくなり、ホリデーシーズンに向けたアプリやゲームの準備が進むとともに、世界中で行われるさまざまなイベントやドキュメント、Technoteへのアクセスが促進されることが期待される。したがって、開発者は今回提供されたリソースを活用して新デザインを積極的に導入し、ホリデーに向けたアプリの準備を早めるとともに、Swift Student Challengeへの参加を検討すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-2025年11月">Hello Developer: 2025年11月
+</h2><p>2025年11月6日</p>
+<p><img alt="新しいデザインを表し、説明する要素のコラージュ。テキスト入力ボックスと検索ボタンを含み、灰色のグリッド背景の上に表示されます。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bbe7ed507c5d92dee7756ef228738056.jpeg"></p>
+<p>今回の号では：野外で新しいデザインを体験し、Appleの専門家がそれをアプリに素早く簡単に組み込む方法を示します。さらに、Swift Student Challenge 2026の最新情報を入手し、オンデマンドで利用可能な新しい開発者ビデオをチェックしてください。</p>
+<p>また、世界中で開催される新しいアクティビティを探索し、ホリデーに向けてアプリとゲームの準備を整え、最新のニュース、ドキュメント、Technoteを閲覧してください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-november-2025">Hello Developer: November 2025
+</h2><p>November 6, 2025</p>
+<p><img alt="A collage of elements that represent and illustrate the new design, including text input boxes and a search button. The collage appears over a gray grid background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bbe7ed507c5d92dee7756ef228738056.jpeg"></p>
+<p>In this edition: Catch the new design in the wild, and let Apple experts show you how to quickly and easily bring it to your apps. Plus, get the latest on the Swift Student Challenge 2026, and check out new developer videos available on demand.</p>
+<p>Also, explore new activities all over the world, get your apps and games ready for the holidays, and browse the latest news, documentation, and Technotes.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

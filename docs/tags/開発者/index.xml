@@ -1,0 +1,941 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>開発者 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85/</link>
+    <description>Recent content in 開発者 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:32:05 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Win-back offers for auto-renewable subscriptions now available</title>
+      <link>https://n-kase.github.io/rss/posts/post-546/</link>
+      <pubDate>Mon, 15 Jun 2026 19:32:05 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-546/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2024年9月10日から、App Store Connectで自動更新型サブスクリプション向けの「win‑backオファー」を設定できるようになり、過去に解約したユーザーに割引価格などの特別オファーを提示して再加入を促すことが可能になった。これにより開発者は離脱した顧客を取り戻しやすくなり、サブスクリプションの継続率や収益の向上が期待される一方、ユーザーはプロモーション価格にさらされる機会が増え、価格感覚やサブスクリプション選択の基準が変化する可能性がある。したがって、開発者はこの新機能を活用して離脱防止策を強化し、ユーザーはオファーの条件をよく確認した上で利用判断を行うべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="win-back-offers-for-auto-renewable-subscriptions-now-available">Win-back offers for auto-renewable subscriptions now available
+</h2><p>September 10, 2024</p>
+<p><img alt="Two iPhone screens that show different ways win-back offers can appear on the App Store: On the product page and in personalized recommendations, such as the Apps tabs." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/60532270efb2d66a3015b9f503a37c2f.jpeg"></p>
+<p>You can now configure win-back offers — a new type of offer for auto-renewable subscriptions — in App Store Connect. Win-back offers allow you to reach previous subscribers and encourage them to resubscribe to your app or game. For example, you can create a pay up front offer for a reduced subscription price of $9.99 for six months, with a standard renewal price of $39.99 per year. Based on your offer configuration, Apple displays these offers to eligible customers in various places, including:</p>
+<ul>
+<li>Across the App Store, including on your product page, as well as in personalized recommendations and editorial selections on the Today, Games, and Apps tabs.</li>
+<li>In your app or game.</li>
+<li>Via a direct link you share using your own marketing channels.</li>
+<li>In Subscription settings.</li>
+</ul>
+<p>When creating win-back offers in App Store Connect, you’ll determine customer eligibility, select regional availability, and choose the discount type. Eligible customers will be able to discover win-back offers this fall.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="win-back-offers-for-auto-renewable-subscriptions-now-available-1">Win-back offers for auto-renewable subscriptions now available
+</h2><p>September 10, 2024</p>
+<p><img alt="Two iPhone screens that show different ways win-back offers can appear on the App Store: On the product page and in personalized recommendations, such as the Apps tabs." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/60532270efb2d66a3015b9f503a37c2f.jpeg"></p>
+<p>You can now configure win-back offers — a new type of offer for auto-renewable subscriptions — in App Store Connect. Win-back offers allow you to reach previous subscribers and encourage them to resubscribe to your app or game. For example, you can create a pay up front offer for a reduced subscription price of $9.99 for six months, with a standard renewal price of $39.99 per year. Based on your offer configuration, Apple displays these offers to eligible customers in various places, including:</p>
+<ul>
+<li>Across the App Store, including on your product page, as well as in personalized recommendations and editorial selections on the Today, Games, and Apps tabs.</li>
+<li>In your app or game.</li>
+<li>Via a direct link you share using your own marketing channels.</li>
+<li>In Subscription settings.</li>
+</ul>
+<p>When creating win-back offers in App Store Connect, you’ll determine customer eligibility, select regional availability, and choose the discount type. Eligible customers will be able to discover win-back offers this fall.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: October 2024</title>
+      <link>https://n-kase.github.io/rss/posts/post-541/</link>
+      <pubDate>Mon, 15 Jun 2026 19:27:16 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-541/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2024年10月10日に『Hello Developer: October 2024』と題した更新情報を公開し、開発者にアプリのパフォーマンス向上を促し、ゲーム『Lies of P』の開発チームと交流する機会や、学生向けの新しい学習リソースを紹介した。この告知は、開発者コミュニティにおける技術スキルの向上やネットワーク形成を促し、結果としてアプリ全体の品質向上やイノベーションが期待される。したがって、開発者はこうした公式リソースを積極的に活用し、自分のアプリを最新の技術トレンドに合わせてアップデートすべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-2024年10月">Hello Developer: 2024年10月
+</h2><p>2024年10月10日</p>
+<p><img alt="グレーのTシャツと青いジーンズを着た人物が、「Quality products have great performance.」と書かれたスクリーンの前に立ち、ステージに立っている様子" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/92cd5e54e7a41d12f0148a33fc50833b.jpeg"></p>
+<p>アプリのパフォーマンスを向上させ、『Lies of P』の開発チームと会い、新しい学生リソースを探索し、さらにその他の情報を得ましょう。</p>
+<p>2024年10月10日</p>
+<p>アプリのパフォーマンスを向上させ、『Lies of P』の開発チームと会い、新しい学生リソースを探索し、さらにその他の情報を得ましょう。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-october-2024">Hello Developer: October 2024
+</h2><p>October 10, 2024</p>
+<p><img alt="A person in a gray T-shirt and blue jeans stands on stage in front of a screen that reads “Quality products have great performance.”" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/92cd5e54e7a41d12f0148a33fc50833b.jpeg"></p>
+<p>Get your app up to speed, meet the team behind Lies of P, explore new student resources, and more.</p>
+<p>October 10, 2024</p>
+<p>Get your app up to speed, meet the team behind Lies of P, explore new student resources, and more.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Apple Push Notification service server certificate update</title>
+      <link>https://n-kase.github.io/rss/posts/post-540/</link>
+      <pubDate>Mon, 15 Jun 2026 19:26:32 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-540/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Apple Push Notification service（APNs）の認証局が変更され、サンドボックス向けのサーバー証明書は2025年1月20日、本番環境向けは2025年2月24日に更新されます。これにより、APNsを利用する開発者は古い証明書と新しい証明書の両方をアプリケーションのTrust Storeに含める必要があり、そうしないとプッシュ通知の配信に失敗する可能性があります。したがって、開発者は期限前にTrust Storeを確認し、両方の証明書を組み込むことでスムーズな移行を確保すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Apple Push Notification service server certificate update" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e51ef68fa667a9c45d748408f4d4a7a8.png"></p>
+<h2 id="apple-push-notification-service-サーバー証明書のアップデート">Apple Push Notification service サーバー証明書のアップデート
+</h2><p>2024年10月17日</p>
+<p>Apple Push Notification service (APNs) の認証局（CA）が変更されます。APNs は サンドボックスのサーバー証明書を 2025年1月20日に、本番環境のサーバー証明書を 2025年2月24日に更新します。APNs を使用しているすべての開発者は、新しいサーバー証明書を含むようにアプリケーションの Trust Store を更新する必要があります：<a class="link" href="https://www.sectigo.com/knowledge-base/detail/Sectigo-Intermediate-Certificates/kA01N000000rfBO"  target="_blank" rel="noopener"
+    >SHA-2 ルート : USERTrust RSA 認証局証明書</a>。</p>
+<p>スムーズな移行を確保し、プッシュ通知の配信失敗を避けるため、サンドボックスと本番環境に接続する各アプリケーションサーバーのカットオフ日以前に、古いサーバー証明書と新しいサーバー証明書の両方を Trust Store に含めてください。</p>
+<p>現在のところ、Apple から発行された APNs SSL プロバイダー証明書を更新する必要はありません。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Apple Push Notification service server certificate update" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e51ef68fa667a9c45d748408f4d4a7a8.png"></p>
+<h2 id="apple-push-notification-service-server-certificate-update">Apple Push Notification service server certificate update
+</h2><p>October 17, 2024</p>
+<p>The Certification Authority (CA) for Apple Push Notification service (APNs) is changing. APNs will update the server certificates in sandbox on January 20, 2025, and in production on February 24, 2025. All developers using APNs will need to update their application’s Trust Store to include the new server certificate: <a class="link" href="https://www.sectigo.com/knowledge-base/detail/Sectigo-Intermediate-Certificates/kA01N000000rfBO"  target="_blank" rel="noopener"
+    >SHA-2 Root : USERTrust RSA Certification Authority certificate</a>.</p>
+<p>To ensure a smooth transition and avoid push notification delivery failures, please make sure that both old and new server certificates are included in the Trust Store before the cut-off date for each of your application servers that connect to sandbox and production.</p>
+<p>At this time, you don’t need to update the APNs SSL provider certificates issued to you by Apple.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Price and tax updates for apps, In-App Purchases, and subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-530/</link>
+      <pubDate>Mon, 15 Jun 2026 19:17:10 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-530/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは税制や為替の変動に応じてアプリおよびアプリ内購入の価格と開発者への収益を調整すると発表し、10月にネパールとカザフスタンでは付加価値税の納付を停止して現地開発者の収益を増額し、マデイラではニュース関連出版物のVAT率を5%から4%に引き下げた。12月2日からは日本とトルコのストアフロントで価格が更新され、ベースとして選択していない場合は自動的に調整され、ベースとして選択している場合は変更されないため、開発者はグローバルでの価格統一を保ちつつ柔軟に価格管理できる。したがって、開発者は自分のアプリのベース国・地域を確認し、必要に応じて価格設定を見直すことが推奨される。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Price and tax updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a0c5138e2ba690e7f0014b3be0264826.png"></p>
+<h2 id="アプリアプリ内購入およびサブスクリプションの価格と税金の更新">アプリ、アプリ内購入、およびサブスクリプションの価格と税金の更新
+</h2><p>2024年11月14日</p>
+<p>App Storeは、44種類の通貨に対応し、175のストアフロントでデジタル商品およびサービスを世界中で簡単に販売できるように設計されています。</p>
+<p>税規則や為替レートの変更により、価格または開発者への収益を調整する必要が生じることがあります。これらの調整は、金融データプロバイダーから公開されている為替レート情報を使用して行われ、アプリおよびアプリ内購入の価格がすべてのストアフロントで一貫しているように保つためです。</p>
+<p><strong>2024年10月の税金更新：</strong></p>
+<p>該当するアプリおよびアプリ内購入の販売による開発者への収益が以下の地域で増加しました：</p>
+<ul>
+<li>**ネパール：**Appleはネパールの付加価値税（VAT）をローカル開発者に対して納付しなくなり、それに応じて収益が増加しました。</li>
+<li>**カザフスタン：**AppleはカザフスタンのVATをローカル開発者に対して納付しなくなり、それに応じて収益が増加しました。</li>
+<li>**マデイラ：**ニュース出版物、雑誌、その他の定期刊行物、書籍、オーディオブックに対するマデイラのVAT率が5%から4%に引き下げられました。</li>
+</ul>
+<p>有料アプリケーション契約の展示Bが更新され、Appleがネパールおよびカザフスタンのローカル開発者に対してVATを納付しないことを示すようになりました。</p>
+<p><strong>収益について詳しくはこちら</strong></p>
+<p><strong>2024年12月2日の価格更新：</strong></p>
+<p>アプリおよびアプリ内購入の価格は、日本およびトルコのストアフロントで更新されます。これらをアプリまたはアプリ内購入のベースとして選択していない場合に適用されます。</p>
+<p>日本またはトルコのストアフロントをアプリまたはアプリ内購入のベースとして選択している場合、価格は変更されません。その他のストアフロントでは、選択したベース価格との均等化を維持するために価格が更新されます。</p>
+<p>アプリ内購入が自動更新サブスクリプションである場合、どの地域でも価格は変更されません。また、自動均等価格ではなく手動で価格を管理しているストアフロントでも価格は変更されません。</p>
+<p>Appの「価格と利用可能性」セクションが<a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a>で更新され、これらの今後の価格変更が表示されます。いつでもアプリ、アプリ内購入、および自動更新サブスクリプションの価格を変更できます。</p>
+<p><strong>価格管理について詳しくはこちら</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >今後の価格変更を表示または編集する</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >アプリのベース国または地域を編集する</a></p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Price and tax updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a0c5138e2ba690e7f0014b3be0264826.png"></p>
+<h2 id="price-and-tax-updates-for-apps-in-app-purchases-and-subscriptions">Price and tax updates for apps, In-App Purchases, and subscriptions
+</h2><p>November 14, 2024</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.</p>
+<p>From time to time, we may need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>Tax updates as of October:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been increased in:</p>
+<ul>
+<li>**Nepal:**Apple no longer remits Nepal value-added tax (VAT) for local developers and proceeds were increased accordingly.</li>
+<li>**Kazakhstan:**Apple no longer remits Kazakstan VAT for local developers and proceeds were increased accordingly.</li>
+<li>**Madeira:**Decrease of the Madeira VAT rate from 5% to 4% for news publications, magazines and other periodicals, books, and audiobooks.</li>
+</ul>
+<p>Exhibit B of the Paid Applications Agreement has been updated to indicate that Apple will not remit VAT in Nepal and Kazakhstan for local developers.</p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p><strong>Price updates as of December 2:</strong></p>
+<ul>
+<li>Pricing for apps and In-App Purchases will be updated for the Japan and Türkiye storefronts if you haven’t selected one of these as the base for your app or In‑App Purchases.</li>
+</ul>
+<p>If you’ve selected the Japan or Türkiye storefront as the base for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription and won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Get your apps and games ready for the holidays</title>
+      <link>https://n-kase.github.io/rss/posts/post-528/</link>
+      <pubDate>Mon, 15 Jun 2026 19:16:05 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-528/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはApp Storeのホリデーシーズンが目前に迫っていることを受けて、開発者にアプリやゲームを最新状態に保ち、早めに提出するよう呼びかけ、特に12月20日から26日は審査件数が増えて時間がかかる可能性があるため、時間に敏感なアップデートは余裕を持って行うべきだと指摘した。これにより、開発者は提出のタイミングを誤るとレビュー遅延や品質低下のリスクに直面し、ユーザー体験にも影響が出る可能性がある。したがって、開発者は余裕を持ったスケジュールで事前にテストと準備を済ませ、ホリデー需要に備えることが求められる。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="ホリデーに向けてアプリとゲームを準備しよう">ホリデーに向けてアプリとゲームを準備しよう
+</h2><p>2024年12月2日</p>
+<p><img alt="ライトグレーの背景に青いApp Storeロゴ" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6bbbce894bc49e644e01cb05d59cf3b2.jpeg"></p>
+<p>App Storeの最も忙しいシーズンが目前に迫っています。アプリとゲームを最新の状態に保ち、準備を整えてください。</p>
+<p>App Reviewはホリデーシーズンを通じて提出を受け付け続けます。ボリュームが高くなり、12月20日から26日の間は審査に時間がかかることが予想されるため、時間に敏感な提出は早めに計画してください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="get-your-apps-and-games-ready-for-the-holidays">Get your apps and games ready for the holidays
+</h2><p>December 2, 2024</p>
+<p><img alt="The App Store logo in blue against a light gray background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6bbbce894bc49e644e01cb05d59cf3b2.jpeg"></p>
+<p>The busiest season on the App Store is almost here. Make sure your apps and games are up to date and ready.</p>
+<p>App Review will continue to accept submissions throughout the holiday season. Please plan to submit time-sensitive submissions early, as we anticipate high volume and reviews may take longer to complete from December 20-26.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>App Store Award winners announced</title>
+      <link>https://n-kase.github.io/rss/posts/post-525/</link>
+      <pubDate>Mon, 15 Jun 2026 19:14:32 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-525/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2024年12月11日にApp Storeの受賞者が発表され、世界中の開発者の優れた仕事が称えられたことで、開発コミュニティへの注目が高まり、今後のアプリ開発への意欲や革新がさらに促進されることが期待され、開発者を応援し、技術の進歩を支援する姿勢が求められている。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p>App Store Award winners announced December 11, 2024 Join us in celebrating the outstanding work of these developers from around the world.Meet the winners</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p>App Store Award winners announced December 11, 2024 Join us in celebrating the outstanding work of these developers from around the world.Meet the winners</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: February 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-515/</link>
+      <pubDate>Mon, 15 Jun 2026 19:06:26 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-515/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年2月の開発者向けニュースレター「Hello Developer」を公開し、その中で最新の開発者活動状況、Swift Student Challengeの進捗、そしてアプリ「Bears Gratitude」を開発したチームの紹介を行った。この情報提供により、開発者は技術トレンドやコンテストへの参加機会を得やすくなり、コミュニティ全体の活気や新しいアイデアの創出が期待できる。したがって、開発者は定期的にこうしたニュースレターをチェックし、興味のあるプログラムやイベントに積極的に参加することで、スキル向上とネットワーク拡大につなげるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-2025年2月">Hello Developer: 2025年2月
+</h2><p>2025年2月4日</p>
+<p><img alt="開発者の観客の前でステージに立つ女性" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5008adc5e4ac4b08404794cf66fa1953.jpeg"></p>
+<p>今回の号では：開発者活動の最新情報、Swift Student Challenge、<em>Bears Gratitude</em>のチーム、そしてその他。</p>
+<p>2025年2月4日</p>
+<p>今回の号では：開発者活動の最新情報、Swift Student Challenge、<em>Bears Gratitude</em>のチーム、そしてその他。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-february-2025">Hello Developer: February 2025
+</h2><p>February 4, 2025</p>
+<p><img alt="A woman stands on stage at an Apple event in front of an audience of developers" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5008adc5e4ac4b08404794cf66fa1953.jpeg"></p>
+<p>In this edition: The latest on developer activities, the Swift Student Challenge, the team behind <em>Bears Gratitude</em>, and more.</p>
+<p>February 4, 2025</p>
+<p>In this edition: The latest on developer activities, the Swift Student Challenge, the team behind <em>Bears Gratitude</em>, and more.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>New features for APNs token authentication are now available</title>
+      <link>https://n-kase.github.io/rss/posts/post-511/</link>
+      <pubDate>Mon, 15 Jun 2026 19:03:11 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-511/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは、APNsのトークン認証キーにチームスコープとトピック固有のオプションを追加し、開発環境と本番環境での使用を制限したり、特定のアプリのバンドルIDに紐付けて管理を細かくできるようにしたことを発表しました。これにより、セキュリティが強化され、特に多数のアプリを扱う大規模な組織ではキーの整理と運用が楽になると期待されます。既存のキーは引き続き利用できるため、新しい機能を活用したい場合のみキーの更新を検討すればよいという教訓が得られます。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="APNs トークン認証の新機能が今利用可能" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e51ef68fa667a9c45d748408f4d4a7a8.png"></p>
+<h2 id="apns-トークン認証の新機能が今利用可能">APNs トークン認証の新機能が今利用可能
+</h2><p>2025年2月17日</p>
+<p>Apple Push Notification サービス (APNs) の新しいトークン認証キーを作成する際に、アップグレードされたセキュリティ オプションを利用できるようになりました。</p>
+<p><strong>チームスコープ キー</strong> は、トークン認証キーを開発環境または本番環境に限定できるため、セキュリティの追加レイヤーが提供され、意図した環境でのみキーが使用されることを保証します。</p>
+<p><strong>トピック固有キー</strong> は、各キーを特定のバンドル ID に関連付けることで、より細かい制御が可能になり、キー管理がより合理的かつ整理しやすくなります。これは、異なるチームで複数のアプリを管理する大規模な組織にとって特に有益です。</p>
+<p>既存のキーは、すべてのプッシュ トピックと環境で引き続き機能します。現時点では、新しい機能を活用したい場合を除いて、キーを更新する必要はありません。</p>
+<p>APNs との通信をトークンベースで保護する方法の詳細な手順については、「<a class="link" href="https://developer.apple.com/documentation/usernotifications/establishing-a-token-based-connection-to-apns"  target="_blank" rel="noopener"
+    >トークンベースの接続を APNs に確立する</a>」を参照してください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="New features for APNs token authentication are now available" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e51ef68fa667a9c45d748408f4d4a7a8.png"></p>
+<h2 id="new-features-for-apns-token-authentication-are-now-available">New features for APNs token authentication are now available
+</h2><p>February 17, 2025</p>
+<p>You can now take advantage of upgraded security options when creating new token authentication keys for the Apple Push Notification service (APNs).</p>
+<p><strong>Team-scoped keys</strong> enable you to restrict your token authentication keys to either development or production environments, providing an additional layer of security and ensuring that keys are used only in their intended environments.</p>
+<p><strong>Topic-specific keys</strong> provide more granular control by enabling you to associate each key with a specific bundle ID, allowing for more streamlined and organized key management. This is particularly beneficial for large organizations that manage multiple apps across different teams.</p>
+<p>Your existing keys will continue to work for all push topics and environments. At this time, you don’t have to update your keys unless you want to take advantage of the new capabilities.</p>
+<p>For detailed instructions on how to secure your communications with APNs, read <a class="link" href="https://developer.apple.com/documentation/usernotifications/establishing-a-token-based-connection-to-apns"  target="_blank" rel="noopener"
+    >Establishing a token-based connection to APNs</a>.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Tax and Price updates for Apps, In-App Purchases, and Subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-499/</link>
+      <pubDate>Mon, 15 Jun 2026 18:53:49 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-499/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年5月16日にブラジルで新たに導入された10％のCIDE税を反映して、ブラジル以外に拠点を置く開発者のアプリおよびアプリ内購入からの収益を調整し、6月2日からブラジルとカザフスタンの価格を更新すると発表しました。さらに、8月4日からオーストリア、ドイツ、ポーランドでの自動更新サブスクリプションの価格上昇には顧客の同意が必要となり、同意がない場合は定期的に同意を求める通知が送られます。これらの変更は、税制や為替の変動に対応しつつ、世界中のストアで価格の一貫性を保ちつつ、ユーザーに価格変更の透明性を提供することを目的としており、開発者は価格設定のタイミングに注意し、必要に応じてユーザーの同意を得る準備をするべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Tax and Price updates for Apps, In-App Purchases, and Subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="アプリアプリ内購入サブスクリプションの税と価格の更新">アプリ、アプリ内購入、サブスクリプションの税と価格の更新
+</h2><p>2025年5月16日</p>
+<p>App Storeは、175のストアフロントで44通貨をサポートし、デジタル商品とサービスを世界中で簡単に販売できるように設計されています。</p>
+<p>時折、税規制や為替レートの変更により、価格または開発者の収益を調整する必要があります。これらの調整は、金融データプロバイダーから公開されている為替レート情報を使用して行われ、アプリおよびアプリ内購入の価格がすべてのストアフロントで一貫しているようにします。</p>
+<p><strong>税と価格の更新</strong></p>
+<p><strong>2025年5月16日現在：</strong></p>
+<p>ブラジルにおいて、ブラジル以外に拠点を置く開発者に対して導入された10％のCIDE税（Contribuições de Intervenção no Domínio Econômico）を考慮して、該当するアプリおよびアプリ内購入の販売による収益が変更されました。</p>
+<p><strong>2025年6月2日から：</strong></p>
+<p>アプリまたはアプリ内購入のベースストアフロントとしてブラジルまたはカザフスタンを選択していない場合、ブラジルおよびカザフスタンでのアプリおよびアプリ内購入の価格が更新されます。ブラジルの更新も、前述の10％のCIDE税導入を考慮しています。</p>
+<p>アプリまたはアプリ内購入のベースストアフロントとしてブラジルまたはカザフスタンを選択している場合、価格は変更されません。その他のストアフロントでは、選択したベース価格と均等になるように価格が更新されます。</p>
+<p>アプリ内購入が自動更新サブスクリプションの場合、どの地域でも価格は変更されません。また、自動均等価格ではなく手動で価格を管理しているストアフロントでも価格は変更されません。</p>
+<p><a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> の「価格と利用可能性」セクションが更新され、これらの今後の価格変更が表示されます。いつでも、アプリ、アプリ内購入、および自動更新サブスクリプションの価格を変更できます。</p>
+<p><strong>その他の今後の変更</strong></p>
+<p><strong>2025年8月4日から：</strong></p>
+<p>オーストリア、ドイツ、ポーランドにおけるすべての自動更新サブスクリプションの価格上昇は、サブスクリプションの継続更新のために顧客の同意が必要になります。</p>
+<ul>
+<li>
+<p>**8月4日以降開始日が設定されている価格上昇：**すべての顧客が新しい価格に同意する必要があります。同意しないか、何もしない場合、Appleはサブスクリプションが現在の請求サイクルの終了時に期限切れになるまで、約週1回の頻度でメール、プッシュ通知、アプリ内メッセージを通じて同意を求め続けます。</p>
+</li>
+<li>
+<p>**8月4日より前に開始日が設定されている価格上昇：**現在の通知基準が適用され続けます（年間サブスクリプションの場合、更新は2026年8月まで遅れる可能性があります）。<a class="link" href="https://developer.apple.com/help/app-store-connect/manage-subscriptions/manage-pricing-for-auto-renewable-subscriptions/#increase-the-price-of-an-auto-renewable-subscription"  target="_blank" rel="noopener"
+    >詳細を見る</a>、ただし、価格上昇の規模や速度によって顧客に同意が適用される場合があります。</p>
+</li>
+</ul>
+<p>スムーズな移行を支援するため、8月2日から8月4日までの間に価格上昇の開始日を設定することは避けることをお勧めします。</p>
+<p><strong>価格管理について詳しくは</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >今後の価格変更を表示または編集</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >アプリのベース国または地域を編集</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >国または地域別の価格と利用可能性の開始時間</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >アプリ内購入の価格を設定</a></p>
+<p><strong>収益について詳しくは</strong></p>
+<p>¹ 自動更新サブスクリプションは除きます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Tax and Price updates for Apps, In-App Purchases, and Subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="tax-and-price-updates-for-apps-in-app-purchases-and-subscriptions">Tax and Price updates for Apps, In-App Purchases, and Subscriptions
+</h2><p>May 16, 2025</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.</p>
+<p>From time to time, we may need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>Tax and price updates</strong></p>
+<p><strong>As of May 16:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in Brazil to account for the Contribuições de Intervenção no Domínio Econômico (CIDE) tax introduction of 10% for developers based outside of Brazil.</p>
+<p><strong>Beginning June 2:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for Brazil and Kazakhstan if you haven’t selected one of these storefronts as the base storefront for your app or In‑App Purchase.¹ The updates in Brazil also consider the 10% CIDE tax introduction.</p>
+<p>If you’ve selected Brazil or Kazakhstan as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Additional upcoming changes</strong></p>
+<p><strong>Beginning August 4:</strong></p>
+<p>All auto-renewable subscription price increases in Austria, Germany, and Poland will require customers to consent to the new price for their subscription to continue renewing.</p>
+<ul>
+<li>
+<p>**Price increases scheduled with a start date on or after August 4:**All customers must consent to the new price. If a subscriber doesn’t agree to the new price or takes no action, Apple will continue to request consent approximately weekly through email, push notifications, and in-app messaging until their subscription expires at the end of their current billing cycle.</p>
+</li>
+<li>
+<p>**Price increases scheduled with a start date before August 4:**Current notice criteria will remain in effect, even if the renewal occurs after August 4 (for annual subscriptions, renewal could be as late as August 2026).- <a class="link" href="https://developer.apple.com/help/app-store-connect/manage-subscriptions/manage-pricing-for-auto-renewable-subscriptions/#increase-the-price-of-an-auto-renewable-subscription"  target="_blank" rel="noopener"
+    >See criteria</a>, noting that consent may apply to customers depending on the size or velocity of your price increases.</p>
+</li>
+</ul>
+<p>To help ensure a smooth transition, we recommend avoiding scheduling price increases with a start date between August 2 and August 4.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p>¹ Excludes auto-renewable subscriptions.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Find out what’s new for Apple developers</title>
+      <link>https://n-kase.github.io/rss/posts/post-493/</link>
+      <pubDate>Mon, 15 Jun 2026 18:48:33 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-493/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年6月9日に開催された開発者向けイベントで、iOS、iPadOS、macOS、tvOS、visionOS、watchOSを含むすべてのプラットフォームに新機能と大幅な改善を発表しました。これにより、開発者は言語、フレームワーク、ツール、サービス面での進歩を活かして、これまで以上に独自性の高いアプリやゲームを作り出すことが可能になります。この発表は開発者コミュニティに刺激を与え、アプリの品質向上や新しいサービスの登場を促すと予想されます。したがって、開発者は最新の技術動向を把握し、新たなツールを積極的に導入して競争力を維持すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Apple開発者向けの新機能" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fcc43db18b2fd9db013cc0477922a8dc.png"></p>
+<h2 id="apple開発者向けの新機能">Apple開発者向けの新機能
+</h2><p>2025年6月9日</p>
+<p>Appleのすべてのプラットフォームにおける最新の進歩を発見してください。iOS、iPadOS、macOS、tvOS、visionOS、watchOSに驚くべき新機能が追加され、言語、フレームワーク、ツール、サービス全般に大幅な強化が施されます。これにより、開発者はアプリやゲームにおいてさらに独自性の高い体験を創出できるようになります。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Find out what’s new for Apple\u00a0developers" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fcc43db18b2fd9db013cc0477922a8dc.png"></p>
+<h2 id="find-out-whats-new-for-apple-developers">Find out what’s new for Apple developers
+</h2><p>June 9, 2025</p>
+<p>Discover the latest advancements on all Apple platforms. With incredible new features in iOS, iPadOS, macOS, tvOS, visionOS, and watchOS, and major enhancements across languages, frameworks, tools, and services, you can create even more unique experiences in your apps and games.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Today @ WWDC25: Day 4</title>
+      <link>https://n-kase.github.io/rss/posts/post-490/</link>
+      <pubDate>Mon, 15 Jun 2026 18:44:21 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-490/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはWWDC26において、Mac上でローカルで動作するエージェント型AIをMLXで実行する方法や、Core AIを使ったオンデバイスAIモデルの統合、Cyberpunk 2077のMac移植、CarPlayアプリの強化、MLXによる分散推論・トレーニング、デザイン原則、visionOS 27での次世代体験構築、SwiftUIとXcode 27の新機能、エージェントコーディングなど、開発者向けに多数の新技術とセッションを発表した。これにより、開発者はAIを活用したアプリ開発が容易になり、クロスプラットフォームでの体験向上や、最新のツールを活用した効率的な開発が期待される。したがって、開発者はこれらの新しいフレームワークとガイドを積極的に学び、自分のアプリにAI機能を組み込むことで競争力を高めるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p>Dub Dub Daily は会議のビデオガイドです。</p>
+<p>Explore WWDC26 highlights
+WWDC26のハイライトを探る</p>
+<p>Run local agentic AI on the Mac using MLX
+MLXを使ってMac上でローカルのエージェント型AIを実行</p>
+<p>Meet Core AI
+Core AIに会う</p>
+<p>Integrate on-device AI models into your app using Core AI
+Core AIを使ってオンデバイスAIモデルをアプリに統合</p>
+<p>Bringing Cyberpunk 2077 to Mac
+MacにCyberpunk 2077をもたらす</p>
+<p>Rev up your CarPlay app
+CarPlayアプリをパワーアップ</p>
+<p>Explore distributed inference and training with MLX
+MLXを使って分散推論とトレーニングを探る</p>
+<p>Principles of great design
+優れたデザインの原則</p>
+<p>Build next generation experiences with visionOS 27
+visionOS 27で次世代体験を構築</p>
+<p>What’s new in SwiftUI
+SwiftUIの新機能</p>
+<p>What’s new in Xcode 27
+Xcode 27の新機能</p>
+<p>Xcode, agents, and you
+Xcode、エージェント、そしてあなた</p>
+<p>Browse WWDC26 updates
+WWDC26のアップデートを閲覧</p>
+<p>Article Apple Intelligence guide
+記事：Apple Intelligenceガイド</p>
+<p>Article AI &amp; Machine Learning guide
+記事：AIおよび機械学習ガイド</p>
+<p>Article Xcode guide
+記事：Xcodeガイド</p>
+<p>Article iOS guide
+記事：iOSガイド</p>
+<p>Article iPadOS guide
+記事：iPadOSガイド</p>
+<p>Article macOS guide
+記事：macOSガイド</p>
+<p>Article visionOS guide
+記事：visionOSガイド</p>
+<p>Article watchOS guide
+記事：watchOSガイド</p>
+<p>Article Swift guide
+記事：Swiftガイド</p>
+<p>Article SwiftUI guide
+記事：SwiftUIガイド</p>
+<p>Article App Store guide
+記事：App Storeガイド</p>
+<p>Article Metal guide
+記事：Metalガイド</p>
+<p>Article Games guide
+記事：ゲームガイド</p>
+<p>Article Design guide
+記事：デザインガイド</p>
+<p>Top WWDC26 picks. Videos, events, and articles for you.
+WWDC26のおすすめピック。あなたのためのビデオ、イベント、記事。</p>
+<p>For you
+あなたのために</p>
+<p>These picks are based on your <a class="link" href="/account#ProfileCard" >Developer Profile</a>.
+これらのピックはあなたの<a class="link" href="/account#ProfileCard" >開発者プロフィール</a>に基づいています。</p>
+<p>Must-see videos
+必見のビデオ</p>
+<p><a class="link" href="/videos/play/wwdc2026/101/" >1:16:13</a>
+<strong>WWDC26</strong> Keynote
+<a class="link" href="/videos/play/wwdc2026/101/" >1:16:13</a> <strong>WWDC26</strong> 基調講演</p>
+<p><a class="link" href="/videos/play/wwdc2026/121/" >1:30</a>
+<strong>WWDC26</strong> Announcing Apple’s next big step for Siri and iPhone
+<a class="link" href="/videos/play/wwdc2026/121/" >1:30</a> <strong>WWDC26</strong> SiriとiPhoneの次の大きな一歩を発表</p>
+<p><a class="link" href="/videos/play/wwdc2026/102/" >1:01:38</a>
+<strong>WWDC26</strong> Platforms State of the Union
+<a class="link" href="/videos/play/wwdc2026/102/" >1:01:38</a> <strong>WWDC26</strong> プラットフォーム状況報告</p>
+<p><a class="link" href="/videos/play/wwdc2026/122/" >4:32</a>
+<strong>WWDC26</strong> WWDC26 Platforms State of the Union Recap
+<a class="link" href="/videos/play/wwdc2026/122/" >4:32</a> <strong>WWDC26</strong> プラットフォーム状況報告のリカップ</p>
+<p>WWDC guides, resources, and</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><ul>
+<li></li>
+</ul>
+<p>Dub Dub Daily Your video guide to the conference.</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dbf738fb21a4a5a89c7b303e96e46646.jpg"></p>
+<h3 id="explore-wwdc26-highlights">Explore WWDC26 highlights
+</h3><ul>
+<li></li>
+</ul>
+<p>Run local agentic AI on the Mac using MLX</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/68736a3a4f50b399c4f6b856f1edb26b.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Meet Core AI</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3e06b002bb4fdaeee4d27d0ed260a023.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Integrate on-device AI models into your app using Core AI</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/56e252d12a0b992a046aac55b9e42c62.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Bringing Cyberpunk 2077 to Mac</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3ff0a12460ee22f8babd9b99bf4a1f07.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Rev up your CarPlay app</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f6d80a29cb03bf39429e622cc2f1ff9a.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Explore distributed inference and training with MLX</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1992aa72ad2b933bc79d24f28bef4a7d.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Principles of great design</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/18a730bb242e7c88a5863f606b1ad837.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Build next generation experiences with visionOS 27</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef3d6b0aa25af8af3ae0cacd355e6b8f.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>What’s new in SwiftUI</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/febb067d9074b02fd9ec5aaa8d75714b.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>What’s new in Xcode 27</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b7c75684485871a38dbe3010bef134f4.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Xcode, agents, and you</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ade221ad028e89a8619cc613e162e1ce.jpg"></p>
+<h3 id="browse-wwdc26-updates">Browse WWDC26 updates
+</h3><ul>
+<li></li>
+</ul>
+<p>Article Apple Intelligence guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a2f7438ea88e741c3b619d98883e8fca.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article AI &amp; Machine Learning guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/65f0a0ea749961fae4a687d8c2208624.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Xcode guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef13c6bdf15bb553320c1f3ce04bc1a7.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article iOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dec8208f792bc38b33b1ee2c133da7a0.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article iPadOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bc6d123d4a761f4eaeba3cb8b4928fdf.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article macOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ab2d5c033c4f8f423747bbaeb2603f26.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article visionOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2c2392eb09d87372e42e9985897cbad4.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article watchOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/51ec88358a51b58d4efd19086a535cf2.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Swift guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d030808bff23d10e97d33465909dc6d8.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article SwiftUI guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5c4cb5a2d79b9cef58cbd3cb4def3e9b.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article App Store guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ad9f3ca15eef89aa81cde411c2086870.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Metal guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/151b550f58a01ff857c08b2797a55f2f.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Games guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4b1b46997b01837243250656a516b122.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Design guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/23e668476f75e005a4251a27bfbf3c77.png"></p>
+<h3 id="top-wwdc26-picks-videos-events-and-articles-for-you">Top WWDC26 picks. Videos, events, and articles for you.
+</h3><h3 id="for-you">For you
+</h3><p>These picks are based on your <a class="link" href="/account#ProfileCard" >Developer Profile</a>.</p>
+<h3 id="must-see-videos">Must-see videos
+</h3><p>[
+1:16:13</p>
+<p>](/videos/play/wwdc2026/101/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Keynote</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4b5bcbd75df90974bd749de636af25ca.jpg"></p>
+<p>[
+1:30</p>
+<p>](/videos/play/wwdc2026/121/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Announcing Apple’s next big step for Siri and iPhone</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a678e25b9f30c13124ec6459560348e4.jpg"></p>
+<p>[
+1:01:38</p>
+<p>](/videos/play/wwdc2026/102/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Platforms State of the Union</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/960b86c7af5feaedab9afdc043f32e7b.jpg"></p>
+<p>[
+4:32</p>
+<p>](/videos/play/wwdc2026/122/)</p>
+<p><strong>WWDC26</strong></p>
+<p>WWDC26 Platforms State of the Union Recap</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/799dd663435388625a171166acdbbd2c.jpg"></p>
+<h3 id="wwdc-guides-resources-and-more">WWDC guides, resources, and more
+</h3><p>[</p>
+<p>](/community/events/)</p>
+<h5 id="community-events">Community events
+</h5><p>Take part in community activities all week long, both online and around the world.</p>
+<p>Learn more</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/73d750e9ad3f0f97f507bce5eb4ece56.jpg"></p>
+<p>[</p>
+<p>](/design/awards/)</p>
+<h5 id="apple-design-awards">Apple Design Awards
+</h5><p>Celebrate innovation, ingenuity, and technical achievement in app and game design.</p>
+<p>View this year’s winners</p>
+<p><img alt="Apple Design Award" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d97d57b0245acabf39dd2795946e7794.jpg"></p>
+<p>[</p>
+<p>](/wwdc26/schedule/forums/)</p>
+<h2 id="apple-developer-forums">Apple Developer Forums
+</h2><p>Apple experts will be in the forums to answer your questions on a variety of tools and technologies.</p>
+<p>Browse the forums schedule</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/885997d0b95776860f094eccf7b66ebf.jpg"></p>
+<p>[</p>
+<p>](/xcode/)</p>
+<h2 id="discover-agentic-coding-in-xcode-263">Discover agentic coding in Xcode 26.3
+</h2><p>Harness coding agents to build and test projects, search documentation, and more.</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dd56757b60fa129ed9a0dd4595c0e405.png"></p>
+<p>[</p>
+<p>](/ios/)</p>
+<h3 id="ios-27">iOS 27
+</h3><p><img alt="iOS 27 on iPhone" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c7bec2953fdec95e57bec9100caf9d05.png"></p>
+<p>[</p>
+<p>](/ipados/)</p>
+<h3 id="ipados-27">iPadOS 27
+</h3><p><img alt="iPadOS 27 on iPad" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6d6a6bd2bc329ebfb49ca0211f2b2c07.png"></p>
+<p>[</p>
+<p>](/macos/)</p>
+<h3 id="macos-27">macOS 27
+</h3><p><img alt="macOS 27 on Mac" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3f9fd67396a492813238850fab5c436f.png"></p>
+<p>[</p>
+<p>](/tvos/)</p>
+<h3 id="tvos-27">tvOS 27
+</h3><p><img alt="tvOS 27 on Apple TV" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/51be9bf4f7e10e6a4bb9f0059cfac5f3.png"></p>
+<p>[</p>
+<p>](/visionos/)</p>
+<h3 id="visionos-27">visionOS 27
+</h3><p><img alt="visionOS 27 on Apple Vision Pro" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/16a852110d58352125582a753f8902be.png"></p>
+<p>[</p>
+<p>](/watchos/)</p>
+<h3 id="watchos-27">watchOS 27
+</h3><p><img alt="watchOS 27 on Apple Watch" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e8f11c985f4a85c73a74e0cc50fd23f0.png"></p>
+<p>[</p>
+<p>](/whats-new/)</p>
+<h2 id="whats-new-for-apple-developers">What’s new for Apple developers
+</h2><p>Discover even more new and updated technologies across Apple platforms, so you can create your best apps yet.</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fb495aa6e607b386f59b3236bd4901ed.png"></p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: October 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-477/</link>
+      <pubDate>Mon, 15 Jun 2026 18:31:39 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-477/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年10月の開発者向けニュースレターで、Foundation Modelsフレームワークを使ってデバイス上のLLMにアクセスする新しいコードアロングビデオを公開し、それに加えて新しいゲーム提供、App Store Connectのアップデート、そして空気質アプリ「Paku」がユーザーの呼吸を楽にしていることを紹介した。これにより開発者はオンデバイスAIを活用したアプリ開発が容易になり、ゲームやサービスの質向上、健康志向のアプリへの関心が高まることが予想される。したがって、開発者はこれらのリソースを積極的にチェックし、AIを組み込んだ機能やウェルネスに焦点を当てたアプリ開発を検討すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-october-2025">Hello Developer: October 2025
+</h2><p>October 7, 2025</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6b8c25c9c5039066ab8126b7abadfcc4.jpeg"></p>
+<p>今月: Foundation Models フレームワークを使って Apple Intelligence を支えるオンデバイス LLM にアクセスする方法を学ぶ新しいコードアロングビデオをご覧ください。</p>
+<p>さらに、新しいゲーム提供に飛び込み、新しい App Store Connect の機能を探り、空気質アプリ <em>Paku</em> がユーザーの呼吸を楽にしている仕組みを知ってください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-october-2025-1">Hello Developer: October 2025
+</h2><p>October 7, 2025</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6b8c25c9c5039066ab8126b7abadfcc4.jpeg"></p>
+<p>This month: Watch a new code-along video to discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.</p>
+<p>Plus, dive into new games offerings, explore new App Store Connect features, and find out how the air-quality app <em>Paku</em> is helping its users breathe easy.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: November 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-469/</link>
+      <pubDate>Mon, 15 Jun 2026 18:24:11 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-469/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年11月6日に『Hello Developer: November 2025』を公開し、新しいデザインを実際のアプリで見られるようにし、Appleの専門家がその導入方法を動画で示すとともに、Swift Student Challenge 2026の最新情報やオンデマンドの開発者ビデオを紹介した。これにより、開発者は新しいデザインを早期に取り入れやすくなり、ホリデーシーズンに向けたアプリやゲームの準備が進むとともに、世界中で行われるさまざまなイベントやドキュメント、Technoteへのアクセスが促進されることが期待される。したがって、開発者は今回提供されたリソースを活用して新デザインを積極的に導入し、ホリデーに向けたアプリの準備を早めるとともに、Swift Student Challengeへの参加を検討すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-2025年11月">Hello Developer: 2025年11月
+</h2><p>2025年11月6日</p>
+<p><img alt="新しいデザインを表し、説明する要素のコラージュ。テキスト入力ボックスと検索ボタンを含み、灰色のグリッド背景の上に表示されます。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bbe7ed507c5d92dee7756ef228738056.jpeg"></p>
+<p>今回の号では：野外で新しいデザインを体験し、Appleの専門家がそれをアプリに素早く簡単に組み込む方法を示します。さらに、Swift Student Challenge 2026の最新情報を入手し、オンデマンドで利用可能な新しい開発者ビデオをチェックしてください。</p>
+<p>また、世界中で開催される新しいアクティビティを探索し、ホリデーに向けてアプリとゲームの準備を整え、最新のニュース、ドキュメント、Technoteを閲覧してください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-november-2025">Hello Developer: November 2025
+</h2><p>November 6, 2025</p>
+<p><img alt="A collage of elements that represent and illustrate the new design, including text input boxes and a search button. The collage appears over a gray grid background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bbe7ed507c5d92dee7756ef228738056.jpeg"></p>
+<p>In this edition: Catch the new design in the wild, and let Apple experts show you how to quickly and easily bring it to your apps. Plus, get the latest on the Swift Student Challenge 2026, and check out new developer videos available on demand.</p>
+<p>Also, explore new activities all over the world, get your apps and games ready for the holidays, and browse the latest news, documentation, and Technotes.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>App Store Award winners announced</title>
+      <link>https://n-kase.github.io/rss/posts/post-465/</link>
+      <pubDate>Mon, 15 Jun 2026 18:21:57 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-465/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2025年12月4日にApp Store Awardの受賞者が発表され、世界中の開発者がその優れた仕事で称えられました。この発表は、開発者の努力が広く認知されることで、新たなアプリ開発への意欲を高め、ユーザーにも革新的なサービスへの期待が高まる可能性があります。したがって、開発者への支援と表彰を続けることで、業界全体のイノベーションを促進すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p>2025年12月4日にApp Store Awardの受賞者が発表されました。世界中のこれらの開発者の優れた仕事を祝いましょう。受賞者に会いましょう。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p>App Store Award winners announced December 4, 2025 Join us in celebrating the outstanding work of these developers from around the world.Meet the winners</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: December 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-464/</link>
+      <pubDate>Mon, 15 Jun 2026 18:21:36 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-464/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年12月の開発者向けニュースレターで、2025年のApp Store賞受賞者を紹介し、新年に向けたデザインとLiquid Glassの体験イベントへの参加を呼びかけ、拡充中の動画ライブラリの最新コンテンツを案内し、シール中心の語学学習アプリ『CapWords』の開発チームを特集し、さらに新しいドキュメントとヒューマンインターフェイスガイドラインのアップデートを参照できるようにした。これにより、開発者は最新のデザイントレンドや受賞アプリから学び、動画やドキュメントを活用してスキルを向上させる機会が増え、ネット上でも新しいデザイン言語や語学学習アプリへの関心が高まると予想される。したがって、開発者はこれらのリソースに積極的に参加し、新しいデザインガイドラインを実践に取り入れ、語学学習アプリのアイデアを参考にすることで、自分のアプリの品質と魅力を高めるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-2025年12月">Hello Developer: 2025年12月
+</h2><p>2025年12月4日</p>
+<p><img alt="いくつかの人がテーブルで作業しているトップダウンビュー。新しいデザインとLiquid Glassを連想させるカラフルなオブジェクトを組み立てている様子。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c39b20b3e0818dcc8273fcbbb5177c39.jpeg"></p>
+<p>今回の内容：</p>
+<ul>
+<li>2025年のApp Store賞受賞者に会う。</li>
+<li>新年に向けた新しいデザインとLiquid Glassのアクティビティにサインアップする。</li>
+<li>拡充中の動画ライブラリの最新追加コンテンツをチェックする。</li>
+<li>シール中心の語学学習アプリ<em>CapWords</em>の開発チームに会う。</li>
+<li>新しいドキュメントとHIGのアップデートを閲覧する。</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-december-2025">Hello Developer: December 2025
+</h2><p>December 4, 2025</p>
+<p><img alt="A top-down view of several people working at a table assembling colorful objects that evoke the new design and Liquid Glass." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c39b20b3e0818dcc8273fcbbb5177c39.jpeg"></p>
+<p>In this edition:</p>
+<ul>
+<li>Meet the 2025 App Store Award winners.</li>
+<li>Sign up for new design and Liquid Glass activities in the new year.</li>
+<li>Check out the latest additions to our ever-expanding video library.</li>
+<li>Meet the team behind the sticker-centric language-learning app <em>CapWords.</em></li>
+<li>Browse new documentation and HIG updates.</li>
+</ul>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Adjustments to the China storefront of the App Store on iOS and iPadOS</title>
+      <link>https://n-kase.github.io/rss/posts/post-450/</link>
+      <pubDate>Mon, 15 Jun 2026 18:10:53 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-450/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは中国の規制当局との話し合いを受けて、2026年3月15日から中国向けApp Storeの手数料率を引き下げ、標準取引は30%から25%、小規模事業者向けプログラムや特定のサブスクリプションは15%から12%に変更すると発表し、これにより開発者への負担軽減と規制への対応を図るとともに、他市場との競争力を維持しようとしているため、開発者は収益への影響を注視し、今後の戦略を見直すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Adjustments to the China storefront of the App Store on iOS and\u00a0iPadOS" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3421ad350dbdb4abc1ef37aeaefd2d7a.png"></p>
+<h2 id="iosおよびipadosの中国向けapp-storeの調整">iOSおよびiPadOSの中国向けApp Storeの調整
+</h2><p>2026年3月12日</p>
+<p>Appleは、中国の規制当局との議論を受けて、中国のApp Storeに変更を加えています。</p>
+<p>2026年3月15日から、iOSおよびiPadOSの中国本土向けApp Storeに適用される手数料率が変更されます。</p>
+<p>標準のApple In-App Purchaseおよび有料アプリ取引の手数料率は25%になります。現在の率は30%です。App Store Small Business ProgramおよびMini Apps Partner Programの対象となるApple In-App Purchase取引および最初の年以降の自動更新のApple In-App Purchaseサブスクリプションの手数料率は12%になります。現在の率は15%です。</p>
+<p>3月15日までに更新された利用規約に署名する必要はなく、その日付からこれらの手数料率変更の恩恵を受けることができます。</p>
+<p>私たちは、iOSおよびiPadOSを中国の開発者にとって最高のアプリエコシステムかつ大きなビジネスチャンスにするよう努めています。すべての開発者に対して公平で透明性のある条件を維持し、中国でアプリを配信する開発者に対して他の市場全体の率を超えない競争力のあるApp Storeの率を提供し続けることを約束します。</p>
+<p><a class="link" href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/"  target="_blank" rel="noopener"
+    >Apple Developer Program License Agreement</a>は、更新されたポリシーをサポートするために改訂されました。<a class="link" href="https://developer.apple.com/account/"  target="_blank" rel="noopener"
+    >アカウントにサインイン</a>して、更新された規約に同意してください。</p>
+<p>更新された規約の翻訳は、<a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developerウェブサイト</a>で1か月以内に利用可能になります。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Adjustments to the China storefront of the App Store on iOS and\u00a0iPadOS" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3421ad350dbdb4abc1ef37aeaefd2d7a.png"></p>
+<h2 id="adjustments-to-the-china-storefront-of-the-app-store-on-ios-and-ipados">Adjustments to the China storefront of the App Store on iOS and iPadOS
+</h2><p>March 12, 2026</p>
+<p>Apple is making changes to the App Store in China following discussions with the Chinese regulator.</p>
+<p>As of March 15, 2026, changes will be made to the commission rates that apply to the China mainland storefront of the App Store on iOS and iPadOS.</p>
+<p>The commission rate for standard Apple In-App Purchase and paid app transactions will be 25%. Currently, the rate is 30%. The commission rate for qualifying Apple In-App Purchase transactions under the App Store Small Business Program and Mini Apps Partner Program, and for auto-renewals of Apple In-App Purchase subscriptions after the first year, will be 12%. Currently, the rate is 15%.</p>
+<p>Signing the updated terms by March 15 is not required to receive the benefit of these commission rate changes starting that date.</p>
+<p>We strive for iOS and iPadOS to be the best app ecosystem and a great business opportunity for developers in China. We are committed to terms that remain fair and transparent to all developers, and to always offering competitive App Store rates to developers distributing apps in China that are no higher than overall rates in other markets.</p>
+<p>The <a class="link" href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/"  target="_blank" rel="noopener"
+    >Apple Developer Program License Agreement</a> has been revised to support updated policies. You can <a class="link" href="https://developer.apple.com/account/"  target="_blank" rel="noopener"
+    >sign in to your account</a> to accept the updated terms.</p>
+<p>Translations of the updated agreement will be available on <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>App Store expands support to 11 new languages</title>
+      <link>https://n-kase.github.io/rss/posts/post-443/</link>
+      <pubDate>Mon, 15 Jun 2026 18:05:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-443/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年3月31日に、App Store Connectにおいて新たに11の言語（ベンガル語、グジャラート語、カンナダ語、マラヤーラム語、マラーティー語、オディア語、パンジャブ語、スロベニア語、タミル語、テルグ語、ウルドゥー語）のローカライズドメタデータのサポートを開始し、対応言語数を合計50に拡大したことを発表しました。これにより、特にインド市場を含む世界中のユーザーにアプリやゲームをより適切に届けやすくなり、開発者は自分の製品を各言語・文化に合わせて名前や説明、スクリーンショットなどを調整することで、ビジネスの成長機会を得られるようになります。したがって、開発者は次回のアップデート時にローカライズドメタデータを追加し、新しいローカライズドApp Storeバッジをマーケティングに活用することで、言語の壁を越えたユーザー獲得と売上向上を狙うべきだということが示唆されます。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="app-store-expands-support-to-11-new-languages">App Store expands support to 11 new languages
+</h2><p>March 31, 2026</p>
+<p><img alt="A collection of Apple App Store and Apple TV download badges displayed in multiple languages." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2dbb9f10bf3c0679b9f3abd0f86c83f7.jpeg"></p>
+<p>To help your apps and games reach more people worldwide — especially in India — App Store Connect now supports localized metadata for 11 new languages, bringing the total number of supported localizations to 50. The new languages include Bangla, Gujarati, Kannada, Malayalam, Marathi, Odia, Punjabi, Slovenian, Tamil, Telugu, and Urdu.</p>
+<p>You can now provide localized metadata — such as your app name, description, screenshots, and more — in App Store Connect. When you localize your metadata, it helps make your app relevant to potential users across languages and cultures, and provides an opportunity to grow your business. You can add localized metadata with your next version submission for each platform you support and use new localized App Store badges in your marketing communications.</p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-information/localize-app-information/"  target="_blank" rel="noopener"
+    >Learn how to localize your app information</a></p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="app-store-expands-support-to-11-new-languages-1">App Store expands support to 11 new languages
+</h2><p>March 31, 2026</p>
+<p><img alt="A collection of Apple App Store and Apple TV download badges displayed in multiple languages." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2dbb9f10bf3c0679b9f3abd0f86c83f7.jpeg"></p>
+<p>To help your apps and games reach more people worldwide — especially in India — App Store Connect now supports localized metadata for 11 new languages, bringing the total number of supported localizations to 50. The new languages include Bangla, Gujarati, Kannada, Malayalam, Marathi, Odia, Punjabi, Slovenian, Tamil, Telugu, and Urdu.</p>
+<p>You can now provide localized metadata — such as your app name, description, screenshots, and more — in App Store Connect. When you localize your metadata, it helps make your app relevant to potential users across languages and cultures, and provides an opportunity to grow your business. You can add localized metadata with your next version submission for each platform you support and use new localized App Store badges in your marketing communications.</p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-information/localize-app-information/"  target="_blank" rel="noopener"
+    >Learn how to localize your app information</a></p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Now Available: Monthly Subscriptions with a 12-Month Commitment</title>
+      <link>https://n-kase.github.io/rss/posts/post-438/</link>
+      <pubDate>Mon, 15 Jun 2026 18:00:06 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-438/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは、App Storeの自動更新型サブスクリプションに対して、12か月間の契約を前提とした月額プランを新たに提供し始めた。これにより、利用者は毎月の支払い額を抑えつつ、契約期間中はいつでも解約でき、契約満了後に自動更新が止まる仕組みになる。さらに、利用者はAppleアカウントで支払い済みと残りの回数を確認でき、更新前にメールやプッシュ通知でリマインダーが届くため、透明性が高まる。開発者はApp Store Connectで設定し、Xcodeでテストできるほか、米国とシンガポールを除く世界のiOS 26.4以降の端末で利用可能になる。この新オプションは、価格に敏感なユーザーを獲得しやすくするとともに、解約の自由度と情報開示が利用者の信頼を高め、結果として開発者は柔軟な課金モデルを導入することで継続的な収益基盤を強化すべきだということが示唆される。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="今利用可能-12か月契約の月額サブスクリプション">今利用可能: 12か月契約の月額サブスクリプション
+</h2><p>2026年4月27日</p>
+<p><img alt="App Storeのサブスクリプションにおける、12か月契約の月額サブスクリプション機能、支払いスケジュール、契約詳細を示すスクリーンショット" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/17b418f90b0f61473419351df5dd40db.jpeg"></p>
+<p>今日、私たちはApp Storeでの自動更新型サブスクリプションの支払い方法として、新たに12か月契約の月額サブスクリプションを導入します。この新しい支払いオプションにより、開発者は加入者により手頃な価格の選択肢を提供できます。加入者はいつでも解約でき、解約すると契約で定めた支払いを完了した後に自動更新が行われなくなります。</p>
+<p>透明性を確保するため、加入者はAppleアカウントで完了した支払い回数と残りの支払い回数を簡単に確認できます。また、Appleは更新日の前にメールを送信し、オプトインしている場合はプッシュ通知も送って、 upcoming purchase（今後の購入）を思い出させます。</p>
+<p>これで、App Store Connectでこのタイプのサブスクリプションを設定し、Xcodeでテストすることができます。米国とシンガポールを除き、12か月契約の月額サブスクリプションは、iOS 26.4、iPadOS 26.4、macOS Tahoe 26.4、tvOS 26.4、visionOS 26.4以降、あるいはそれ以降のバージョン（iOS 26.5、iPadOS 26.5、macOS Tahoe 26.5、tvOS 26.5、visionOS 26.5の5月にリリース予定）を搭載した世界中のユーザーに提供されます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="now-available-monthly-subscriptions-with-a-12-month-commitment">Now Available: Monthly Subscriptions with a 12-Month Commitment
+</h2><p>April 27, 2026</p>
+<p><img alt="Screens showing monthly subscriptions with a 12-month commitment feature, payment schedule and commitment details for App Store subscriptions." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/17b418f90b0f61473419351df5dd40db.jpeg"></p>
+<p>Today, we’re introducing a new way that people can pay for your auto-renewable subscriptions on the App Store: monthly subscriptions with a 12-month commitment. This new payment option allows you to offer subscribers more affordable options. People can cancel their subscription at any time, which will prevent the subscription from renewing after they’ve completed their agreed-to payments to fulfill their commitment.</p>
+<p>To provide transparency, people can easily view the number of completed and remaining payments for the subscription in their Apple Account. Apple will also send email and, if opted in, push notifications ahead of their renewal date to remind them of their upcoming purchase.</p>
+<p>You can now configure this type of subscription in App Store Connect and test it in Xcode. With the exception of the United States and Singapore, monthly subscriptions with a 12-month commitment will be available worldwide to people on iOS 26.4, iPadOS 26.4, macOS Tahoe 26.4, tvOS 26.4, and visionOS 26.4, or later, with the release of iOS 26.5, iPadOS 26.5, macOS Tahoe 26.5, tvOS 26.5, and visionOS 26.5 in May.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Upcoming changes to age ratings in Australia and Vietnam</title>
+      <link>https://n-kase.github.io/rss/posts/post-431/</link>
+      <pubDate>Mon, 15 Jun 2026 17:54:30 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-431/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2026年6月18日から、AppleはオーストラリアとベトナムのApp Storeにおける年齢制限の表示を変更する。オーストラリアでは15+の区分が廃止され、ウェブへの無制限アクセス、頻繁な医療・治療情報、ロットボックスを含むアプリは16+に移行する。ベトナムでは現地の法令に合わせて、アプリは00+(全年齢)、12+、16+、18+のいずれかの地域別年齢制限を受け、開発者はApp Store Connectの質問票に正確に回答する必要がある。これにより、開発者はアプリの内容を再確認し、質問票の回答を適切に更新しないと表示される年齢制限が実際の内容と合わなくなるリスクがあるため、期限前にStore Connectの情報を見直し、正確なレーティングを設定すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Upcoming changes to age ratings in Australia and Vietnam" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="オーストラリアとベトナムにおける年齢制限の今後の変更">オーストラリアとベトナムにおける年齢制限の今後の変更
+</h2><p>2026年5月21日</p>
+<p>2026年6月18日から、App Storeにおける年齢制限がオーストラリアとベトナムで更新されます。</p>
+<p><strong>オーストラリア</strong></p>
+<p>オーストラリアのApp Storeでは、15+の年齢制限が利用できなくなります。現在15+と評価され、以下のコンテンツ記述子を含むアプリは16+に更新されます：</p>
+<ul>
+<li>ウェブへの無制限アクセス</li>
+<li>頻繁な医療または治療情報</li>
+<li>ロットボックス</li>
+</ul>
+<p>新しい評価は、オーストラリアにおけるアプリの製品ページに表示されます。App Store Connectの年齢制限質問票への回答が、アプリの内容を正確に反映していることを確認してください。</p>
+<p><strong>ベトナム</strong></p>
+<p>ベトナム法令第147号の第38条に準拠するため、ベトナムのApp Storeで提供されるアプリには地域固有の年齢制限が必要となります。App Store Connectにおける年齢制限質問票への回答に基づき、アプリは以下の4つの評価のいずれか（00+(全年齢)、12+、16+、18+）を受け、ベトナムにおけるアプリの製品ページに表示されます。年齢制限の値などの詳細情報は、6月18日からApp Store Connectおよび<a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-information/age-ratings-values-and-definitions"  target="_blank" rel="noopener"
+    >App Store Connect Help</a>で確認できます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Upcoming changes to age ratings in Australia and Vietnam" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="upcoming-changes-to-age-ratings-in-australia-and-vietnam">Upcoming changes to age ratings in Australia and Vietnam
+</h2><p>May 21, 2026</p>
+<p>Starting June 18, 2026, age ratings on the App Store will be updated in Australia and Vietnam.</p>
+<p><strong>Australia</strong></p>
+<p>The 15+ age rating will no longer be available on the App Store in Australia. Apps currently rated 15+ with the following content descriptors will be updated to 16+:</p>
+<ul>
+<li>Unrestricted web access</li>
+<li>Frequent medical or treatment information</li>
+<li>Loot boxes</li>
+</ul>
+<p>The new rating will appear on your app’s product page in Australia. Please ensure your responses to the age rating questionnaire in App Store Connect accurately reflect your app’s content.</p>
+<p><strong>Vietnam</strong></p>
+<p>To align with Article 38 of Vietnam Decree 147, apps available on the App Store in Vietnam will require a region-specific age rating. Based on your age rating questionnaire responses in App Store Connect, your app will receive one of four ratings (00+(all ages), 12+, 16+, or 18+) which will appear on its product page in Vietnam. Additional details, including age rating values, will be available in App Store Connect and <a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-information/age-ratings-values-and-definitions"  target="_blank" rel="noopener"
+    >App Store Connect Help</a> on June 18.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Find out what&#39;s new for Apple developers</title>
+      <link>https://n-kase.github.io/rss/posts/post-423/</link>
+      <pubDate>Mon, 15 Jun 2026 17:48:13 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-423/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはWWDC26で開発者向けに最新のプラットフォームアップデートを発表し、新しいSDKや言語・フレームワーク・ツールの強化、プラットフォームデザインの改良、Apple Intelligenceの機能向上、そして新たなAI開発フレームワークを紹介した。これにより開発者はこれまで以上に独自でインテリジェントなアプリやゲームを作り出すことが可能になる。</p>
+<p>こうした進展は、ユーザーがより高度でパーソナライズされた体験を期待するようになり、市場での競争が激化すると考えられる。開発者は新しいツールを積極的に取り入れ、AIを活用した機能を早期に実装することで、差別化を図り、ユーザー満足度を高めるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="apple開発者向けの新機能をチェック">Apple開発者向けの新機能をチェック
+</h2><p>2026年6月8日</p>
+<p><img alt="白、青、琥珀色の光の屈折が施された光る三次元金属風のAppleロゴが黒い背景に中央に配置され、下に銀色の「WWDC26」テキストがある画像" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/931dc6449323b254b57d8626c0e47467.jpeg"></p>
+<p>すべてのAppleプラットフォームにおける最新の進歩を発見し、言語、フレームワーク、ツール、サービス全体での大幅な強化により、アプリやゲームにより独自でインテリジェントな体験を作り出しましょう。最新のSDKには、プラットフォームデザインの改良、強力なApple Intelligence機能、そして新しいAI開発フレームワークといった驚くべき新機能が含まれます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="find-out-whats-new-for-apple-developers">Find out what&rsquo;s new for Apple developers
+</h2><p>June 8, 2026</p>
+<p><img alt="Apple logo rendered in a glowing, three-dimensional metallic style with white, blue, and amber light refractions — centered against a black background, with the text “WWDC26” in silver below." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/931dc6449323b254b57d8626c0e47467.jpeg"></p>
+<p>Discover the latest advancements on all Apple platforms and create even more unique, intelligent experiences in your apps and games with major enhancements across languages, frameworks, tools, and services. The latest SDKs bring incredible new features, including platform design refinements, powerful Apple Intelligence capabilities, and new AI development frameworks.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

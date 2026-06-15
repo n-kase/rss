@@ -1,0 +1,206 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SDK on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/sdk/</link>
+    <description>Recent content in SDK on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:14:17 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/sdk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get ready with the latest beta releases</title>
+      <link>https://n-kase.github.io/rss/posts/post-524/</link>
+      <pubDate>Mon, 15 Jun 2026 19:14:17 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-524/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2024年12月16日にiOS 18.3、iPadOS 18.3、macOS 15.3、tvOS 18.3、visionOS 2.3、watchOS 11.3のベータ版をリリースし、開発者にこれらのプラットフォームでアプリが正常に動作することを確認するよう呼びかけている。これにより、最新SDKの機能を活かすためにXcode 16.2を使ったビルドとテストが促進され、早期の不具合発見やアプリの互換性向上が期待される。したがって、開発者は今すぐベータ環境でアプリを検証し、必要な調整を行うことで、正式リリース時にスムーズなアップデートを提供できるようにすべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Get ready with the latest beta releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ff0383ce819efb1bca34abf5bb35cc42.png"></p>
+<h2 id="get-ready-with-the-latest-beta-releases">Get ready with the latest beta releases
+</h2><p>December 16, 2024</p>
+<p>The beta versions of iOS 18.3, iPadOS 18.3, macOS 15.3, tvOS 18.3, visionOS 2.3, and watchOS 11.3 are now available. Get your apps ready by confirming they work as expected on these releases. And to take advantage of the advancements in the latest SDKs, make sure to build and test with Xcode 16.2.</p>
+<p>最新ベータリリースに備えましょう</p>
+<p>2024年12月16日</p>
+<p>iOS 18.3、iPadOS 18.3、macOS 15.3、tvOS 18.3、visionOS 2.3、watchOS 11.3のベータ版が今利用可能になりました。これらのリリースで期待通りに動作することを確認して、アプリの準備を整えてください。さらに、最新SDKの進歩を活かすため、Xcode 16.2でビルドとテストを行うようにしてください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Get ready with the latest beta releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ff0383ce819efb1bca34abf5bb35cc42.png"></p>
+<h2 id="get-ready-with-the-latest-beta-releases-1">Get ready with the latest beta releases
+</h2><p>December 16, 2024</p>
+<p>The beta versions of iOS 18.3, iPadOS 18.3, macOS 15.3, tvOS 18.3, visionOS 2.3, and watchOS 11.3 are now available. Get your apps ready by confirming they work as expected on these releases. And to take advantage of the advancements in the latest SDKs, make sure to build and test with Xcode 16.2.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>App Store submissions now open for the latest OS releases</title>
+      <link>https://n-kase.github.io/rss/posts/post-480/</link>
+      <pubDate>Mon, 15 Jun 2026 18:33:46 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-480/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは最新のOSリリース（iOS 26、iPadOS 26、macOS Tahoe 26、tvOS 26、visionOS 26、watchOS 26）向けのApp Storeへのアプリ提出を開始し、開発者はXcode 26リリース候補と最新SDKを使ってアプリをビルドし、TestFlightでテストした後、4月2026以降に求められる最小要件（各OSのSDKバージョン以上）を満たす形で審査に出すことができるようになった。これにより、新しいデザイン言語やLiquid Glass、Foundation Modelsフレームワーク、Apple Gamesアプリなどを活用したより独自性の高い体験を提供できるようになり、開発者は早めに新しいツールに慣れ、OSの機能を取り入れたアプリを準備する必要がある。したがって、開発者は今すぐXcode 26 RCをダウンロードし、SDKを使って開発を進め、TestFlightで十分にテストした上で、2026年4月の要件適用前にApp Storeへ提出するべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="app-store-submissions-now-open-for-the-latest-os-releases">App Store submissions now open for the latest OS releases
+</h2><p>September 9, 2025</p>
+<p><img alt="A collage of icons of Apple apps — including Xcode, Apple Developer, Swift, and more —\u00a0set diagonally against a light blue background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7ec0c870b64acd13fec43953841dfb65.jpeg"></p>
+<p>iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26 will soon be available to customers worldwide — which means you can now submit apps and games that take advantage of Apple’s broadest design update ever.</p>
+<p>Build your apps and games using the <a class="link" href="https://developer.apple.com/download/"  target="_blank" rel="noopener"
+    >Xcode 26 Release Candidate</a> and latest SDKs, test with TestFlight, and submit for review to the App Store. By taking advantage of the <a class="link" href="https://developer.apple.com/design/"  target="_blank" rel="noopener"
+    >new design and Liquid Glass</a>, the <a class="link" href="https://developer.apple.com/documentation/FoundationModels"  target="_blank" rel="noopener"
+    >Foundation Models framework</a>, the new <a class="link" href="https://developer.apple.com/games-app/"  target="_blank" rel="noopener"
+    >Apple Games app</a>, and more, you can deliver even more unique experiences on Apple platforms.</p>
+<p>Starting April 2026, apps and games uploaded to App Store Connect need to meet the following minimum requirements.</p>
+<ul>
+<li>iOS and iPadOS apps must be built with the iOS 26 &amp; iPadOS 26 SDK or later</li>
+<li>tvOS apps must be built with the tvOS 26 SDK or later</li>
+<li>visionOS apps must be built with the visionOS 26 SDK or later</li>
+<li>watchOS apps must be built with the watchOS 26 SDK or later</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="app-store-submissions-now-open-for-the-latest-os-releases-1">App Store submissions now open for the latest OS releases
+</h2><p>September 9, 2025</p>
+<p><img alt="A collage of icons of Apple apps — including Xcode, Apple Developer, Swift, and more —\u00a0set diagonally against a light blue background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7ec0c870b64acd13fec43953841dfb65.jpeg"></p>
+<p>iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26 will soon be available to customers worldwide — which means you can now submit apps and games that take advantage of Apple’s broadest design update ever.</p>
+<p>Build your apps and games using the <a class="link" href="https://developer.apple.com/download/"  target="_blank" rel="noopener"
+    >Xcode 26 Release Candidate</a> and latest SDKs, test with TestFlight, and submit for review to the App Store. By taking advantage of the <a class="link" href="https://developer.apple.com/design/"  target="_blank" rel="noopener"
+    >new design and Liquid Glass</a>, the <a class="link" href="https://developer.apple.com/documentation/FoundationModels"  target="_blank" rel="noopener"
+    >Foundation Models framework</a>, the new <a class="link" href="https://developer.apple.com/games-app/"  target="_blank" rel="noopener"
+    >Apple Games app</a>, and more, you can deliver even more unique experiences on Apple platforms.</p>
+<p>Starting April 2026, apps and games uploaded to App Store Connect need to meet the following minimum requirements.</p>
+<ul>
+<li>iOS and iPadOS apps must be built with the iOS 26 &amp; iPadOS 26 SDK or later</li>
+<li>tvOS apps must be built with the tvOS 26 SDK or later</li>
+<li>visionOS apps must be built with the visionOS 26 SDK or later</li>
+<li>watchOS apps must be built with the watchOS 26 SDK or later</li>
+</ul>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Get ready with the latest beta releases</title>
+      <link>https://n-kase.github.io/rss/posts/post-479/</link>
+      <pubDate>Mon, 15 Jun 2026 18:32:58 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-479/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年9月22日に、iOS 26.1、iPadOS 26.1、macOS 26.1、tvOS 26.1、visionOS 26.1、watchOS 26.1のベータ版をリリースし、それに合わせてXcode 26.0.1も提供開始した。これにより開発者は最新のOSベータでアプリの動作確認を行い、新しいSDKの機能を活用するためにビルド環境をアップデートする必要が生じている。この動向は、開発コミュニティにおけるテスト負荷の増加や、新機能への早期適応を促す傾向を強め、互換性問題が表面化するリスクも伴う。したがって、開発者は早めにベータ環境での検証を進め、Xcodeをアップデートして最新SDKに対応したビルドとテストを徹底すべきであり、これによりリリース後の不具合を防ぎ、ユーザーにスムーズなアップデート体験を提供できる。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Get ready with the latest beta releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fcc43db18b2fd9db013cc0477922a8dc.png"></p>
+<h2 id="get-ready-with-the-latest-beta-releases">Get ready with the latest beta releases
+</h2><p>September 22, 2025</p>
+<p>The beta versions of iOS 26.1, iPadOS 26.1, macOS 26.1, tvOS 26.1, visionOS 26.1, and watchOS 26.1 are now available. Get your apps ready by confirming they work as expected on these releases. And to take advantage of the advancements in the latest SDKs, make sure to build and test with Xcode 26.0.1.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Get ready with the latest beta releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fcc43db18b2fd9db013cc0477922a8dc.png"></p>
+<h2 id="get-ready-with-the-latest-beta-releases-1">Get ready with the latest beta releases
+</h2><p>September 22, 2025</p>
+<p>The beta versions of iOS 26.1, iPadOS 26.1, macOS 26.1, tvOS 26.1, visionOS 26.1, and watchOS 26.1 are now available. Get your apps ready by confirming they work as expected on these releases. And to take advantage of the advancements in the latest SDKs, make sure to build and test with Xcode 26.0.1.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Upcoming SDK minimum requirements</title>
+      <link>https://n-kase.github.io/rss/posts/post-457/</link>
+      <pubDate>Mon, 15 Jun 2026 18:15:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-457/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年4月28日から、App Store Connectに新規アップロードするすべてのアプリおよびゲームについて、iOS・iPadOS・tvOS・visionOS・watchOSそれぞれのバージョン26以降のSDKでビルドすることを必須とすることを発表した。これにより開発者は現在のビルド環境をアップデートし、新しいSDKに対応したコードや依存ライブラリを準備する必要があり、対応が遅れるとアプリ審査でのリジェクトリスクが高まる。したがって、開発者は今すぐXcodeやCI/CDパイプラインをSDK 26にアップデートし、テストを完了させて期限前に対応を終えるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Upcoming SDK minimum requirements" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5d7971e7a94735fc24d58aecf90c7c77.png"></p>
+<h2 id="今後のsdk最低要件">今後のSDK最低要件
+</h2><p>2026年2月3日</p>
+<p>2026年4月28日から、App Store Connectにアップロードされるアプリおよびゲームは、次の最低要件を満たす必要があります：</p>
+<ul>
+<li>iOSおよびiPadOSアプリは、iOS 26およびiPadOS 26 SDK以降でビルドされている必要があります</li>
+<li>tvOSアプリは、tvOS 26 SDK以降でビルドされている必要があります</li>
+<li>visionOSアプリは、visionOS 26 SDK以降でビルドされている必要があります</li>
+<li>watchOSアプリは、watchOS 26 SDK以降でビルドされている必要があります</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Upcoming SDK minimum requirements" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5d7971e7a94735fc24d58aecf90c7c77.png"></p>
+<h2 id="upcoming-sdk-minimum-requirements">Upcoming SDK minimum requirements
+</h2><p>February 3, 2026</p>
+<p>Starting April 28, 2026, apps and games uploaded to App Store Connect need to meet the following minimum requirements:</p>
+<ul>
+<li>iOS and iPadOS apps must be built with the iOS 26 &amp; iPadOS 26 SDK or later</li>
+<li>tvOS apps must be built with the tvOS 26 SDK or later</li>
+<li>visionOS apps must be built with the visionOS 26 SDK or later</li>
+<li>watchOS apps must be built with the watchOS 26 SDK or later</li>
+</ul>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Get ready with the latest beta releases</title>
+      <link>https://n-kase.github.io/rss/posts/post-453/</link>
+      <pubDate>Mon, 15 Jun 2026 18:13:14 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-453/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2026年2月16日に、AppleはiOS 26.4、iPadOS 26.4、macOS 26.4、tvOS 26.4、visionOS 26.4、watchOS 26.4のベータ版をリリースし、開発者にこれらのプラットフォームでアプリが期待通り動作することを確認するよう呼びかけている。これにより、最新のSDKを活用するためにXcode 26.4ベータでビルドとテストを行う必要が生じ、早期に互換性問題を発見・修正する動きが促されそうだ。したがって、開発者は今すぐベータ環境でアプリを検証し、新機能を取り込んだアップデートを準備すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="最新のベータリリースに備えよう" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fcc43db18b2fd9db013cc0477922a8dc.png"></p>
+<h2 id="最新のベータリリースに備えよう">最新のベータリリースに備えよう
+</h2><p>2026年2月16日</p>
+<p>iOS 26.4、iPadOS 26.4、macOS 26.4、tvOS 26.4、visionOS 26.4、watchOS 26.4のベータ版が今利用可能になりました。これらのリリースで期待通りに動作することを確認し、アプリの準備を整えてください。また、最新のSDKの進歩を活かすために、Xcode 26.4ベータでビルドとテストを行うようにしてください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Get ready with the latest beta releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fcc43db18b2fd9db013cc0477922a8dc.png"></p>
+<h2 id="get-ready-with-the-latest-beta-releases">Get ready with the latest beta releases
+</h2><p>February 16, 2026</p>
+<p>The beta versions of iOS 26.4, iPadOS 26.4, macOS 26.4, tvOS 26.4, visionOS 26.4, and watchOS 26.4 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.4 beta to take advantage of the advancements in the latest SDKs.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Get ready with the latest beta releases</title>
+      <link>https://n-kase.github.io/rss/posts/post-430/</link>
+      <pubDate>Mon, 15 Jun 2026 17:53:46 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-430/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年5月26日にiOS 26.6、iPadOS 26.6、macOS 26.6、tvOS 26.6、visionOS 26.6、watchOS 26.6のベータ版をリリースし、開発者にこれらのプラットフォームでアプリが期待通りに動作することを確認し、Xcode 26.5を使って最新SDKを活用したビルドとテストを行うよう呼びかけている。この発表により、開発者は新しいOSバージョンへの対応を急がざるを得ず、アプリの互換性テストや機能アップデートが増えることが予想され、ネット上でもベータテストのノウハウや不具合報告が活発に交わされるだろう。したがって、開発者は最新のSDKとXcodeを早期に導入し、リリース前に十分な検証を行うことで、ユーザーにスムーズなアップデート体験を提供し、競争力を維持すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Get ready with the latest beta releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fcc43db18b2fd9db013cc0477922a8dc.png"></p>
+<h2 id="get-ready-with-the-latest-beta-releases">Get ready with the latest beta releases
+</h2><p>May 26, 2026</p>
+<p>The beta versions of iOS 26.6, iPadOS 26.6, macOS 26.6, tvOS 26.6, visionOS 26.6, and watchOS 26.6 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.5 to take advantage of the advancements in the latest SDKs.</p>
+<p>Appleは2026年5月26日にiOS 26.6、iPadOS 26.6、macOS 26.6、tvOS 26.6、visionOS 26.6、watchOS 26.6のベータ版をリリースしました。これらのリリースで期待通りに動作することを確認し、アプリの準備を整えてください。さらに、最新SDKの進歩を活かすためにXcode 26.5を使ってビルドとテストを行ってください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Get ready with the latest beta releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fcc43db18b2fd9db013cc0477922a8dc.png"></p>
+<h2 id="get-ready-with-the-latest-beta-releases-1">Get ready with the latest beta releases
+</h2><p>May 26, 2026</p>
+<p>The beta versions of iOS 26.6, iPadOS 26.6, macOS 26.6, tvOS 26.6, visionOS 26.6, and watchOS 26.6 are now available. Get your apps ready by confirming they work as expected on these releases. And make sure to build and test with Xcode 26.5 to take advantage of the advancements in the latest SDKs.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Find out what&#39;s new for Apple developers</title>
+      <link>https://n-kase.github.io/rss/posts/post-423/</link>
+      <pubDate>Mon, 15 Jun 2026 17:48:13 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-423/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはWWDC26で開発者向けに最新のプラットフォームアップデートを発表し、新しいSDKや言語・フレームワーク・ツールの強化、プラットフォームデザインの改良、Apple Intelligenceの機能向上、そして新たなAI開発フレームワークを紹介した。これにより開発者はこれまで以上に独自でインテリジェントなアプリやゲームを作り出すことが可能になる。</p>
+<p>こうした進展は、ユーザーがより高度でパーソナライズされた体験を期待するようになり、市場での競争が激化すると考えられる。開発者は新しいツールを積極的に取り入れ、AIを活用した機能を早期に実装することで、差別化を図り、ユーザー満足度を高めるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="apple開発者向けの新機能をチェック">Apple開発者向けの新機能をチェック
+</h2><p>2026年6月8日</p>
+<p><img alt="白、青、琥珀色の光の屈折が施された光る三次元金属風のAppleロゴが黒い背景に中央に配置され、下に銀色の「WWDC26」テキストがある画像" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/931dc6449323b254b57d8626c0e47467.jpeg"></p>
+<p>すべてのAppleプラットフォームにおける最新の進歩を発見し、言語、フレームワーク、ツール、サービス全体での大幅な強化により、アプリやゲームにより独自でインテリジェントな体験を作り出しましょう。最新のSDKには、プラットフォームデザインの改良、強力なApple Intelligence機能、そして新しいAI開発フレームワークといった驚くべき新機能が含まれます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="find-out-whats-new-for-apple-developers">Find out what&rsquo;s new for Apple developers
+</h2><p>June 8, 2026</p>
+<p><img alt="Apple logo rendered in a glowing, three-dimensional metallic style with white, blue, and amber light refractions — centered against a black background, with the text “WWDC26” in silver below." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/931dc6449323b254b57d8626c0e47467.jpeg"></p>
+<p>Discover the latest advancements on all Apple platforms and create even more unique, intelligent experiences in your apps and games with major enhancements across languages, frameworks, tools, and services. The latest SDKs bring incredible new features, including platform design refinements, powerful Apple Intelligence capabilities, and new AI development frameworks.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

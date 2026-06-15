@@ -1,0 +1,61 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>年齢評価 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E5%B9%B4%E9%BD%A2%E8%A9%95%E4%BE%A1/</link>
+    <description>Recent content in 年齢評価 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 18:38:15 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E5%B9%B4%E9%BD%A2%E8%A9%95%E4%BE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updated age ratings in App Store Connect</title>
+      <link>https://n-kase.github.io/rss/posts/post-485/</link>
+      <pubDate>Mon, 15 Jun 2026 18:38:15 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-485/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはApp Store Connectの年齢評価システムを更新し、既存の4+と9+に加えて13+、16+、18+の評価を追加し、アプリ内コントロール、機能、医療・ウェルネス、暴力的テーマに関する新しい必須質問を導入しました。これにより、より細かい年齢区分が可能になり、保護者やユーザーが年齢に適したアプリを選びやすくなるとともに、開発者はセンシティブなコンテンツの頻度を考慮して適切な評価を設定する責任が増し、COPPAやGDPRなどの規制への対応も求められます。したがって、開発者は2026年1月31日までに各アプリの新しい質問に回答し、適切な年齢評価を確保することで、アプリ更新の中断を防ぎ、安全で信頼できるエコシステムを維持すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="App Store Connect の年齢評価が更新" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3421ad350dbdb4abc1ef37aeaefd2d7a.png"></p>
+<h2 id="app-store-connect-の年齢評価が更新">App Store Connect の年齢評価が更新
+</h2><p>2025年7月24日</p>
+<p>App Store は、子どもを含むすべての年齢層にとって安全で信頼できる場所となるように設計されています。より細かい年齢評価を提供するため、アプリとゲームの年齢評価システムが更新されました。また、アプリ内のセンシティブなコンテンツを特定するのに役立つ新しい年齢評価の質問を導入し、アプリの最低利用年齢を反映してより高い評価を設定できる機能も追加しました。App Store 上のすべてのアプリとゲームの評価は、この新しいシステムに合わせて自動的に更新され、iOS 26、iPadOS 26、macOS Tahoe 26、tvOS 26、visionOS 26、watchOS 26 のベータ版を実行する Apple デバイスに反映されます。</p>
+<p>更新された年齢評価システムでは、既存の 4+ と 9+ の評価に 13+、16+、18+ が追加されます。年齢評価は各国・地域ごとに割り当てられ、地域ごとの適切性基準によって異なる場合があります。</p>
+<p>すべてのアプリの評価アンケートに新しい必須質問のセットを導入しました。これらの新しい質問は以下をカバーします：</p>
+<ul>
+<li>アプリ内コントロール。</li>
+<li>機能。</li>
+<li>医療またはウェルネスに関するトピック。</li>
+<li>アプリまたはゲーム内の暴力的テーマ。</li>
+</ul>
+<p>これらの質問への回答により、Apple は評価をより正確に算出でき、年齢に適した体験を提供する手助けとなります。</p>
+<p>アプリに、Apple が付与した評価よりも高い最低利用年齢を要求するポリシーがある場合、年齢評価の質問に回答した後、より高い年齢評価を設定できます。更新後のシステムにおいて、各アプリの年齢評価を確認し、<a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> の App Information セクションで各アプリの新しい質問に回答できます。</p>
+<p>リマインダーとして、AI アシスタントやチャットボット機能を含むすべてのアプリ機能が、アプリ内でセンシティブなコンテンツが表示される頻度にどのように影響するかを考慮し、適切な評価を受けるようにしてください。すべてのアプリは、<a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a> （不適切なコンテンツやユーザー生成コンテンツに関する安全ガイドラインなど）の対象となり、子どものオンラインプライバシー保護法（COPPA）や欧州連合の一般データ保護規則（GDPR）など、適用されるすべての地域の法律および規則を遵守しなければなりません。</p>
+<p>2026年1月31日までに、各アプリの更新された年齢評価の質問に回答してください。これにより、App Store Connect でアプリのアップデートを送信する際の中断を避けることができます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Updated age ratings in App Store Connect" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3421ad350dbdb4abc1ef37aeaefd2d7a.png"></p>
+<h2 id="updated-age-ratings-in-app-store-connect">Updated age ratings in App Store Connect
+</h2><p>July 24, 2025</p>
+<p>The App Store is designed to be a safe and trusted place for all ages, including children. The age rating system for apps and games has been updated in order to provide people with more granular age ratings. We’ve also introduced new age rating questions to help identify sensitive content in your app and added the ability to set a higher rating to reflect your app’s minimum age requirement. Ratings for all apps and games on the App Store have been automatically updated to align with this new system and will be reflected on Apple devices running beta versions of iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26.</p>
+<p>The updated age rating system adds 13+, 16+, and 18+ to the existing 4+ and 9+ ratings. Age ratings are assigned to each country or region and may vary based on region-specific suitability standards.</p>
+<p>We’ve introduced a new set of required questions to the ratings questionnaire for all apps. These new questions cover:</p>
+<ul>
+<li>In-app controls.</li>
+<li>Capabilities.</li>
+<li>Medical or wellness topics.</li>
+<li>Violent themes in your app or game.</li>
+</ul>
+<p>Your answers to these questions will help Apple better calculate a rating and help you deliver an age-appropriate experience.</p>
+<p>If your app has a policy requiring a higher minimum user age than the rating assigned by Apple, you can set a higher age rating after you respond to the age ratings questions. You can view the age rating for each of your apps under the updated system and respond to the new questions for each app in the App Information section in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a>.</p>
+<p>As a reminder, you must consider how all app features, including AI assistants and chatbot functionality, impact the frequency of sensitive content appearing within your app to make sure it receives the appropriate rating. All apps are subject to the <a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a>, such as the safety guidelines regarding objectionable content or user generated content, and must abide by all applicable local laws and regulations, like the Children’s Online Privacy Protection Act (“COPPA”), and the European Union’s General Data Protection Regulation (“GDPR”).</p>
+<p>Please provide responses to the updated age rating questions for each of your apps by January 31, 2026, to avoid an interruption when submitting your app updates in App Store Connect.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

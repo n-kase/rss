@@ -1,0 +1,51 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>フィードバック on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF/</link>
+    <description>Recent content in フィードバック on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:22:44 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TestFlight enhancements to help you reach testers</title>
+      <link>https://n-kase.github.io/rss/posts/post-536/</link>
+      <pubDate>Mon, 15 Jun 2026 19:22:44 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-536/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはTestFlightの機能を強化し、招待状にアプリの説明やスクリーンショット、カテゴリを表示し、参加しなかったテスターからもフィードバックを収集できるようにしたほか、デバイスやOSバージョンなどの基準を設定してパブリックリンクから適格なテスターを効率的に募集できる機能と、そのリンクの効果を測定する新しいメトリクスを追加しました。これにより開発者はテスターへのリーチを向上させ、より関連性の高いフィードバックを得やすくなり、参加率や離脱理由を分析してベータテストの質を改善できるようになります。したがって、これらの新機能を活用してテスターの獲得とフィードバック収集を最適化し、アプリの品質向上と市場投入のスピードを高めるべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p>TestFlightの機能強化によりテスターにリーチしやすくなります</p>
+<p>2024年10月24日</p>
+<p><img alt="白と青の背景に対して、iPadとiPhoneが両方ともアプリ AwayFinder を表示している画像" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/869513e51dfc197097dc2074895d4af5.jpeg"></p>
+<p>ベータテストにおけるアプリ、ゲーム、App Clipsのテストが、TestFlightの新しい機能強化によりさらに向上します。アップデート内容は以下の通りです。</p>
+<ul>
+<li>**Redesigned invitations.**TestFlight invitations now include your beta app description to better highlight new features and content your app or game offers to prospective testers. Apps and games with an approved version that’s ready for distribution can also- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/provide-test-information"  target="_blank" rel="noopener"
+    >include</a>their screenshots and app category in their invite. We’ve also added a way for people to leave feedback if they didn’t join your beta, so you can understand why they didn’t participate.</li>
+<li>**Tester enrollment criteria.**You can choose to- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/invite-external-testers#invite-testers-using-a-public-link"  target="_blank" rel="noopener"
+    >set criteria</a>, such as device type and OS versions, to more easily enroll qualified testers via a public link to provide more relevant feedback on your invite.</li>
+<li>**Public link metrics.**Find out how successful your public link is at enrolling testers for your app with- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/view-and-manage-tester-information#view-public-link-metrics"  target="_blank" rel="noopener"
+    >new metrics</a>. Understand how many testers viewed your invite in the TestFlight app and chose to accept it. If you’ve set criteria for the public link, you can also view how many testers didn’t meet the criteria.</li>
+</ul>
+<p>To get started with TestFlight, upload your build, add test information, and invite testers.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="testflight-enhancements-to-help-you-reach-testers">TestFlight enhancements to help you reach testers
+</h2><p>October 24, 2024</p>
+<p><img alt="An iPad and iPhone, both showing the app AwayFinder against a white and blue background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/869513e51dfc197097dc2074895d4af5.jpeg"></p>
+<p>Beta testing your apps, games, and App Clips is even better with new enhancements to TestFlight. Updates include:</p>
+<ul>
+<li>**Redesigned invitations.**TestFlight invitations now include your beta app description to better highlight new features and content your app or game offers to prospective testers. Apps and games with an approved version that’s ready for distribution can also- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/provide-test-information"  target="_blank" rel="noopener"
+    >include</a>their screenshots and app category in their invite. We’ve also added a way for people to leave feedback if they didn’t join your beta, so you can understand why they didn’t participate.</li>
+<li>**Tester enrollment criteria.**You can choose to- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/invite-external-testers#invite-testers-using-a-public-link"  target="_blank" rel="noopener"
+    >set criteria</a>, such as device type and OS versions, to more easily enroll qualified testers via a public link to provide more relevant feedback on your invite.</li>
+<li>**Public link metrics.**Find out how successful your public link is at enrolling testers for your app with- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/view-and-manage-tester-information#view-public-link-metrics"  target="_blank" rel="noopener"
+    >new metrics</a>. Understand how many testers viewed your invite in the TestFlight app and chose to accept it. If you’ve set criteria for the public link, you can also view how many testers didn’t meet the criteria.</li>
+</ul>
+<p>To get started with TestFlight, upload your build, add test information, and invite testers.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,986 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WWDC26 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/wwdc26/</link>
+    <description>Recent content in WWDC26 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 18:51:25 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/wwdc26/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Today @ WWDC25: Day 1</title>
+      <link>https://n-kase.github.io/rss/posts/post-495/</link>
+      <pubDate>Mon, 15 Jun 2026 18:51:25 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-495/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはWWDC26において、開発者向けにビデオガイド「Dub Dub Daily」や各種ハイライトセッションを公開し、Mac上でMLXを使ったローカルエージェントAI、Core AIによるオンデバイスAIモデルの組み込み、Mac版Cyberpunk 2077、CarPlayアプリの強化、MLXを用いた分散推論・トレーニング、デザインの原則、visionOS 27での次世代体験、SwiftUIとXcode 27の新機能、Xcodeにおけるエージェントコーディングなど、幅広い技術発表を行った。さらに、各プラットフォーム向けのガイド記事、基調講演やSiriの次世代ステップ、プラットフォーム状況報告の動画、コミュニティイベント、Apple Design Awards、開発者フォーラム、そしてiOS/iPadOS/macOS/tvOS/visionOS/watchOSの最新バージョン情報も併せて提供した。これにより、AppleはAIをエコシステム全体に深く組み込み、開発者にオンデバイス機械学習やビジョンOS、エージェント支援開発を促す姿勢を示しており、これによりAI搭載アプリの増加や開発者コミュニティの活性化が期待される。したがって、開発者は新たに発表されたMLXやCore AI、visionOS 27、Xcode 26.3のエージェント機能を積極的に学び、自分のアプリにオンデバイスAIや次世代体験を組み込むとともに、フォーラムやデザインアワードへの参加を通じて技術力を磨き、競争力を維持すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><ul>
+<li>Dub Dub Daily あなたの会議のビデオガイド。</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dbf738fb21a4a5a89c7b303e96e46646.jpg"></p>
+<h3 id="explore-wwdc26-highlights">Explore WWDC26 highlights
+</h3><ul>
+<li>Run local agentic AI on the Mac using MLX</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/68736a3a4f50b399c4f6b856f1edb26b.jpg"></p>
+<ul>
+<li>Meet Core AI</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3e06b002bb4fdaeee4d27d0ed260a023.jpg"></p>
+<ul>
+<li>Integrate on-device AI models into your app using Core AI</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/56e252d12a0b992a046aac55b9e42c62.jpg"></p>
+<ul>
+<li>Bringing Cyberpunk 2077 to Mac</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3ff0a12460ee22f8babd9b99bf4a1f07.jpg"></p>
+<ul>
+<li>Rev up your CarPlay app</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f6d80a29cb03bf39429e622cc2f1ff9a.jpg"></p>
+<ul>
+<li>Explore distributed inference and training with MLX</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1992aa72ad2b933bc79d24f28bef4a7d.jpg"></p>
+<ul>
+<li>Principles of great design</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/18a730bb242e7c88a5863f606b1ad837.jpg"></p>
+<ul>
+<li>Build next generation experiences with visionOS 27</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef3d6b0aa25af8af3ae0cacd355e6b8f.jpg"></p>
+<ul>
+<li>What’s new in SwiftUI</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/febb067d9074b02fd9ec5aaa8d75714b.jpg"></p>
+<ul>
+<li>What’s new in Xcode 27</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b7c75684485871a38dbe3010bef134f4.jpg"></p>
+<ul>
+<li>Xcode, agents, and you</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ade221ad028e89a8619cc613e162e1ce.jpg"></p>
+<h3 id="browse-wwdc26-updates">Browse WWDC26 updates
+</h3><ul>
+<li>Article Apple Intelligence guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a2f7438ea88e741c3b619d98883e8fca.png"></p>
+<ul>
+<li>Article AI &amp; Machine Learning guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/65f0a0ea749961fae4a687d8c2208624.png"></p>
+<ul>
+<li>Article Xcode guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef13c6bdf15bb553320c1f3ce04bc1a7.png"></p>
+<ul>
+<li>Article iOS guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dec8208f792bc38b33b1ee2c133da7a0.png"></p>
+<ul>
+<li>Article iPadOS guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bc6d123d4a761f4eaeba3cb8b4928fdf.png"></p>
+<ul>
+<li>Article macOS guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ab2d5c033c4f8f423747bbaeb2603f26.png"></p>
+<ul>
+<li>Article visionOS guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2c2392eb09d87372e42e9985897cbad4.png"></p>
+<ul>
+<li>Article watchOS guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/51ec88358a51b58d4efd19086a535cf2.png"></p>
+<ul>
+<li>Article Swift guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d030808bff23d10e97d33465909dc6d8.png"></p>
+<ul>
+<li>Article SwiftUI guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5c4cb5a2d79b9cef58cbd3cb4def3e9b.png"></p>
+<ul>
+<li>Article App Store guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ad9f3ca15eef89aa81cde411c2086870.png"></p>
+<ul>
+<li>Article Metal guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/151b550f58a01ff857c08b2797a55f2f.png"></p>
+<ul>
+<li>Article Games guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4b1b46997b01837243250656a516b122.png"></p>
+<ul>
+<li>Article Design guide</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/23e668476f75e005a4251a27bfbf3c77.png"></p>
+<h3 id="top-wwdc26-picks-videos-events-and-articles-for-you">Top WWDC26 picks. Videos, events, and articles for you.
+</h3><h3 id="for-you">For you
+</h3><p>These picks are based on your <a class="link" href="/account#ProfileCard" >Developer Profile</a>.</p>
+<h3 id="must-see-videos">Must-see videos
+</h3><p>[
+1:16:13</p>
+<p>](/videos/play/wwdc2026/101/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Keynote</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/761227197ff207a28d1d4178030e1e6f.jpg"></p>
+<h3 id="explore-wwdc26-highlights-1">Explore WWDC26 highlights
+</h3><ul>
+<li></li>
+</ul>
+<p>Run local agentic AI on the Mac using MLX</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/68736a3a4f50b399c4f6b856f1edb26b.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Meet Core AI</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3e06b002bb4fdaeee4d27d0ed260a023.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Integrate on-device AI models into your app using Core AI</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/56e252d12a0b992a046aac55b9e42c62.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Bringing Cyberpunk 2077 to Mac</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3ff0a12460ee22f8babd9b99bf4a1f07.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Rev up your CarPlay app</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f6d80a29cb03bf39429e622cc2f1ff9a.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Explore distributed inference and training with MLX</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1992aa72ad2b933bc79d24f28bef4a7d.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Principles of great design</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/18a730bb242e7c88a5863f606b1ad837.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Build next generation experiences with visionOS 27</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef3d6b0aa25af8af3ae0cacd355e6b8f.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>What’s new in SwiftUI</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/febb067d9074b02fd9ec5aaa8d75714b.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>What’s new in Xcode 27</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b7c75684485871a38dbe3010bef134f4.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Xcode, agents, and you</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ade221ad028e89a8619cc613e162e1ce.jpg"></p>
+<h3 id="browse-wwdc26-updates-1">Browse WWDC26 updates
+</h3><ul>
+<li></li>
+</ul>
+<p>Article Apple Intelligence guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a2f7438ea88e741c3b619d98883e8fca.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article AI &amp; Machine Learning guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/65f0a0ea749961fae4a687d8c2208624.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Xcode guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef13c6bdf15bb553320c1f3ce04bc1a7.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article iOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dec8208f792bc38b33b1ee2c133da7a0.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article iPadOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bc6d123d4a761f4eaeba3cb8b4928fdf.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article macOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ab2d5c033c4f8f423747bbaeb2603f26.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article visionOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2c2392eb09d87372e42e9985897cbad4.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article watchOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/51ec88358a51b58d4efd19086a535cf2.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Swift guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d030808bff23d10e97d33465909dc6d8.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article SwiftUI guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5c4cb5a2d79b9cef58cbd3cb4def3e9b.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article App Store guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ad9f3ca15eef89aa81cde411c2086870.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Metal guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/151b550f58a01ff857c08b2797a55f2f.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Games guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4b1b46997b01837243250656a516b122.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Design guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/23e668476f75e005a4251a27bfbf3c77.png"></p>
+<h3 id="top-wwdc26-picks-videos-events-and-articles-for-you-1">Top WWDC26 picks. Videos, events, and articles for you.
+</h3><h3 id="for-you-1">For you
+</h3><p>These picks are based on your <a class="link" href="/account#ProfileCard" >Developer Profile</a>.</p>
+<h3 id="must-see-videos-1">Must-see videos
+</h3><p>[
+1:16:13</p>
+<p>](/videos/play/wwdc2026/101/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Keynote</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4b5bcbd75df90974bd749de636af25ca.jpg"></p>
+<p>[
+1:30</p>
+<p>](/videos/play/wwdc2026/121/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Announcing Apple’s next big step for Siri and iPhone</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a678e25b9f30c13124ec6459560348e4.jpg"></p>
+<p>[
+1:01:38</p>
+<p>](/videos/play/wwdc2026/102/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Platforms State of the Union</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/960b86c7af5feaedab9afdc043f32e7b.jpg"></p>
+<p>[
+4:32</p>
+<p>](/videos/play/wwdc2026/122/)</p>
+<p><strong>WWDC26</strong></p>
+<p>WWDC26 Platforms State of the Union Recap</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/799dd663435388625a171166acdbbd2c.jpg"></p>
+<h3 id="wwdc-guides-resources-and-more">WWDC guides, resources, and more
+</h3><p>[</p>
+<p>](/community/events/)</p>
+<h5 id="community-events">Community events
+</h5><p>Take part in community activities all week long, both online and around the world.</p>
+<p>Learn more</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/73d750e9ad3f0f97f507bce5eb4ece56.jpg"></p>
+<p>[</p>
+<p>](/design/awards/)</p>
+<h5 id="apple-design-awards">Apple Design Awards
+</h5><p>Celebrate innovation, ingenuity, and technical achievement in app and game design.</p>
+<p>View this year’s winners</p>
+<p><img alt="Apple Design Award" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d97d57b0245acabf39dd2795946e7794.jpg"></p>
+<p>[</p>
+<p>](/wwdc26/schedule/forums/)</p>
+<h2 id="apple-developer-forums">Apple Developer Forums
+</h2><p>Apple experts will be in the forums to answer your questions on a variety of tools and technologies.</p>
+<p>Browse the forums schedule</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/885997d0b95776860f094eccf7b66ebf.jpg"></p>
+<p>[</p>
+<p>](/xcode/)</p>
+<h2 id="discover-agentic-coding-in-xcode-263">Discover agentic coding in Xcode 26.3
+</h2><p>Harness coding agents to build and test projects, search documentation, and more.</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dd56757b60fa129ed9a0dd4595c0e405.png"></p>
+<p>[</p>
+<p>](/ios/)</p>
+<h3 id="ios-27">iOS 27
+</h3><p><img alt="iOS 27 on iPhone" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c7bec2953fdec95e57bec9100caf9d05.png"></p>
+<p>[</p>
+<p>](/ipados/)</p>
+<h3 id="ipados-27">iPadOS 27
+</h3><p><img alt="iPadOS 27 on iPad" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6d6a6bd2bc329ebfb49ca0211f2b2c07.png"></p>
+<p>[</p>
+<p>](/macos/)</p>
+<h3 id="macos-27">macOS 27
+</h3><p><img alt="macOS 27 on Mac" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3f9fd67396a492813238850fab5c436f.png"></p>
+<p>[</p>
+<p>](/tvos/)</p>
+<h3 id="tvos-27">tvOS 27
+</h3><p><img alt="tvOS 27 on Apple TV" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/51be9bf4f7e10e6a4bb9f0059cfac5f3.png"></p>
+<p>[</p>
+<p>](/visionos/)</p>
+<h3 id="visionos-27">visionOS 27
+</h3><p><img alt="visionOS 27 on Apple Vision Pro" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/16a852110d58352125582a753f8902be.png"></p>
+<p>[</p>
+<p>](/watchos/)</p>
+<h3 id="watchos-27">watchOS 27
+</h3><p><img alt="watchOS 27 on Apple Watch" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e8f11c985f4a85c73a74e0cc50fd23f0.png"></p>
+<p>[</p>
+<p>](/whats-new/)</p>
+<h2 id="whats-new-for-apple-developers">What’s new for Apple developers
+</h2><p>Discover even more new and updated technologies across Apple platforms, so you can create your best apps yet.</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fb495aa6e607b386f59b3236bd4901ed.png"></p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Today @ WWDC25: Day 2</title>
+      <link>https://n-kase.github.io/rss/posts/post-492/</link>
+      <pubDate>Mon, 15 Jun 2026 18:47:58 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-492/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleの開発者向けイベントWWDC26が開催され、Mac上でローカルで動作するエージェント型AIを実現するMLXや、Core AIを使ったオンデバイスAIモデルの組み込み、サイバーパンク2077のMac版提供、CarPlayアプリの強化、visionOS 27やSwiftUI、Xcode 27の新機能など、多数のアップデートが発表されました。これらの発表は、開発者の間でAIを活用したアプリ開発への関心を高め、デバイス間のシームレスな体験や次世代のインタラクションへの期待を高めています。したがって、開発者は基調講演やセッション動画を視聴し、公開されたガイドやツールを活用して、新しい技術を実際のプロジェクトに取り入れるべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><ul>
+<li></li>
+</ul>
+<p>Dub Dub Daily は会議のビデオガイドです。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5d73e1d7f32c504cf4c7224409e9aa00.jpg"></p>
+<h3 id="explore-wwdc26-highlights">Explore WWDC26 highlights
+</h3><ul>
+<li></li>
+</ul>
+<p>Run local agentic AI on the Mac using MLX</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/68736a3a4f50b399c4f6b856f1edb26b.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Meet Core AI</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3e06b002bb4fdaeee4d27d0ed260a023.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Integrate on-device AI models into your app using Core AI</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/56e252d12a0b992a046aac55b9e42c62.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Bringing Cyberpunk 2077 to Mac</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3ff0a12460ee22f8babd9b99bf4a1f07.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Rev up your CarPlay app</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f6d80a29cb03bf39429e622cc2f1ff9a.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Explore distributed inference and training with MLX</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1992aa72ad2b933bc79d24f28bef4a7d.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Principles of great design</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/18a730bb242e7c88a5863f606b1ad837.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Build next generation experiences with visionOS 27</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef3d6b0aa25af8af3ae0cacd355e6b8f.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>What’s new in SwiftUI</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/febb067d9074b02fd9ec5aaa8d75714b.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>What’s new in Xcode 27</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b7c75684485871a38dbe3010bef134f4.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Xcode, agents, and you</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ade221ad028e89a8619cc613e162e1ce.jpg"></p>
+<h3 id="browse-wwdc26-updates">Browse WWDC26 updates
+</h3><ul>
+<li></li>
+</ul>
+<p>Article Apple Intelligence guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a2f7438ea88e741c3b619d98883e8fca.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article AI &amp; Machine Learning guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/65f0a0ea749961fae4a687d8c2208624.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Xcode guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef13c6bdf15bb553320c1f3ce04bc1a7.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article iOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dec8208f792bc38b33b1ee2c133da7a0.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article iPadOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bc6d123d4a761f4eaeba3cb8b4928fdf.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article macOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ab2d5c033c4f8f423747bbaeb2603f26.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article visionOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2c2392eb09d87372e42e9985897cbad4.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article watchOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/51ec88358a51b58d4efd19086a535cf2.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Swift guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d030808bff23d10e97d33465909dc6d8.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article SwiftUI guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5c4cb5a2d79b9cef58cbd3cb4def3e9b.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article App Store guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ad9f3ca15eef89aa81cde411c2086870.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Metal guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/151b550f58a01ff857c08b2797a55f2f.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Games guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4b1b46997b01837243250656a516b122.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Design guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/23e668476f75e005a4251a27bfbf3c77.png"></p>
+<h3 id="top-wwdc26-picks-videos-events-and-articles-for-you">Top WWDC26 picks. Videos, events, and articles for you.
+</h3><h3 id="for-you">For you
+</h3><p>These picks are based on your <a class="link" href="/account#ProfileCard" >Developer Profile</a>.</p>
+<h3 id="must-see-videos">Must-see videos
+</h3><p>[
+1:16:13</p>
+<p>](/videos/play/wwdc2026/101/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Keynote</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4b5bcbd75df90974bd749de636af25ca.jpg"></p>
+<p>[
+1:30</p>
+<p>](/videos/play/wwdc2026/121/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Announcing Apple’s next big step for Siri and iPhone</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a678e25b9f30c13124ec6459560348e4.jpg"></p>
+<p>[
+1:01:38</p>
+<p>](/videos/play/wwdc2026/102/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Platforms State of the Union</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/960b86c7af5feaedab9afdc043f32e7b.jpg"></p>
+<p>[
+4:32</p>
+<p>](/videos/play/wwdc2026/122/)</p>
+<p><strong>WWDC26</strong></p>
+<p>WWDC26 Platforms State of the Union Recap</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/799dd663435388625a171166acdbbd2c.jpg"></p>
+<h3 id="wwdc-guides-resources-and-more">WWDC guides, resources, and more
+</h3><p>[</p>
+<p>](/community/events/)</p>
+<h5 id="community-events">Community events
+</h5><p>Take part in community activities all week long, both online and around the world.</p>
+<p>Learn more</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/73d750e9ad3f0f97f507bce5eb4ece56.jpg"></p>
+<p>[</p>
+<p>](/design/awards/)</p>
+<h5 id="apple-design-awards">Apple Design Awards
+</h5><p>Celebrate innovation, ingenuity, and technical achievement in app and game design.</p>
+<p>View this year’s winners</p>
+<p><img alt="Apple Design Award" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d97d57b0245acabf39dd2795946e7794.jpg"></p>
+<p>[</p>
+<p>](/wwdc26/schedule/forums/)</p>
+<h2 id="apple-developer-forums">Apple Developer Forums
+</h2><p>Apple experts will be in the forums to answer your questions on a variety of tools and technologies.</p>
+<p>Browse the forums schedule</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/885997d0b95776860f094eccf7b66ebf.jpg"></p>
+<p>[</p>
+<p>](/xcode/)</p>
+<h2 id="discover-agentic-coding-in-xcode-263">Discover agentic coding in Xcode 26.3
+</h2><p>Harness coding agents to build and test projects, search documentation, and more.</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dd56757b60fa129ed9a0dd4595c0e405.png"></p>
+<p>[</p>
+<p>](/ios/)</p>
+<h3 id="ios-27">iOS 27
+</h3><p><img alt="iOS 27 on iPhone" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c7bec2953fdec95e57bec9100caf9d05.png"></p>
+<p>[</p>
+<p>](/ipados/)</p>
+<h3 id="ipados-27">iPadOS 27
+</h3><p><img alt="iPadOS 27 on iPad" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6d6a6bd2bc329ebfb49ca0211f2b2c07.png"></p>
+<p>[</p>
+<p>](/macos/)</p>
+<h3 id="macos-27">macOS 27
+</h3><p><img alt="macOS 27 on Mac" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3f9fd67396a492813238850fab5c436f.png"></p>
+<p>[</p>
+<p>](/tvos/)</p>
+<h3 id="tvos-27">tvOS 27
+</h3><p><img alt="tvOS 27 on Apple TV" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/51be9bf4f7e10e6a4bb9f0059cfac5f3.png"></p>
+<p>[</p>
+<p>](/visionos/)</p>
+<h3 id="visionos-27">visionOS 27
+</h3><p><img alt="visionOS 27 on Apple Vision Pro" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/16a852110d58352125582a753f8902be.png"></p>
+<p>[</p>
+<p>](/watchos/)</p>
+<h3 id="watchos-27">watchOS 27
+</h3><p><img alt="watchOS 27 on Apple Watch" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e8f11c985f4a85c73a74e0cc50fd23f0.png"></p>
+<p>[</p>
+<p>](/whats-new/)</p>
+<h2 id="whats-new-for-apple-developers">What’s new for Apple developers
+</h2><p>Discover even more new and updated technologies across Apple platforms, so you can create your best apps yet.</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fb495aa6e607b386f59b3236bd4901ed.png"></p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Today @ WWDC25: Day 4</title>
+      <link>https://n-kase.github.io/rss/posts/post-490/</link>
+      <pubDate>Mon, 15 Jun 2026 18:44:21 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-490/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはWWDC26において、Mac上でローカルで動作するエージェント型AIをMLXで実行する方法や、Core AIを使ったオンデバイスAIモデルの統合、Cyberpunk 2077のMac移植、CarPlayアプリの強化、MLXによる分散推論・トレーニング、デザイン原則、visionOS 27での次世代体験構築、SwiftUIとXcode 27の新機能、エージェントコーディングなど、開発者向けに多数の新技術とセッションを発表した。これにより、開発者はAIを活用したアプリ開発が容易になり、クロスプラットフォームでの体験向上や、最新のツールを活用した効率的な開発が期待される。したがって、開発者はこれらの新しいフレームワークとガイドを積極的に学び、自分のアプリにAI機能を組み込むことで競争力を高めるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p>Dub Dub Daily は会議のビデオガイドです。</p>
+<p>Explore WWDC26 highlights
+WWDC26のハイライトを探る</p>
+<p>Run local agentic AI on the Mac using MLX
+MLXを使ってMac上でローカルのエージェント型AIを実行</p>
+<p>Meet Core AI
+Core AIに会う</p>
+<p>Integrate on-device AI models into your app using Core AI
+Core AIを使ってオンデバイスAIモデルをアプリに統合</p>
+<p>Bringing Cyberpunk 2077 to Mac
+MacにCyberpunk 2077をもたらす</p>
+<p>Rev up your CarPlay app
+CarPlayアプリをパワーアップ</p>
+<p>Explore distributed inference and training with MLX
+MLXを使って分散推論とトレーニングを探る</p>
+<p>Principles of great design
+優れたデザインの原則</p>
+<p>Build next generation experiences with visionOS 27
+visionOS 27で次世代体験を構築</p>
+<p>What’s new in SwiftUI
+SwiftUIの新機能</p>
+<p>What’s new in Xcode 27
+Xcode 27の新機能</p>
+<p>Xcode, agents, and you
+Xcode、エージェント、そしてあなた</p>
+<p>Browse WWDC26 updates
+WWDC26のアップデートを閲覧</p>
+<p>Article Apple Intelligence guide
+記事：Apple Intelligenceガイド</p>
+<p>Article AI &amp; Machine Learning guide
+記事：AIおよび機械学習ガイド</p>
+<p>Article Xcode guide
+記事：Xcodeガイド</p>
+<p>Article iOS guide
+記事：iOSガイド</p>
+<p>Article iPadOS guide
+記事：iPadOSガイド</p>
+<p>Article macOS guide
+記事：macOSガイド</p>
+<p>Article visionOS guide
+記事：visionOSガイド</p>
+<p>Article watchOS guide
+記事：watchOSガイド</p>
+<p>Article Swift guide
+記事：Swiftガイド</p>
+<p>Article SwiftUI guide
+記事：SwiftUIガイド</p>
+<p>Article App Store guide
+記事：App Storeガイド</p>
+<p>Article Metal guide
+記事：Metalガイド</p>
+<p>Article Games guide
+記事：ゲームガイド</p>
+<p>Article Design guide
+記事：デザインガイド</p>
+<p>Top WWDC26 picks. Videos, events, and articles for you.
+WWDC26のおすすめピック。あなたのためのビデオ、イベント、記事。</p>
+<p>For you
+あなたのために</p>
+<p>These picks are based on your <a class="link" href="/account#ProfileCard" >Developer Profile</a>.
+これらのピックはあなたの<a class="link" href="/account#ProfileCard" >開発者プロフィール</a>に基づいています。</p>
+<p>Must-see videos
+必見のビデオ</p>
+<p><a class="link" href="/videos/play/wwdc2026/101/" >1:16:13</a>
+<strong>WWDC26</strong> Keynote
+<a class="link" href="/videos/play/wwdc2026/101/" >1:16:13</a> <strong>WWDC26</strong> 基調講演</p>
+<p><a class="link" href="/videos/play/wwdc2026/121/" >1:30</a>
+<strong>WWDC26</strong> Announcing Apple’s next big step for Siri and iPhone
+<a class="link" href="/videos/play/wwdc2026/121/" >1:30</a> <strong>WWDC26</strong> SiriとiPhoneの次の大きな一歩を発表</p>
+<p><a class="link" href="/videos/play/wwdc2026/102/" >1:01:38</a>
+<strong>WWDC26</strong> Platforms State of the Union
+<a class="link" href="/videos/play/wwdc2026/102/" >1:01:38</a> <strong>WWDC26</strong> プラットフォーム状況報告</p>
+<p><a class="link" href="/videos/play/wwdc2026/122/" >4:32</a>
+<strong>WWDC26</strong> WWDC26 Platforms State of the Union Recap
+<a class="link" href="/videos/play/wwdc2026/122/" >4:32</a> <strong>WWDC26</strong> プラットフォーム状況報告のリカップ</p>
+<p>WWDC guides, resources, and</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><ul>
+<li></li>
+</ul>
+<p>Dub Dub Daily Your video guide to the conference.</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dbf738fb21a4a5a89c7b303e96e46646.jpg"></p>
+<h3 id="explore-wwdc26-highlights">Explore WWDC26 highlights
+</h3><ul>
+<li></li>
+</ul>
+<p>Run local agentic AI on the Mac using MLX</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/68736a3a4f50b399c4f6b856f1edb26b.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Meet Core AI</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3e06b002bb4fdaeee4d27d0ed260a023.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Integrate on-device AI models into your app using Core AI</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/56e252d12a0b992a046aac55b9e42c62.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Bringing Cyberpunk 2077 to Mac</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3ff0a12460ee22f8babd9b99bf4a1f07.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Rev up your CarPlay app</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f6d80a29cb03bf39429e622cc2f1ff9a.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Explore distributed inference and training with MLX</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1992aa72ad2b933bc79d24f28bef4a7d.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Principles of great design</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/18a730bb242e7c88a5863f606b1ad837.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Build next generation experiences with visionOS 27</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef3d6b0aa25af8af3ae0cacd355e6b8f.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>What’s new in SwiftUI</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/febb067d9074b02fd9ec5aaa8d75714b.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>What’s new in Xcode 27</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b7c75684485871a38dbe3010bef134f4.jpg"></p>
+<ul>
+<li></li>
+</ul>
+<p>Xcode, agents, and you</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ade221ad028e89a8619cc613e162e1ce.jpg"></p>
+<h3 id="browse-wwdc26-updates">Browse WWDC26 updates
+</h3><ul>
+<li></li>
+</ul>
+<p>Article Apple Intelligence guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a2f7438ea88e741c3b619d98883e8fca.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article AI &amp; Machine Learning guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/65f0a0ea749961fae4a687d8c2208624.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Xcode guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef13c6bdf15bb553320c1f3ce04bc1a7.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article iOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dec8208f792bc38b33b1ee2c133da7a0.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article iPadOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bc6d123d4a761f4eaeba3cb8b4928fdf.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article macOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ab2d5c033c4f8f423747bbaeb2603f26.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article visionOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2c2392eb09d87372e42e9985897cbad4.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article watchOS guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/51ec88358a51b58d4efd19086a535cf2.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Swift guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d030808bff23d10e97d33465909dc6d8.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article SwiftUI guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5c4cb5a2d79b9cef58cbd3cb4def3e9b.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article App Store guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ad9f3ca15eef89aa81cde411c2086870.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Metal guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/151b550f58a01ff857c08b2797a55f2f.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Games guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4b1b46997b01837243250656a516b122.png"></p>
+<ul>
+<li></li>
+</ul>
+<p>Article Design guide</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/23e668476f75e005a4251a27bfbf3c77.png"></p>
+<h3 id="top-wwdc26-picks-videos-events-and-articles-for-you">Top WWDC26 picks. Videos, events, and articles for you.
+</h3><h3 id="for-you">For you
+</h3><p>These picks are based on your <a class="link" href="/account#ProfileCard" >Developer Profile</a>.</p>
+<h3 id="must-see-videos">Must-see videos
+</h3><p>[
+1:16:13</p>
+<p>](/videos/play/wwdc2026/101/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Keynote</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4b5bcbd75df90974bd749de636af25ca.jpg"></p>
+<p>[
+1:30</p>
+<p>](/videos/play/wwdc2026/121/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Announcing Apple’s next big step for Siri and iPhone</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a678e25b9f30c13124ec6459560348e4.jpg"></p>
+<p>[
+1:01:38</p>
+<p>](/videos/play/wwdc2026/102/)</p>
+<p><strong>WWDC26</strong></p>
+<p>Platforms State of the Union</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/960b86c7af5feaedab9afdc043f32e7b.jpg"></p>
+<p>[
+4:32</p>
+<p>](/videos/play/wwdc2026/122/)</p>
+<p><strong>WWDC26</strong></p>
+<p>WWDC26 Platforms State of the Union Recap</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/799dd663435388625a171166acdbbd2c.jpg"></p>
+<h3 id="wwdc-guides-resources-and-more">WWDC guides, resources, and more
+</h3><p>[</p>
+<p>](/community/events/)</p>
+<h5 id="community-events">Community events
+</h5><p>Take part in community activities all week long, both online and around the world.</p>
+<p>Learn more</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/73d750e9ad3f0f97f507bce5eb4ece56.jpg"></p>
+<p>[</p>
+<p>](/design/awards/)</p>
+<h5 id="apple-design-awards">Apple Design Awards
+</h5><p>Celebrate innovation, ingenuity, and technical achievement in app and game design.</p>
+<p>View this year’s winners</p>
+<p><img alt="Apple Design Award" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d97d57b0245acabf39dd2795946e7794.jpg"></p>
+<p>[</p>
+<p>](/wwdc26/schedule/forums/)</p>
+<h2 id="apple-developer-forums">Apple Developer Forums
+</h2><p>Apple experts will be in the forums to answer your questions on a variety of tools and technologies.</p>
+<p>Browse the forums schedule</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/885997d0b95776860f094eccf7b66ebf.jpg"></p>
+<p>[</p>
+<p>](/xcode/)</p>
+<h2 id="discover-agentic-coding-in-xcode-263">Discover agentic coding in Xcode 26.3
+</h2><p>Harness coding agents to build and test projects, search documentation, and more.</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dd56757b60fa129ed9a0dd4595c0e405.png"></p>
+<p>[</p>
+<p>](/ios/)</p>
+<h3 id="ios-27">iOS 27
+</h3><p><img alt="iOS 27 on iPhone" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c7bec2953fdec95e57bec9100caf9d05.png"></p>
+<p>[</p>
+<p>](/ipados/)</p>
+<h3 id="ipados-27">iPadOS 27
+</h3><p><img alt="iPadOS 27 on iPad" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6d6a6bd2bc329ebfb49ca0211f2b2c07.png"></p>
+<p>[</p>
+<p>](/macos/)</p>
+<h3 id="macos-27">macOS 27
+</h3><p><img alt="macOS 27 on Mac" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3f9fd67396a492813238850fab5c436f.png"></p>
+<p>[</p>
+<p>](/tvos/)</p>
+<h3 id="tvos-27">tvOS 27
+</h3><p><img alt="tvOS 27 on Apple TV" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/51be9bf4f7e10e6a4bb9f0059cfac5f3.png"></p>
+<p>[</p>
+<p>](/visionos/)</p>
+<h3 id="visionos-27">visionOS 27
+</h3><p><img alt="visionOS 27 on Apple Vision Pro" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/16a852110d58352125582a753f8902be.png"></p>
+<p>[</p>
+<p>](/watchos/)</p>
+<h3 id="watchos-27">watchOS 27
+</h3><p><img alt="watchOS 27 on Apple Watch" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e8f11c985f4a85c73a74e0cc50fd23f0.png"></p>
+<p>[</p>
+<p>](/whats-new/)</p>
+<h2 id="whats-new-for-apple-developers">What’s new for Apple developers
+</h2><p>Discover even more new and updated technologies across Apple platforms, so you can create your best apps yet.</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fb495aa6e607b386f59b3236bd4901ed.png"></p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: April 2026</title>
+      <link>https://n-kase.github.io/rss/posts/post-440/</link>
+      <pubDate>Mon, 15 Jun 2026 18:02:08 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-440/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleの開発者向けニュースレター「Hello Developer」2026年4月号では、bilibiliとLinkedInへの参加を呼びかけ、WWDC26前に必見のセッションを復習できるように案内し、サンプルコードを使った旅行アプリの作成方法や新しいデザインギャラリーの閲覧、そしてApp Store ConnectのAnalyticsにおける過去最大のアップデートについて学ぶことを提案しています。これにより、Appleは中国のプラットフォームへの outreach を強化し、開発者のスキルアップと最新ツールへのアクセスを促進する傾向が見られ、特に旅行系アプリやデータ分析分野でのイノベーションが期待されます。したがって、開発者はこれらのリソースを活用して最新の技術動向に追いつき、サンプルコードを基にしたアプリ開発や強化されたアナリティクス機能を取り入れることで競争力を高めるべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-april-2026">Hello Developer: April 2026
+</h2><p>2026年4月7日</p>
+<p><img alt="宇宙背景に浮かぶ「Hello World」の文字と、その下に浮かぶ地球" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f32f3f89a72d68ca4bc58c6ef762d677.jpeg"></p>
+<p>今回の号では：</p>
+<ul>
+<li>bilibiliとLinkedInに参加しましょう。</li>
+<li>WWDC26前に必見のセッションをキャッチアップしましょう。</li>
+<li>サンプルコードを使って旅行アプリを構築しましょう。</li>
+<li>新しいデザインギャラリーの最新号を閲覧しましょう。</li>
+<li>App Store ConnectのAnalyticsにおける過去最大のアップデートについて学びましょう。</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-april-2026-1">Hello Developer: April 2026
+</h2><p>April 7, 2026</p>
+<p><img alt="The words “Hello World” floating against a space background with the Earth floating beneath." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f32f3f89a72d68ca4bc58c6ef762d677.jpeg"></p>
+<p>In this edition:</p>
+<ul>
+<li>Join us on bilibili and LinkedIn.</li>
+<li>Catch up on essential sessions before WWDC26.</li>
+<li>Build a travel app with sample code.</li>
+<li>Browse the latest edition of our new design gallery.</li>
+<li>Learn about the biggest-ever update to Analytics in App Store Connect.</li>
+</ul>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Coming bright up</title>
+      <link>https://n-kase.github.io/rss/posts/post-433/</link>
+      <pubDate>Mon, 15 Jun 2026 17:55:41 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-433/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2026年5月18日に発表されたWWDC26では、テクノロジー、創造性、コミュニティをテーマにした1週間のオンライン無料イベントが開催されることが明らかになりました。これにより、開発者やテクノロジー愛好家の間で期待が高まり、Apple製品やサービスへの関心がさらに盛り上がると予想されます。したがって、開発者は新しいツールやセッションに備えてスケジュールを調整し、一般ユーザーも最新情報を逃さないよう注目すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p>Coming bright up</p>
+<p>2026年5月18日</p>
+<p><img alt="純黒の背景に対して luminous な三次元フォームとしてレンダリングされたSwiftロゴ。その swooping 鳥のシルエットは brillante white light でトレースされ、深い青と暖かいゴールドのアクセントが施されています。ロゴの下には、大型の銀色の文字で “WWDC26” と記載されています。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d625b6fe95f11e9ff32941de293562d1.jpeg"></p>
+<p>テクノロジー、創造性、コミュニティに満ちた1週間に備えてください — すべてオンラインで無料です。WWDC26で何が用意されているかをご覧ください。</p>
+<p>2026年5月18日</p>
+<p>テクノロジー、創造性、コミュニティに満ちた1週間に備えてください — すべてオンラインで無料です。WWDC26で何が用意されているかをご覧ください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="coming-bright-up">Coming bright up
+</h2><p>May 18, 2026</p>
+<p><img alt="The Swift logo rendered as a luminous, three-dimensional form against a pure black background, its swooping bird silhouette traced in brilliant white light with accents of deep blue and warm gold. Below the logo, the text “WWDC26” is set in large silver letterforms." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d625b6fe95f11e9ff32941de293562d1.jpeg"></p>
+<p>Get ready for a week of technology, creativity, and community — all online and free. Here’s what WWDC26 has in store.</p>
+<p>May 18, 2026</p>
+<p>Get ready for a week of technology, creativity, and community — all online and free. Here’s what WWDC26 has in store.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>All systems glow</title>
+      <link>https://n-kase.github.io/rss/posts/post-429/</link>
+      <pubDate>Mon, 15 Jun 2026 17:53:33 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-429/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>WWDC26が1週間後に迫り、5日間にわたるテクノロジー、クリエイティビティ、コミュニティのプログラムがオンラインで無料提供されることが発表された。これにより、開発者やテクノロジー愛好家の間で期待が高まり、SNSを中心に関心が広がり、仮想イベントへの参加がさらに一般的になる可能性がある。したがって、この機会を逃さずに事前にスケジュールを調整し、無料セッションを活用して最新技術を学び、コミュニティと交流することが得策である。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p>すべてのシステムが輝く</p>
+<p>2026年6月1日</p>
+<p><img alt="白、青、アンバーの光の屈折を伴う光る三次元の金属的なスタイルでレンダリングされたAppleロゴ — 黒い背景の中心に配置され、下に銀色の「WWDC26」のテキストが表示される。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5b368662e56df31554903b5cced7fb4e.jpeg"></p>
+<p>WWDC26は1週間後に迫っています。テクノロジー、クリエイティビティ、コミュニティに満ちた5日間に備えてください — すべてオンラインで無料です。</p>
+<p>2026年6月1日</p>
+<p>WWDC26は1週間後に迫っています。テクノロジー、クリエイティビティ、コミュニティに満ちた5日間に備えてください — すべてオンラインで無料です。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="all-systems-glow">All systems glow
+</h2><p>June 1, 2026</p>
+<p><img alt="Apple logo rendered in a glowing, three-dimensional metallic style with white, blue, and amber light refractions — centered against a black background, with the text “WWDC26” in silver below." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5b368662e56df31554903b5cced7fb4e.jpeg"></p>
+<p>WWDC26 is just one week away. Get ready for five days of technology, creativity, and community — all online and free.</p>
+<p>June 1, 2026</p>
+<p>WWDC26 is just one week away. Get ready for five days of technology, creativity, and community — all online and free.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Find out what&#39;s new for Apple developers</title>
+      <link>https://n-kase.github.io/rss/posts/post-423/</link>
+      <pubDate>Mon, 15 Jun 2026 17:48:13 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-423/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはWWDC26で開発者向けに最新のプラットフォームアップデートを発表し、新しいSDKや言語・フレームワーク・ツールの強化、プラットフォームデザインの改良、Apple Intelligenceの機能向上、そして新たなAI開発フレームワークを紹介した。これにより開発者はこれまで以上に独自でインテリジェントなアプリやゲームを作り出すことが可能になる。</p>
+<p>こうした進展は、ユーザーがより高度でパーソナライズされた体験を期待するようになり、市場での競争が激化すると考えられる。開発者は新しいツールを積極的に取り入れ、AIを活用した機能を早期に実装することで、差別化を図り、ユーザー満足度を高めるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="apple開発者向けの新機能をチェック">Apple開発者向けの新機能をチェック
+</h2><p>2026年6月8日</p>
+<p><img alt="白、青、琥珀色の光の屈折が施された光る三次元金属風のAppleロゴが黒い背景に中央に配置され、下に銀色の「WWDC26」テキストがある画像" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/931dc6449323b254b57d8626c0e47467.jpeg"></p>
+<p>すべてのAppleプラットフォームにおける最新の進歩を発見し、言語、フレームワーク、ツール、サービス全体での大幅な強化により、アプリやゲームにより独自でインテリジェントな体験を作り出しましょう。最新のSDKには、プラットフォームデザインの改良、強力なApple Intelligence機能、そして新しいAI開発フレームワークといった驚くべき新機能が含まれます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="find-out-whats-new-for-apple-developers">Find out what&rsquo;s new for Apple developers
+</h2><p>June 8, 2026</p>
+<p><img alt="Apple logo rendered in a glowing, three-dimensional metallic style with white, blue, and amber light refractions — centered against a black background, with the text “WWDC26” in silver below." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/931dc6449323b254b57d8626c0e47467.jpeg"></p>
+<p>Discover the latest advancements on all Apple platforms and create even more unique, intelligent experiences in your apps and games with major enhancements across languages, frameworks, tools, and services. The latest SDKs bring incredible new features, including platform design refinements, powerful Apple Intelligence capabilities, and new AI development frameworks.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

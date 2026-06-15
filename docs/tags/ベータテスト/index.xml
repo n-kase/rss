@@ -1,0 +1,108 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ベータテスト on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%BC%E3%82%BF%E3%83%86%E3%82%B9%E3%83%88/</link>
+    <description>Recent content in ベータテスト on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:22:44 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%BC%E3%82%BF%E3%83%86%E3%82%B9%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TestFlight enhancements to help you reach testers</title>
+      <link>https://n-kase.github.io/rss/posts/post-536/</link>
+      <pubDate>Mon, 15 Jun 2026 19:22:44 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-536/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはTestFlightの機能を強化し、招待状にアプリの説明やスクリーンショット、カテゴリを表示し、参加しなかったテスターからもフィードバックを収集できるようにしたほか、デバイスやOSバージョンなどの基準を設定してパブリックリンクから適格なテスターを効率的に募集できる機能と、そのリンクの効果を測定する新しいメトリクスを追加しました。これにより開発者はテスターへのリーチを向上させ、より関連性の高いフィードバックを得やすくなり、参加率や離脱理由を分析してベータテストの質を改善できるようになります。したがって、これらの新機能を活用してテスターの獲得とフィードバック収集を最適化し、アプリの品質向上と市場投入のスピードを高めるべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p>TestFlightの機能強化によりテスターにリーチしやすくなります</p>
+<p>2024年10月24日</p>
+<p><img alt="白と青の背景に対して、iPadとiPhoneが両方ともアプリ AwayFinder を表示している画像" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/869513e51dfc197097dc2074895d4af5.jpeg"></p>
+<p>ベータテストにおけるアプリ、ゲーム、App Clipsのテストが、TestFlightの新しい機能強化によりさらに向上します。アップデート内容は以下の通りです。</p>
+<ul>
+<li>**Redesigned invitations.**TestFlight invitations now include your beta app description to better highlight new features and content your app or game offers to prospective testers. Apps and games with an approved version that’s ready for distribution can also- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/provide-test-information"  target="_blank" rel="noopener"
+    >include</a>their screenshots and app category in their invite. We’ve also added a way for people to leave feedback if they didn’t join your beta, so you can understand why they didn’t participate.</li>
+<li>**Tester enrollment criteria.**You can choose to- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/invite-external-testers#invite-testers-using-a-public-link"  target="_blank" rel="noopener"
+    >set criteria</a>, such as device type and OS versions, to more easily enroll qualified testers via a public link to provide more relevant feedback on your invite.</li>
+<li>**Public link metrics.**Find out how successful your public link is at enrolling testers for your app with- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/view-and-manage-tester-information#view-public-link-metrics"  target="_blank" rel="noopener"
+    >new metrics</a>. Understand how many testers viewed your invite in the TestFlight app and chose to accept it. If you’ve set criteria for the public link, you can also view how many testers didn’t meet the criteria.</li>
+</ul>
+<p>To get started with TestFlight, upload your build, add test information, and invite testers.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="testflight-enhancements-to-help-you-reach-testers">TestFlight enhancements to help you reach testers
+</h2><p>October 24, 2024</p>
+<p><img alt="An iPad and iPhone, both showing the app AwayFinder against a white and blue background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/869513e51dfc197097dc2074895d4af5.jpeg"></p>
+<p>Beta testing your apps, games, and App Clips is even better with new enhancements to TestFlight. Updates include:</p>
+<ul>
+<li>**Redesigned invitations.**TestFlight invitations now include your beta app description to better highlight new features and content your app or game offers to prospective testers. Apps and games with an approved version that’s ready for distribution can also- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/provide-test-information"  target="_blank" rel="noopener"
+    >include</a>their screenshots and app category in their invite. We’ve also added a way for people to leave feedback if they didn’t join your beta, so you can understand why they didn’t participate.</li>
+<li>**Tester enrollment criteria.**You can choose to- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/invite-external-testers#invite-testers-using-a-public-link"  target="_blank" rel="noopener"
+    >set criteria</a>, such as device type and OS versions, to more easily enroll qualified testers via a public link to provide more relevant feedback on your invite.</li>
+<li>**Public link metrics.**Find out how successful your public link is at enrolling testers for your app with- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/view-and-manage-tester-information#view-public-link-metrics"  target="_blank" rel="noopener"
+    >new metrics</a>. Understand how many testers viewed your invite in the TestFlight app and chose to accept it. If you’ve set criteria for the public link, you can also view how many testers didn’t meet the criteria.</li>
+</ul>
+<p>To get started with TestFlight, upload your build, add test information, and invite testers.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Get the most out of your Apple Developer account</title>
+      <link>https://n-kase.github.io/rss/posts/post-435/</link>
+      <pubDate>Mon, 15 Jun 2026 17:57:42 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-435/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは無料のDeveloperアカウントを提供しており、これによってベータ版のXcodeやOS、開発者イベント、フォーラム、フィードバック送信などの基本的なツールとサポートへのアクセスが可能になり、さらに有料のApple Developer Programメンバーシップに加入するとTestFlightによる大規模ベータテストやApp Storeを通じた世界175カ国・地域への配信、複数言語対応、Apple Payなどのサービス統合が利用できるようになる。これにより開発者はリリース前のアプリ検証やユーザーフィードバックの収集、プラットフォームへの貢献がしやすくなり、結果としてアプリの品質向上やグローバル市場への展開、収益機会の拡大が期待できる。したがって、まずは無料アカウントで基本的な開発環境を整え、必要に応じて有料プログラムへアップグレードして、より広範なリソースと国際的な配信チャネルを活用すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="apple-developer-アカウントを最大限に活用する">Apple Developer アカウントを最大限に活用する
+</h2><p>2026年5月12日</p>
+<p><img alt="軽い木のテーブルで横並びに作業している2人の上からのビュー。それぞれMacBook Proを使用。前景のラップトップはXcodeを表示し、仮想iPhoneスクリーン上でカラフルな旅行または写真閲覧アプリのiOSシミュレータを表示。フレームの上部には2人目の手が見え、MacBookでタイプしている。これは共同開発またはコードレビューのセッションを示唆している。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fad84839f6221aba9fcc4e4eee315b65.jpeg"></p>
+<p>無料のApple Developerアカウントは、アプリとゲームを構築およびテストするために必要なツール、リソース、サポートへのアクセスを提供します。無料の開発者アカウントは、Apple Developer Programメンバーシップとは別です。組織が有料メンバーシップを持っている場合でも、自分自身の無料アカウントを作成することで、ダウンロードとサポートリソースへの直接アクセスが得られます。</p>
+<h3 id="アカウントを持っていない場合">アカウントを持っていない場合？
+</h3><p>Apple Developerアカウントを作成するには、Apple Accountにサインインしてください。Apple Accountを持っていない場合は、Apple Developerアカウント登録中に作成できます。</p>
+<h3 id="何が得られますか">何が得られますか：
+</h3><p><strong>XcodeとAppleオペレーティングシステムのベータバージョンへのアクセス:</strong> リリース前に upcoming features と API 変更でアプリをテストできます。ベータ版はフィードバックを送信し、各新しいOSリリースの初日からアプリが正常に動作することを保証するのに役立ちます。さらに、自分のデバイスで直接アプリをテストすることもできます。</p>
+<p>Xcodeのベータバージョンでは、最新の開発ツールとシミュレータを使って新しいSDKを探索し、強化されたAPIをテストし、互換性の問題をデバッグするための完全なツールチェーンにアクセスできます。</p>
+<p><a class="link" href="https://developer.apple.com/support/install-beta"  target="_blank" rel="noopener"
+    >Appleベータテストソフトウェアについて詳しくはこちら &gt;</a></p>
+<p><strong>Appleと会う:</strong> 年中開催される対面およびオンラインの開発者イベントに参加できます。イベントはUI/UXベストプラクティスのデザインワークショップから、フレームワークの技術的深掘り、App Store最適化に関するビジネスセッションまで幅広くあります。</p>
+<p><a class="link" href="https://developer.apple.com/events/"  target="_blank" rel="noopener"
+    >開発者活動に申し込む &gt;</a></p>
+<p><strong>Apple Developerフォーラム:</strong> フォーラムに参加して、世界中の開発者と質問したり知識を共有したりできます。フォーラムは特定のフレームワークやテクノロジーをカバーし、問題のトラブルシューティングやコードサンプルの共有のための場を提供します。</p>
+<p><strong>プラットフォームの形成に貢献:</strong> Feedback Assistantを使ってバグを報告し、機能リクエストを送信できます。サンプルコード、クラッシュログ、再現手順を含む詳細なレポートをファイルできます。新しいAPIをリクエストしたり、機能強化を提案したりできます。今日使っているツールのいくつかは、開発者</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="get-the-most-out-of-your-apple-developer-account">Get the most out of your Apple Developer account
+</h2><p>May 12, 2026</p>
+<p><img alt="An overhead view of two people working side by side at a light wood table, each on a MacBook Pro. The foreground laptop displays Xcode with an iOS app simulator showing a colorful travel or photo-browsing app on a virtual iPhone screen. The second person’s hands are visible in the upper portion of the frame, typing on their MacBook, suggesting a collaborative development or code review session." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fad84839f6221aba9fcc4e4eee315b65.jpeg"></p>
+<p>A free Apple Developer account provides access to the tools, resources, and support you need to build and test apps and games. A free developer account is separate from an Apple Developer Program membership. Even if your organization holds the paid membership, creating your own free account gives you direct access to downloads and support resources.</p>
+<h3 id="dont-have-an-account">Don’t have an account?
+</h3><p>To create your Apple Developer account, sign in to your Apple Account. If you don’t have an Apple Account, you can create one during Apple Developer account registration.</p>
+<h3 id="what-you-get">What you get:
+</h3><p><strong>Access beta versions of Xcode and Apple operating systems:</strong> Test your apps with upcoming features and API changes before release. Betas allow you to submit feedback and ensure your app works on day one of each new OS release. And you can test your apps directly on your own devices.</p>
+<p>With Xcode beta versions, you have access to the complete toolchain to explore new SDKs, test enhanced APIs, and debug compatibility issues using the latest development tools and simulators.</p>
+<p><a class="link" href="https://developer.apple.com/support/install-beta"  target="_blank" rel="noopener"
+    >Learn more about Apple beta testing software &gt;</a></p>
+<p><strong>Meet with Apple:</strong> Attend developer events that take place in person and online all year long. Events range from design workshops on UI/UX best practices to technical deep dives on frameworks and business sessions about App Store optimization.</p>
+<p><a class="link" href="https://developer.apple.com/events/"  target="_blank" rel="noopener"
+    >Sign up for developer activities &gt;</a></p>
+<p><strong>Apple Developer Forums:</strong> Join the forums to ask questions and share knowledge with developers worldwide. The forums cover specific frameworks and technologies, serving as a space to troubleshoot issues and share code samples.</p>
+<p><strong>Help shape the platform:</strong> Report bugs and submit feature requests with Feedback Assistant. File detailed reports with sample code, crash logs, and reproduction steps. Request new APIs or suggest enhancements. Some of the tools you use today started as developer feedback.</p>
+<h3 id="looking-for-more">Looking for more?
+</h3><p>An Apple Developer Program membership unlocks all the resources and support you need to build, test, share, and distribute apps and games.</p>
+<ul>
+<li>**Integrate Apple services:**Configure your app with powerful features like the Foundation Models framework, CloudKit, MusicKit, and Apple Pay.</li>
+<li>**Beta test at scale:**Use TestFlight to distribute beta builds to up to 10,000 external testers before your public release.</li>
+<li>**Unlock exclusive opportunities:**Access more in-person Meet with Apple events and WWDC activities, including one-on-one appointments with Apple experts.</li>
+<li>**Distribute worldwide:**Publish your apps and games on the App Store and grow your business. Easily share with people in 175 countries and regions and 50 languages.</li>
+<li>**Offer content and services for purchase:**Help make purchases effortless in your app or game using Apple In-App Purchase, with secure authentication, and over 200 payment methods supported globally.</li>
+</ul>
+<h3 id="keep-in-mind">Keep in mind:
+</h3><p>As always, you can explore Apple Developer videos, documentation, tutorials, sample code, API references, and the Human Interface Guidelines without an Apple Developer account.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

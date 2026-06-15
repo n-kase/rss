@@ -1,0 +1,107 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>キッチン on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3/</link>
+    <description>Recent content in キッチン on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:20:27 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding in the kitchen: How Devin Davies whipped up the tasty recipe app Crouton</title>
+      <link>https://n-kase.github.io/rss/posts/post-533/</link>
+      <pubDate>Mon, 15 Jun 2026 19:20:27 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-533/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Devin Daviesは自分の料理の悩みを解決するためにSwiftでレシピ管理アプリCroutonを開発し、2024年のApple Design AwardのInteraction部門を受賞した。このアプリは様々なソースからレシピを取り込み、MLを使って材料を分類し、調理ステップをシンプルに表示することでキッチンでの作業効率を向上させている。その結果、ユーザーはアプリ間を行き来する手間が減り、料理に集中しやすくなり、開発者自身の経験が他の初心者にもプログラミングの入り口として示唆を与えている。したがって、自分が本当に必要とするツールを自分で作ることが、技術習得と実用的価値の両方を高める最良のアプローチであるという教訓が得られる。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="coding-in-the-kitchen-how-devin-davies-whipped-up-the-tasty-recipe-app-crouton">Coding in the kitchen: How Devin Davies whipped up the tasty recipe app Crouton
+</h2><p>November 4, 2024</p>
+<p><img alt="An illustration of a kitchen with teal walls and white cabinets. Two Apple Vision Pro screens float above a stove, on which sits a pot and pan." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f68c91097aa8468a5465305fe6c4cc31.jpeg"></p>
+<p>Let’s get this out of the way: Yes, Devin Davies is an excellent cook. “I’m not, like, a professional or anything,” he says, in the way that people say they’re not good at something when they are.</p>
+<p>But in addition to knowing his way around the kitchen, Davies is also a seasoned developer whose app <em>Crouton</em>, a Swift-built cooking aid, won him the 2024 Apple Design Award for Interaction.</p>
+<p><em>Crouton</em> is part recipe manager, part exceptionally organized kitchen assistant. For starters, the app collects recipes from wherever people find them — blogs, family cookbooks, scribbled scraps from the ’90s, wherever — and uses tasty ML models to import and organize them. “If you find something online, just hit the Share button to pull it into <em>Crouton</em>,” says the New Zealand-based developer. “If you find a recipe in an old book, just snap a picture to save it.”</p>
+<p>And when it’s time to start cooking, <em>Crouton</em> reduces everything to the basics by displaying only the current step, ingredients, and measurements (including conversions). There’s no swiping around between apps to figure out how many <em>fl oz</em> are in a cup; no setting a timer in a different app. It’s all handled right in <em>Crouton</em>. “The key for me is: How quickly can I get you back to preparing the meal, rather than reading?” Davies says.</p>
+<p>ADA FACT SHEET</p>
+<p><img alt="A Crouton screenshot that shows a recipe for butter chicken, with a photo of the dish above a list of ingredients." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/8b015c4563a9a98c9b7c3a5e15611c5d.jpeg"></p>
+<h3 id="crouton">Crouton
+</h3><ul>
+<li>**Winner:**Interaction</li>
+<li>**Available on:**iPhone, iPad, Mac, Apple Vision Pro, Apple Watch</li>
+<li>**Team size:**1</li>
+</ul>
+<p><a class="link" href="https://apps.apple.com/us/app/crouton-recipe-manager/id1461650987"  target="_blank" rel="noopener"
+    >Download Crouton from the App Store</a></p>
+<p><em>Crouton</em> is the classic case of a developer whipping up something he needed. As the de facto chef in the house, Davies had previously done his meal planning in the Notes app, which worked until, as he laughs, “it got a little out of hand.”</p>
+<p>At the time, Davies was in his salad days as an iOS developer, so he figured he could build something that would save him a little time. (It’s in his blood: Davies’s father is a developer too.) &ldquo;Programming was never my strong suit,” he says, “but once I started building something that solved a problem, I started thinking of programming as a means to an end, and that helped.”</p>
+<p>Davies’s full-time job was his meal ticket, but he started teaching himself Swift on the side. Swift, he says, clicked a lot faster than the other languages he’d tried, especially as someone who was still developing a taste for programming. “It still took me a while to get my head into it,” he says, “but I found pretty early on that Swift worked the way I wanted a language to work. You can point <em>Crouton</em> at some text, import that text, and do something with it. The amount of steps you don’t have to think about is astounding.”</p>
+<p>I found pretty early on that Swift worked the way I wanted a language to work.</p>
+<p>Devin Davies,</p>
+<p>Crouton</p>
+<p>Coding with Swift offered plenty of baked-in benefits. Davies leaned on platform conventions to make navigating <em>Crouton</em> familiar and easy. Lists and collection views took advantage of Camera APIs. VisionKit powered text recognition; a separate model organized imported ingredients by category.</p>
+<p>“I could separate out a roughly chopped onion from a regular onion and then add the quantity using a Core ML model,” he says. “It’s amazing how someone like me can build a model to detect ingredients when I really have zero understanding of how it works.”</p>
+<p><img alt="An Apple Vision Pro screenshot of Crouton, showing a window containing a chocolate chip cookie recipe floating over a gray marble kitchen counter." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/22534b4d14cc1e3a04eb6e5d282ee4d4.jpeg"></p>
+<p>Davies designed <em>Crouton</em> with simplicity in mind at all times. “I spent a lot of time figuring out what to leave out rather than bring in,” he says.</p>
+<p>The app came together quickly: The first version was done in about six months, but <em>Crouton</em> simmered for a while before finding its audience. “My mom and I were the main active users for maybe a year,” Davies laughs. “But it’s really important to build something that you use yourself — especially when you’re an indie — so there’s motivation to carry on.”</p>
+<p>Davies served up <em>Crouton</em> updates for a few years, and eventually the app gained more traction, culminating with its Apple Design Award for Interaction at WWDC24. That’s an appropriate category, Davies says, because he believes his approach to interaction is his app’s special sauce. “My skillset is figuring out how the pieces of an app fit together, and how you move through them from point A to B to C,” he says. “I spent a lot of time figuring out what to leave out rather than bring in.”</p>
+<p><img alt="A Crouton screenshot that shows a grid of recipes, including burritos, butter chicken, and chocolate chip cookies. Each module includes a photo of the dish." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6a82ed0b272b21a32d20c59ac8fd4e9f.jpeg"></p>
+<p><em>Crouton</em> recipes can be imported from blogs, cookbook, scraps of paper, or anywhere else they might be found.</p>
+<p>Davies hopes to use the coming months to explore spicing up <em>Crouton</em> with Apple Intelligence, Live Activities on Apple Watch, and translation APIs. (Though <em>Crouton</em> is his primary app, he’s also built an Apple Vision Pro app called <em>Plate Smash</em>, which is presumably very useful for cooking stress relief.)</p>
+<p>But it’s important to him that any new features or upgrades pair nicely with the current <em>Crouton</em>. “I’m a big believer in starting out with core intentions and holding true to them,” he says. “I don’t think that the interface, over time, has to be completely different.”</p>
+<p>My skillset is figuring out how the pieces of an app fit together, and how you move through them from point A to B to C.</p>
+<p>Devin Davies,</p>
+<p>Crouton</p>
+<p>Because it’s a kitchen assistant, <em>Crouton</em> is a very personal app. It’s in someone’s kitchen at mealtime, it’s helping people prepare means for their loved ones, it’s enabling them to expand their culinary reach. It makes a direct impact on a person’s day. That’s a lot of influence to have as an app developer — even when a recipe doesn’t quite pan out.</p>
+<p>“Sometimes I’ll hear from people who discover a bug, or even a kind of misunderstanding, but they’re always very kind about it,” laughs Davies. “They’ll tell me, ‘Oh, I was baking a cake for my daughter’s birthday, and I put in way too much cream cheese and I ruined it. But, great app!’”</p>
+<p><a class="link" href="https://developer.apple.com/design/awards/"  target="_blank" rel="noopener"
+    >Meet the 2024 Apple Design Award winners</a></p>
+<p><em>Behind the Design is a series that explores design practices and philosophies from finalists and winners of the Apple Design Awards. In each story, we go behind the screens with the developers and designers of these award-winning apps and games to discover how they brought their remarkable creations to life.</em></p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="coding-in-the-kitchen-how-devin-davies-whipped-up-the-tasty-recipe-app-crouton-1">Coding in the kitchen: How Devin Davies whipped up the tasty recipe app Crouton
+</h2><p>November 4, 2024</p>
+<p><img alt="An illustration of a kitchen with teal walls and white cabinets. Two Apple Vision Pro screens float above a stove, on which sits a pot and pan." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f68c91097aa8468a5465305fe6c4cc31.jpeg"></p>
+<p>Let’s get this out of the way: Yes, Devin Davies is an excellent cook. “I’m not, like, a professional or anything,” he says, in the way that people say they’re not good at something when they are.</p>
+<p>But in addition to knowing his way around the kitchen, Davies is also a seasoned developer whose app <em>Crouton</em>, a Swift-built cooking aid, won him the 2024 Apple Design Award for Interaction.</p>
+<p><em>Crouton</em> is part recipe manager, part exceptionally organized kitchen assistant. For starters, the app collects recipes from wherever people find them — blogs, family cookbooks, scribbled scraps from the ’90s, wherever — and uses tasty ML models to import and organize them. “If you find something online, just hit the Share button to pull it into <em>Crouton</em>,” says the New Zealand-based developer. “If you find a recipe in an old book, just snap a picture to save it.”</p>
+<p>And when it’s time to start cooking, <em>Crouton</em> reduces everything to the basics by displaying only the current step, ingredients, and measurements (including conversions). There’s no swiping around between apps to figure out how many <em>fl oz</em> are in a cup; no setting a timer in a different app. It’s all handled right in <em>Crouton</em>. “The key for me is: How quickly can I get you back to preparing the meal, rather than reading?” Davies says.</p>
+<p>ADA FACT SHEET</p>
+<p><img alt="A Crouton screenshot that shows a recipe for butter chicken, with a photo of the dish above a list of ingredients." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/8b015c4563a9a98c9b7c3a5e15611c5d.jpeg"></p>
+<h3 id="crouton-1">Crouton
+</h3><ul>
+<li>**Winner:**Interaction</li>
+<li>**Available on:**iPhone, iPad, Mac, Apple Vision Pro, Apple Watch</li>
+<li>**Team size:**1</li>
+</ul>
+<p><a class="link" href="https://apps.apple.com/us/app/crouton-recipe-manager/id1461650987"  target="_blank" rel="noopener"
+    >Download Crouton from the App Store</a></p>
+<p><em>Crouton</em> is the classic case of a developer whipping up something he needed. As the de facto chef in the house, Davies had previously done his meal planning in the Notes app, which worked until, as he laughs, “it got a little out of hand.”</p>
+<p>At the time, Davies was in his salad days as an iOS developer, so he figured he could build something that would save him a little time. (It’s in his blood: Davies’s father is a developer too.) &ldquo;Programming was never my strong suit,” he says, “but once I started building something that solved a problem, I started thinking of programming as a means to an end, and that helped.”</p>
+<p>Davies’s full-time job was his meal ticket, but he started teaching himself Swift on the side. Swift, he says, clicked a lot faster than the other languages he’d tried, especially as someone who was still developing a taste for programming. “It still took me a while to get my head into it,” he says, “but I found pretty early on that Swift worked the way I wanted a language to work. You can point <em>Crouton</em> at some text, import that text, and do something with it. The amount of steps you don’t have to think about is astounding.”</p>
+<p>I found pretty early on that Swift worked the way I wanted a language to work.</p>
+<p>Devin Davies,</p>
+<p>Crouton</p>
+<p>Coding with Swift offered plenty of baked-in benefits. Davies leaned on platform conventions to make navigating <em>Crouton</em> familiar and easy. Lists and collection views took advantage of Camera APIs. VisionKit powered text recognition; a separate model organized imported ingredients by category.</p>
+<p>“I could separate out a roughly chopped onion from a regular onion and then add the quantity using a Core ML model,” he says. “It’s amazing how someone like me can build a model to detect ingredients when I really have zero understanding of how it works.”</p>
+<p><img alt="An Apple Vision Pro screenshot of Crouton, showing a window containing a chocolate chip cookie recipe floating over a gray marble kitchen counter." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/22534b4d14cc1e3a04eb6e5d282ee4d4.jpeg"></p>
+<p>Davies designed <em>Crouton</em> with simplicity in mind at all times. “I spent a lot of time figuring out what to leave out rather than bring in,” he says.</p>
+<p>The app came together quickly: The first version was done in about six months, but <em>Crouton</em> simmered for a while before finding its audience. “My mom and I were the main active users for maybe a year,” Davies laughs. “But it’s really important to build something that you use yourself — especially when you’re an indie — so there’s motivation to carry on.”</p>
+<p>Davies served up <em>Crouton</em> updates for a few years, and eventually the app gained more traction, culminating with its Apple Design Award for Interaction at WWDC24. That’s an appropriate category, Davies says, because he believes his approach to interaction is his app’s special sauce. “My skillset is figuring out how the pieces of an app fit together, and how you move through them from point A to B to C,” he says. “I spent a lot of time figuring out what to leave out rather than bring in.”</p>
+<p><img alt="A Crouton screenshot that shows a grid of recipes, including burritos, butter chicken, and chocolate chip cookies. Each module includes a photo of the dish." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6a82ed0b272b21a32d20c59ac8fd4e9f.jpeg"></p>
+<p><em>Crouton</em> recipes can be imported from blogs, cookbook, scraps of paper, or anywhere else they might be found.</p>
+<p>Davies hopes to use the coming months to explore spicing up <em>Crouton</em> with Apple Intelligence, Live Activities on Apple Watch, and translation APIs. (Though <em>Crouton</em> is his primary app, he’s also built an Apple Vision Pro app called <em>Plate Smash</em>, which is presumably very useful for cooking stress relief.)</p>
+<p>But it’s important to him that any new features or upgrades pair nicely with the current <em>Crouton</em>. “I’m a big believer in starting out with core intentions and holding true to them,” he says. “I don’t think that the interface, over time, has to be completely different.”</p>
+<p>My skillset is figuring out how the pieces of an app fit together, and how you move through them from point A to B to C.</p>
+<p>Devin Davies,</p>
+<p>Crouton</p>
+<p>Because it’s a kitchen assistant, <em>Crouton</em> is a very personal app. It’s in someone’s kitchen at mealtime, it’s helping people prepare means for their loved ones, it’s enabling them to expand their culinary reach. It makes a direct impact on a person’s day. That’s a lot of influence to have as an app developer — even when a recipe doesn’t quite pan out.</p>
+<p>“Sometimes I’ll hear from people who discover a bug, or even a kind of misunderstanding, but they’re always very kind about it,” laughs Davies. “They’ll tell me, ‘Oh, I was baking a cake for my daughter’s birthday, and I put in way too much cream cheese and I ruined it. But, great app!’”</p>
+<p><a class="link" href="https://developer.apple.com/design/awards/"  target="_blank" rel="noopener"
+    >Meet the 2024 Apple Design Award winners</a></p>
+<p><em>Behind the Design is a series that explores design practices and philosophies from finalists and winners of the Apple Design Awards. In each story, we go behind the screens with the developers and designers of these award-winning apps and games to discover how they brought their remarkable creations to life.</em></p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

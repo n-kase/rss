@@ -1,0 +1,51 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>眼球運動 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E7%9C%BC%E7%90%83%E9%81%8B%E5%8B%95/</link>
+    <description>Recent content in 眼球運動 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 15:39:44 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E7%9C%BC%E7%90%83%E9%81%8B%E5%8B%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人間の睡眠はレム睡眠とノンレム睡眠の2種類だが魚は4種類もあることが判明</title>
+      <link>https://n-kase.github.io/rss/posts/post-75/</link>
+      <pubDate>Mon, 15 Jun 2026 15:39:44 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-75/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>ゼブラフィッシュの研究で、これまで哺乳類に見られるレム睡眠とノンレム睡眠の2段階に加えて、眼球運動を伴う3種類の睡眠状態を含む合計4種類の睡眠段階が存在することが明らかになった。</p>
+<p>特に昼間に頻繁に現れる「QEM-1」と呼ばれる状態は脳活動が大きく低下し、捕食者に対して無防備になるため驚きの発見とされている。</p>
+<p>この結果は、魚類の睡眠メカニズムが哺乳類よりも複雑であることを示し、睡眠の機能や進化について新たな研究の必要性を示唆している。</p>
+<p>したがって、透明な幼生を持つゼブラフィッシュをモデルとして利用することで、睡眠の神経基盤や生態的意義を解明する手がかりが得られ、今後の睡眠科学の発展に寄与するだろう。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<h1 id="人間の睡眠はレム睡眠とノンレム睡眠の2種類だが魚は4種類もあることが判明">人間の睡眠はレム睡眠とノンレム睡眠の2種類だが魚は4種類もあることが判明
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/30244775854aedd7a250768baca59113.jpg"></p>
+<p>人間をはじめとする哺乳類は、睡眠時に「レム睡眠」と「ノンレム睡眠」の2種類の睡眠段階を繰り返します。魚類にも睡眠の段階はあるのかどうかを調べた研究で、「ゼブラフィッシュ」という魚に4つの睡眠段階が存在することが分かりました。</p>
+<p><strong>Eye movement kinematics reveal novel circadian organization of sleep substates | Nature Communications</strong></p>
+<p><a class="link" href="https://www.nature.com/articles/s41467-026-72222-0"  target="_blank" rel="noopener"
+    >https://www.nature.com/articles/s41467-026-72222-0</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c3a20c485a42fe22d53f95b9e52f6e60.png"></p>
+<p><strong>Fish reveal four distinct sleep states, including three with eye movements</strong></p>
+<p><a class="link" href="https://medicalxpress.com/news/2026-05-fish-reveal-distinct-states-eye.html"  target="_blank" rel="noopener"
+    >https://medicalxpress.com/news/2026-05-fish-reveal-distinct-states-eye.html</a></p>
+<p>レム睡眠は「rapid eye movement sleep」のことを言い、その言葉通り睡眠中に目が高速に動く状態を指します。</p>
+<p>これまでの研究では魚が動かなくなっている間に眼球運動が見られることが報告されていましたが、自然な睡眠中に眼球が動くのかどうかを調べた研究はなかったそうです。ドイツにあるマックス・プランク生物サイバネティクス研究所の研究者らは今回、魚類において初めて複雑な睡眠運動を発見しました。</p>
+<p>研究者らが対象としたのはゼブラフィッシュです。ゼブラフィッシュの幼生は頭部が透明であるため、特殊な顕微鏡で脳活動を簡単に記録することができました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5c71c0ba7f8e2c9c025e23438989ef61.jpg"></p>
+<p>研究者らは脳活動の記録と行動観察を組み合わせ、ゼブラフィッシュの行動がそれぞれの個体の概日リズムに従っていることを突き止めます。ゼブラフィッシュはしばらく活動した後、ほとんどの真骨魚類と同様に数分間続く不活動状態に入り、その間は刺激に対する反応性が低下していました。</p>
+<p>この不活動状態はいくつかの状態に分けられるそうです。1つは目立った眼球運動を伴わない状態で、主に夜間に発生しました。残りは眼球運動を伴う状態で、これが3種類観測されています。1つは夜間にピークを迎え、別の1つは朝に向かうにつれて増加しました。</p>
+<p>最も注目すべきことに、眼球運動を伴う不活動状態の中で最も頻繁に見られる「QEM-1」という状態は、ほぼ日中にのみ発生していたとのこと。QEM-1中の魚は非常に目覚めにくく、捕食者に対して無防備な状態になるため「驚くべきことだ」と研究者らは指摘しています。</p>
+<p>QEM-1中の睡眠段階では脳全体の活動が大幅に低下していたため、QEM-1は「昼寝に似た睡眠状態」であることが確認されました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b52f60691a1b9b724c8a566ab5dc2cb7.jpg"></p>
+<p>by <a class="link" href="https://en.wikipedia.org/wiki/User:Azul"  target="_blank" rel="noopener"
+    >Azul</a></p>
+<p>睡眠段階が4種類もあることが分かった反面、それぞれの段階がどのような役割を果たしているのかという新たな疑問が生まれました。研究者らは「それぞれの睡眠段階がどのような役割を果たしているのかに大きな関心を持っています。睡眠は、記憶の再活性化から老廃物の除去まで、多くのプロセスにとって重要ですが、なぜそれが必要なのか、またどのように時間的に組織化されているのかについては、まだ完全には理解できていません。透明な脳を持つゼブラフィッシュは、それを解明するための強力な手段を提供してくれるはずです」と述べました。</p>
+<p>研究者らは今後、夜間睡眠中の神経活動をさらに詳しく調べ、異なる睡眠状態の仕組みと機能の理解を深めようとしています。</p>
+</details>]]></description>
+    </item>
+    
+  </channel>
+</rss>

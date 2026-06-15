@@ -1,0 +1,46 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教育批判的思考 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E6%95%99%E8%82%B2%E6%89%B9%E5%88%A4%E7%9A%84%E6%80%9D%E8%80%83/</link>
+    <description>Recent content in 教育批判的思考 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 15:47:36 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E6%95%99%E8%82%B2%E6%89%B9%E5%88%A4%E7%9A%84%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT vs. Google検索──どっちで調べるのが学習効果が高い？　8日間の実験で検証した研究</title>
+      <link>https://n-kase.github.io/rss/posts/post-104/</link>
+      <pubDate>Mon, 15 Jun 2026 15:47:36 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-104/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2019年から続く「Innovative Tech」連載で紹介されたジョージア工科大学などの研究チームによる論文では、栄養と食事の計画をテーマに、ChatGPTを使うグループと従来のGoogle検索を使うグループを8日間比較し、学習効果を測定した。</p>
+<p>その結果、ChatGPTグループは知識の応用や複数情報の比較評価において低い傾向が見られ、これはAIが完成された答えを優先し、原理や過程を飛ばしやすいこと、そして対話形式がユーザーの視野を狭めて情報の精査や別視点の探求を減らすためだと指摘されている。</p>
+<p>さらに、答えを得やすい反面、望む詳細度や形式に合わせるために質問の調整が必要となり、参加者はフラストレーションを感じていた。</p>
+<p>これらの点から、AIチャットボットは便利なツールだが、深い理解や批判的思考を育むためには、情報の裏付けや複数の情報源を自分で確認する習慣を保ち、AIはあくまで補助として使うべきだという教訓が得られる。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「<a class="link" href="https://shiropen.com/"  target="_blank" rel="noopener"
+    >Seamless</a>」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・<a class="link" href="https://shiropen.com/one/"  target="_blank" rel="noopener"
+    >おね</a>氏が手掛けている。X：<a class="link" href="https://x.com/shiropen2"  target="_blank" rel="noopener"
+    >＠shiropen2</a></p>
+<p>米ジョージア工科大学やミシガン大学などに所属する研究者らが発表した論文「<a class="link" href="https://arxiv.org/abs/2606.11669"  target="_blank" rel="noopener"
+    >Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning</a>」は、AIチャットbotと検索エンジンではどちらが学習効果が高いかを検証した研究報告だ。</p>
+<p>生成AIの普及により、調べ物のやり方は、検索エンジンを使ったキーワード検索からチャットbotへの質問へと移行しつつある。この変化が学習にどのような影響を与えるのかを調べるため、研究チームが「栄養と食事の計画」をテーマにした比較実験を行った。</p>
+<p>参加者80人（最終35人）をChatGPTを使うグループと、従来のGoogle検索を使うグループに分けて8日間の学習を行わせた。なおGoogle検索はAIによる要約を無効化させて行った。</p>
+<p>その結果、ChatGPTを使ったグループの方がGoogle検索を使うグループよりも学習効果が低い傾向が示された。特に、学んだ知識を応用したり、複数の情報を比較評価したりする力に差が表れた。</p>
+<p>ChatGPTを使ったグループの学習効果が低かった背景には、生成AIならではの情報の偏りと、ユーザーの行動変化という2つの要因が関係している可能性を指摘している。</p>
+<p>第1に、ChatGPTは基礎的な仕組みよりも完成された成果物を優先して出力する傾向がある。例えば、バランスの良い食事とは何かと調べた際、Google検索では栄養素の適切な割合やその根拠を解説する記事にたどり着きやすい。</p>
+<p>一方、ChatGPTはいきなり具体的な献立案や買い物リストを提示してしまいがちだった。手軽に解決策が得られる半面、なぜそうなるのかという原理原則を学ぶステップが飛ばされてしまう。</p>
+<p>第2に、対話型の画面はユーザーの視野を狭め、情報を精査する行動を減らしてしまう。ChatGPTを使うと、ユーザーは自分に合った食事は？といった狭く個人的な質問から調べ物を始めがちになる。</p>
+<p>また、AIがきれいに要約された一つの答えを返してくれるため、自ら様々なWebサイトを見比べて情報の信頼性を確認したり、別の視点を探ったりする手間をかけなくなる。その結果、与えられた情報をそのまま受け入れるだけの受け身の学習に陥りやすくなる。</p>
+<p>皮肉なことに、AIに検索を任せて楽になるはずが、ChatGPTを使った参加者は学習の過程でかえってフラストレーションを感じていた。自分が望む詳細度や形式で情報を引き出すために何度も質問の仕方を工夫しなければならず、自分のペースで情報をより分けながら学習を進められないことにフラストレーションを抱えていた。</p>
+<p>Copyright © ITmedia, Inc. All Rights Reserved.</p>
+<p>Special</p>
+<p>PRメールマガジンのお知らせ</p>
+</details>]]></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,498 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>デベロッパー on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC/</link>
+    <description>Recent content in デベロッパー on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:20:55 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: November 2024</title>
+      <link>https://n-kase.github.io/rss/posts/post-534/</link>
+      <pubDate>Mon, 15 Jun 2026 19:20:55 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-534/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2024年11月の開発者向けニュースレターで、Swiftの学習パスウェイ「Swift Pathway」の紹介、世界各地で行われる新しい開発者イベント、そしてレシピアプリ「Crouton」の開発者へのインタビューを特集した。これにより、Appleは開発者への教育支援とコミュニティ活動を強化し、Swiftの普及や新しいアプリアイデアの創出を促そうとしている。したがって、開発者は最新の学習リソースやイベントに積極的に参加し、Swiftを活用したアプリ開発を検討すべきだ。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-november-2024">Hello Developer: November 2024
+</h2><p>November 4, 2024</p>
+<p><img alt="The Swift logo on an orange, dot-matrix background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/345b0b86c33bca867ffed08e2cf6e036.jpeg"></p>
+<p>In this edition: The Swift Pathway, new developer activities around the world, and an interview with the creator of recipe app <em>Crouton</em>.</p>
+<p>November 4, 2024</p>
+<p>In this edition: The Swift Pathway, new developer activities around the world, and an interview with the creator of recipe app <em>Crouton</em>.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-november-2024-1">Hello Developer: November 2024
+</h2><p>November 4, 2024</p>
+<p><img alt="The Swift logo on an orange, dot-matrix background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/345b0b86c33bca867ffed08e2cf6e036.jpeg"></p>
+<p>In this edition: The Swift Pathway, new developer activities around the world, and an interview with the creator of recipe app <em>Crouton</em>.</p>
+<p>November 4, 2024</p>
+<p>In this edition: The Swift Pathway, new developer activities around the world, and an interview with the creator of recipe app <em>Crouton</em>.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Introducing the Advanced Commerce API</title>
+      <link>https://n-kase.github.io/rss/posts/post-518/</link>
+      <pubDate>Mon, 15 Jun 2026 19:09:40 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-518/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年1月23日に、開発者が非常に大きなコンテンツカタログやクリエイター体験、オプションのアドオンを含むサブスクリプションなどの進化するビジネスモデルをサポートし、アプリ内課金をより柔軟に管理できるようにするAdvanced Commerce APIを発表した。このAPIは、エンドツーエンドの支払い処理、税務サポート、カスタマーサービスなど、信頼できるApp Storeのコマースシステムを活用できるため、開発者はアプリ体験の向上に専念できるようになる。その結果、ビジネスの成長や顧客満足度の向上が期待され、多様なサービスが生まれやすくなる環境が整う。したがって、開発者はこのAPIを積極的に申請・活用し、信頼できるインフラストラクチャを基盤にイノベーティブなサービスを提供すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Introducing the Advanced\u00a0Commerce\u00a0API" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c04297658a0756cbd751f514dfddc779.png"></p>
+<h2 id="advanced-commerce-api-の紹介">Advanced Commerce API の紹介
+</h2><p>2025年1月23日</p>
+<p>App Store は年間数十億件の取引を仲介し、開発者がビジネスを成長させ、世界クラスの顧客体験を提供できるよう支援しています。開発者の進化するビジネスモデル——たとえば非常に大きなコンテンツカタログ、クリエイター体験、オプションのアドオンを含むサブスクリプション——をさらにサポートするため、Advanced Commerce API を導入します。</p>
+<p>開発者は Advanced Commerce API を利用するために申請でき、該当する App Store のビジネスモデルをサポートし、アプリ内での In-App Purchases をより柔軟に管理できます。これらの購入は、エンドツーエンドの支払い処理、税務サポート、カスタマーサービスなど、信頼できる App Store コマースシステムの力を活用するため、開発者は優れたアプリ体験の提供に集中できます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Introducing the Advanced\u00a0Commerce\u00a0API" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c04297658a0756cbd751f514dfddc779.png"></p>
+<h2 id="introducing-the-advanced-commerce-api">Introducing the Advanced Commerce API
+</h2><p>January 23, 2025</p>
+<p>The App Store facilitates billions of transactions annually to help developers grow their businesses and provide a world-class customer experience. To further support developers’ evolving business models — such as exceptionally large content catalogs, creator experiences, and subscriptions with optional add-ons — we’re introducing the Advanced Commerce API.</p>
+<p>Developers can apply to use the Advanced Commerce API to support eligible App Store business models and more flexibly manage their In-App Purchases within their app. These purchases leverage the power of the trusted App Store commerce system, including end-to-end payment processing, tax support, customer service, and more, so developers can focus on providing great app experiences.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Apple Developer is now on WeChat</title>
+      <link>https://n-kase.github.io/rss/posts/post-508/</link>
+      <pubDate>Mon, 15 Jun 2026 19:01:27 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-508/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Apple Developerが2025年2月24日に公式WeChatアカウントを開設し、そこでニュースや告知、今後のイベント情報を提供し始めたことが明らかになった。これにより、中国の開発者コミュニティへの直接的な情報発信が強化され、現地のプラットフォームを活用したエンゲージメントが高まることが予想され、他のテクノロジー企業も同様に地域特化したSNS戦略を取るきっかけになる可能性がある。したがって、開発者はこのWeChatアカウントをフォローして最新情報を入手し、企業は地域に根ざしたコミュニケーション手段を積極的に活用すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="apple-developer-is-now-on-wechat">Apple Developer is now on WeChat
+</h2><p>February 24, 2025</p>
+<p>Check out the official Apple Developer WeChat account to find news, announcements, and upcoming activities for the developer community.</p>
+<p>February 24, 2025</p>
+<p>Check out the official Apple Developer WeChat account to find news, announcements, and upcoming activities for the developer community.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="apple-developer-is-now-on-wechat-1">Apple Developer is now on WeChat
+</h2><p>February 24, 2025</p>
+<p>Check out the official Apple Developer WeChat account to find news, announcements, and upcoming activities for the developer community.</p>
+<p>February 24, 2025</p>
+<p>Check out the official Apple Developer WeChat account to find news, announcements, and upcoming activities for the developer community.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>WWDC25: June 9-13, 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-505/</link>
+      <pubDate>Mon, 15 Jun 2026 18:59:11 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-505/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年6月9日から13日にかけて、WWDC25をオンラインで開催すると発表し、世界中の開発者が無料で最新のツールやフレームワーク、機能を学び、エンジニアやデザイナーによるビデオセッションやラボを通じてアプリやゲームを向上させ、開発者コミュニティとつながる機会を提供すると明らかにした。このイベントは開発者の関心を高め、Appleエコシステムへのアプリ投入やイノベーションを促進し、ネット上では新しい技術トレンドへの期待や参加意欲が高まることが予想される。そのため、開発者はこの機会を逃さずに参加し、最新情報を取得して自分の製品を進化させるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="wwdc25-june-9-13-2025">WWDC25: June 9-13, 2025
+</h2><p>March 25, 2025</p>
+<p><img alt="The official WWDC25 logo against a white background. The letters WWDC appear in a rainbow of colors, while the 25 appears in white with a shadow." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0d14dd9922608aa276624730af47e94a.jpeg"></p>
+<p>Join the worldwide developer community online for a week of technology and creativity.</p>
+<p>Be there for the reveal of the latest Apple tools, frameworks, and features. Learn to elevate your apps and games through video sessions hosted by Apple engineers and designers. Engage with Apple experts in labs and connect with the worldwide developer community. All online and at no cost.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="wwdc25-june-9-13-2025-1">WWDC25: June 9-13, 2025
+</h2><p>March 25, 2025</p>
+<p><img alt="The official WWDC25 logo against a white background. The letters WWDC appear in a rainbow of colors, while the 25 appears in white with a shadow." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0d14dd9922608aa276624730af47e94a.jpeg"></p>
+<p>Join the worldwide developer community online for a week of technology and creativity.</p>
+<p>Be there for the reveal of the latest Apple tools, frameworks, and features. Learn to elevate your apps and games through video sessions hosted by Apple engineers and designers. Engage with Apple experts in labs and connect with the worldwide developer community. All online and at no cost.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: June 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-497/</link>
+      <pubDate>Mon, 15 Jun 2026 18:52:00 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-497/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはWWDC25が間近に迫っていることを告知し、2025年のApple Design Award受賞者およびファイナリストの革新的な作品を紹介することで開発者の関心を高めており、これによりネット上ではイベントへの期待感が高まり、優れたデザイン事例への注目が集まることが予想されるため、開発者は今すぐ準備を進め、受賞作品からインスピレーションを得て自身のアプリ改善に活かすべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-june-2025">Hello Developer: June 2025
+</h2><p>June 3, 2025</p>
+<p><img alt="A collage of app icons of the 2025 Apple Design Award winners and finalists, set in a grid against a black background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/79fefdc6e4411683034a55cb0b242dd0.jpeg"></p>
+<p>WWDC25 is just days away! Here’s everything you need to get ready — and a big announcement to start things off. Say hello to the wildly inventive crop of 2025 Apple Design Award winners and finalists.
+June 3, 2025</p>
+<p>WWDC25 is just days away! Here’s everything you need to get ready — and a big announcement to start things off. Say hello to the wildly inventive crop of 2025 Apple Design Award winners and finalists.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-june-2025-1">Hello Developer: June 2025
+</h2><p>June 3, 2025</p>
+<p><img alt="A collage of app icons of the 2025 Apple Design Award winners and finalists, set in a grid against a black background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/79fefdc6e4411683034a55cb0b242dd0.jpeg"></p>
+<p>WWDC25 is just days away! Here’s everything you need to get ready — and a big announcement to start things off. Say hello to the wildly inventive crop of 2025 Apple Design Award winners and finalists.</p>
+<p>June 3, 2025</p>
+<p>WWDC25 is just days away! Here’s everything you need to get ready — and a big announcement to start things off. Say hello to the wildly inventive crop of 2025 Apple Design Award winners and finalists.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Updated age ratings in App Store Connect</title>
+      <link>https://n-kase.github.io/rss/posts/post-485/</link>
+      <pubDate>Mon, 15 Jun 2026 18:38:15 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-485/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはApp Store Connectの年齢評価システムを更新し、既存の4+と9+に加えて13+、16+、18+の評価を追加し、アプリ内コントロール、機能、医療・ウェルネス、暴力的テーマに関する新しい必須質問を導入しました。これにより、より細かい年齢区分が可能になり、保護者やユーザーが年齢に適したアプリを選びやすくなるとともに、開発者はセンシティブなコンテンツの頻度を考慮して適切な評価を設定する責任が増し、COPPAやGDPRなどの規制への対応も求められます。したがって、開発者は2026年1月31日までに各アプリの新しい質問に回答し、適切な年齢評価を確保することで、アプリ更新の中断を防ぎ、安全で信頼できるエコシステムを維持すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="App Store Connect の年齢評価が更新" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3421ad350dbdb4abc1ef37aeaefd2d7a.png"></p>
+<h2 id="app-store-connect-の年齢評価が更新">App Store Connect の年齢評価が更新
+</h2><p>2025年7月24日</p>
+<p>App Store は、子どもを含むすべての年齢層にとって安全で信頼できる場所となるように設計されています。より細かい年齢評価を提供するため、アプリとゲームの年齢評価システムが更新されました。また、アプリ内のセンシティブなコンテンツを特定するのに役立つ新しい年齢評価の質問を導入し、アプリの最低利用年齢を反映してより高い評価を設定できる機能も追加しました。App Store 上のすべてのアプリとゲームの評価は、この新しいシステムに合わせて自動的に更新され、iOS 26、iPadOS 26、macOS Tahoe 26、tvOS 26、visionOS 26、watchOS 26 のベータ版を実行する Apple デバイスに反映されます。</p>
+<p>更新された年齢評価システムでは、既存の 4+ と 9+ の評価に 13+、16+、18+ が追加されます。年齢評価は各国・地域ごとに割り当てられ、地域ごとの適切性基準によって異なる場合があります。</p>
+<p>すべてのアプリの評価アンケートに新しい必須質問のセットを導入しました。これらの新しい質問は以下をカバーします：</p>
+<ul>
+<li>アプリ内コントロール。</li>
+<li>機能。</li>
+<li>医療またはウェルネスに関するトピック。</li>
+<li>アプリまたはゲーム内の暴力的テーマ。</li>
+</ul>
+<p>これらの質問への回答により、Apple は評価をより正確に算出でき、年齢に適した体験を提供する手助けとなります。</p>
+<p>アプリに、Apple が付与した評価よりも高い最低利用年齢を要求するポリシーがある場合、年齢評価の質問に回答した後、より高い年齢評価を設定できます。更新後のシステムにおいて、各アプリの年齢評価を確認し、<a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> の App Information セクションで各アプリの新しい質問に回答できます。</p>
+<p>リマインダーとして、AI アシスタントやチャットボット機能を含むすべてのアプリ機能が、アプリ内でセンシティブなコンテンツが表示される頻度にどのように影響するかを考慮し、適切な評価を受けるようにしてください。すべてのアプリは、<a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a> （不適切なコンテンツやユーザー生成コンテンツに関する安全ガイドラインなど）の対象となり、子どものオンラインプライバシー保護法（COPPA）や欧州連合の一般データ保護規則（GDPR）など、適用されるすべての地域の法律および規則を遵守しなければなりません。</p>
+<p>2026年1月31日までに、各アプリの更新された年齢評価の質問に回答してください。これにより、App Store Connect でアプリのアップデートを送信する際の中断を避けることができます。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Updated age ratings in App Store Connect" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3421ad350dbdb4abc1ef37aeaefd2d7a.png"></p>
+<h2 id="updated-age-ratings-in-app-store-connect">Updated age ratings in App Store Connect
+</h2><p>July 24, 2025</p>
+<p>The App Store is designed to be a safe and trusted place for all ages, including children. The age rating system for apps and games has been updated in order to provide people with more granular age ratings. We’ve also introduced new age rating questions to help identify sensitive content in your app and added the ability to set a higher rating to reflect your app’s minimum age requirement. Ratings for all apps and games on the App Store have been automatically updated to align with this new system and will be reflected on Apple devices running beta versions of iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26.</p>
+<p>The updated age rating system adds 13+, 16+, and 18+ to the existing 4+ and 9+ ratings. Age ratings are assigned to each country or region and may vary based on region-specific suitability standards.</p>
+<p>We’ve introduced a new set of required questions to the ratings questionnaire for all apps. These new questions cover:</p>
+<ul>
+<li>In-app controls.</li>
+<li>Capabilities.</li>
+<li>Medical or wellness topics.</li>
+<li>Violent themes in your app or game.</li>
+</ul>
+<p>Your answers to these questions will help Apple better calculate a rating and help you deliver an age-appropriate experience.</p>
+<p>If your app has a policy requiring a higher minimum user age than the rating assigned by Apple, you can set a higher age rating after you respond to the age ratings questions. You can view the age rating for each of your apps under the updated system and respond to the new questions for each app in the App Information section in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a>.</p>
+<p>As a reminder, you must consider how all app features, including AI assistants and chatbot functionality, impact the frequency of sensitive content appearing within your app to make sure it receives the appropriate rating. All apps are subject to the <a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a>, such as the safety guidelines regarding objectionable content or user generated content, and must abide by all applicable local laws and regulations, like the Children’s Online Privacy Protection Act (“COPPA”), and the European Union’s General Data Protection Regulation (“GDPR”).</p>
+<p>Please provide responses to the updated age rating questions for each of your apps by January 31, 2026, to avoid an interruption when submitting your app updates in App Store Connect.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: August 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-484/</link>
+      <pubDate>Mon, 15 Jun 2026 18:37:01 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-484/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年8月に世界中で新しいデベロッパーワークショップを開催し、FigmaとSketch向けのUIデザインキットを提供するとともに、イタリアを拠点とするSunlittチームと直接交流できる機会を発表しました。これにより、デベロッパーは最新のAppleデザインシステムを学びやすくなり、アプリの見た目や使いやすさを向上させるきっかけが増えることが予想されます。ネット上でもデザインツールやワークショップへの関心が高まり、開発者コミュニティの活発化が期待されます。したがって、デベロッパーはこの機会を活用してスキルを磨き、Appleのガイドラインに沿った魅力的なアプリを開発すべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p>Hello Developer: 2025年8月</p>
+<p>2025年8月5日</p>
+<p><img alt="暗めの auditorium のステージに立つ女性。彼女の後ろにはスクリーンがあり、新しいAppleデザインシステムのイラストが表示されている。クリアなボタンやスライダーなどが見える。スクリーンの背景はライトグレーで、グリッドが引かれている。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3b2db57e262b84f95ec30ce105dbb98a.jpeg"></p>
+<p>世界中で開催される新しいAppleデベロッパーワークショップに申し込みましょう。それに加えて、FigmaとSketch向けのApple UIデザインキットをダウンロードし、イタリアを拠点とするSunlittチームと交流できます。さらにその他も。</p>
+<p>2025年8月5日</p>
+<p>世界中で開催される新しいAppleデベロッパーワークショップに申し込みましょう。それに加えて、FigmaとSketch向けのApple UIデザインキットをダウンロードし、イタリアを拠点とするSunlittチームと交流できます。さらにその他も。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-august-2025">Hello Developer: August 2025
+</h2><p>August 5, 2025</p>
+<p><img alt="A woman stands on stage in a darkened auditorium in front of an audience. Behind her is a screen showing illustrations of the new Apple design system, including clear buttons and sliders. The screen has a light-gray background with a grid." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3b2db57e262b84f95ec30ce105dbb98a.jpeg"></p>
+<p>Sign up for new Apple developer workshops all over the world. Plus, download Apple UI design kits for Figma and Sketch, meet the Italy-based team behind Sunlitt, and more.</p>
+<p>August 5, 2025</p>
+<p>Sign up for new Apple developer workshops all over the world. Plus, download Apple UI design kits for Figma and Sketch, meet the Italy-based team behind Sunlitt, and more.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: September 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-481/</link>
+      <pubDate>Mon, 15 Jun 2026 18:34:30 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-481/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年9月に「Hello Developer」という新しい開発者向けリソースを公開し、ビデオやダウンロード、ドキュメントを通じて新しいデザインに備えるよう呼びかけている。さらに、機械学習やAIについて深く学べる1対1の個別相談や、wholesome open‑world ゲーム『Hello Kitty Island Adventure』の開発チームと直接交流できる機会も提供している。これにより、開発者のデザインスキル向上やAI活用への関心が高まり、新しいアプリやゲームの質が向上するとともに、コミュニティ内での知識共有が促進されることが期待される。したがって、開発者はこの機会を積極的に利用して最新のデザインとAI技術を習得し、自分の作品をさらに魅力的にするべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-2025年9月">Hello Developer: 2025年9月
+</h2><p>2025年9月2日</p>
+<p><img alt="赤と紫の背景にグリッドが映し出された背景の上に、泡のような形が浮かんでいる。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2309a77d94ba020509da7e429523e196.jpeg"></p>
+<p>新しいデザインに備えましょう。長年のプロでも趣味の開発者でも、ビデオやダウンロード、ドキュメントを探索してインスピレーションを得、自分のアプリやゲームを最高の状態にしましょう。</p>
+<p>それに加えて、機械学習とAIに深く入れる1対1の予約に申し込み、 wholesome open‑world ゲーム『Hello Kitty Island Adventure』の開発チームと直接会いましょう。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-september-2025">Hello Developer: September 2025
+</h2><p>September 2, 2025</p>
+<p><img alt="A bubble-like shape floats over a background that shows a grid against a red and purple background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2309a77d94ba020509da7e429523e196.jpeg"></p>
+<p>Be ready for the new design. Whether you’re a longtime pro or a hobbyist, get inspired and make your apps and games look their best by exploring videos, downloads, and docs.</p>
+<p>Plus, sign up for one-on-one appointments to dive into machine learning and AI, and meet the team behind the wholesome open-world game <em>Hello Kitty Island Adventure</em>.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Updated Apple Developer Program License Agreement now available</title>
+      <link>https://n-kase.github.io/rss/posts/post-475/</link>
+      <pubDate>Mon, 15 Jun 2026 18:30:19 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-475/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2025年10月8日にDeveloper Programライセンス契約を改訂し、インタプリタコードや位置情報プッシュサービス拡張、Xcode Cloud・CloudKitのEUデータ法関連条項、Tap to Pay APIの配布エンティティ、プロモコードおよびオファーコードの定義などを更新した。これにより開発者は新たな規制要件への対応が求められ、特にEU内でのデータ取扱いや決済関連サービスの提供において注意が必要になると予想される。したがって、開発者は最新の契約内容を確認し、必要に応じてアプリの実装や配布フローを見直すことが求められる。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="アップデートされたapple-developer-programライセンス契約が利用可能になりました">アップデートされたApple Developer Programライセンス契約が利用可能になりました
+</h2><p>2025年10月8日</p>
+<p>Apple Developer Programライセンス契約は、更新されたポリシーをサポートし、明確化を提供するために改訂されました。以下の変更点を確認し、<a class="link" href="https://developer.apple.com/account"  target="_blank" rel="noopener"
+    >アカウントにサインイン</a>して更新された利用規約に同意してください。</p>
+<ul>
+<li>セクション 3.3.1(B): インタプリタコードに関する要件が更新されました</li>
+<li>定義、セクション 3.3.3(F): Location Push Service Extension の使用に関する要件が明示されました</li>
+<li>セクション 3.3.8(A)、添付ファイル 4: Regulation (EU) 2023/2854 (EU データ法) に関連する Xcode Cloud と CloudKit の利用規約へのリンクが追加されました</li>
+<li>セクション 3.3.9(D): Tap to Pay API を配布するエンティティに関する条項が更新されました</li>
+<li>スケジュール 1、展示 C: プロモコードのセクション 1 の定義が更新されました</li>
+<li>スケジュール 2、セクション 3.13: オファーコードへの参照が更新されました</li>
+<li>スケジュール 2、セクション 3.13(b): オファーコードの利用可能条件が更新されました</li>
+</ul>
+<p>更新された契約の翻訳は、1か月以内に <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer ウェブサイト</a> で利用可能になります。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="updated-apple-developer-program-license-agreement-now-available">Updated Apple Developer Program License Agreement now available
+</h2><p>October 8, 2025</p>
+<p>The Apple Developer Program License Agreement has been revised to support updated policies and to provide clarification. Please review the changes below and <a class="link" href="https://developer.apple.com/account"  target="_blank" rel="noopener"
+    >sign in to your account</a> to accept the updated terms.</p>
+<ul>
+<li>Section 3.3.1(B): Updated requirements related to interpreted code</li>
+<li>Definitions, Section 3.3.3(F): Specified requirements for use of the Location Push Service Extension</li>
+<li>Section 3.3.8(A), Attachment 4: Added links to terms for Xcode Cloud and CloudKit related to Regulation (EU) 2023/2854 (EU Data Act)</li>
+<li>Section 3.3.9(D): Updated terms regarding the entity that distributes the Tap to Pay APIs</li>
+<li>Schedule 1, Exhibit C: Updated Section 1 definition for Promo Codes</li>
+<li>Schedule 2, Section 3.13: Updated references to Offer Codes</li>
+<li>Schedule 2, Section 3.13(b): Updated availability terms for Offer Codes</li>
+</ul>
+<p>Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>New requirement for apps using Sign in with Apple for account creation</title>
+      <link>https://n-kase.github.io/rss/posts/post-474/</link>
+      <pubDate>Mon, 15 Jun 2026 18:29:37 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-474/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2026年1月1日から、韓国に拠点を置く開発者は、Sign in with Appleを使ったウェブサイト連携のためのServices IDの新規登録または更新時に、サーバー間通知エンドポイントを提供しなければならなくなる。この通知により、メール転送設定の変更やアカウント削除、Appleアカウントの永久削除など、ユーザーのアカウント状況の重要な変化をリアルタイムで把握できるようになり、開発者はアプリ内の関連データやサーバーインフラストラクチャを速やかに更新して、個人データの管理とユーザーのコントロールを強化することが求められる。したがって、開発者は今すぐガイドラインを確認し、必要なエンドポイントを実装し、プライバシー保護と法令遵守のための対応を進めるべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Appleでのサインインを使用したアカウント作成のための新しい要件" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7ea03cb4a58f68f88a1498bc8b09f602.png"></p>
+<h2 id="appleでのサインインを使用したアカウント作成のための新しい要件">Appleでのサインインを使用したアカウント作成のための新しい要件
+</h2><p>2025年10月9日</p>
+<p>2026年1月1日から、大韓民国に拠点を置く開発者は、新しいServices IDを登録するか、既存のServices IDを更新して、<a class="link" href="https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple"  target="_blank" rel="noopener"
+    >Sign in with Apple</a>を使ったウェブサイトとアプリの連携を行う際に、<a class="link" href="https://developer.apple.com/help/account/capabilities/enabling-server-to-server-notifications"  target="_blank" rel="noopener"
+    >サーバー間通知エンドポイント</a>を提供しなければならない。</p>
+<p>リマインダーとして、通知エンドポイントを登録すると、Appleからアプリを利用する人々とそのアカウント状況に関する重要な更新情報を受け取ることができるようになります。具体的には以下のような変更が含まれます：</p>
+<ul>
+<li>メール転送設定の変更。</li>
+<li>アプリ内でのアカウント削除。</li>
+<li>Appleアカウントの永久削除。</li>
+</ul>
+<p>サーバー間通知について詳しくは、<a class="link" href="https://developer.apple.com/videos/play/wwdc2020/10173/"  target="_blank" rel="noopener"
+    >WWDC20 セッション 10173: Sign in with Appleを最大限に活用する</a>を参照してください。</p>
+<p>これらの通知を受け取ったら、アカウント変更に関連したアプリ内のデータおよび必要なサーバーインフラストラクチャをすぐに更新し、ユーザーが共有した個人データに対するコントロールを高める必要があります。詳細については、<a class="link" href="https://developer.apple.com/documentation/signinwithapple/processing-changes-for-sign-in-with-apple-accounts"  target="_blank" rel="noopener"
+    >Sign in with Appleアカウントの変更処理</a>を参照してください。</p>
+<p>App Storeに新しいアプリを提出する前に、または既存のアプリ設定を更新して新しいServices IDを登録したり、既存のServices IDを変更する前に、以下のガイドラインを必ずお読みください。</p>
+<h3 id="アカウント変更ガイダンス">アカウント変更ガイダンス
+</h3><p>アカウント変更はユーザーのプライバシーと個人データの管理に直接関係しており、アカウント変更の確認はシンプルかつ透明であるべきです。</p>
+<p><strong>メール転送設定の変更について：</strong></p>
+<ul>
+<li>アカウント変更によって影響を受けるユーザーデータの表示が、通知ペイロードの変更イベントと一致していることを確認してください。通常、このデータはアプリのアカウント設定またはユーザープロフィールに表示されます。</li>
+<li>ユーザーがウェブサイトにアクセスしてメールアドレスの変更または確認を完了する必要がある場合は、そのプロセスを完了できるウェブサイトのページへの直接リンクを含めてください。</li>
+<li>ユーザーに情報を提供してください。メール転送設定の変更が他のサービスに影響する場合は、それを伝えてください。アプリがアプリ内購入をサポートしている場合は、新しいメールアドレスでの請求、注文追跡、キャンセルの処理方法をユーザーに理解してもらってください。</li>
+</ul>
+<p><strong>アカウント削除について：</strong></p>
+<p><strong>注:</strong> ユーザーアカウント情報の保存および保持、およびアカウント変更と削除の処理については、適用される法的要件を必ず遵守してください。これには、アプリが提供されている地域の現地法令への準拠も含まれます。法的義務について不明点がある場合は、法務顧問にご相談ください。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="New requirement for apps using Sign in with Apple for account creation" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7ea03cb4a58f68f88a1498bc8b09f602.png"></p>
+<h2 id="new-requirement-for-apps-using-sign-in-with-apple-for-account-creation">New requirement for apps using Sign in with Apple for account creation
+</h2><p>October 9, 2025</p>
+<p>Starting January 1, 2026, developers based in the Republic of Korea must provide a <a class="link" href="https://developer.apple.com/help/account/capabilities/enabling-server-to-server-notifications"  target="_blank" rel="noopener"
+    >server‑to‑server notification endpoint</a> when registering a new Services ID, or updating an existing Services ID, to <a class="link" href="https://developer.apple.com/help/account/capabilities/configure-sign-in-with-apple-for-the-web"  target="_blank" rel="noopener"
+    >associate their website</a> with an app using <a class="link" href="https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple"  target="_blank" rel="noopener"
+    >Sign in with Apple</a>.</p>
+<p>As a reminder, registering a notification endpoint allows Apple to send you important updates about the people who use your app and their account status, including:</p>
+<ul>
+<li>Changes in email forwarding preferences.</li>
+<li>Account deletions in your app.</li>
+<li>Permanent Apple Account deletions.</li>
+</ul>
+<p>To learn more about server-to-server notifications, see <a class="link" href="https://developer.apple.com/videos/play/wwdc2020/10173/"  target="_blank" rel="noopener"
+    >WWDC20 session 10173: Get the most out of Sign in with Apple</a>.</p>
+<p>When you receive these notifications, you should immediately update any data associated with the account change in the app, as well as any necessary server infrastructure, to give people more control of the personal data they’ve shared. For more information, see <a class="link" href="https://developer.apple.com/documentation/signinwithapple/processing-changes-for-sign-in-with-apple-accounts"  target="_blank" rel="noopener"
+    >Processing changes for Sign in with Apple accounts</a>.</p>
+<p>Before submitting a new app to the App Store, or updating an existing app configuration to register a new Services ID or modify an existing Services ID, please read the guidance below.</p>
+<h3 id="account-change-guidance">Account change guidance
+</h3><p>Account changes are directly related to privacy and control for the user and their personal data, and confirming account changes should be straightforward and transparent.</p>
+<p><strong>For account email forwarding changes:</strong></p>
+<ul>
+<li>Ensure any displayed user data affected by the account change matches the change event in the notification payload. Typically, this data is displayed in the app’s account settings or user profile.</li>
+<li>If people need to visit a website to finish changing or verifying their email address, include a link directly to the page on your website where they can complete the process.</li>
+<li>Keep users informed. If the email forwarding change affects other services you offer, let them know. If your app supports In-App Purchases, help people understand how billing, order tracking, and cancellations will be handled with the new email address.</li>
+</ul>
+<p><strong>For account deletions:</strong></p>
+<p><strong>Note:</strong> Always follow applicable legal requirements for storing and retaining user account information and for handling account changes and deletions. This includes complying with local laws where your apps are available. If you have questions regarding your legal obligations, check with your legal counsel.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Price updates for apps, In-App Purchases, and subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-458/</link>
+      <pubDate>Mon, 15 Jun 2026 18:16:58 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-458/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年1月29日付で、税制や為替変動に応じてアプリおよびアプリ内課金の収益を調整し、ブータンでのGST導入やフィンランド・リトアニアでの軽減税率引き下げ、ガーナのCOVID-19関連課金撤廃、カザフスタン・ロシア・モーリシャス・ジンバブエでのVAT増税、トルコのデジタル販売税率引き下げなど、複数の国・地域で税率変更を反映した卸売価格の改定を発表した。これにより、開発者はベースストアフロントがモーリシャスでない場合、2月16日からアプリやアプリ内課金の価格が自動的に更新され、税負担の変動に応じて世界中のストアフロント間で価格が均等化される見込みであり、開発者は価格管理ツールを活用して柔軟に対応できる。したがって、税制変更に迅速に対応し、価格設定の自動調整機能を理解して適切に利用することが、国際市場での競争力を維持するために重要だ。</p>
+<h2 id="和訳本文">和訳本文
+</h2><p><img alt="Price updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="price-updates-for-apps-in-app-purchases-and-subscriptions">Price updates for apps, In-App Purchases, and subscriptions
+</h2><p>January 29, 2026</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts.</p>
+<p>From time to time, we need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>As of January 29:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in:</p>
+<ul>
+<li>Bhutan: Goods and Services Tax (GST) introduction of 5%</li>
+<li>Finland: Reduced value‑added tax (VAT) rate decrease from 14% to 13.5% for news, magazines, books, and audiobooks</li>
+<li>Ghana: Removal of 2019 COVID-19 Health Recovery Levy</li>
+<li>Kazakhstan: VAT rate increase from 12% to 16%</li>
+<li>Lithuania: Reduced VAT rate decrease from 9% to 5% for news, magazines, books, and audiobooks</li>
+<li>Mauritius: VAT introduction of 15%</li>
+<li>Russia: VAT rate increase from 20% to 22%</li>
+<li>Türkiye: Digital sales tax (DST) rate decrease from 7.5% to 5%</li>
+<li>Zimbabwe: VAT rate increase from 15% to 15.5%</li>
+</ul>
+<p>Exhibit B of the Paid Applications Agreement will be updated to indicate that Apple collects and remits applicable taxes in Bhutan and Mauritius.¹</p>
+<p><strong>Beginning February 16:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for Mauritius if you haven’t selected Mauritius as the base storefront for your app or In‑App Purchase.² This update considers the VAT introduction listed in the tax updates section above.</p>
+<p>If you’ve selected Mauritius as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p>¹ Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms#paid-applications-agreement"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+<p>² Excludes auto-renewable subscriptions.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><p><img alt="Price updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="price-updates-for-apps-in-app-purchases-and-subscriptions-1">Price updates for apps, In-App Purchases, and subscriptions
+</h2><p>January 29, 2026</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts.</p>
+<p>From time to time, we need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>As of January 29:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in:</p>
+<ul>
+<li>Bhutan: Goods and Services Tax (GST) introduction of 5%</li>
+<li>Finland: Reduced value‑added tax (VAT) rate decrease from 14% to 13.5% for news, magazines, books, and audiobooks</li>
+<li>Ghana: Removal of 2019 COVID-19 Health Recovery Levy</li>
+<li>Kazakhstan: VAT rate increase from 12% to 16%</li>
+<li>Lithuania: Reduced VAT rate decrease from 9% to 5% for news, magazines, books, and audiobooks</li>
+<li>Mauritius: VAT introduction of 15%</li>
+<li>Russia: VAT rate increase from 20% to 22%</li>
+<li>Türkiye: Digital sales tax (DST) rate decrease from 7.5% to 5%</li>
+<li>Zimbabwe: VAT rate increase from 15% to 15.5%</li>
+</ul>
+<p>Exhibit B of the Paid Applications Agreement will be updated to indicate that Apple collects and remits applicable taxes in Bhutan and Mauritius.¹</p>
+<p><strong>Beginning February 16:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for Mauritius if you haven’t selected Mauritius as the base storefront for your app or In‑App Purchase.² This update considers the VAT introduction listed in the tax updates section above.</p>
+<p>If you’ve selected Mauritius as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p>¹ Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms#paid-applications-agreement"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+<p>² Excludes auto-renewable subscriptions.</p>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: April 2026</title>
+      <link>https://n-kase.github.io/rss/posts/post-440/</link>
+      <pubDate>Mon, 15 Jun 2026 18:02:08 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-440/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleの開発者向けニュースレター「Hello Developer」2026年4月号では、bilibiliとLinkedInへの参加を呼びかけ、WWDC26前に必見のセッションを復習できるように案内し、サンプルコードを使った旅行アプリの作成方法や新しいデザインギャラリーの閲覧、そしてApp Store ConnectのAnalyticsにおける過去最大のアップデートについて学ぶことを提案しています。これにより、Appleは中国のプラットフォームへの outreach を強化し、開発者のスキルアップと最新ツールへのアクセスを促進する傾向が見られ、特に旅行系アプリやデータ分析分野でのイノベーションが期待されます。したがって、開発者はこれらのリソースを活用して最新の技術動向に追いつき、サンプルコードを基にしたアプリ開発や強化されたアナリティクス機能を取り入れることで競争力を高めるべきです。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-april-2026">Hello Developer: April 2026
+</h2><p>2026年4月7日</p>
+<p><img alt="宇宙背景に浮かぶ「Hello World」の文字と、その下に浮かぶ地球" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f32f3f89a72d68ca4bc58c6ef762d677.jpeg"></p>
+<p>今回の号では：</p>
+<ul>
+<li>bilibiliとLinkedInに参加しましょう。</li>
+<li>WWDC26前に必見のセッションをキャッチアップしましょう。</li>
+<li>サンプルコードを使って旅行アプリを構築しましょう。</li>
+<li>新しいデザインギャラリーの最新号を閲覧しましょう。</li>
+<li>App Store ConnectのAnalyticsにおける過去最大のアップデートについて学びましょう。</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-april-2026-1">Hello Developer: April 2026
+</h2><p>April 7, 2026</p>
+<p><img alt="The words “Hello World” floating against a space background with the Earth floating beneath." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f32f3f89a72d68ca4bc58c6ef762d677.jpeg"></p>
+<p>In this edition:</p>
+<ul>
+<li>Join us on bilibili and LinkedIn.</li>
+<li>Catch up on essential sessions before WWDC26.</li>
+<li>Build a travel app with sample code.</li>
+<li>Browse the latest edition of our new design gallery.</li>
+<li>Learn about the biggest-ever update to Analytics in App Store Connect.</li>
+</ul>
+]]></description>
+    </item>
+    
+    <item>
+      <title>To those who build community</title>
+      <link>https://n-kase.github.io/rss/posts/post-437/</link>
+      <pubDate>Mon, 15 Jun 2026 17:59:16 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-437/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>世界中のApple開発者はアプリやゲームの開発だけでなく、イベントの開催やチュートリアルの作成、メンター活動、学びと成長の場の提供などを通じて専門知識を共有し合い、互いを支えることでコミュニティの理想を体現しており、この取り組みがさらに多くの人々を巻き込み、技術的な革新や社会的なつながりを強めるきっかけになると期待され、したがって私たちはこうした開発者による協働と貢献の姿を評価し、同様の支援とメンターシップの文化を広めていくべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="コミュニティを築く人々へ">コミュニティを築く人々へ
+</h2><p>2026年5月4日</p>
+<p><img alt="異なる年齢、性別、民族の多様な人々を4行に並べた20人のヘッドショットのグリッド。各人物は、シンプルなスタジオ背景から屋外の設定、カラフルな環境まで異なる背景で撮影されており、ほとんどが笑顔または親しみやすい表情をしている。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3b8f9b20df688fc0153d093c24ab6390.jpeg"></p>
+<p>世界中のApple開発者は、素晴らしいアプリやゲームを超えた意味のある仕事をしています。彼らはイベントを企画し、チュートリアルを書き、他者をメンターとして指導し、学びと成長のための場を作り出しています。専門知識を共有し、互いを支えることで、彼らはコミュニティの最高の姿を体現しています。</p>
+<p>技術的な貢献、思慮深いメンターシップ、そして他者の成功を助けることへのコミットメントを通じて、Apple開発者コミュニティで違いを生み出している鼓舞される人々に会いましょう。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="to-those-who-build-community">To those who build community
+</h2><p>May 4, 2026</p>
+<p><img alt="A grid of 20 headshot portraits arranged in four rows, showing a diverse group of people of varying ages, genders, and ethnicities. Each person is photographed against a different background — ranging from plain studio backdrops to outdoor settings and colorful environments — and most are smiling or have a friendly, approachable expression." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3b8f9b20df688fc0153d093c24ab6390.jpeg"></p>
+<p>All around the world, Apple developers do meaningful work that extends beyond great apps and games. They organize events, write tutorials, mentor others, and create spaces to learn and grow. By sharing their expertise and championing each other, they represent the best of the community.</p>
+<p>Meet some of the inspiring people who are making a difference in the Apple developer community through technical contributions, thoughtful mentorship, and a commitment to helping others succeed.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

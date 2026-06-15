@@ -1,0 +1,40 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ゲーミングルーター on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC/</link>
+    <description>Recent content in ゲーミングルーター on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 15:43:28 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売　Amazonでは13.6万円</title>
+      <link>https://n-kase.github.io/rss/posts/post-89/</link>
+      <pubDate>Mon, 15 Jun 2026 15:43:28 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-89/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>ASUSは6月12日にAIコアを内蔵した世界初のWi‑Fi 7ゲーミングルーター「ROG Rapture GT‑BE19000AI」の販売を開始し、Amazonでは約13万6千円で販売されている。</p>
+<p>この製品はNPU「Synaptics SL1680」を搭載し、CPUに依存しない独立したAI演算によりネットワーク最適化やリアルタイム制御を実現し、さらにDocker Engineによりルーター上でコンテナアプリを直接動作させられるため、ホームオートメーションやIoT管理もPCやサーバー不要で行える点が特徴だ。</p>
+<p>こうした高性能かつAI融合のルーターが市場に登場すれば、家庭内の通信速度や遅延が大幅に改善され、ゲームやストリーミングだけでなく、スマートホームやエッジAIサービスの普及が加速すると予想される。</p>
+<p>その結果、ネットワーク機器の選択基準は単なる速度からAIによる最適化機能へとシフトし、消費者は将来を見据えた投資を検討し、メーカーは革新と価格のバランスを取ることが求められるだろう。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>ニュース</p>
+<h1 id="asusのaiコア搭載wi-fi-7ゲーミングルーターrog-rapture-gt-be19000ai本日発売">ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売
+</h1><p>Amazonでは13.6万円</p>
+<p>2026年6月12日 12:45</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/74f476462fe1b18acdd1f484ec23f29f.jpg"></p>
+<p>ASUS JAPAN株式会社は6月12日、発表済みのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」の販売を開始した。記事公開時点のAmazon.co.jpでの販売価格は13万6182円</p>
+<p>AIコアとしてNPU「Synaptics SL1680」を搭載していることが特徴。同社によれば、AIコア内蔵のルーターは世界初。CPUはクアッドコア 2.6GHz、メモリ4GB、フラッシュメモリ32GBを搭載し、AIコアが連携することで、従来のCPU処理に依存しない独立したAI演算を実現し、ネットワーク最適化やリアルタイム制御などの処理を効率的に分散するとしている。</p>
+<p>Wi-Fi 7トライバンドに対応し、最大通信速度は6GHz帯が11529Mbps、5GHz帯が5764Mbps、2.4GHz帯が1376Mbps。有線ポートは、WAN/LANポートが10Gbps×1と2.5Gbps×1、LANポートが10Gbps×1、2.5Gbps×3、1Gbps×1。</p>
+<p>ルーター上でコンテナアプリケーションを直接稼働できる「Docker Engine」を搭載。ホームオートメーション／AIサービス／IoT管理などを、PCやサーバーを別途用意せずに実現できる。</p>
+<p>本体サイズは350.41×350.41×220.6mmで、重量は約2.0kg。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bcad8de9798e6d11e107155d6cc95d90.png"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7fdad84c7190f3a932cd280f59e2319a.png"></p>
+</details>]]></description>
+    </item>
+    
+  </channel>
+</rss>

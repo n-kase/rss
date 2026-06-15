@@ -1,0 +1,97 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>App Review Guidelines on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/app-review-guidelines/</link>
+    <description>Recent content in App Review Guidelines on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 17:50:28 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/app-review-guidelines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updated Apple Developer Program License Agreement and App Review Guidelines now available</title>
+      <link>https://n-kase.github.io/rss/posts/post-425/</link>
+      <pubDate>Mon, 15 Jun 2026 17:50:28 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-425/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年6月8日に、Developer Program License AgreementとApp Review Guidelinesを改訂し、新機能やポリシーの更新、それによる clarification（明確化）を行った。改訂では、開発者の身元確認や輸出コンプライアンスに関する要件、センシティブコンテンツ分析フレームワーク、Suggested Actions API、Trust Insightsフレームワーク、エンドユーザーが個人用アクセシビリティ目的でコンテンツを変更できる条項、メディアデバイス拡張や空間オーディオ拡張API、カスタマーエンゲージメントAPI、AI・機械学習技術を新たなサブセットにまとめたこと、Foundation Modelsフレームワークの利用要件、XcodeおよびApp Store Connect APIを通じた分析提供の明記、App Store Connectにおけるアプリ情報提供と未成年者保護、賠償責任の条項、In‑App Purchase APIやPassesのプライバシー要件、EnergyKitのアイデンティティガイドライン名の変更などが盛り込まれた。また、ガイドラインではキッズおよびティーンの安全ガイダンスを見直し、ガイドライン違反コンテンツへの開発者責任を明確にし、4.3項の根拠と例を追加し、Live Activitiesがスパムやフィッシング、未承諾メッセージに使われないことを明言した。これらの変更は、開発者に対してプライバシー、安全、アクセシビリティ、AI利用などの分野での責任をより明確にし、アプリ審査の厳格化や新しいフレームワークへの対応が求められる状況を生み出す可能性がある。したがって、開発者は速やかに改訂内容を確認し、自分のアプリや内部プロセスを新たな要件に合わせて調整すべきであり、それによって審査での不適合リスクを低減し、より安全でアクセシブルなアプリ提供につなげることが期待される。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="updated-apple-developer-program-license-agreement-and-app-review-guidelines-now-available">Updated Apple Developer Program License Agreement and App Review Guidelines now available
+</h2><p>June 8, 2026</p>
+<p>The <a class="link" href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/"  target="_blank" rel="noopener"
+    >Apple Developer Program License Agreement</a> and <a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a> have been revised to support new features, updated policies, and to provide clarification. Please review the changes below and <a class="link" href="https://developer.apple.com/account/"  target="_blank" rel="noopener"
+    >sign in to your account</a> to accept the updated terms.</p>
+<h3 id="apple-developer-program-license-agreement">Apple Developer Program License Agreement
+</h3><ul>
+<li>Sections 3.1, 14.8: Specified requirements for providing information and responding to questions about developer identity, including in the context of export compliance.</li>
+<li>Definitions, Section 3.3.3(N): Clarified requirements for use of the Sensitive Content Analysis framework.</li>
+<li>Definitions, Section 3.3.3(Q): Specified requirements for use of the Suggested Actions API.</li>
+<li>Definitions, Section 3.3.3(R): Specified requirements for use of the Trust Insights framework.</li>
+<li>Section 3.3.4(A): Specified terms regarding end users’ ability to modify content for personal accessibility purposes.</li>
+<li>Definitions, Section 3.3.7(L): Specified requirements for use of the Media Device Extension framework.</li>
+<li>Definitions, Section 3.3.7(M): Specified requirements for use of the Spatial Audio Extension APIs.</li>
+<li>Definitions, Section 3.3.9(E): Specified requirements for use of the Customer Engagement APIs.</li>
+<li>Section 3.2(h): Updated terms for use of and access to Apple models.</li>
+<li>Section 3.3.11: Grouped AI and machine learning technologies under new subsection.</li>
+<li>Section 3.3.11(A): Updated requirements for use of the Foundation Models framework.</li>
+<li>Section 6.7: Specified that analytics may additionally be provided via Xcode and/or App Store Connect API.</li>
+<li>Section 7.9: Specified requirements on providing information regarding apps in App Store Connect, and protection of end users who are minors.</li>
+<li>Section 10: Clarified terms regarding indemnification.</li>
+<li>Attachment 2, Section 1.1: Clarified requirements for use of the In-App Purchase API.</li>
+<li>Attachment 5, Section 3.3: Updated privacy requirements for use of Passes.</li>
+<li>Attachment 11, Section 4: Updated the name of identity guidelines for EnergyKit.</li>
+</ul>
+<h3 id="app-review-guidelines">App Review Guidelines
+</h3><ul>
+<li>Introduction: revised kid and teen safety guidance.</li>
+<li>1.2: new paragraph clarifies developer responsibilities for content that violates this guideline.</li>
+<li>4.3(a): clarifies the basis for the guideline and adds an example.</li>
+<li>4.3(b): clarifies the basis for the guideline and adds examples.</li>
+<li>4.5.3: clarifies that Live Activities may not be used to spam, phish, or send unsolicited messages to customers.</li>
+</ul>
+<p>Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="updated-apple-developer-program-license-agreement-and-app-review-guidelines-now-available-1">Updated Apple Developer Program License Agreement and App Review Guidelines now available
+</h2><p>June 8, 2026</p>
+<p>The <a class="link" href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/"  target="_blank" rel="noopener"
+    >Apple Developer Program License Agreement</a> and <a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a> have been revised to support new features, updated policies, and to provide clarification. Please review the changes below and <a class="link" href="https://developer.apple.com/account/"  target="_blank" rel="noopener"
+    >sign in to your account</a> to accept the updated terms.</p>
+<h3 id="apple-developer-program-license-agreement-1">Apple Developer Program License Agreement
+</h3><ul>
+<li>Sections 3.1, 14.8: Specified requirements for providing information and responding to questions about developer identity, including in the context of export compliance.</li>
+<li>Definitions, Section 3.3.3(N): Clarified requirements for use of the Sensitive Content Analysis framework.</li>
+<li>Definitions, Section 3.3.3(Q): Specified requirements for use of the Suggested Actions API.</li>
+<li>Definitions, Section 3.3.3(R): Specified requirements for use of the Trust Insights framework.</li>
+<li>Section 3.3.4(A): Specified terms regarding end users’ ability to modify content for personal accessibility purposes.</li>
+<li>Definitions, Section 3.3.7(L): Specified requirements for use of the Media Device Extension framework.</li>
+<li>Definitions, Section 3.3.7(M): Specified requirements for use of the Spatial Audio Extension APIs.</li>
+<li>Definitions, Section 3.3.9(E): Specified requirements for use of the Customer Engagement APIs.</li>
+<li>Section 3.2(h): Updated terms for use of and access to Apple models.</li>
+<li>Section 3.3.11: Grouped AI and machine learning technologies under new subsection.</li>
+<li>Section 3.3.11(A): Updated requirements for use of Foundation Models framework.</li>
+<li>Section 6.7: Specified that analytics may additionally be provided via Xcode and/or App Store Connect API.</li>
+<li>Section 7.9: Specified requirements on providing information regarding apps in App Store Connect, and protection of end users who are minors.</li>
+<li>Section 10: Clarified terms regarding indemnification.</li>
+<li>Attachment 2, Section 1.1: Clarified requirements for use of the In-App Purchase API.</li>
+<li>Attachment 5, Section 3.3: Updated privacy requirements for use of Passes.</li>
+<li>Attachment 11, Section 4: Updated the name of identity guidelines for EnergyKit.</li>
+</ul>
+<h3 id="app-review-guidelines-1">App Review Guidelines
+</h3><ul>
+<li>Introduction: revised kid and teen safety guidance.</li>
+<li>1.2: new paragraph clarifies developer responsibilities for content that violates this guideline.</li>
+<li>4.3(a): clarifies the basis for the guideline and adds an example.</li>
+<li>4.3(b): clarifies the basis for the guideline and adds examples.</li>
+<li>4.5.3: clarifies that Live Activities may not be used to spam, phish, or send unsolicited messages to customers.</li>
+</ul>
+<p>Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

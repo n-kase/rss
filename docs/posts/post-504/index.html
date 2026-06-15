@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Apple Design Awardを受賞したThings, Inc.の「Rooms」は、ゲームでもツールでもなく、ブロックのように積み上げられるボクセルを使って自由に3D空間を作れるアプリであり、ユーザーが自分だけの部屋や世界を構築...">
+<title>Rooms at the top: How this ADA-winning team built a title that defies description</title>
+
+
+<link rel="canonical" href="https://n-kase.github.io/rss/posts/post-504/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/rss/scss/style.min.e62e09c60ba428a627e03568fa3df938f6a8224f815b5846f00816c17d4a0be4.css"><meta property='og:title' content="Rooms at the top: How this ADA-winning team built a title that defies description">
+<meta property='og:description' content="Apple Design Awardを受賞したThings, Inc.の「Rooms」は、ゲームでもツールでもなく、ブロックのように積み上げられるボクセルを使って自由に3D空間を作れるアプリであり、ユーザーが自分だけの部屋や世界を構築...">
+<meta property='og:url' content='https://n-kase.github.io/rss/posts/post-504/'>
+<meta property='og:site_name' content='ms02 AI Assistant Blog Posts Project'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='Rooms' /><meta property='article:tag' content='Apple Design Award' /><meta property='article:tag' content='voxel' /><meta property='article:tag' content='ソーシャルネットワーク' /><meta property='article:tag' content='クリエイティブアプリ' /><meta property='article:published_time' content='2026-06-15T18:58:40&#43;09:00'/><meta property='article:modified_time' content='2026-06-15T18:58:40&#43;09:00'/><meta property='og:image' content='https://n-kase.github.io/rss/downloaded_images/042b625f600be7cc9f986f4baa4f1042.jpeg' />
+<meta name="twitter:title" content="Rooms at the top: How this ADA-winning team built a title that defies description">
+<meta name="twitter:description" content="Apple Design Awardを受賞したThings, Inc.の「Rooms」は、ゲームでもツールでもなく、ブロックのように積み上げられるボクセルを使って自由に3D空間を作れるアプリであり、ユーザーが自分だけの部屋や世界を構築..."><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://n-kase.github.io/rss/downloaded_images/042b625f600be7cc9f986f4baa4f1042.jpeg' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="メニューを開く・閉じる">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/rss/">ms02 AI Assistant Blog Posts Project</a></h1>
+            <h2 class="site-description">MS-02 Ultra Home Lab</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/rss/search/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>検索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/tags/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+                
+                <span>タグ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/categories/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                
+                <span>カテゴリ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>アーカイブ</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    <li id="i18n-switch">  
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                        <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                            
+                                
+                                
+                                    
+                                        
+                                    
+                                
+                                <option value="/rss/posts/post-504/" selected>日本語</option>
+                            
+                                
+                                
+                                    
+                                
+                                <option value="/rss/en/" >English</option>
+                            
+                        </select>
+                    </li>
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>ダークモード</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/rss/posts/post-504/">
+            <img alt="Featured image of post Rooms at the top: How this ADA-winning team built a title that defies description" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/042b625f600be7cc9f986f4baa4f1042.jpeg">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/" style="background-color: hsl(221, 60%, 84%); color: hsl(221, 60%, 15%);">
+                テクノロジー
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/rss/posts/post-504/">Rooms at the top: How this ADA-winning team built a title that defies description</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Apple Design Awardを受賞したThings, Inc.の「Rooms」は、ゲームでもツールでもなく、ブロックのように積み上げられるボクセルを使って自由に3D空間を作れるアプリであり、ユーザーが自分だけの部屋や世界を構築...
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2026-06-15T18:58:40&#43;09:00'>2026年6月15日月曜日</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        読了時間: 6分
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+
+    
+
+    <section class="article-content">
+    
+    
+    <h2 id="aiによる要約">AIによる要約
+</h2><p>Apple Design Awardを受賞したThings, Inc.の「Rooms」は、ゲームでもツールでもなく、ブロックのように積み上げられるボクセルを使って自由に3D空間を作れるアプリであり、ユーザーが自分だけの部屋や世界を構築し、アイテムのコードを見てカスタマイズできるソーシャルネットワークとしても機能している。このオープンな創作空間は、幼児から祖父母まで幅広い年齢層に受け入れられ、ウイルス的に広がる動画や口コミでモバイル利用が急増し、ユーザーは長時間かけて部屋を編集するようになった。その結果、コミュニティがアイテムを共有・改良し合うことでライブラリが1万点以上に拡大し、単なる遊びから本格的なプログラミングまで多様な使い方が生まれている。この事例から、敷居を低くしつつ可能性を高める設計が、創造性と学びを促し、幅広いユーザーに価値を提供できるという教訓が得られる。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="rooms-at-the-top-how-this-ada-winning-team-built-a-title-that-defies-description">Rooms at the top: How this ADA-winning team built a title that defies description
+</h2><p>2025年4月8日</p>
+<p><img alt="異なるスクリーンを表示する一連のiPhoneが、深い紫の背景に対して斜めに浮かんでいる様子。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/042b625f600be7cc9f986f4baa4f1042.jpeg"></p>
+<p>ジェイソン・トフに彼のApple Design Award受賞作がゲームかアプリかを尋ねると、彼の答えは「はい」だ。</p>
+<p>「『Rooms』には一文で説明できるようなものはなく、それがむしろ祝福だ」とトフは笑いながら言う。Things, Inc.のCEO兼チーフデザイナーである彼は続ける。「それは完全にゲームでもなければ、完全にツールでもない。むしろおもちゃに近い。」</p>
+<p>さらに、それは白紙のキャンバスであり、居心地の良いゲームであり、コーディングの先生であり、ソーシャルネットワークでもある――だが、話が先走っている。本質的に、<em>Rooms</em>はユーザーが生成した3D空間の集まりで、初期インターネットの開かれた世界のような感覚を与える。空の部屋または既存のテンプレートから始め、ボクセルの装飾品、アイテム、ペット、アバターを好きなように配置して、大学のアパート、中世の城の部屋、浮遊するファンタジー世界、海賊船、ウィーザーのコンサート（本当に）など、好きな空間を作り出すことができる。唯一の制限は部屋の境界だが、<em>Rooms</em>のファンはそれをも乗り越えてきた。「私たちの404ページは壁のない部屋だ」とトフは言う。「だから人々はそれをコピーして制限を回避し始めた。」</p>
+<p>ADA ファクトシート</p>
+<p><img alt="ボクセルアートスタイルで散らかった学生寮の部屋を示すRoomsのスクリーンショット。ロフトベッド、本棚、そしてさまざまな本と装飾品が見える。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2912bbd9fa76859a05484fbd12752d9c.jpeg"></p>
+<h3 id="rooms">Rooms
+</h3><ul>
+<li>**受賞部門:**ビジュアルとグラフィック</li>
+<li>**チーム:**Things, Inc.</li>
+<li>**対応プラットフォーム:**iOS, iPadOS</li>
+<li>**チーム規模:**4人</li>
+</ul>
+<p><a class="link" href="https://apps.apple.com/us/app/rooms/id6443548715"  target="_blank" rel="noopener"
+    >App StoreからRoomsをダウンロード</a></p>
+<p>実際、このコミュニティ要素が強みとなっている。奇抜なゲーム、落ち着ける場所、巧みなアイディアが織りなすこの創造的なタペストリーは、実際の人々によって作り出されており、<em>Rooms</em>はソーシャルネットワークとしても機能している。さらに、ユーザーは各アイテムをクリックすると</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="rooms-at-the-top-how-this-ada-winning-team-built-a-title-that-defies-description-1">Rooms at the top: How this ADA-winning team built a title that defies description
+</h2><p>April 8, 2025</p>
+<p><img alt="A series of iPhones, all showing different screens from Rooms, in a diagonal floating layout against a deep purple background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/042b625f600be7cc9f986f4baa4f1042.jpeg"></p>
+<p>Ask Jason Toff whether his Apple Design Award winner is a game or an app, and his answer is yes.</p>
+<p>“There’s no one-sentence description for <em>Rooms</em>, and that can be a blessing,” laughs Toff, CEO and head designer of Things, Inc. “It’s not entirely a game, and it’s not entirely a tool. It’s more like a toy.”</p>
+<p>It’s also a blank canvas, cozy game, coding teacher, and social network — but we’re getting ahead of ourselves. At its heart, <em>Rooms</em> is a collection of user-generated 3-D spaces that feels like the open-ended world of the early internet. Start with an empty room or existing template, then fill it with an array of voxel decorations, items, pets, and avatars to create whatever space you like: a college apartment, medieval castle chamber, floating fantasy realm, pirate ship, or a Weezer concert (really), to name just a few. The only limits are the room’s boundaries — and <em>Rooms</em> fans have even gotten around those. “Our 404 page is a room with no walls,” Toff says, “so people just started copying it to work around the constraint.”</p>
+<p>ADA FACT SHEET</p>
+<p><img alt="A screenshot from Rooms, showing a cluttered dorm room in voxel-art style. A loft bed, bookshelf, and assorted books and decorations can be seen in the room." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2912bbd9fa76859a05484fbd12752d9c.jpeg"></p>
+<h3 id="rooms-1">Rooms
+</h3><ul>
+<li>**Winner:**Visuals and Graphics</li>
+<li>**Team:**Things, Inc.</li>
+<li>**Available on:**iOS, iPadOS</li>
+<li>**Team size:**4</li>
+</ul>
+<p><a class="link" href="https://apps.apple.com/us/app/rooms/id6443548715"  target="_blank" rel="noopener"
+    >Download Rooms from the App Store</a></p>
+<p>In fact, that community element is a strong point: This creative tapestry of quirky games, tranquil havens, and clever ideas has been conjured by real people, which makes <em>Rooms</em> a social network as well. What’s more, users can click on each item to reveal its underlying code, offering them more options for customization.</p>
+<p>To create <em>Rooms</em> — which, incidentally, won the ADA for Visuals and Graphics in games — Toff and cofounders Nick Kruge and Bruno Oliveira threw themselves back into their childhoods. “I was obsessed with Legos as a kid,” says Toff, not unexpectedly. “I found myself wondering, ‘What’s the digital equivalent of that?’”</p>
+<p><img alt="A screenshot from Rooms, showing a bowl of ramen on a table in a restaurant. Around it are other bowls and a tray of toppings." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/938e29e2df3a5dd51d5b0e3603ebf01c.jpeg"></p>
+<p><em>Rooms</em> isn’t just about rooms; creators have plenty of ways to noodle on their ideas.</p>
+<p>Drawing on that inspiration — as well as Toff’s experiences with <em>Kid Pix</em> on his dad’s 1989-era Mac — the <em>Rooms</em> team began envisioning something that, as Oliveira says, kept the floor low but the ceiling high. “We wanted anyone from 4-year-olds to their grandparents to be able to use <em>Rooms</em>,” he says, “and that meant making something free-form and creative.”</p>
+<p>It also meant building something that gave a sense of approachability and creativity, which led them right to voxels. “Blocks have a charm, but they can also be kind of ugly,” Toff laughs. “Luckily, Bruno’s were cute and soft, so they felt approachable and familiar.” And from Oliveira’s side, blocks offered a practical value. “It’s much easier to do 3-D modeling with blocks,” says Oliveira. “You can just add or remove voxels whenever you want, which lowers the bar for everyone.”</p>
+<p>We wanted anyone from 4-year-olds to their grandparents to be able to use</p>
+<p>Rooms, and that meant making something free-form and creative.Jason Toff, CEO and head designer of Things, Inc.</p>
+<p><em>Rooms</em> launched in 2023 as a web-based app that included 1,000 voxel objects and allowed users to write their own code. It gained traction through both word of mouth and, more directly, a video that went viral in the cozy-gaming community. “All of a sudden, we had all these people coming,” says Oliveira, “and we realized we needed to prioritize the mobile app. Nick was like, ‘I think we can get feature parity with desktop on the iPhone screen,’ and we basically pulled a rabbit out of a hat.” Today, the vast majority of <em>Rooms</em> users are on mobile, where they spend the bulk of their time editing. “We were just shocked by how much time people were spending making rooms,” he says. “These weren’t quick five-minute projects. We did not anticipate that.”</p>
+<p><img alt="A rendering of the Things, Inc., offices in Rooms style. In the illustration, three voxel-art people sit at computers in a corner offices with windows overlooking a city." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/05a539696ee0d7860f9033421151234d.jpeg"></p>
+<p>Of course the Things, Inc. team rebuilt their own offices in <em>Rooms</em>.</p>
+<p>All that building fed into a social aspect as well. Toff says most of the items in <em>Rooms</em> are now created, edited, and amplified by lots of different users. “Here’s a good example: We have a sway effect that makes things wave back and forth a little,” he says. “Someone realized that if they put some branches on a tree and added that effect, the tree immediately looked alive. Now everyone’s doing that. There’s a real additive effect to building in Rooms.” Today, the Rooms library contains more than 10,000 items.</p>
+<p>There’s a lot of power under the hood, too. “Rooms uses a Lua scripting language that runs in a C++ context,” says Oliveira, “so it’s kind of Lua, encased in C++, encased in Unity, encased in iOS.” Every room, he says, is a new Unity instance. And adding native iOS elements — like sliders on the Explore page and a bottom navigation — gives what he calls the “design chef’s kiss.”</p>
+<p><img alt="An early prototype of Rooms that shows a corner living room with blue walls and a blue floor. An orange ball sits on the floor, and a purple couch and lamp with yellow shade can be seen." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/83014191e01de419192152a2c0a8c2d8.jpeg"></p>
+<p>An early sketch of <em>Rooms</em> shows how the room design came together early in the process.</p>
+<p>Like its community, the <em>Rooms</em> team is used to moving fast. “One day I said, ‘It would be cool if this had a D-pad and A/B buttons,” says Toff, “and about 10 hours later Bruno was like, ‘Here you go.’” On another lark, Toff mentioned that it would be fun to let users fly around their rooms, and Kruge and Oliveira promptly created a “camera mode” that’s come to be known internally as the “Jason-Cam.”</p>
+<p>That’s satisfying to a team that simply set out to build a cutting-edge plaything. “We always had this metaphor that Rooms was a swimming pool with a shallow side and a deep side,” says Oliveira. “It should be fun for people dabbling in the shallow side. But it should also be amazing for people swimming in the deep end. If you just want to look at rooms, you can. But you can also dive all the way down and write complicated code. There’s something for everyone.”</p>
+<p><a class="link" href="https://developer.apple.com/design/awards/"  target="_blank" rel="noopener"
+    >Meet the 2024 Apple Design Award winners</a></p>
+<p><em>Behind the Design is a series that explores design practices and philosophies from finalists and winners of the Apple Design Awards. In each story, we go behind the screens with the developers and designers of these award-winning apps and games to discover how they brought their remarkable creations to life.</em></p>
+
+</section>
+
+
+    <footer class="article-meta article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/rss/tags/rooms/">Rooms</a>
+        
+            <a href="/rss/tags/apple-design-award/">Apple Design Award</a>
+        
+            <a href="/rss/tags/voxel/">Voxel</a>
+        
+            <a href="/rss/tags/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF/">ソーシャルネットワーク</a>
+        
+            <a href="/rss/tags/%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%A2%E3%83%97%E3%83%AA/">クリエイティブアプリ</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside>
+    <h2 class="section-title">関連するコンテンツ</h2>
+    <div class="subsection-list">
+        <div class="article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-503/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Hello Developer: April 2025" loading="lazy" src="/rss/downloaded_images/354f363d8cb0c76a7aa3a132680e24f4.jpeg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Hello Developer: April 2025</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-501/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Random access memories: Inside the time-shifting narrative of The Wreck" loading="lazy" src="/rss/downloaded_images/129e6a9f2de4242aff48440d0d3283d0.jpeg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Random access memories: Inside the time-shifting narrative of The Wreck</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-497/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Hello Developer: June 2025" loading="lazy" src="/rss/downloaded_images/79fefdc6e4411683034a55cb0b242dd0.jpeg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Hello Developer: June 2025</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-439/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Lykke Studios: In pursuit of puffy perfection" loading="lazy" src="/rss/downloaded_images/617679ac7f7abcb7ed7961f0a0c851cd.jpeg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Lykke Studios: In pursuit of puffy perfection</h2>
+        </div>
+    </a>
+</article>
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+
+        <div class="disqus-container">
+    
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 ms02 AI Assistant Blog Posts Project
+    </section>
+    
+    <section class="powerby">
+        <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> で構築されています。 <br />
+        テーマ <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.3">Stack</a></b> は <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> によって設計されています。
+    </section>
+</footer>
+
+
+    
+
+
+
+<script type="module">
+    import gallery from '\/rss\/ts\/gallery.js';
+
+    const articleContent = document.querySelector('.article-content');
+    const shouldLoad = articleContent && (articleContent.querySelectorAll('figure').length > 0 || articleContent.querySelectorAll('img.gallery-image').length > 0);
+    
+    if (shouldLoad) {
+        gallery(articleContent);
+
+        const PhotoSwipeLightbox = (await import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js")).default;
+        const styleHref = "https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.css";
+
+        const styleTag = document.createElement('link');
+        styleTag.rel = 'stylesheet';
+        styleTag.href = styleHref;
+        document.head.appendChild(styleTag);
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallerySelector: '.article-content',
+            childSelector: 'figure a.image-link',
+            pswpModule: () => import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.esm.min.js")
+        });
+        lightbox.init();
+    }
+</script>
+
+    
+
+            </main>
+        </div>
+        
+<script type="text/javascript" src="/rss/ts/main.8f587a582cd4e51d03a4840028b19d7deac2cee707cfe21ffe942b6666363a7f.js" defer></script>
+
+
+    </body>
+</html>

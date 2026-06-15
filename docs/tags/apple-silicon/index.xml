@@ -1,0 +1,47 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple Silicon on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/apple-silicon/</link>
+    <description>Recent content in Apple Silicon on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 17:56:23 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/apple-silicon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: May 2026</title>
+      <link>https://n-kase.github.io/rss/posts/post-434/</link>
+      <pubDate>Mon, 15 Jun 2026 17:56:23 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-434/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Appleは2026年5月の「Hello Developer」ニュースレターで、多様な開発者コミュニティを紹介しながら、アプリのアクセシビリティ栄養ラベルへの対応やIntelベースのMacアプリをApple siliconへ移行する必要性を強調し、さらに注目のオープンワールドゲーム『Infinity Nikki』の開発チームへのインタビューや開発者アカウントの活用方法を案内した。これにより、開発者はアクセシビリティへの配慮や最新ハードウェアへの適応が求められ、業界全体でのユーザー体験の向上とプラットフォーム統合が進むことが予想される。したがって、開発者は今すぐアクセシビリティラベルの実装とApple siliconへのアップデートを計画し、提供されるリソースを活用して競争力を維持すべきである。</p>
+<h2 id="和訳本文">和訳本文
+</h2><h2 id="hello-developer-2026年5月">Hello Developer: 2026年5月
+</h2><p>2026年5月12日</p>
+<p><img alt="異なる年齢、性別、民族の多様な人々の頭部ショットポートレートが4行に並ぶグリッド。各人物は、プレーンなスタジオ背景から屋外設定、カラフルな環境まで異なる背景で撮影されており、ほとんどが笑顔または親しみやすい表情をしている。" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1e5f33f76edb2e5590d289f9d0c3dee7.jpeg"></p>
+<p>今号では：</p>
+<ul>
+<li>鼓舞される開発者、擁護者、教育者に会う。</li>
+<li>アプリをアクセシビリティ栄養ラベルに備える。</li>
+<li>スタイリッシュなオープンワールドアドベンチャー <em>Infinity Nikki</em> のチームに会う。</li>
+<li>Apple Developer アカウントを最大限に活用する。</li>
+<li>IntelベースのMacアプリをApple siliconにアップデートする。</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h2 id="hello-developer-may-2026">Hello Developer: May 2026
+</h2><p>May 12, 2026</p>
+<p><img alt="A grid of 20 headshot portraits arranged in four rows, showing a diverse group of people of varying ages, genders, and ethnicities. Each person is photographed against a different background — ranging from plain studio backdrops to outdoor settings and colorful environments — and most are smiling or have a friendly, approachable expression." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1e5f33f76edb2e5590d289f9d0c3dee7.jpeg"></p>
+<p>In this edition:</p>
+<ul>
+<li>Meet inspiring developers, advocates, and educators.</li>
+<li>Prepare your app for Accessibility Nutrition Labels.</li>
+<li>Meet the team behind the stylish open-world adventure <em>Infinity Nikki.</em></li>
+<li>Get the most out of your Apple Developer account.</li>
+<li>Update your Intel-based Mac apps to Apple silicon.</li>
+</ul>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
