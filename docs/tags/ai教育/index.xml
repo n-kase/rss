@@ -1,0 +1,36 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI教育 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/ai%E6%95%99%E8%82%B2/</link>
+    <description>Recent content in AI教育 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 08:16:30 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/ai%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google「NotebookLM」のソースに教科書を指定可能に？ 実現ならすべての学生に朗報か</title>
+      <link>https://n-kase.github.io/rss/posts/post-39/</link>
+      <pubDate>Tue, 16 Jun 2026 08:16:30 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-39/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>米GoogleのAIリサーチアシスタント「NotebookLM」に、新たなソースとして「教科書」が追加される可能性が報じられた。この機能が実現すれば、ユーザーは自分の持つ教科書データだけを基に答えを得られるようになり、インターネット全体を検索する通常のGeminiチャットボットとは異なり、情報の矛盾や虚構を避けた回答が期待できる。すでにファイルやウェブサイト、音声クリップ、Google Play ブックスなど多様なソースが利用可能であるため、教科書の追加は学習支援の幅をさらに広げるものと見られている。</p>
+<p>この動きが進めば、学生は試験対策や日常の勉強において、信頼できる教材のみを参照できるAIツールを「勉強の相棒」として活用しやすくなる。特に、夜間の一夜漬けや特定の科目の復習において、出典が明確で hallucination（でっち上げ）のリスクが低い点は大きな利点となり、教育現場でのAI導入の後押しになる可能性がある。また、GoogleがOpenStaxなどの査読済み教科書と提携している事実から、無料で質の高い教材へのアクセスがさらに容易になると予想される。</p>
+<p>したがって、教育関係者や学生は、こうした出典限定型AIツールを積極的に検討し、情報の正確性を保ちながら学習効率を向上させる手段として取り入れるべきである。同時に、提供される教科書の範囲や提携先の透明性を確認し、公平かつ広範な学びの機会が確保されるよう、利用ルールやガイドラインの整備も求められる。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>米Googleの「NotebookLM」に、新たなソースとして「教科書」が追加される可能性が浮上した。実現すれば、学習用AIツールとしての存在感はさらに増しそうだ。</p>
+<p>NotebookLMは数あるAIツールの中でも特に興味深い存在で、競合と呼べる相手がほとんど見当たらない。誰でも使えるツールだが、Googleはかねて学生が活用できる機能の拡充に力を入れてきた。</p>
+<p>「Gemini」を搭載したこのAIリサーチアシスタントの最大の特徴は、ユーザーが与えたソースだけをデータとして使う点にある。通常のGeminiチャットボットは、質問の答えを求めてインターネット全体を探し回るが、ネット上には矛盾した情報があふれている。一方のNotebookLMは、ソースに答えがなければ、答えをでっち上げることはしない。</p>
+<p>AI専門メディアのTesting Catalogが6月10日（現地時間）にThreadsに投稿した情報によると、NotebookLMに追加できるソースとして新たに「教科書」が加わる可能性があるという。実現すれば、学生がこのツールを「勉強の相棒」として使う道が一気に広がる。</p>
+<p>NotebookLMのソースは、ファイル、ウェブサイト、音声クリップ、「Google Play ブックス」など、既に多岐にわたる。そこに、一夜漬けが必要な試験対策用の教科書まで追加できるとなれば、すべての学生にとって朗報と言えるだろう。</p>
+<p>Testing Catalogが共有したスクリーンショットには、ソースの選択肢として教科書が表示されているが、その実態についてはほとんど分かっていない。書籍のページをスキャンしてソースに追加すること自体は今でも事実上可能なことを考えると、背後に何らかの提携があるとみられる。</p>
+<p>Googleは2025年、「Public Notebooks」の導入に合わせて、無料の査読済み教科書を提供する米OpenStaxと提携した。今回の新ソースがOpenStaxの教科書に限定されるのか、それとも別の提携が進んでいるのかは、まだ明らかになっていない。</p>
+<p>米CNETはGoogleにコメントを求めたが、すぐには回答が得られなかった。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
