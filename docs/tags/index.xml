@@ -5,7 +5,97 @@
         <description>Recent content in Tags on ms02 AI Assistant Blog Posts Project</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Mon, 15 Jun 2026 15:54:21 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 15 Jun 2026 15:55:17 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>AIモデル</title>
+            <link>https://n-kase.github.io/rss/tags/ai%E3%83%A2%E3%83%87%E3%83%AB/</link>
+            <pubDate>Mon, 15 Jun 2026 15:55:17 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/ai%E3%83%A2%E3%83%87%E3%83%AB/</guid>
+            <description></description>
+        </item><item>
+            <title>GLM-5.2</title>
+            <link>https://n-kase.github.io/rss/tags/glm-5.2/</link>
+            <pubDate>Mon, 15 Jun 2026 15:55:17 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/glm-5.2/</guid>
+            <description></description>
+        </item><item>
+            <title>SWE-Bench</title>
+            <link>https://n-kase.github.io/rss/tags/swe-bench/</link>
+            <pubDate>Mon, 15 Jun 2026 15:55:17 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/swe-bench/</guid>
+            <description></description>
+        </item><item>
+            <title>オープンソース</title>
+            <link>https://n-kase.github.io/rss/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9/</link>
+            <pubDate>Mon, 15 Jun 2026 15:55:17 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9/</guid>
+            <description></description>
+        </item><item>
+            <title>コーディングLLM</title>
+            <link>https://n-kase.github.io/rss/tags/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0llm/</link>
+            <pubDate>Mon, 15 Jun 2026 15:55:17 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0llm/</guid>
+            <description></description>
+        </item><item>
+            <title>VLSIシンポジウム</title>
+            <link>https://n-kase.github.io/rss/tags/vlsi%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0/</link>
+            <pubDate>Mon, 15 Jun 2026 15:55:09 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/vlsi%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0/</guid>
+            <description></description>
+        </item><item>
+            <title>ハワイ開催</title>
+            <link>https://n-kase.github.io/rss/tags/%E3%83%8F%E3%83%AF%E3%82%A4%E9%96%8B%E5%82%AC/</link>
+            <pubDate>Mon, 15 Jun 2026 15:55:09 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/%E3%83%8F%E3%83%AF%E3%82%A4%E9%96%8B%E5%82%AC/</guid>
+            <description></description>
+        </item><item>
+            <title>生成AI</title>
+            <link>https://n-kase.github.io/rss/tags/%E7%94%9F%E6%88%90ai/</link>
+            <pubDate>Mon, 15 Jun 2026 15:55:09 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/%E7%94%9F%E6%88%90ai/</guid>
+            <description></description>
+        </item><item>
+            <title>投稿件数増加</title>
+            <link>https://n-kase.github.io/rss/tags/%E6%8A%95%E7%A8%BF%E4%BB%B6%E6%95%B0%E5%A2%97%E5%8A%A0/</link>
+            <pubDate>Mon, 15 Jun 2026 15:55:09 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/%E6%8A%95%E7%A8%BF%E4%BB%B6%E6%95%B0%E5%A2%97%E5%8A%A0/</guid>
+            <description></description>
+        </item><item>
+            <title>半導体技術</title>
+            <link>https://n-kase.github.io/rss/tags/%E5%8D%8A%E5%B0%8E%E4%BD%93%E6%8A%80%E8%A1%93/</link>
+            <pubDate>Mon, 15 Jun 2026 15:55:09 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/%E5%8D%8A%E5%B0%8E%E4%BD%93%E6%8A%80%E8%A1%93/</guid>
+            <description></description>
+        </item><item>
+            <title>Amazon セール</title>
+            <link>https://n-kase.github.io/rss/tags/amazon-%E3%82%BB%E3%83%BC%E3%83%AB/</link>
+            <pubDate>Mon, 15 Jun 2026 15:54:51 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/amazon-%E3%82%BB%E3%83%BC%E3%83%AB/</guid>
+            <description></description>
+        </item><item>
+            <title>NiPoGi P2</title>
+            <link>https://n-kase.github.io/rss/tags/nipogi-p2/</link>
+            <pubDate>Mon, 15 Jun 2026 15:54:51 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/nipogi-p2/</guid>
+            <description></description>
+        </item><item>
+            <title>Ryzen 3</title>
+            <link>https://n-kase.github.io/rss/tags/ryzen-3/</link>
+            <pubDate>Mon, 15 Jun 2026 15:54:51 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/ryzen-3/</guid>
+            <description></description>
+        </item><item>
+            <title>クーポン</title>
+            <link>https://n-kase.github.io/rss/tags/%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3/</link>
+            <pubDate>Mon, 15 Jun 2026 15:54:51 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3/</guid>
+            <description></description>
+        </item><item>
+            <title>ミニPC</title>
+            <link>https://n-kase.github.io/rss/tags/%E3%83%9F%E3%83%8Bpc/</link>
+            <pubDate>Mon, 15 Jun 2026 15:54:51 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/%E3%83%9F%E3%83%8Bpc/</guid>
+            <description></description>
+        </item><item>
             <title>AIエージェント</title>
             <link>https://n-kase.github.io/rss/tags/ai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88/</link>
             <pubDate>Mon, 15 Jun 2026 15:54:21 +0900</pubDate>
@@ -28,12 +118,6 @@
             <link>https://n-kase.github.io/rss/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</link>
             <pubDate>Mon, 15 Jun 2026 15:54:21 +0900</pubDate>
             <guid>https://n-kase.github.io/rss/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</guid>
-            <description></description>
-        </item><item>
-            <title>ミニPC</title>
-            <link>https://n-kase.github.io/rss/tags/%E3%83%9F%E3%83%8Bpc/</link>
-            <pubDate>Mon, 15 Jun 2026 15:54:21 +0900</pubDate>
-            <guid>https://n-kase.github.io/rss/tags/%E3%83%9F%E3%83%8Bpc/</guid>
             <description></description>
         </item><item>
             <title>Amazon</title>
@@ -1284,12 +1368,6 @@
             <guid>https://n-kase.github.io/rss/tags/w3c/</guid>
             <description></description>
         </item><item>
-            <title>オープンソース</title>
-            <link>https://n-kase.github.io/rss/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9/</link>
-            <pubDate>Mon, 15 Jun 2026 15:41:40 +0900</pubDate>
-            <guid>https://n-kase.github.io/rss/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9/</guid>
-            <description></description>
-        </item><item>
             <title>ハイパーレイヤリング</title>
             <link>https://n-kase.github.io/rss/tags/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%AA%E3%83%B3%E3%82%B0/</link>
             <pubDate>Mon, 15 Jun 2026 15:41:40 +0900</pubDate>
@@ -1950,12 +2028,6 @@
             <guid>https://n-kase.github.io/rss/tags/%E6%B3%95%E5%BB%B7%E9%97%98%E4%BA%89/</guid>
             <description></description>
         </item><item>
-            <title>AIモデル</title>
-            <link>https://n-kase.github.io/rss/tags/ai%E3%83%A2%E3%83%87%E3%83%AB/</link>
-            <pubDate>Mon, 15 Jun 2026 15:23:17 +0900</pubDate>
-            <guid>https://n-kase.github.io/rss/tags/ai%E3%83%A2%E3%83%87%E3%83%AB/</guid>
-            <description></description>
-        </item><item>
             <title>サイバーセキュリティ</title>
             <link>https://n-kase.github.io/rss/tags/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</link>
             <pubDate>Mon, 15 Jun 2026 15:23:17 +0900</pubDate>
@@ -2128,12 +2200,6 @@
             <link>https://n-kase.github.io/rss/tags/wwdc-2026/</link>
             <pubDate>Mon, 15 Jun 2026 15:21:14 +0900</pubDate>
             <guid>https://n-kase.github.io/rss/tags/wwdc-2026/</guid>
-            <description></description>
-        </item><item>
-            <title>GLM-5.2</title>
-            <link>https://n-kase.github.io/rss/tags/glm-5.2/</link>
-            <pubDate>Mon, 15 Jun 2026 15:21:03 +0900</pubDate>
-            <guid>https://n-kase.github.io/rss/tags/glm-5.2/</guid>
             <description></description>
         </item><item>
             <title>オープンモデル</title>
