@@ -27,6 +27,11 @@ title = 'ms02 AI Assistant Blog Posts Project'
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [languages]
   [languages.ja]
     languageName = "日本語"
