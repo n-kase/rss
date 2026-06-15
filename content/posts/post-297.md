@@ -1,0 +1,95 @@
+---
+title: "もう一つの「加速主義」～ユリウス・エヴォラ『現代世界への叛乱』～（前編）｜雨宮純"
+description: "近年、資本主義の技術革新を加速させることで現状を超越しようとする従来の「加速主義」とは別に、極右・ネオナチ系のネットワークが「戦闘的加速主義」という言葉を借用し、社会的対立を意図的に激化させて現行の腐敗した社会を崩壊させ、白人至上主義..."
+date: 2026-06-15T16:45:36+09:00
+categories: ["社会・ネット議論"]
+tags: ["加速主義", "エヴォラ", "極右", "ネオナチ", "カリ・ユガ"]
+image: "/rss/downloaded_images/f652994234ce1b54552a7d8de01ffda5.jpeg"
+---
+
+## AIによる要約
+近年、資本主義の技術革新を加速させることで現状を超越しようとする従来の「加速主義」とは別に、極右・ネオナチ系のネットワークが「戦闘的加速主義」という言葉を借用し、社会的対立を意図的に激化させて現行の腐敗した社会を崩壊させ、白人至上主義的理想社会を実現しようとする思想が広がっている。この考え方は、2019年のクライストチャーチモスク銃乱射事件の犯人が公開したマニフェストや、過去のオクラホマシティ爆破事件などに影響を受けた文書に明確に示されており、不安定化と暴力的変化を推奨する具体的な行動指針が含まれている。さらに、こうした思想の根底には、ユリウス・エヴォラの『現代世界への叛乱』に見られる伝統主義的ファシズムやカリ・ユガ終焉を早めるための混沌と暴力を肯定する神秘的・オカルト的要素が流れている。したがって、表面的には学術的・神秘的な議論として取り上げられがちだが、実際には現実世界での過激な行動を誘発しかねない危険な思想であることを認識し、その拡散を防ぐために情報リテラシーの向上と監視体制の強化が求められる。
+
+---
+
+## 元スレッド・記事本文
+
+![見出し画像](/rss/downloaded_images/f652994234ce1b54552a7d8de01ffda5.jpeg)
+
+# もう一つの「加速主義」～ユリウス・エヴォラ『現代世界への叛乱』～（前編）
+
+![雨宮純](/rss/downloaded_images/df7a9aee2aa0319d0e2482ad4f9083e3.jpg)
+
+読んでも読んでも先に進んだ感覚がない…読書を習慣にしている方なら、そんな本に出会ったことがあるのではないだろうか。先月、筆者はまさにそのような本と悪戦苦闘していた。今年2月に発売された、ユリウス・エヴォラ『現代世界への叛乱』である。
+
+20世紀イタリアの政治思想家・神秘思想家であったエヴォラの代表作であるこの書籍には、一見しただけでは理解し難い表現が頻出し延々と続く（本書は550ページを越える大部だ）。オカルト思想についての書籍はそれなりに慣れている筆者も、一進一退しながら少しずつ読み進め、1ヶ月ほどかけてようやく読み終えることができた。
+
+何故わざわざ筆者がこのように難解な書籍に挑んでいたのか。その理由を語る前にまず、**「もう一つの『加速主義』」**について説明したい。
+
+「もう一つの『加速主義』」については既に一度触れたことがあるが、ここで改めて説明したい。「加速主義」自体は既に日本語での解説が多くなされているため、ご存じの方も多いだろう。資本主義が持つダイナミズム（特に技術革新）を「加速」させることで、現状の資本主義社会システムを超越した社会へと脱出することを目指す思想だ。
+
+ところが、現代の極右やネオナチ、白人至上主義といった過激思想に関する話題の中でも同じ**「加速主義」**という言葉が使われることがあり、**送電網攻撃の主犯勢力が「加速主義者」と呼ばれていることもある。**この場合の「加速主義者」はネオナチと深い繋がりを持つ存在を持つことが指摘されており、名称は同一であるものの、明らかに前述の「加速主義」とは異なる論理で動いているように見受けられる。そして、この種の加速主義は日本ではまだほとんど紹介されていない。
+
+前にも触れた通り、これは**「戦闘的加速主義」**と呼ばれる思想・運動であり、同一のルーツを持つ「加速主義」思想の変形というよりは、異なるルーツを持つ思想を表すものとして、極右ネオナチネットワークが**他所の言葉を借用したものだ。**その大要は**「社会的な対立を『加速させる』ことで現在の腐敗した社会を完全に崩壊させ、白人至上主義者にとっての理想社会を到来させる」**というもので、対立の激化を待たずして社会を破壊する行動にも繋がる。ただただ危険で破壊的なために紹介する必然性がほとんどなく、世間には全く知られていないが、筆者にとってはこのような思想こそが興味深いのだ。少なくとも思想性を失い、陰謀「論」とすら呼べなくなってしまった昨今の動きよりは惹かれるものがあり、文書も多く存在している（ただし、その危険性から各所でブロックされており、入手困難な文書も多い）。
+
+また、本心では今の世界の破滅を望んでいるにもかかわらず、「先の主張はあくまで表現の一つであって、社会は平和であってほしいと考えているし破壊行為には反対である、言葉を誤った意味で受け取られては困る」などとまともさを装い、批判されるとすぐに考えを曲げるような（本邦で幅をきかせている）勢力よりはある意味で誠実ではある。
+
+この「戦闘的加速主義」が明示された文書の一つとしてよく挙げられるものに、2019年のクライストチャーチモスク銃乱射事件（死者51名、負傷者89名）を起こしたブレントン・タラントが攻撃直前に公開していた74ページのマニフェスト、"The Great Replacement"（この名前はもちろん、「グローバルエリートの陰謀によって白人が有色人種で置換されている」とするグレートリプレイスメント陰謀論に由来するものだ）がある。
+
+![](/rss/downloaded_images/17407b0dfd1c05e7f4802ad83c0e72a5.png)
+
+この文書には"Destabilization and Accelerationism: tactics for victory"とする章があり、前述したような戦闘的加速主義の思想が主張されている。一部を引用してみよう。
+
+（前略）
+
+
+我々は可能な限り社会を不安定化させ、不安を煽らなければいけない。現状維持を主張したり、たとえそれが我々の主張を支持するものであっても、最小限の変化しか求めない政治候補者は、結局のところ無益であり、有害ですらある。革命的な変化が必要であり、何よりも不可欠なのだ。
+
+こうした激動の時代は、行動によってもたらされ得る。例えば、既存の体制を根本的に変革したり、それに異議を唱えたりする政治候補者に投票すること、あらゆる社会紛争を支持、攻撃、中傷、過激化、誇張することで公共の議論を過激化させること、そして社会紛争の両陣営における弱者や穏健派の指導者／影響力のある人物を攻撃したり、暗殺したりすることなどが挙げられる。
+
+（中略）
+
+元が何であれ、過激で暴力的な変化を奨励する方が遥かに良い。なぜなら、大きな、そして激しい変化は、過激な変化と社会的な混乱の時代にのみ起こり得るからだ。
+
+（中略）
+
+不安定化させ、支配権を握る。社会を根本的かつ抜本的に変革したいのであれば、社会を可能な限り過激化させる必要がある。
+
+Therefore we must destabilize and discomfort society where ever possible. A political candidate that keeps the status quo or only seeks to introduceminimal change, even when the minimal change is in support of our cause, is ultimately useless or even damaging. Revolutionary change is needed and above all necessary.
+
+
+These tumultuous times can be brought about through action. For example, actions such as voting for political candidates that radically change or challenge entrenched systems, radicalizing public discourse by both supporting, attacking, vilifying, radicalizing and exaggerating all societal conflicts and attacking or even assassinating weak or less radical leaders/influencers on either side of social conflicts.
+
+It is far better to encourage radical, violent change regardless of its origins. As only in times of radical change and social discomfort can great and terrific change occur.
+
+Destabilize, then take control. If we want to radically and fundamentallychange society, then we need to radicalize society as much as possible.
+
+ここでは社会の対立を激化させて可能な限り過激化させ、不安定にすることで発生するであろう革命的な変化・抜本的な改革を待望する、ある種の終末への欲求が直截的に表現されている。「自分が本当に求めているもの」を建前的に誤魔化し、逃げ続ける本邦の陰謀論界隈とは全く異なる、本音の世界がそこにはある（本音を貫いてテロを起こされても困るのだが…）。
+
+この「加速主義」は2010年代の極右ネオナチフォーラムで醸成されたものであり、そこで思想的支柱とされるのはネオナチ作家ジェームス・メイソンによる『Siege』（チャールズ・マンソンが称賛され、ローン・ウルフ型のテロが志向される）や、オクラホマシティ連邦政府ビル爆破事件を起こしたティモシー・マクベイが愛読し、コピーを販売していたことでも知られるネオナチ小説『The Turner Diaries』（筆者は今読んでいる最中）などだ。
+
+![](/rss/downloaded_images/c455337632ec171b1edca0d06b608ee2.png)
+
+そして、こうした戦闘的加速主義の先駆けとして扱われているのがユリウス・エヴォラなのだ。過激思想の研究者からは、この手の加速主義の思想的核心がエヴォラに由来するという指摘がされている。
+
+政治と宗教が融合した思想であり、哲学者ユリウス・エヴォラの著作に多くを依っている。エヴォラはファシズムと「伝統主義」を融合させた。伝統主義とは、ヘルメス主義のオカルト思想とヒンドゥー教の循環的時間観、そして今は失われた原始的なヨーロッパの異教信仰を組み合わせた、20世紀の混淆的な宗教運動である。この教義の融合、すなわち「伝統主義的ファシズム」の信奉者たちは、彼らが現在進行中の腐敗の時代であるカリ・ユガが終末戦争によって一掃された後に、カースト制度に基づく人種的に純粋な「有機的」社会が回復されると信じており、混沌と暴力を生み出すことでカリ・ユガの終焉を早めることが自分たちの役割だと考えている。
+
+
+[The Iron March Forum and the Evolution of the “Skull Mask” Neo-Fascist Network](https://web.archive.org/web/20220625000040/https://ctc.usma.edu/the-iron-march-forum-and-the-evolution-of-the-skull-mask-neo-fascist-network/)
+
+a political-religious hybrid based in large part on the work of the philosopher Julius Evola. Evola mixed fascism with ‘Traditionalism,’ a syncretic 20th century religious movement that combines Hermetic occultism with the Hindu doctrine of cyclical time and a belief in a now-lost primordial European paganism. Adherents of this blend of doctrines, which can be termed ‘Traditionalist fascism’ believe that a caste-based, racially pure ‘organic’ society will be restored after what they believe to be an ongoing age of corruption, the Kali Yuga, is swept away in an apocalyptic war, and that it is their role to hasten the end of the Kali Yuga by generating chaos and violence.
+
+
+この指摘を読むだけでも、エヴォラの思想にオカルト・神秘主義が色濃く含まれることが分かるだろう。ここで腐敗した（現在進行形の）時代とされているカリ・ユガとは、ヒンドゥー教・インド哲学において循環すると考えられている時代区分（ユガ）のうち最後のものであり（他にサティヤ・ユガ、トレーター・ユガ、ドヴァーパラ・ユガがある）、ここでも言われているように人々が堕落する時代とされる。そしてカリ・ユガの終わりにはヴィシュヌ10番目の化身=カルキが現れて悪を浄化し、世界は新たな周期を迎える（筆者は仏教における末法と弥勒菩薩を連想したが、こういう話をずっとしていたい）。
+
+そして、西洋・東洋の様々な宗教や神秘主義を取り込んだエヴォラの思想が著された代表作が、冒頭で筆者が悪戦苦闘していた『現代世界への叛乱』なのだ。そこでは果たして、どのような思想が語られていたのか…については後編で概説したい。
+
+（後編へ続く）
+
+## ここから先は
+
+[怪事調査記録（月額版）](/caffelover/m/m3c5be6cca719)
+
+社会に溢れるスピリチュアルやオカルト、陰謀論や悪徳商法、詐欺などを調査・考察した記録の月額版です。
+
+この記事が気に入ったらチップで応援してみませんか？
