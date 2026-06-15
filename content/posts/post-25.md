@@ -16,7 +16,7 @@ image: "/rss/downloaded_images/3b118bde5e2eafb1bce917f75f4f788b.jpg"
 
 したがって、投資家はハypeに流されず、実際の収益と事業の健全性を慎重に評価し、市場の過熱状況に警戒すべきである。
 
-\n
+
 
 ---
 

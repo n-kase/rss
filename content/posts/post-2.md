@@ -14,7 +14,7 @@ image: "/rss/downloaded_images/7d416b134e395a251a69d1e3c6fea991.jpg"
 
 したがって、公人に対しては外見や一時的な話題だけでなく、多面的な才能や努力を尊重し、過度な scrutinizing を控える姿勢が求められる。
 
-\n
+
 
 ---
 

@@ -16,7 +16,7 @@ image: "/rss/downloaded_images/de6d6bb8ce5317acf94d95d3df7de613.jpg"
 
 したがって、AI開発者は危機時の即時的な人間支援への転換や、専門家による監視を必須とする設計に見直すべきだ。
 
-\n
+
 
 ---
 

@@ -14,7 +14,7 @@ image: "/rss/downloaded_images/7c212336b91714329cf94e3ace12fbcf.jpg"
 
 したがって、文化的価値の高いアイテムを良好な状態で保存すれば大きなリターンを得られる可能性があり、コレクターや投資家は rarity（希少性）と provenance（ provenance ）を慎重に見極めるべきだということが教訓となる。
 
-\n
+
 
 ---
 
