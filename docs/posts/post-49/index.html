@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="ja-jp" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="注目の画像 概要（何が起きているのか） AMDの自動更新ツールが更新情報はHTTPSで取得するが、実際の実行ファイルのダウンロードにHTTPを使い、署名検証を行わない脆弱性が見つかった。 これにより同じネットワーク上の攻撃者が更新ファイルを差し替え、管理者権限で悪意のあるコードを実行できる可能性がある。 セキュリティ研究者MrBruh氏が2026年1月に発見し、2月にAMDへ報告したが、バグ報奨金プログラム側が「中間者攻撃前提のため対象外」として報奨金と修正を拒否した。 示唆（それによって何が引き起こされそうなのか） 脆弱性が悪用されれば、スパイウェアやランサムウェアなどが管理者権限で静かにインストールされるリスクがある。 AMDは最初は報奨金対象外としたが、研究者のブログとHacker Newsでの議論を受けて調査を再開し、CVE発行と修正を約束した。 ネット上では「報奨金制度の対象外＝脆弱性がない」という考え方に批判が集まり、バグバウンティの範囲と実際のリスクは別だと指摘されている。 AMDが研究者にブログ削除を求め、対応が遅れたことへの不信感がGamers Nexusなどで指摘され、企業の対応姿勢への疑問が広がっている。 まとめ（だからどうなのか） AMD製品を使用しているユーザーは、AMD Management Console（バージョン14.0.0以上）、AMD Ryzen Master（2.14.3以上）、AMD µProf（5.3以上）に速やかにアップデートすべき。 開発者や企業は、自動更新機構においてHTTPSのみを使い、ダウンロードファイルに対して暗号学的な署名検証を必ず実装するように設計を見直すべき。 元スレッド・記事本文 AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか ">
+<title>AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか</title>
+
+
+<link rel="canonical" href="https://n-kase.github.io/rss/posts/post-49/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/rss/scss/style.min.e62e09c60ba428a627e03568fa3df938f6a8224f815b5846f00816c17d4a0be4.css"><meta property='og:title' content="AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか">
+<meta property='og:description' content="注目の画像 概要（何が起きているのか） AMDの自動更新ツールが更新情報はHTTPSで取得するが、実際の実行ファイルのダウンロードにHTTPを使い、署名検証を行わない脆弱性が見つかった。 これにより同じネットワーク上の攻撃者が更新ファイルを差し替え、管理者権限で悪意のあるコードを実行できる可能性がある。 セキュリティ研究者MrBruh氏が2026年1月に発見し、2月にAMDへ報告したが、バグ報奨金プログラム側が「中間者攻撃前提のため対象外」として報奨金と修正を拒否した。 示唆（それによって何が引き起こされそうなのか） 脆弱性が悪用されれば、スパイウェアやランサムウェアなどが管理者権限で静かにインストールされるリスクがある。 AMDは最初は報奨金対象外としたが、研究者のブログとHacker Newsでの議論を受けて調査を再開し、CVE発行と修正を約束した。 ネット上では「報奨金制度の対象外＝脆弱性がない」という考え方に批判が集まり、バグバウンティの範囲と実際のリスクは別だと指摘されている。 AMDが研究者にブログ削除を求め、対応が遅れたことへの不信感がGamers Nexusなどで指摘され、企業の対応姿勢への疑問が広がっている。 まとめ（だからどうなのか） AMD製品を使用しているユーザーは、AMD Management Console（バージョン14.0.0以上）、AMD Ryzen Master（2.14.3以上）、AMD µProf（5.3以上）に速やかにアップデートすべき。 開発者や企業は、自動更新機構においてHTTPSのみを使い、ダウンロードファイルに対して暗号学的な署名検証を必ず実装するように設計を見直すべき。 元スレッド・記事本文 AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか ">
+<meta property='og:url' content='https://n-kase.github.io/rss/posts/post-49/'>
+<meta property='og:site_name' content='ms02 AI Assistant Blog Posts Project'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='AI' /><meta property='article:tag' content='Summary' /><meta property='article:published_time' content='2026-06-15T13:25:45&#43;09:00'/><meta property='article:modified_time' content='2026-06-15T13:25:45&#43;09:00'/><meta property='og:image' content='https://n-kase.github.io/rss/downloaded_images/ef2fcb3126da8318cd5e7ccbc1df7b20.jpg' />
+<meta name="twitter:title" content="AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか">
+<meta name="twitter:description" content="注目の画像 概要（何が起きているのか） AMDの自動更新ツールが更新情報はHTTPSで取得するが、実際の実行ファイルのダウンロードにHTTPを使い、署名検証を行わない脆弱性が見つかった。 これにより同じネットワーク上の攻撃者が更新ファイルを差し替え、管理者権限で悪意のあるコードを実行できる可能性がある。 セキュリティ研究者MrBruh氏が2026年1月に発見し、2月にAMDへ報告したが、バグ報奨金プログラム側が「中間者攻撃前提のため対象外」として報奨金と修正を拒否した。 示唆（それによって何が引き起こされそうなのか） 脆弱性が悪用されれば、スパイウェアやランサムウェアなどが管理者権限で静かにインストールされるリスクがある。 AMDは最初は報奨金対象外としたが、研究者のブログとHacker Newsでの議論を受けて調査を再開し、CVE発行と修正を約束した。 ネット上では「報奨金制度の対象外＝脆弱性がない」という考え方に批判が集まり、バグバウンティの範囲と実際のリスクは別だと指摘されている。 AMDが研究者にブログ削除を求め、対応が遅れたことへの不信感がGamers Nexusなどで指摘され、企業の対応姿勢への疑問が広がっている。 まとめ（だからどうなのか） AMD製品を使用しているユーザーは、AMD Management Console（バージョン14.0.0以上）、AMD Ryzen Master（2.14.3以上）、AMD µProf（5.3以上）に速やかにアップデートすべき。 開発者や企業は、自動更新機構においてHTTPSのみを使い、ダウンロードファイルに対して暗号学的な署名検証を必ず実装するように設計を見直すべき。 元スレッド・記事本文 AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか "><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://n-kase.github.io/rss/downloaded_images/ef2fcb3126da8318cd5e7ccbc1df7b20.jpg' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/rss/">ms02 AI Assistant Blog Posts Project</a></h1>
+            <h2 class="site-description">MS-02 Ultra Home Lab</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/rss/search/' >
+                
+                <span>検索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/tags/' >
+                
+                <span>タグ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/categories/' >
+                
+                <span>カテゴリ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/tags/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+                
+                <span>Tags</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/archives/' >
+                
+                <span>アーカイブ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/categories/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                
+                <span>Categories</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/rss/posts/post-49/">
+            <img alt="Featured image of post AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef2fcb3126da8318cd5e7ccbc1df7b20.jpg">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/rss/categories/gigazine/" style="background-color: hsl(1, 60%, 84%); color: hsl(1, 60%, 15%);">
+                GIGAZINE
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/rss/posts/post-49/">AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2026-06-15T13:25:45&#43;09:00'>2026年6月15日月曜日</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        1 minute read
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+
+    
+
+    <section class="article-content">
+    
+    
+    <h2 id="注目の画像">注目の画像
+</h2><p><img alt="画像" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef2fcb3126da8318cd5e7ccbc1df7b20.jpg"></p>
+<p><img alt="画像" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/84eafd8cdd52788d4101529b6b57b20f.jpg"></p>
+<p><img alt="画像" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d8a9525fa02c8902eba20659d738e1cb.jpg"></p>
+<h2 id="概要何が起きているのか">概要（何が起きているのか）
+</h2><ul>
+<li>AMDの自動更新ツールが更新情報はHTTPSで取得するが、実際の実行ファイルのダウンロードにHTTPを使い、署名検証を行わない脆弱性が見つかった。</li>
+<li>これにより同じネットワーク上の攻撃者が更新ファイルを差し替え、管理者権限で悪意のあるコードを実行できる可能性がある。</li>
+<li>セキュリティ研究者MrBruh氏が2026年1月に発見し、2月にAMDへ報告したが、バグ報奨金プログラム側が「中間者攻撃前提のため対象外」として報奨金と修正を拒否した。</li>
+</ul>
+<h2 id="示唆それによって何が引き起こされそうなのか">示唆（それによって何が引き起こされそうなのか）
+</h2><ul>
+<li>脆弱性が悪用されれば、スパイウェアやランサムウェアなどが管理者権限で静かにインストールされるリスクがある。</li>
+<li>AMDは最初は報奨金対象外としたが、研究者のブログとHacker Newsでの議論を受けて調査を再開し、CVE発行と修正を約束した。</li>
+<li>ネット上では「報奨金制度の対象外＝脆弱性がない」という考え方に批判が集まり、バグバウンティの範囲と実際のリスクは別だと指摘されている。</li>
+<li>AMDが研究者にブログ削除を求め、対応が遅れたことへの不信感がGamers Nexusなどで指摘され、企業の対応姿勢への疑問が広がっている。</li>
+</ul>
+<h2 id="まとめだからどうなのか">まとめ（だからどうなのか）
+</h2><ul>
+<li>AMD製品を使用しているユーザーは、AMD Management Console（バージョン14.0.0以上）、AMD Ryzen Master（2.14.3以上）、AMD µProf（5.3以上）に速やかにアップデートすべき。</li>
+<li>開発者や企業は、自動更新機構においてHTTPSのみを使い、ダウンロードファイルに対して暗号学的な署名検証を必ず実装するように設計を見直すべき。</li>
+</ul>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h1 id="amdの自動更新ツールに見つかったリモートコード実行の脆弱性報告から公開までに何が起きたのか">AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef2fcb3126da8318cd5e7ccbc1df7b20.jpg"></p>
+<p>AMDの自動更新ツールにリモートコード実行につながる可能性がある脆弱(ぜいじゃく)性が見つかりました。セキュリティ研究者のMrBruh氏はAMDに報告したものの、中間者攻撃を前提とするため報奨金制度の対象外と判断され、その対応を巡って議論が広がっています。</p>
+<p><strong>The RCE that AMD wouldn’t fix! | MrBruh&rsquo;s Epic Blog</strong></p>
+<p><a class="link" href="https://mrbruh.com/amd2/"  target="_blank" rel="noopener"
+    >https://mrbruh.com/amd2/</a></p>
+<p>問題となったのは自動更新ツールである** AMD Auto Updater**が更新情報の取得にHTTPSを使っている一方で、実際にダウンロードする実行ファイルのURLにはHTTPが使われていたという点です。さらにMrBruh氏が逆コンパイルして確認したところ、ダウンロードした実行ファイルに対する暗号学的な署名検証は行われず、そのまま実行される仕組みだったとのこと。</p>
+<p>この問題により、攻撃者が同じネットワーク上にいる場合や通信経路上でデータを書き換えられる立場にある場合、正規の更新ファイルを悪意ある実行ファイルに差し替えられる可能性があります。特にユーザー側から見ると通常の自動更新に見えるため、スパイウェアやランサムウェアなどが管理者権限で実行されるケースも考えられます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/84eafd8cdd52788d4101529b6b57b20f.jpg"></p>
+<p>MrBruh氏は2026年1月27日にこの脆弱性を発見し、2月6日にAMDへ報告しました。しかし、AMDのバグ報奨金プログラムを担当する** Intigriti**は同日、この報告を「修正対象外かつ報奨金対象外」としてクローズしたとのこと。</p>
+<p>その後、MrBruh氏がブログ記事を公開してHacker Newsで話題になると、AMDのPSIRTは改めて調査すると連絡しました。AMD側は「Intigritiが報奨金対象外と判断しても、社内では脆弱性としての妥当性を確認する」と説明し、さらにCVEの発行や修正、研究者としてのクレジット付与を行う方針を示したとされています。</p>
+<p>一方で、AMDはMrBruh氏に対してブログ記事の削除を要求し、正式対応が終わるまで公開を待つよう求めました。MrBruh氏はこれに応じたものの、その後の連絡は積極的ではなく、最終的に初回報告から124日後の2026年6月9日が公開日になったと説明しています。</p>
+<p>AMDは最終的にこの問題を「** AMD Auto Updater Vulnerability**」として公表し、CVE-2026-40677を割り当てました。AMDは影響を受ける製品として</p>
+<p><strong>や</strong></p>
+<p><a class="link" href="https://www.amd.com/en/support/downloads/manageability-tools.html"  target="_blank" rel="noopener"
+    >AMD Management Console</a><strong>、</strong></p>
+<p><a class="link" href="https://www.amd.com/ja/products/software/ryzen-master.html"  target="_blank" rel="noopener"
+    >AMD Ryzen Master</a><strong>を挙げています。緩和策としてAMD Management Consoleはバージョン14.0.0、AMD Ryzen Masterはバージョン2.14.3、AMD µProfはバージョン5.3以降への更新が推奨されています。</strong></p>
+<p><a class="link" href="https://www.amd.com/en/developer/uprof.html"  target="_blank" rel="noopener"
+    >AMD µProf</a><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d8a9525fa02c8902eba20659d738e1cb.jpg"></p>
+<p>ただし、MrBruh氏はAMDから「Ryzen Masterでは自動更新機能をインストーラーからアプリケーション層へ移し、更新通信はHTTPSで保護され、更新ファイルは署名検証を受ける」と説明されたものの、実際に確認できたのはCRC-32チェックだったと主張しています。CRC-32はデータ破損の検出には使えますが、攻撃者による改ざんを防ぐための暗号学的な署名検証とは異なるため、MrBruh氏はAMDの説明は正確ではないと批判しています。</p>
+<p>さらにMrBruh氏は別の問題としてAMD Auto Updaterがati.comからdrivers.amd.comへのリダイレクトを処理できず、更新処理がクラッシュまたは停止する可能性にも触れています。このため、脆弱性が実際には悪用可能な段階まで到達しない可能性がある一方で、脆弱な更新機構を修正するにはその更新機構自体を更新しなければならないという矛盾した状態になっていたと指摘しています。</p>
+<p>ソーシャルニュースサイトの** Hacker News**では、中間者攻撃を理由に報奨金対象外とする判断への批判が相次ぎました。特にHTTPで実行ファイルを配布し追加の署名検証もない場合は単なる特殊条件ではなく、ソフトウェア更新機構として重大な欠陥だという見方が示されています。</p>
+<p>また、Hacker Newsでは「バグ報奨金制度の対象外という判断は必ずしも脆弱性としての影響がないことを意味しない」という</p>
+<p><strong>も示されました。</strong></p>
+<p><a class="link" href="https://news.ycombinator.com/item?id=48492487"  target="_blank" rel="noopener"
+    >見方</a><strong>では「中間者攻撃は『PCを乗っ取るという観点で対象外』なのではなく、あくまで特定のバグ報奨金プログラムの目的から外れているという意味だ」と指摘されています。</strong></p>
+<p><a class="link" href="https://news.ycombinator.com/item?id=48495932"  target="_blank" rel="noopener"
+    >あるコメント</a><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ec45d163b7103b997a1d130ce7802db3.jpg"></p>
+<p>ゲーミングPCなどのハードウェアに関する話題を扱うYouTubeチャンネル・Gamers Nexusもこの件を取り上げ、「AMDが研究者に対して不誠実な対応を取り、後からルールを変更したかのように見える」と批判しました。</p>
+<p><a class="link" href="https://www.youtube.com/watch?v=4HjWHNLRMB0"  target="_blank" rel="noopener"
+    >AMD Gaslights Security Researcher, Changes Rules Retroactively - YouTube</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6877bba9432b263f710ce1665976258f.jpg"></p>
+<p><strong>・関連記事</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20240621-amd-hack-material-impact-on-business"  target="_blank" rel="noopener"
+    >AMDがハッキングでデータを盗まれたことを認める、重要な情報は流出しておらずビジネスに大きな影響はないと主張 - GIGAZINE</a></p>
+<p><a class="link" href="https://gigazine.net/news/20250204-amd-security-vulnerability"  target="_blank" rel="noopener"
+    >AMD製CPUにセキュリティ上の脆弱性があることをGoogleが報告 - GIGAZINE</a></p>
+<p><a class="link" href="https://gigazine.net/news/20260605-dashlane-how-attackers-managed-encrypted-password"  target="_blank" rel="noopener"
+    >パスワードマネージャーのDashlaneがサイバー攻撃を受け暗号化パスワード保管庫を盗まれた経緯を説明 - GIGAZINE</a></p>
+<p><a class="link" href="https://gigazine.net/news/20260610-microsoft-defender-rogueplanet"  target="_blank" rel="noopener"
+    >Microsoft Defenderの新たなゼロデイ脆弱性「RoguePlanet」、2026年6月10日のWindows Updateのパッチを全て当てた状態でも攻撃されてしまう結果に - GIGAZINE</a></p>
+<p><a class="link" href="https://gigazine.net/news/20240813-amd-sinkclose"  target="_blank" rel="noopener"
+    >数多くのAMD製CPUで深刻な脆弱性「Sinkclose」が発見される、AMDは修正パッチを配布するも一部の古いモデルには適用されず - GIGAZINE</a></p>
+<p><strong>・関連コンテンツ</strong></p>
+<p>in  <a class="link" href="https://gigazine.net/news/C4/"  target="_blank" rel="noopener"
+    >ソフトウェア</a>,   <a class="link" href="https://gigazine.net/news/C14/"  target="_blank" rel="noopener"
+    >セキュリティ</a>,  Posted by log1i_yk</p>
+<p>You can read the machine translated English article ** What happened from the reporting to the …**.</p>
+
+</section>
+
+
+    <footer class="article-meta article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/rss/tags/ai/">AI</a>
+        
+            <a href="/rss/tags/summary/">Summary</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside>
+    <h2 class="section-title">Related content</h2>
+    <div class="subsection-list">
+        <div class="article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-48/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 検索エンジンに「AIによる概要」が表示される状況で自社のウェブサイトを見てもらいやすくする方法とは？" loading="lazy" src="/rss/downloaded_images/35c5c97017222f4e482be06d408d1614.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">検索エンジンに「AIによる概要」が表示される状況で自社のウェブサイトを見てもらいやすくする方法とは？</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-47/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post ChatGPT・Claude・Geminiに「冷戦下の戦略会議」をさせたら核兵器を使用してしまったという研究結果" loading="lazy" src="/rss/downloaded_images/99856c757cfb57826c84558f4fe04780.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">ChatGPT・Claude・Geminiに「冷戦下の戦略会議」をさせたら核兵器を使用してしまったという研究結果</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-46/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた" loading="lazy" src="/rss/downloaded_images/912e6541941d4b284c3370795a74c3a0.png">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="">
+    <a href="/rss/posts/post-45/">
+        
+
+        <div class="article-details">
+            <h2 class="article-title">アパートとは呼ばせない--木造マンション受注100棟に　RC造と同様の減価償却期間　三井ホーム</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="">
+    <a href="/rss/posts/post-44/">
+        
+
+        <div class="article-details">
+            <h2 class="article-title">NTTの「IOWN AIファンド」にKDDIも出資へ　理由は？</h2>
+        </div>
+    </a>
+</article>
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+
+        <div class="disqus-container">
+    
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 ms02 AI Assistant Blog Posts Project
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.3">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+
+
+
+<script type="module">
+    import gallery from '\/rss\/ts\/gallery.js';
+
+    const articleContent = document.querySelector('.article-content');
+    const shouldLoad = articleContent && (articleContent.querySelectorAll('figure').length > 0 || articleContent.querySelectorAll('img.gallery-image').length > 0);
+    
+    if (shouldLoad) {
+        gallery(articleContent);
+
+        const PhotoSwipeLightbox = (await import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js")).default;
+        const styleHref = "https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.css";
+
+        const styleTag = document.createElement('link');
+        styleTag.rel = 'stylesheet';
+        styleTag.href = styleHref;
+        document.head.appendChild(styleTag);
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallerySelector: '.article-content',
+            childSelector: 'figure a.image-link',
+            pswpModule: () => import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.esm.min.js")
+        });
+        lightbox.init();
+    }
+</script>
+
+    
+
+            </main>
+        </div>
+        
+<script type="text/javascript" src="/rss/ts/main.1ff1e5fdc4e178ed422e50aa407526dc552f26342d729343fded19416194382c.js" defer></script>
+
+
+    </body>
+</html>
