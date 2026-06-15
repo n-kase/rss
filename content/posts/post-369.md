@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/f26f582b4ae689cddf5fec5d8ccdac15.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # まさかの雪ロケも実現！ 「Lumi→A」の佐々木優佳里、可愛さも詰め込んだ季節感あふれる5th DVDリリース
 
@@ -53,3 +54,6 @@ WALLOP放送局ではレギュラー番組「Lumi→Aを推してみるっ？」
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

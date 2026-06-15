@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/2b02c90808c596a5335652ea5c5f825d.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 | ![はてラボ](/rss/downloaded_images/2b02c90808c596a5335652ea5c5f825d.png) ![はてな匿名ダイアリー はてな匿名ダイアリー](/rss/downloaded_images/9660339c255eaa5d62c8cc01e4483081.png) |
 
@@ -91,3 +92,6 @@ image: "/rss/downloaded_images/2b02c90808c596a5335652ea5c5f825d.png"
 とてもつらいあのことを考えると泣けてくるから、今は考えないようにしている。 という状態があるわけよ。 考えないで居る限り、涙がでることは無いんだけど、そのままの状態が続く...
 
 ‥‥おぼえておくといい、おじょうちゃん。 オトコが泣くのは‥‥すべてを終えたときだけ、だぜ。
+
+
+</details>

@@ -19,7 +19,8 @@ tags: ["水野美紀祭り", "ミーム", "SNS", "Threads", "X"]
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 米MetaのSNSで6月10日ごろから、「水野美紀祭り」が起きている。女優の水野美紀さんが叫んでいる画像に、何らかの主張を添えて投稿・リプライするミームだ。
 
@@ -38,3 +39,6 @@ Copyright © ITmedia, Inc. All Rights Reserved.
 Special
 
 PRメールマガジンのお知らせ
+
+
+</details>

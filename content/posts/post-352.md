@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/65d8af343e2bcb31b601ff04ef925e71.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # ジージェネ、またもやセルラン1位でダイヤ3000個配布
 
@@ -69,3 +70,6 @@ image: "/rss/downloaded_images/65d8af343e2bcb31b601ff04ef925e71.jpg"
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

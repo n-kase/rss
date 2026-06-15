@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/4cc02b8f4532b4b00b883f617ee99917.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![ぬい活　ぬいぐるみ　推し活　少子化　ペット　未婚　独身　母性本能　ネットの反応に関連した画像-01](/rss/downloaded_images/4cc02b8f4532b4b00b883f617ee99917.jpg)
 
@@ -51,3 +52,6 @@ image: "/rss/downloaded_images/4cc02b8f4532b4b00b883f617ee99917.jpg"
 
 
 ※実際に、各業界で子供用品が縮小する一方でペット用品が拡大しており、「人間の子供をあきらめてペットで我慢する家庭も多いのでは？」と話題になっていた
+
+
+</details>

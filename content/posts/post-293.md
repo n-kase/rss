@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/2b02c90808c596a5335652ea5c5f825d.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 | ![はてラボ](/rss/downloaded_images/2b02c90808c596a5335652ea5c5f825d.png) ![はてな匿名ダイアリー はてな匿名ダイアリー](/rss/downloaded_images/9660339c255eaa5d62c8cc01e4483081.png) |
 
@@ -59,3 +60,6 @@ JRA銀行がオススメよ
 やたら時間かかるし面倒だからとりあえず楽天あたりに開設しとけ。 で、手数料安くて人気な投資信託買っておけばいいよ。
 
 お金がない人がまず始めるのはNISAじゃなくて労働
+
+
+</details>

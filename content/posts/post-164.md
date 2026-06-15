@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/39c489c774b1069cf2b3bc2d77e4142d.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/39c489c774b1069cf2b3bc2d77e4142d.jpg)
 
@@ -338,3 +339,6 @@ image: "/rss/downloaded_images/39c489c774b1069cf2b3bc2d77e4142d.jpg"
 
 
 via https://hayabusa9.2ch.sc/test/read.cgi/news/1781495641/
+
+
+</details>

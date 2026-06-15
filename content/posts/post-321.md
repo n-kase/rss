@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/bc5612b1f3c07d1eec9e2ec0875d967f.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 圏央道｢高速道路なのに道の駅｣がある理由とは？ SA／PAを補完する道の駅の新しいあり方
 
@@ -26,3 +27,6 @@ image: "/rss/downloaded_images/bc5612b1f3c07d1eec9e2ec0875d967f.jpg"
 
 
 [続きを読む](/articles/-/947730?display=b)
+
+
+</details>

@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/cc488a6ee90d893629e40407851a57db.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![ボビー・オロゴン 女性 性的暴行 不同意性交 逮捕に関連した画像-01](/rss/downloaded_images/cc488a6ee90d893629e40407851a57db.jpg)
 
@@ -575,3 +576,6 @@ image: "/rss/downloaded_images/cc488a6ee90d893629e40407851a57db.jpg"
 2026
 
 ...（長文のため省略されました）
+
+
+</details>

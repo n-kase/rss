@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/0a16ccbc260f96330ee08cfa62c2ce15.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 時間が溶ける〜！ Google Earthに無料のフライトシミュレーターモード
 
@@ -40,3 +41,6 @@ We've recently added many our most powerful professional desktop features to web
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/64d23035b3d85c034c2d289d431ed8a4.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/64d23035b3d85c034c2d289d431ed8a4.jpg)
 
@@ -214,3 +215,6 @@ image: "/rss/downloaded_images/64d23035b3d85c034c2d289d431ed8a4.jpg"
 ![aa-fit-20260615023830](/rss/downloaded_images/34a451e40462c99aac2c047e9060376d.png)
 
 via https://tomcat.2ch.sc/test/read.cgi/livegalileo/1781434506/
+
+
+</details>

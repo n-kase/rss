@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/45ea72a4da7f62a8a655b029999b865e.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![ボビー・オロゴン 性的暴行 不同意性交 否認に関連した画像-01](/rss/downloaded_images/45ea72a4da7f62a8a655b029999b865e.jpg)
 
@@ -602,3 +603,6 @@ image: "/rss/downloaded_images/45ea72a4da7f62a8a655b029999b865e.jpg"
 名無しオレ的ゲーム速報さん
 
 ...（長文のため省略されました）
+
+
+</details>

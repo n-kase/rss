@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/9274a01aa535527a139c705bdc73e622.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第147回）は、NVIDIA開発の物理AI向けオープンソースの世界モデル「Cosmos 3」や、ノートPCで動くGoogleのマルチモーダルAI「Gemma 4 12B」を取り上げます。
 
@@ -107,3 +108,6 @@ Google[GitHub](https://github.com/google-gemma) | [Blog](https://blog.google/inn
 **PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training**
 
 Zelun Zhang, Hongen Liu, Suyin Liang, Yubo Zhang, Yiqing Xiang, Jiaxuan Liu, Ting Sun, Manhui Lin, Yue Zhang, Changda Zhou, Tingquan Gao, Cheng Cui, Yi Liu, Dianhai Yu, Yanjun Ma[Paper](https://arxiv.org/abs/2606.03264) |[ GitHub](https://github.com/PADDLEPADDLE/PADDLEOCR) | [Hugging Face](https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6)
+
+
+</details>

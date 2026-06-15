@@ -12,6 +12,10 @@ image: "/rss/downloaded_images/cdce8d2825f1dc8f9e19906342678c16.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![任天堂 マリオ 未開封 オークション 4.8億円に関連した画像-01](/rss/downloaded_images/cdce8d2825f1dc8f9e19906342678c16.png)
+
+
+</details>

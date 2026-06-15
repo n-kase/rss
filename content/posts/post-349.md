@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/2f79e4dcbc8837d83290051101fb61f4.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/c73aaf3ddbaea6a9d61151de08527f82.jpg)
 
@@ -126,3 +127,6 @@ image: "/rss/downloaded_images/2f79e4dcbc8837d83290051101fb61f4.jpg"
 
 
 体感的に「盛りすぎ」に慣れっこになってきたとしても、実際、これだけの増量フェアはあっても年に数度のチャンス。お見逃し無いように！
+
+
+</details>

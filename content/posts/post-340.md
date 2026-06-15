@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/b83635314e0823c8867380894b86729b.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 擬態かくれんぼゲーム「めっちゃカメレオン」発売から4日で100万本超の大ヒット
 
@@ -66,3 +67,6 @@ image: "/rss/downloaded_images/b83635314e0823c8867380894b86729b.jpg"
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

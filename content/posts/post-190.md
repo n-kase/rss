@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/ef2912b240466056eaab8e3419f978f2.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/ef2912b240466056eaab8e3419f978f2.jpg)
 
@@ -233,3 +234,6 @@ YouTuberやインフルエンサーの特技は数字マウントして人を喰
 通勤通学が電車とかなら普通にもっと読んじゃうだろ
 
 via https://hayabusa3.2ch.sc/test/read.cgi/mnewsplus/1781417669/
+
+
+</details>

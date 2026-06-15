@@ -12,7 +12,8 @@ ASRockは、Intel Arc Pro B70を搭載したワークステーション向けグ
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # ASRock、Intel Arc Pro B70搭載GPU「Intel Arc Pro B70 Creator 32GB」を6月19日発売
 
@@ -33,3 +34,6 @@ ASRockは、**Intel Arc Pro B70**を搭載したワークステーション向
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

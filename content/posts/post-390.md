@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/b831b36e839119912a3c542471ec5c2b.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/b831b36e839119912a3c542471ec5c2b.jpg)
 
@@ -105,3 +106,6 @@ image: "/rss/downloaded_images/b831b36e839119912a3c542471ec5c2b.jpg"
 神奈川県警「うーん、自殺！w」
 
 via https://nova.2ch.sc/test/read.cgi/livegalileo/1781510363/
+
+
+</details>

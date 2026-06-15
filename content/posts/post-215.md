@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/efba546147b34d136b69efd35488553b.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![ワールドカップ 日本代表 瀬古歩夢 横断幕 SEXに関連した画像-01](/rss/downloaded_images/efba546147b34d136b69efd35488553b.png)
 
@@ -578,3 +579,6 @@ KがXになるのか
 戦勝国に倣えってんなら、中国は台湾に頭下げないといか
 
 ...（長文のため省略されました）
+
+
+</details>

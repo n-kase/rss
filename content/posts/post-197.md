@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/7fed5362804d819a08309337c01636ad.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/7fed5362804d819a08309337c01636ad.jpg)
 
@@ -276,3 +277,6 @@ image: "/rss/downloaded_images/7fed5362804d819a08309337c01636ad.jpg"
 
 
 via https://nova.2ch.sc/test/read.cgi/livegalileo/1781424471/
+
+
+</details>

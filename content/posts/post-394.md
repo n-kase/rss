@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/8dfc23e710da0b1d3a26aff8af271dea.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![自民党　高市早苗　首相　総理大臣　支持率　文春　誹謗中傷　動画　選挙　捏造に関連した画像-01](/rss/downloaded_images/8dfc23e710da0b1d3a26aff8af271dea.jpg)
 
@@ -448,3 +449,6 @@ FFN
 2026年06月1
 
 ...（長文のため省略されました）
+
+
+</details>

@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/e97ddbf6f694c029e6cefa4561cf7c43.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 [この画像を大きなサイズで見る](/archives/609740.html/1-3482)
 
@@ -156,3 +157,6 @@ References: [Medieval Distillation Vessel Found at Gnandstein Castle Points to A
 超高温超重力下で核融合起こせばワンチャン
 
 蘭引
+
+
+</details>

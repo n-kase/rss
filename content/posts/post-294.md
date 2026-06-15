@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/e4993bae6dcb3e5b8300d7cb850d291f.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![ochaduke01_01.jpg](/rss/downloaded_images/e4993bae6dcb3e5b8300d7cb850d291f.jpg)
 
@@ -173,3 +174,6 @@ CM* で、お茶づけを豆乳で作っているのを見た。
 
 
 | [▲デイリーポータルZトップへ](/) | ![](/rss/downloaded_images/c8463b8a35899101ad84bff803629d73.gif) [バックナンバーいちらんへ](https://dailyportalz.jp/kiji) |
+
+
+</details>

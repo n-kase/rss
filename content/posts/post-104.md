@@ -19,7 +19,8 @@ tags: ["AI", "チャットボット", "学習効果", "検索エンジン", "教
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「[Seamless](https://shiropen.com/)」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・[おね](https://shiropen.com/one/)氏が手掛けている。X：[＠shiropen2](https://x.com/shiropen2)
 
@@ -48,3 +49,6 @@ Copyright © ITmedia, Inc. All Rights Reserved.
 Special
 
 PRメールマガジンのお知らせ
+
+
+</details>

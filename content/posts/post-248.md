@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/f6b63d6af46c8c15f67aa4a52c24bb69.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![ワールドカップ メキシコ人男性 韓国人女性 差別 吊り目ジェスチャーに関連した画像-01](/rss/downloaded_images/f6b63d6af46c8c15f67aa4a52c24bb69.jpg)
 
@@ -533,3 +534,6 @@ l / _,_,__ ヽ tl } )) 右に出る民族はいないわ
 2026年
 
 ...（長文のため省略されました）
+
+
+</details>

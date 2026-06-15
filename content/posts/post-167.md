@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/7b022efc4c95ae746d92994152f88c96.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![GN8uP9CbIAAuCAD](/rss/downloaded_images/7b022efc4c95ae746d92994152f88c96.jpg)
 
@@ -95,3 +96,6 @@ image: "/rss/downloaded_images/7b022efc4c95ae746d92994152f88c96.jpg"
 29：
 
 左2は誰？
+
+
+</details>

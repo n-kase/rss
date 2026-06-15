@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/d52347ec62918ddd2c00f57dcb3ca239.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![ワールドカップ 中学生 学校 休む サボる 録画 に関連した画像-01](/rss/downloaded_images/d52347ec62918ddd2c00f57dcb3ca239.jpg)
 
@@ -498,3 +499,6 @@ Wカップ見たいよーで休ませるのもいいんじゃない
 名無しオレ的ゲ
 
 ...（長文のため省略されました）
+
+
+</details>

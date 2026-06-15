@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/d3a5dbec26b73d0fd440eb4cdbdce4b6.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![中東情勢 アメリカ イラン 戦闘終結 合意 ホルムズ海峡に関連した画像-01](/rss/downloaded_images/d3a5dbec26b73d0fd440eb4cdbdce4b6.jpg)
 
@@ -553,3 +554,6 @@ image: "/rss/downloaded_images/d3a5dbec26b73d0fd440eb4cdbdce4b6.jpg"
 2026年06月15
 
 ...（長文のため省略されました）
+
+
+</details>

@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/85046070d7635aff26fb67d89eca66b6.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![no title](/rss/downloaded_images/85046070d7635aff26fb67d89eca66b6.jpg)
 
@@ -109,3 +110,6 @@ image: "/rss/downloaded_images/85046070d7635aff26fb67d89eca66b6.jpg"
 
 
 via
+
+
+</details>

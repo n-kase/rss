@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/cf389bcad8871435b54c3e1114699a7a.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![コメント まとめ 注目 議論 に関連する記事-01](/rss/downloaded_images/cf389bcad8871435b54c3e1114699a7a.png)
 
@@ -254,3 +255,6 @@ image: "/rss/downloaded_images/cf389bcad8871435b54c3e1114699a7a.png"
 「
 
 ...（長文のため省略されました）
+
+
+</details>

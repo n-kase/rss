@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/68367d871f6d1d18ec33a7ff30d704d9.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 [【サッカーW杯】「日本人の想像するアメリカ人」を具現化したような『星条旗ビキニ女性』、スタイル抜群の美しすぎる写真がバズりまくるｗｗｗｗｗ](https://jin115.com/archives/52452943.html)
 
@@ -438,3 +439,6 @@ image: "/rss/downloaded_images/68367d871f6d1d18ec33a7ff30d704d9.jpg"
 [返信する](#comtit
 
 ...（長文のため省略されました）
+
+
+</details>

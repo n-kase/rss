@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/d48585e520107d523bf43a9d2631d41a.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![朝　飯　朝食　食事　パン　菓子パン　血糖値　魅力　顔に関連した画像-01](/rss/downloaded_images/d48585e520107d523bf43a9d2631d41a.jpg)
 
@@ -523,3 +524,6 @@ image: "/rss/downloaded_images/d48585e520107d523bf43a9d2631d41a.jpg"
 2
 
 ...（長文のため省略されました）
+
+
+</details>

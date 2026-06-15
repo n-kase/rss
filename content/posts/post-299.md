@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/ee5c1e16ef6e6c5b9c802f535fd94c0b.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![jiei](/rss/downloaded_images/ee5c1e16ef6e6c5b9c802f535fd94c0b.jpg)
 
@@ -421,3 +422,6 @@ https://amzn.to/4xqJ4Xf![](/rss/downloaded_images/4bb6d8f1959e413d9088d4c32d9d5c
 名無しのハムスター2026年06月15日 14:03 ID：MNBwLVuE0自衛隊の
 
 ...（長文のため省略されました）
+
+
+</details>

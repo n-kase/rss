@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/90fd5d0b729f837cefdf05a6325dc2af.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![見出し画像](/rss/downloaded_images/90fd5d0b729f837cefdf05a6325dc2af.png)
 
@@ -73,3 +74,6 @@ image: "/rss/downloaded_images/90fd5d0b729f837cefdf05a6325dc2af.png"
 そしてこれは、現在のリベラリストどもが執拗に認めたがらないことだが、不安定な知識と臆見に基づいてイスラームについて語る者は、どれほど対象を尊敬しているつもりであろうと、そもそも間違った語彙で誣言を弄している点において、甲高い声で「モスク」とやらの建設に反対して何か他者を拒絶した気になっている不憫な侏儒どもと全く同質の存在でしか
 
 ...（長文のため省略されました）
+
+
+</details>

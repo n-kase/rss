@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/2b3f9c14d5cb21362f100b77080d3626.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![uso](/rss/downloaded_images/2b3f9c14d5cb21362f100b77080d3626.jpg)
 
@@ -464,3 +465,6 @@ i l
 名無しのハムスター2026年06月13日 23:34 ID：ordcVE180ハムスター名無し2026年06月13日 23:35 ID：TCMQMg1u0名無しのハムスター2026年06月13日 23:35 ID：V.8SsxY
 
 ...（長文のため省略されました）
+
+
+</details>

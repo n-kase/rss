@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/4c507df60a051971d74ac1190fedd583.webp"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 [この画像を大きなサイズで見る](/archives/609245.html/top-369)
 
@@ -245,3 +246,6 @@ Tu-144再び！
 F-35のHMD技術の流用だと思います（あれもHMDで全周実現している）
 
 人類に気が使えるウルトラマンが音速を超えて飛行するとき細長くなると思うと萎える
+
+
+</details>

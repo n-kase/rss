@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/272fea4c52e5af77fad601cb756ae7d7.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # スナックをデジタル化するスナテク、プレシリーズAで2.2億円調達
 
@@ -31,3 +32,6 @@ image: "/rss/downloaded_images/272fea4c52e5af77fad601cb756ae7d7.png"
 同社は2024年8月に設立。昨年2月には鈴木おさむ氏らが参加した[シードラウンド](https://prtimes.jp/main/html/rd/p/000000001.000157005.html)で総額1億3,300万円を調達している。
 
 via [PR TIMES](https://prtimes.jp/main/html/rd/p/000000007.000157005.html)
+
+
+</details>

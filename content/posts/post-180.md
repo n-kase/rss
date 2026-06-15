@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/d716d38673e7d1acc5bd594c1b9a09f7.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![みいちゃん](/rss/downloaded_images/d716d38673e7d1acc5bd594c1b9a09f7.jpg)
 
@@ -53,3 +54,6 @@ image: "/rss/downloaded_images/d716d38673e7d1acc5bd594c1b9a09f7.jpg"
 — ぱんよん@ドラクエウォーク垢 (@24OR85pGIosKp9w)[2026年06月14日](https://x.com/24OR85pGIosKp9w/status/2066102405121650851)
 
 ![に関連した画像-02](/rss/downloaded_images/68684448e829fc2bea624aae21b9e301.jpg)
+
+
+</details>

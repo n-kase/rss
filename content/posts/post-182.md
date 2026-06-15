@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/9e5daeb19a71639a9760f61fefcc8e71.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![sss](/rss/downloaded_images/9e5daeb19a71639a9760f61fefcc8e71.png)
 
@@ -174,3 +175,6 @@ image: "/rss/downloaded_images/9e5daeb19a71639a9760f61fefcc8e71.png"
 何人の人が実験台として消えていくのやら
 
 via https://hayabusa9.2ch.sc/test/read.cgi/news/1773179756/
+
+
+</details>

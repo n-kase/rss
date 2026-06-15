@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/3ab76420c827c6f5c4f2a757e6ab850e.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![sss](/rss/downloaded_images/3ab76420c827c6f5c4f2a757e6ab850e.png)
 
@@ -77,3 +78,6 @@ image: "/rss/downloaded_images/3ab76420c827c6f5c4f2a757e6ab850e.png"
 — 没�ｭ怜ﾖ脳�研 (@Qto6BshdBJYXdch)[2026年06月12日](https://x.com/Qto6BshdBJYXdch/status/2065321302093910264)
 
 ![](/rss/downloaded_images/a13cb1efbb4a423d5dfa0e53925ba706.jpg)
+
+
+</details>

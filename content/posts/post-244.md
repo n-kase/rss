@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/a00349c3481369b8c884ba8858332965.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![ラブライブ ファブリーズ コラボ ラブライバー オタク 体臭 皮肉に関連した画像-01](/rss/downloaded_images/a00349c3481369b8c884ba8858332965.jpg)
 
@@ -516,3 +517,6 @@ Aqoursの小原鞠莉が就任しました✨
 2026年06月14
 
 ...（長文のため省略されました）
+
+
+</details>

@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/4bdddca5dad9b585c7a97aa7feb0bd06.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # デジタルコンテンツのグローバル決済代行Tokenz、シリーズAで総額10億円を調達
 
@@ -31,3 +32,6 @@ image: "/rss/downloaded_images/4bdddca5dad9b585c7a97aa7feb0bd06.png"
 調達資金はプロダクト開発強化（決済手段拡充、AI を活用した不正検知・税務最適化機能強化）、グローバル体制の拡大（現在展開している日本、シンガポール、米国、リトアニア、台湾に加えサポート体制強化）、決済・FinTech 領域の人材採用を含む組織基盤の強化に充当する。
 
 via [PR TIMES](https://prtimes.jp/main/html/rd/p/000000003.000163361.html)
+
+
+</details>

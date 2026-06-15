@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/8ce1409f107bbb7adc33722992d782f4.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![aae456c1-7445-4d33-9686-1ae4bf71003c](/rss/downloaded_images/8ce1409f107bbb7adc33722992d782f4.png)
 
@@ -195,3 +196,6 @@ image: "/rss/downloaded_images/8ce1409f107bbb7adc33722992d782f4.png"
 仮に貧乏人が行くにしても何が言いたいんだ　(´・ω・｀)
 
 via https://hayabusa9.2ch.sc/test/read.cgi/news/1781498703/
+
+
+</details>

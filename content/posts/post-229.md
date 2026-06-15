@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/d374049b37f9d65d6ad61227df6f1df6.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![W杯 遠藤航 離脱 森保JAPAN 初戦に関する画像-01](/rss/downloaded_images/d374049b37f9d65d6ad61227df6f1df6.png)
 
@@ -523,3 +524,6 @@ image: "/rss/downloaded_images/d374049b37f9d65d6ad61227df6f1df6.png"
 2026年06月15日
 
 ...（長文のため省略されました）
+
+
+</details>

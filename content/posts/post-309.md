@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/acd149e725f1d16cdec274edfcbbdfbe.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![73cceb2c-7e16-448d-b155-0ba18de38382](/rss/downloaded_images/acd149e725f1d16cdec274edfcbbdfbe.jpg)
 
@@ -417,3 +418,6 @@ https://amzn.to/3Q7C5Ss![](/rss/downloaded_images/629f90311a0f4869ddb091b0b8a461
 名無しのハムスター2026年06月14日 14:34 ID：uD0wEUpQ0アナタみたいに、自分さえよけれ
 
 ...（長文のため省略されました）
+
+
+</details>

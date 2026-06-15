@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/d9a4ae636bceb5e5ae709174c97534d3.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # ｢テレビ離れ｣と言われるけれど…日本人のテレビ利用に起きている"意外な変化"
 
@@ -23,3 +24,6 @@ image: "/rss/downloaded_images/d9a4ae636bceb5e5ae709174c97534d3.jpg"
 [続きを読む](/articles/-/947808?display=b)
 
 サッカーワールドカップ開幕や話題のWBC独占配信——私たちの｢テレビで観る｣体験は今､大きく変わりつつあります。動画配信やYouTube､ゲーム､音楽配信が台頭する中､テレビはどのように利用されているのでしょうか？最新データからその実態を探ります。（このリード文はAIが作成しました）
+
+
+</details>

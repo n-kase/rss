@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/535822e5fb020457b5c53b2771098af8.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![日本　皇室　天皇　後継　女系　男系　フェミニストに関連した画像-01](/rss/downloaded_images/535822e5fb020457b5c53b2771098af8.jpg)
 
@@ -498,3 +499,6 @@ image: "/rss/downloaded_images/535822e5fb020457b5c53b2771098af8.jpg"
 そうですよ？この世には性別じゃどうしよ
 
 ...（長文のため省略されました）
+
+
+</details>

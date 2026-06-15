@@ -20,7 +20,8 @@ image: "/rss/downloaded_images/69c152bfe0400bdbbd1fc43311250e41.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 「祈りが呪いに変わる」複雑な親子関係を新鋭・片野坂亮監督が描き出した映画『しらぬひ』トークイベントレポート
 
@@ -271,3 +272,6 @@ image: "/rss/downloaded_images/69c152bfe0400bdbbd1fc43311250e41.jpg"
 **片野坂：*
 
 ...（長文のため省略されました）
+
+
+</details>

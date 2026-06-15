@@ -18,7 +18,8 @@ image: "/rss/downloaded_images/513b007cc8270062d0be808a8a17a938.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 中国製AIモデル「Kimi K2.7 Code」がオープンモデルとして公開される、Kimiシリーズ最高のコーディング性能でトークン消費も少なめ
 
@@ -56,3 +57,6 @@ Kimi K2.7 Codeは以下のリンク先でオープンモデルとして公開さ
 
 ![](/rss/downloaded_images/f143a9a3825d36bf6c61b55852d9b0d3.png)
 
+
+
+</details>

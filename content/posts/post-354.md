@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/7123f1a96258a186d8c7c041a879fd4c.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/5e6dcf6eda6676ab3ae1f34b639d8a98.jpg)
 
@@ -55,3 +56,6 @@ image: "/rss/downloaded_images/7123f1a96258a186d8c7c041a879fd4c.jpg"
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

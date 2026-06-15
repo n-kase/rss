@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/ddadd13b493b56e73c3a52b3772940e2.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/ddadd13b493b56e73c3a52b3772940e2.jpg)
 
@@ -165,3 +166,6 @@ image: "/rss/downloaded_images/ddadd13b493b56e73c3a52b3772940e2.jpg"
 こんなん言ったらマツケンのとこに記者押しかけるやん
 
 via https://tomcat.2ch.sc/test/read.cgi/livegalileo/1781341224/
+
+
+</details>

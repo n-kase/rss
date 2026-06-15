@@ -18,7 +18,8 @@ image: "/rss/downloaded_images/7d416b134e395a251a69d1e3c6fea991.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 閲覧注意！激ヤバ！本当に怖い話
 
@@ -169,3 +170,6 @@ image: "/rss/downloaded_images/7d416b134e395a251a69d1e3c6fea991.jpg"
 152: 以下、ニュー速クオリティでお送りします  2026/06/15(月) 00:43:33.83 ID:9WpXSGxI0
 
 ここに賭けてんやろなぁ
+
+
+</details>

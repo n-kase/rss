@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/7aab98c7cafdf3754b4e663099421a61.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 [ノエルぺこらとスバルがスタジオでキメてたある物を箱買い【白銀ノエル/兎田ぺこら/大空スバル/ホロライブ切り抜き】](https://holocutmv.com/video/85669)
 
@@ -69,3 +70,6 @@ image: "/rss/downloaded_images/7aab98c7cafdf3754b4e663099421a61.jpg"
 💭好き好きオーラ出してる方じゃなくて出されてる方の方が実は重い感情を抱えてるっていう展開に俺は弱いぞ。覚えておけ。👍7
 
 💭ぺこみは言えない雰囲気👍1
+
+
+</details>

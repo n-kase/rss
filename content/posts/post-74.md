@@ -18,7 +18,8 @@ image: "/rss/downloaded_images/a3d20f9dfd38f59df60bbf8950e6ba70.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 「単語の見た目」が意味をイメージさせるものだと脳はその単語をより速く正確に処理できる
 
@@ -57,3 +58,6 @@ image: "/rss/downloaded_images/a3d20f9dfd38f59df60bbf8950e6ba70.jpg"
 ![](/rss/downloaded_images/efcb77548fdbddcc2a8d6a51bb65021f.jpg)
 
 シドゥ氏は、「言語は単なる単語とその意味以上のものだという** 認識**が広まりつつあり、声のトーンや身ぶり、視線などあらゆる要素が言語に関わっていることがわかっています。そこに今、『文字の形』というもうひとつの微妙な手がかりが加わったと言えるでしょう」と述べました。
+
+
+</details>

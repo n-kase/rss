@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/5be8a0e915c23a011be6a36fed427527.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/5be8a0e915c23a011be6a36fed427527.jpg)
 
@@ -180,3 +181,6 @@ image: "/rss/downloaded_images/5be8a0e915c23a011be6a36fed427527.jpg"
 
 
 via https://ai.2ch.sc/test/read.cgi/newsplus/1781441406/
+
+
+</details>

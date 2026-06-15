@@ -18,7 +18,8 @@ Z.aiは2026年6月13日に、最大100万トークンのコンテキストウィ
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ニュース
 
@@ -45,3 +46,6 @@ Intelligence should be open, accessible, and ready to build with, empowering eve
 GLM-5.2 is now available to all GLM Coding Plan users, including Lite, Pro, Max, and Team plans.[https://t.co/aOKcqZD5EJ](https://t.co/aOKcqZD5EJ)
 
 As our new flagship model, GLM-5.2 delivers…[June 13, 2026](https://x.com/Zai_org/status/2065704919299235870?ref_src=twsrc%5Etfw)
+
+
+</details>

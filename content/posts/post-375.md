@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/4268b1d1bdeae4f145c3b0ec9d19195c.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![asuka](/rss/downloaded_images/4268b1d1bdeae4f145c3b0ec9d19195c.jpg)
 
@@ -441,3 +442,6 @@ https://amzn.to/4uCZeKC![](/rss/downloaded_images/1ec3850d9b8d70b10537034b31d107
 ハムスター名無し2026年06月15日 16:03 ID：7e.Ue5690ハムスター名無し2026年06月15日 16:03 ID：q.j.o.Xf
 
 ...（長文のため省略されました）
+
+
+</details>

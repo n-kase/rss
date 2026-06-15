@@ -17,7 +17,8 @@ tags: ["AI", "マイクロソフト", "Anthropic", "輸出管理", "エコシス
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 米Microsoftのサティア・ナデラCEOは6月14日（現地時間）、Xに「A frontier without an ecosystem is not stable」（エコシステムなきフロンティアは不安定）と題した論考を投稿した。米AnthropicのAIモデル「Claude Fable 5」および「Claude Mythos 5」が米政府の輸出管理指令により全ユーザー向けに停止されてから2日後の投稿で、Fable 5への言及はない。
 
@@ -32,3 +33,6 @@ Copyright © ITmedia, Inc. All Rights Reserved.
 Special
 
 PRメールマガジンのお知らせ
+
+
+</details>

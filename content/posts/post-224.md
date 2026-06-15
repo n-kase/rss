@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/ae3731d3e656da90b91666e8108b8600.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![Kindle　セール　Amazon　漫画に関連した画像-01](/rss/downloaded_images/ae3731d3e656da90b91666e8108b8600.jpg)
 
@@ -295,3 +296,6 @@ KEYMAN
 名前：
 名無しオレ的ゲーム速報さん
 2026年06月15日 10:44
+
+
+</details>

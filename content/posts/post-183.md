@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/dd9607c609bd4e4302451c828b4e71d0.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/dd9607c609bd4e4302451c828b4e71d0.jpg)
 
@@ -116,3 +117,6 @@ kファッションも90年代の日本やしなぁ
 この手のデスゲームって何が最初なん？
 
 via https://tomcat.2ch.sc/test/read.cgi/livegalileo/1781430344/
+
+
+</details>

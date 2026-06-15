@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/25119ffa55c50e0372833b92c91305a1.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 更年期専門オンライン診療「Vivalle」のHerLifeLab、プレシリーズAで1.3億円調達
 
@@ -33,3 +34,6 @@ Vivalle は、更年期症状を抱える女性に対し、産婦人科専門医
 HerLifeLab は[2022年5月に設立](https://prtimes.jp/main/html/rd/p/000000007.000133842.html)。代表のオリガ・エリセーバ氏は OIST 客員研究員で医学博士。共同創業者の大塚響子氏は [NTTドコモベンチャーズや RevComm での経験](https://prtimes.jp/main/html/rd/p/000000001.000133842.html)を持つ。
 
 via [PR TIMES](https://prtimes.jp/main/html/rd/p/000000007.000133842.html)
+
+
+</details>

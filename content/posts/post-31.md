@@ -18,7 +18,8 @@ image: "/rss/downloaded_images/865cb479bd8a0ef6aee2cde1a185d58b.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 米AnthropicとNEC、および三井住友フィナンシャルグループや明治安田生命保険など金融8社は6月11日、AIを活用した新たな価値創出に向けた検討・共創の取り組みを開始すると[発表](https://jpn.nec.com/press/202606/20260611_01.html)した。
 
@@ -29,3 +30,6 @@ image: "/rss/downloaded_images/865cb479bd8a0ef6aee2cde1a185d58b.jpg"
 NECとAnthropicは4月、日本のエンタープライズ領域でのAI活用加速に向けた戦略的協業を開始しており、業種別の業務特化型AIソリューションの共同開発や、NECの価値創造モデル「BluStellar（ブルーステラ）」の課題解決シナリオへのClaude導入を進めている。今回はその協業の一環で、参画各社が開示可能な範囲で持つ業種・業務の知見を活用し、業界の枠を超えた協働体制を築くとしている。
 
 AnthropicでManaging Director of Internationalを務めるChris Ciauri氏は「日本の金融セクターの組織の皆さまにClaudeを提供することは、Anthropicにとって優先事項。その最良の方法は、この業界を最も深く理解する人々や組織とともに歩むことだと考えている」とコメント。NEC執行役 副社長 兼 COOの吉崎敏文氏は「金融機関の皆さまが保有する深い業務ナレッジに、Anthropic社の先端AI技術とBluStellarの知見・実装力を掛け合わせることで、日本市場におけるAIの可能性を最大限に引き出す」と述べている。
+
+
+</details>

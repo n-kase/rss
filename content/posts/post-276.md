@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/0a7e74573ab9c82e73d66d470c717ed4.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 天皇皇后両陛下、オランダ国王夫妻とサッカーW杯観戦
 
@@ -27,3 +28,6 @@ image: "/rss/downloaded_images/0a7e74573ab9c82e73d66d470c717ed4.png"
 両陛下はこの日、城の周囲を1時間程度散策。2006年にご一家で同所に滞在した際、当時4歳だった長女、愛子さまが遊んだ場所を訪れ、当時のことを懐かしく思い出されたという。
 
 【関連記事】
+
+
+</details>

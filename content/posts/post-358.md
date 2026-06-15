@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/e1c757c69a3aa11f826dd62b4d3f75e7.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 本日発売！レアすぎる“幻のチョコクロ”が18日間限定で復活
 
@@ -64,3 +65,6 @@ image: "/rss/downloaded_images/e1c757c69a3aa11f826dd62b4d3f75e7.jpg"
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

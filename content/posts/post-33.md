@@ -18,7 +18,8 @@ image: "/rss/downloaded_images/d2d290e713595b42a7ee37c561cf39f1.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 タッチスクリーン搭載MacBookの登場は「100%確定」していると、匿名リーカーのInstant Digitalが中国のソーシャルメディア「Weibo」への投稿で伝えた。
 
@@ -35,3 +36,6 @@ Appleが2026年末または2027年初めにもタッチスクリーン搭載MacB
 さらに、Golden Gateでは「Sidecar」のタッチサポートも拡充され、指先でmacOSの要素を操作できるようになる。これまで、iPadをMacBookの横に置いてセカンドディスプレイとして使うSidecarでは、タッチ操作は2本指でのスクロールとピンチによるズーム操作に限られていた。Golden Gateでは、macOSのメニュー、ウィンドウ、その他の要素をタッチで直接操作できるようになる。
 
 この記事は海外Ziff Davis発の[記事](https://www.cnet.com/tech/computing/touchscreen-macbook-100-confirmed-says-leaker/)を4Xが日本向けに編集したものです。
+
+
+</details>

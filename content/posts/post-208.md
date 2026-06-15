@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/97c8cd04c8cfd4a69e2ee22e97cfe4f0.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![5feaf296-3cb1-4bec-bbea-e80bbd25b915](/rss/downloaded_images/97c8cd04c8cfd4a69e2ee22e97cfe4f0.png)
 
@@ -174,3 +175,6 @@ image: "/rss/downloaded_images/97c8cd04c8cfd4a69e2ee22e97cfe4f0.png"
 いや60てテレビ出始めた時はもう30超えてたのか
 
 via https://nova.2ch.sc/test/read.cgi/livegalileo/1781407182/
+
+
+</details>

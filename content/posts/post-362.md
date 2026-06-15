@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/24e59a7e5240b643ce54aa2b6eeb7306.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 「ESET PROTECT MDR Lite」など、マネージドサービスソリューションを紹介
 
@@ -59,3 +60,6 @@ ESET PROTECT MDR Lite/Ultimateの紹介、および導入事例
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

@@ -20,7 +20,8 @@ AMDの自動更新ツールが更新情報を取得する際はHTTPSを使って
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか
 
@@ -78,3 +79,6 @@ AMDは最終的にこの問題を「** AMD Auto Updater Vulnerability**」とし
 
 ![](/rss/downloaded_images/6877bba9432b263f710ce1665976258f.jpg)
 
+
+
+</details>

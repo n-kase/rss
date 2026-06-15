@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/c83bc66bffca9e92c6bf7cd65fae8b44.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/c83bc66bffca9e92c6bf7cd65fae8b44.jpg)
 
@@ -29,3 +30,6 @@ image: "/rss/downloaded_images/c83bc66bffca9e92c6bf7cd65fae8b44.jpg"
 ## 「活動家の映像」どう考えるか
 
 普天間基地の辺野古移設反対運動をめぐっては、かなり過激な「活動家」とみられる人たちが警備関係者に暴力を振るったり、米軍関係者に汚い言葉を吐いたりする動画がインターネットには複数上がっている。
+
+
+</details>

@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/f07864a6f9146531ba660208e41680fc.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 [ジサトラKTU](https://ascii.jp/serialarticles/1655484/)
 
@@ -55,3 +56,6 @@ image: "/rss/downloaded_images/f07864a6f9146531ba660208e41680fc.jpg"
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

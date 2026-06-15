@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/8fafd60c670784841ca8e39c132a6be0.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 2026年6月15日（月）20時から生放送
 
@@ -55,3 +56,6 @@ image: "/rss/downloaded_images/8fafd60c670784841ca8e39c132a6be0.png"
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

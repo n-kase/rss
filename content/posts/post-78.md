@@ -17,7 +17,8 @@ tags: ["Dokoka", "散歩アプリ", "シークレット目的地", "人気上昇
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 やじうまWatch
 
@@ -34,3 +35,6 @@ tags: ["Dokoka", "散歩アプリ", "シークレット目的地", "人気上昇
 - 告知のポスト（X）[https://x.com/dokoka_jp/status/2064911821266698717](https://x.com/dokoka_jp/status/2064911821266698717)
 - Dokoka - 矢印だけの散歩ナビアプリ（App Store）[https://apps.apple.com/jp/app/id6761375037](https://apps.apple.com/jp/app/id6761375037)
 - Dokoka - 矢印だけのお散歩アプリ（Google Play のアプリ）[https://play.google.com/store/apps/details?id=dokoka.jp](https://play.google.com/store/apps/details?id=dokoka.jp)
+
+
+</details>

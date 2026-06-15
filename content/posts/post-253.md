@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/cf28c3b072c955df457d0c4153f2e69c.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 [この画像を大きなサイズで見る](/archives/608575.html/1-3447)
 
@@ -120,3 +121,6 @@ image: "/rss/downloaded_images/cf28c3b072c955df457d0c4153f2e69c.jpg"
 動物保護区内ならしゃーない
 
 むしろ良い旅の想い出
+
+
+</details>

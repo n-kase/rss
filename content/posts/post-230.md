@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/b1fe57320fc7e0f36201d9b6ed1b9979.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![自民党　高市　首相　ネガキャン　音声　文春　誹謗中傷動画　木下剛志　松井健　サナエトークンに関連した画像-01](/rss/downloaded_images/b1fe57320fc7e0f36201d9b6ed1b9979.jpg)
 
@@ -362,3 +363,6 @@ image: "/rss/downloaded_images/b1fe57320fc7e0f36201d9b6ed1b9979.jpg"
 2026年06月1
 
 ...（長文のため省略されました）
+
+
+</details>

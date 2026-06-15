@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/aa984f3ca9e106d169edbb794a83b4aa.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/aa984f3ca9e106d169edbb794a83b4aa.jpg)
 
@@ -170,3 +171,6 @@ AIだと思って気にしてなかったわ
 自殺代行アトラクション
 
 via https://hayabusa9.2ch.sc/test/read.cgi/news/1781412007/
+
+
+</details>

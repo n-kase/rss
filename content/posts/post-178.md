@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/e7c2c05b46a950f0fd2ef5c8ec9385bb.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![sss](/rss/downloaded_images/e7c2c05b46a950f0fd2ef5c8ec9385bb.png)
 
@@ -362,3 +363,6 @@ MVP　森保
 上田まったく通用せず、やっぱり雑魚専だったか
 
 via https://hayabusa9.2ch.sc/test/read.cgi/mnewsplus/1781474307/
+
+
+</details>

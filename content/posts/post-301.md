@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/0303f66168b21e98222e13352941e339.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![8274fb30-baca-4bc3-a71d-278c24b4ddf8](/rss/downloaded_images/0303f66168b21e98222e13352941e339.jpg)
 
@@ -438,3 +439,6 @@ https://amzn.to/4uCZeKC![](/rss/downloaded_images/1ec3850d9b8d70b10537034b31d107
 名無しのハムスター2026年06月15日 11:24 ID：ug7CAiSp0名無しのハムスター2026年06月15日 11:24 ID：hCcWqmgx0名無しのハムスター2
 
 ...（長文のため省略されました）
+
+
+</details>

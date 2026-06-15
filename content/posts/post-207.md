@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/6ae3c48ad2ca6514eca999f321c7fd66.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![HKqkVm7bYAAkICc](/rss/downloaded_images/6ae3c48ad2ca6514eca999f321c7fd66.jpg)
 
@@ -61,3 +62,6 @@ image: "/rss/downloaded_images/6ae3c48ad2ca6514eca999f321c7fd66.jpg"
 via https://x.com/sumomodane/status/2065644207055015959
 
 ![に関連した画像-02](/rss/downloaded_images/e83ea00e2428d9bb9e7aa71f2a7d449a.jpg)
+
+
+</details>

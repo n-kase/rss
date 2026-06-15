@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/5cc3e440b5ec63b14db62ffd048cb51b.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![sss](/rss/downloaded_images/5cc3e440b5ec63b14db62ffd048cb51b.png)
 
@@ -97,3 +98,6 @@ Opusとは明らかに挙動が良い意味で違いました。
 @ImAI_Eruel 本社を日本に移したら？Anthropic😇
 
 — にゃぱねっと♂ (@288os)[June 14, 2026](https://twitter.com/288os/status/2066144884181078056)
+
+
+</details>

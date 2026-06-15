@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/7bcdaedac85def48ae11300eec6aa5ee.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![Gemini_Generated_Image_ktil5jktil5jktil（中）](/rss/downloaded_images/7bcdaedac85def48ae11300eec6aa5ee.jpg)
 
@@ -594,3 +595,6 @@ https://amzn.to/4fzUVvW![](/rss/downloaded_images/07113d60509ec448c8e13e7f32a999
 ハムスター名無し2026年06月14日 20:48 ID：kMJr94ZD0ハムスタ
 
 ...（長文のため省略されました）
+
+
+</details>

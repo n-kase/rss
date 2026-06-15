@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/d01a8292ec7a660ffba1feb25664a9c3.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![videoframe_0 (1)](/rss/downloaded_images/d01a8292ec7a660ffba1feb25664a9c3.png)
 
@@ -160,3 +161,6 @@ image: "/rss/downloaded_images/d01a8292ec7a660ffba1feb25664a9c3.png"
 50：
 
 牛が糞したらもっと面白かったのに
+
+
+</details>

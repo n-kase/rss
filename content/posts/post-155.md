@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/b6be8b4176c6b4e05c24b457faa2af1f.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 位置情報共有アプリ「whoo」シリーズAで総額11億円を調達——NTTドコモベンチャーズがリード
 
@@ -29,3 +30,6 @@ whoo は、家族や親友など信頼できる相手と位置情報を共有し
 調達資金は、プロダクトの機能強化、UX 改善、マーケティング施策の拡充に投じる。同社はこれにより、whoo のプロダクト進化とグローバル展開の加速を図るとしている。
 
 via [PR TIMES](https://prtimes.jp/main/html/rd/p/000000018.000116699.html)
+
+
+</details>

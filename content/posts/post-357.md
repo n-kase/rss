@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/f78f882b80c5934df3874dfd967f096f.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 【本日】ジャンボサーモン110円！年に一度の「スシローの日」第2弾スタート
 
@@ -83,3 +84,6 @@ image: "/rss/downloaded_images/f78f882b80c5934df3874dfd967f096f.jpg"
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/a19d0bf0557040742c64ac2ec176af1d.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![木下優樹菜　酒　アルコール　飲酒　泥酔　ベッド　恋人　彼氏に関連した画像-01](/rss/downloaded_images/a19d0bf0557040742c64ac2ec176af1d.png)
 
@@ -541,3 +542,6 @@ A　　a
 名無しオレ的
 
 ...（長文のため省略されました）
+
+
+</details>

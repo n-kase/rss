@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/ffa7727f84b990489b9126ef6a0200cc.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![sss](/rss/downloaded_images/ffa7727f84b990489b9126ef6a0200cc.png)
 
@@ -334,3 +335,6 @@ AI温泉はじめるか
 結果的には少数しか残らんやろね
 
 via https://nova.2ch.sc/test/read.cgi/livegalileo/1781260584/
+
+
+</details>

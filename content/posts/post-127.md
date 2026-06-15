@@ -20,7 +20,8 @@ AmazonにてPixioの「PX249Wave」、INNOCNの「GA27T1M」、AOCの「24G42E/1
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 本日みつけたお買い得品
 
@@ -42,3 +43,6 @@ GA27T1Mは、1,152ゾーンのローカルディミングに対応するQD-Mini 
 AOCの「24G42E/11」は、タイムセールにて3,270円引きの1万3,700円で購入可能だ。
 
 24G42E/11は、23.8型Fast IPS液晶のゲーミングモニター。主なスペックは、解像度が1,920×1,080ドット、リフレッシュレートが180Hz、応答速度が1ms(中間色)、輝度が300cd/平方mなど。映像端子として、HDMI 2.0、DisplayPort 1.4を装備する。G-Sync Compatible、Adaptive Syncに対応する。
+
+
+</details>

@@ -16,7 +16,8 @@ image: "/rss/downloaded_images/d7abb5d311b8ec7861c03282449a28a7.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ニュース
 
@@ -38,3 +39,6 @@ We've reset 5-hour and weekly rate limits for all users.
 
 
 Fable 5とMythos 5以外のAnthropicモデルへのアクセスは引き続き有効で、Anthropicはアクセス回復に向けて取り組んでいるとしている。
+
+
+</details>

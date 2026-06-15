@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/7929acbcd2f8b0504a46094eb8ccaac2.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/7929acbcd2f8b0504a46094eb8ccaac2.jpg)
 
@@ -137,3 +138,6 @@ GENKY
 
 
 via https://nova.2ch.sc/test/read.cgi/livegalileo/1781420488/
+
+
+</details>

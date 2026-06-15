@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/84c2ae0b2d2217e76b005eb8aeeba0aa.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![インド 修行僧 直立苦行 シヴァ神 左足壊死ニキに関連した画像-01](/rss/downloaded_images/84c2ae0b2d2217e76b005eb8aeeba0aa.jpg)
 
@@ -582,3 +583,6 @@ image: "/rss/downloaded_images/84c2ae0b2d2217e76b005eb8aeeba0aa.jpg"
 名無しオレ的ゲーム
 
 ...（長文のため省略されました）
+
+
+</details>

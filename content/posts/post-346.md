@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/d87cb8d8f6dc66c9bd40a0226fa08af7.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 [今週の注目グルメ](https://ascii.jp/serialarticles/1622738/)
 
@@ -132,3 +133,6 @@ image: "/rss/downloaded_images/d87cb8d8f6dc66c9bd40a0226fa08af7.jpg"
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

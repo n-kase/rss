@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/714ffddae941d631961e4d0110e74b6b.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/833e22fd1612684c53b31d335b62412d.jpg)
 
@@ -127,3 +128,6 @@ AI関連事業の利益が急増
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

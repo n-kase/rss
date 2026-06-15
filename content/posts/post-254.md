@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/f394c98c9c9d6ec3d8ce6862b91be28b.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 [この画像を大きなサイズで見る](/archives/609481.html/top-371)
 
@@ -175,3 +176,6 @@ References: [Sciencedaily](https://www.sciencedaily.com/releases/2026/05/2605300
 これは海の環境保護に役立っているの違いがあるけれど
 
 炭カルって、雪降ったら撒いとけっていうイメージ
+
+
+</details>

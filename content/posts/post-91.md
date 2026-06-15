@@ -19,7 +19,8 @@ tags: ["AI", "法律", "裁判", "罰金", "検証不足"]
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 やじうまWatch
 
@@ -35,3 +36,6 @@ AIの使用が発覚したのは、両者がともに存在しない架空の判
 
 - Judge Learns Lawyers on Both Sides of Case Used AI, Cancels Trial, Kicks Everyone Off the Case（404 Media）[https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/](https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/)
 - Watch These Judges Rip Into Lawyers For Citing Cases That Don't Exist（404 Media）[https://www.404media.co/new-york-court-ai-citations-landberg-case/](https://www.404media.co/new-york-court-ai-citations-landberg-case/)
+
+
+</details>

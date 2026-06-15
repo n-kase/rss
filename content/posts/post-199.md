@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/1a9157b024f8728a7f5c97b2afc984b5.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/1a9157b024f8728a7f5c97b2afc984b5.jpg)
 
@@ -237,3 +238,6 @@ image: "/rss/downloaded_images/1a9157b024f8728a7f5c97b2afc984b5.jpg"
 
 
 via https://hayabusa.open2ch.net/test/read.cgi/livejupiter/1781408389/
+
+
+</details>

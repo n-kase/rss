@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/bedc035e26abf7c733e45b4582367936.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![W杯 日本代表 勝ち点 オランダ サッカーに関する画像-01](/rss/downloaded_images/bedc035e26abf7c733e45b4582367936.png)
 
@@ -364,3 +365,6 @@ Photo by Jose Breton/Pics Action/NurPhoto via Getty Images[pic.twitter.com/ol8nO
 𒀱𒈓𒈙꧅𒈙𒈙ဪဪV𒀱𒈓𒈙꧅𒈙𒈙ဪဪV ﷽ ﷽𒅌꧅꧅𒁎꧅𒀱꧅𒌧𒅃𒈓𒈙꧅𒈙𒈙ဪဪV ﷽𒅌꧅꧅𒁎꧅𒀱꧅𒌧𒅃 𒀱𒈓𒈙꧅𒈙𒈙ဪဪV ﷽𒅌꧅꧅ 𒀱𒈓𒈙꧅𒈙𒈙ဪဪV𒀱𒈓𒈙꧅𒈙𒈙ဪဪV ﷽ ﷽𒅌꧅꧅𒁎꧅𒀱꧅𒌧𒅃𒈓𒈙꧅𒈙𒈙ဪဪV ﷽𒅌꧅꧅𒁎꧅𒀱꧅𒌧𒅃 𒀱𒈓𒈙꧅𒈙𒈙ဪဪV ﷽𒅌꧅꧅ 𒀱𒈓𒈙꧅𒈙𒈙ဪဪV𒀱𒈓𒈙꧅𒈙𒈙ဪ
 
 ...（長文のため省略されました）
+
+
+</details>

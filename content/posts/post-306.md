@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/44adf9824da340b1a61792383722b929.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![1f966f4a-1364-42c8-a3a9-304860847e78](/rss/downloaded_images/44adf9824da340b1a61792383722b929.jpg)
 
@@ -277,3 +278,6 @@ NZは今は無宗教の人も多いけど建国時からの影響で一応キリ
 今からでも出稼ぎ売春婦を
 
 ...（長文のため省略されました）
+
+
+</details>

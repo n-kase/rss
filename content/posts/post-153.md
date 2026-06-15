@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/67b53cdebffb07bf37e7cd53e18706d5.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # キャラクター活用の行動変容プラットフォーム「キャラミクス」Headline Asiaから1億円調達
 
@@ -29,3 +30,6 @@ image: "/rss/downloaded_images/67b53cdebffb07bf37e7cd53e18706d5.png"
 調達資金はプロダクト開発、AI 開発、コンテンツ開発、人材採用の強化に充当する。今後の[ロードマップ](https://prtimes.jp/main/html/rd/p/000000002.000179521.html)として、2026年後半にキャラミクスの正式リリースおよび企業・自治体向け実運用導入を開始し、2027年以降は金融、EC、美容、教育、ウェルネス領域への横断展開と、Charamix ID を基盤とした BtoBtoC モデルの本格展開を予定している。
 
 via [PR TIMES](https://prtimes.jp/main/html/rd/p/000000002.000179521.html)
+
+
+</details>

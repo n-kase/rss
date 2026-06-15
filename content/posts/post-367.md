@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/fef4b578fc315f44a070bda4831341ab.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 「シュクメルリ祭り」始まる！松屋でも松のやでも！ニンニク好き歓喜
 
@@ -26,3 +27,6 @@ image: "/rss/downloaded_images/fef4b578fc315f44a070bda4831341ab.jpg"
 
 
 なお、牛めし業態「松屋」でも同時に「シュクメルリ」各種を発売します。
+
+
+</details>

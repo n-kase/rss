@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 **ちいかわ**@ChikqwqS2![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
 
@@ -206,3 +207,6 @@ image: "/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif"
 X（旧Twitter）に日々流れる情報の中から、編集部がさまざまなポストを選び出し、わかりやすい形でお届けすることを大切にしています。新たな視点や世間の反応を添えることで、読者の皆様にとって安心・安全で価値あるコンテンツとすることを目指しています。詳しくは[編集方針](/info/editorial-policy)をご覧ください。
 
 38
+
+
+</details>

@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/de29393c98ed4e12b8a87cf60f4b9590.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 【速報】核協議で合意なければ攻撃再開とトランプ氏
 
@@ -106,3 +107,6 @@ image: "/rss/downloaded_images/de29393c98ed4e12b8a87cf60f4b9590.png"
 ![共同通信](/rss/downloaded_images/de29393c98ed4e12b8a87cf60f4b9590.png)
 
 ## [PR]特別企画
+
+
+</details>

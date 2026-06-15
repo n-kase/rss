@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/5a0c91b673d6dc5a7f12e2deaf467484.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![見出し画像](/rss/downloaded_images/5a0c91b673d6dc5a7f12e2deaf467484.jpg)
 
@@ -49,3 +50,6 @@ Kyivへの大規模攻撃で自宅に着弾、火災が発生しました。
 ![](/rss/downloaded_images/64517774df24e4808e6dac598215a552.png)
 
 ![](/rss/downloaded_images/62ac59d981d3c5adb0302a55db794d99.jpg)
+
+
+</details>

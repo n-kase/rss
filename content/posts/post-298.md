@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/1825eb942a22acddf0b75bafa7aa2ec3.gif"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 憲法改正による緊急事態条項の創設及び衆議院議員の任期延長に反対する会長声明
 
@@ -76,3 +77,6 @@ image: "/rss/downloaded_images/1825eb942a22acddf0b75bafa7aa2ec3.gif"
 日本弁護士連合会
 
 会長　小林　元治
+
+
+</details>

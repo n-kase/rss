@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/3f84fe74b8af6416fbb15eea32972ebe.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 立憲議員「自衛隊は経済的に厳しい子が行く。豊かな子どもたちは自衛隊とかなりませんよ！」→国会ざわつき即訂正も小泉大臣「怒り」の猛反論
 
@@ -39,3 +40,6 @@ image: "/rss/downloaded_images/3f84fe74b8af6416fbb15eea32972ebe.png"
 （ABEMA NEWS）
 
 ABEMA TIMES編集部
+
+
+</details>

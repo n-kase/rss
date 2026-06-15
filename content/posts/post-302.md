@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/65585648a25aad8e654a2353421e142d.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![isa](/rss/downloaded_images/65585648a25aad8e654a2353421e142d.jpg)
 
@@ -333,3 +334,6 @@ https://amzn.to/4orbwEh![](/rss/downloaded_images/1294d4541b0a3bb313d9e383f03274
 単独比
 
 ...（長文のため省略されました）
+
+
+</details>

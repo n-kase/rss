@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/432fb6d8f4da311022946fa46d7d10ec.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 三菱電機のエアコンなどに脆弱性、第三者に設定変更される可能性
 
@@ -81,3 +82,6 @@ image: "/rss/downloaded_images/432fb6d8f4da311022946fa46d7d10ec.png"
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

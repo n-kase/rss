@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/9723f53d4fabfff40fcef16ee188eff5.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![20260604-00095586-kaiyou-000-2-view](/rss/downloaded_images/9723f53d4fabfff40fcef16ee188eff5.jpg)
 
@@ -453,3 +454,6 @@ https://amzn.to/4orbwEh![](/rss/downloaded_images/1294d4541b0a3bb313d9e383f03274
 ・医師や保険者の指示に従わなかったとき等は保険は下りないって決まりがしっかりあるんだから何でも
 
 ...（長文のため省略されました）
+
+
+</details>

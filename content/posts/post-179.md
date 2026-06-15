@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/da56bb0547ef1a5c652e669d158c7a01.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/da56bb0547ef1a5c652e669d158c7a01.jpg)
 
@@ -123,3 +124,6 @@ image: "/rss/downloaded_images/da56bb0547ef1a5c652e669d158c7a01.jpg"
 誰もエラーしたくてした訳じゃない[June 14, 2026](https://twitter.com/syuji1738251/status/2065978490382586105)
 
 via https://x.com/SoxTranslator/status/2065927236826358232
+
+
+</details>

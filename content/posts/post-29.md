@@ -20,7 +20,8 @@ image: "/rss/downloaded_images/9c498a7cb209d312a5906e11eba231c3.jpeg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 宇宙航空研究開発機構（JAXA）は6月12日、H3ロケット6号機（30形態試験機）の打ち上げに成功した。種子島宇宙センターから打ち上げられた。
 
@@ -39,3 +40,6 @@ CNET Japanの記事を毎朝メールでまとめ読み（無料）
 問われるのは、“ひと目で伝わること”
 
 Plaud NotePin Sが示す会議記録の新しい形
+
+
+</details>

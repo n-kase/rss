@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/67fc041a53ee76b6e91d5907c17801fd.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![福岡県議会　海外視察　蔵内勇夫　税金　自民党　海外旅行　言い間違え　ネットの反応　炎上に関連した画像-01](/rss/downloaded_images/67fc041a53ee76b6e91d5907c17801fd.png)
 
@@ -438,3 +439,6 @@ image: "/rss/downloaded_images/67fc041a53ee76b6e91d5907c17801fd.png"
 -
 
 ...（長文のため省略されました）
+
+
+</details>

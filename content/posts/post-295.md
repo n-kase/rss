@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/187ff62c4c53fc0d79e40e7bad471762.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 余るジャガイモ、価格ゼロに 「ポテト王国」に異変―ベルギー
 
@@ -34,3 +35,6 @@ image: "/rss/downloaded_images/187ff62c4c53fc0d79e40e7bad471762.jpg"
 
 ただ、トランプ米政権の高関税政策による輸出環境の悪化や、中国、インドなど新興輸出国の台頭に加え、世界的な健康志向の高まりも業界にとって逆風となっている。ベルギーが誇るフライドポテト産業は新たな市場環境への対応を迫られている。
 ![](/rss/downloaded_images/b20cffdcc36093456128d316dbc249f0.png)
+
+
+</details>

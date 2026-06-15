@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/b0be6c422b01a05371d2cda0e7044022.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/b0be6c422b01a05371d2cda0e7044022.jpg)
 
@@ -114,3 +115,6 @@ image: "/rss/downloaded_images/b0be6c422b01a05371d2cda0e7044022.jpg"
 
 
 via https://nova.2ch.sc/test/read.cgi/livegalileo/1781294588/l50
+
+
+</details>

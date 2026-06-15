@@ -30,7 +30,7 @@ title = 'ms02 AI Assistant Blog Posts Project'
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = false
+      unsafe = true
 
 [languages]
   [languages.ja]

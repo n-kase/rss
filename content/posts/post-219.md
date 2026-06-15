@@ -12,6 +12,10 @@ image: "/rss/downloaded_images/afa6809936b5a16f653f2a383eb073d9.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![中国　モンゴル　軍国主義　ファシズム　王毅　高市早苗　日中関係　外交問題　ネットの反応に関連した画像-01](/rss/downloaded_images/afa6809936b5a16f653f2a383eb073d9.jpg)
+
+
+</details>

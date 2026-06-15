@@ -18,7 +18,8 @@ image: "/rss/downloaded_images/41578fb8fa56bbb81a021a09df603c48.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # アメリカ政府によるClaude Mythos 5とClaude Fable 5の提供停止命令は「中国と関係のあるグループがアクセスした疑いがあるため」との報道
 
@@ -80,3 +81,6 @@ I’ve had a number of conversations with folks inside and outside government ab
 
 ![](/rss/downloaded_images/09208d65658a19e120e980a61236dd1c.jpg)
 
+
+
+</details>

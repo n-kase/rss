@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/ae7bc51a46e62f8aed35c5ee50f56fb4.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 
 
@@ -51,3 +52,6 @@ image: "/rss/downloaded_images/ae7bc51a46e62f8aed35c5ee50f56fb4.jpg"
 悩みを抱えた当事者や支援者への情報のほか、相談機関を紹介した毎日新聞の特設ページです。
 
 Google検索で「毎日新聞」の記事を優先的に表示できます。[1ステップで今すぐ登録する](https://www.google.com/preferences/source?q=https://mainichi.jp/)
+
+
+</details>

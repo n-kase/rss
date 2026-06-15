@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/79775c53a20b27fca4cfd88cc7156d51.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![人気　グループ　YouTuber　ユーチューバー　オセロ　食べ物　粗末　チャンネル　譲渡　売却　疑惑　皇室　ゴシップに関連した画像-01](/rss/downloaded_images/79775c53a20b27fca4cfd88cc7156d51.png)
 
@@ -464,3 +465,6 @@ Aカップの女性は3%しかいないらしい
 
 
 ...（長文のため省略されました）
+
+
+</details>

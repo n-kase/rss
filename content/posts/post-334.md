@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/011e87262aff297045a97aa8e2e70519.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # ｢和語しりとりが趣味｣の外国人夫が"どうしても許せない"ヘンな日本語…漫画『ダーリンは外国人 リマスター版』1話
 
@@ -49,3 +50,6 @@ image: "/rss/downloaded_images/011e87262aff297045a97aa8e2e70519.jpg"
 『ダーリンは外国人 リマスター版』
 
 https://www.amazon.co.jp/o/ASIN/4824016770/toyokeizaia-22/
+
+
+</details>

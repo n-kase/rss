@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/9f9735100fc1b4f058eb1ea54c9492cf.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # アップルはなぜAIを"作り直した"のか――Googleと組んで挑む､｢誰もが使うエージェント｣競争の勝算
 
@@ -23,3 +24,6 @@ image: "/rss/downloaded_images/9f9735100fc1b4f058eb1ea54c9492cf.jpg"
 [続きを読む](/articles/-/947678?display=b)
 
 アップルがWWDC 26で発表した｢第3世代Apple Intelligence｣は､AI体験を大きく刷新し､プライバシーと機器連携を重視した独自の進化を遂げた。なぜ今､アップルはAIに再挑戦するのか。他社との違いはどこにあるのか。
+
+
+</details>

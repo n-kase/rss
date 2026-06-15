@@ -18,7 +18,8 @@ Metaは中国発のAIスタートアップManusを2025年末に約20億ドルで
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # Metaによる中国発の注目AIスタートアップ・Manusの買収に中国政府が待った、買収解消に向け両社が準備中との報道
 
@@ -103,3 +104,6 @@ Who thinks it is a good idea for American investors to subsidize our biggest adv
 Benchmark joins $75m funding round in China’s Manus AI – report[https://t.co/5iwh8wKDvx](https://t.co/5iwh8wKDvx)…[May 7, 2025](https://x.com/JohnCornyn/status/1920131642389065856?ref_src=twsrc%5Etfw)
 
 MetaがManusとの関係を断ち切る動きを見せる一方で、Manusは新機能の提供を続けており、SimilarwebやShopifyと連携するなど機能を拡充し続けています。
+
+
+</details>

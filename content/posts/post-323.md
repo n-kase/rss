@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/2e2ddbcc7b5887cd477a076dc7231e43.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # iPhoneはAIでここまで変わる──アップルがiOS 27で描く｢次のスマホ体験｣の全貌に迫る
 
@@ -23,3 +24,6 @@ image: "/rss/downloaded_images/2e2ddbcc7b5887cd477a076dc7231e43.jpg"
 [続きを読む](/articles/-/947854?display=b)
 
 世界中の注目を集めるアップルの開発者イベントWWDCで､次期iPhone用OS｢iOS27｣の最新情報が発表された。基本性能の大幅向上や使いやすく進化したインターフェース､画期的なAI｢Apple Intelligence｣など､iPhoneの未来が大きく変わろうとしている。
+
+
+</details>

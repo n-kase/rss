@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/f652994234ce1b54552a7d8de01ffda5.jpeg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![見出し画像](/rss/downloaded_images/f652994234ce1b54552a7d8de01ffda5.jpeg)
 
@@ -93,3 +94,6 @@ a political-religious hybrid based in large part on the work of the philosopher 
 社会に溢れるスピリチュアルやオカルト、陰謀論や悪徳商法、詐欺などを調査・考察した記録の月額版です。
 
 この記事が気に入ったらチップで応援してみませんか？
+
+
+</details>

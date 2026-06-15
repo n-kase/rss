@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/fafb22d1139a1c8770749a15316b98a8.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![sss](/rss/downloaded_images/fafb22d1139a1c8770749a15316b98a8.png)
 
@@ -51,3 +52,6 @@ image: "/rss/downloaded_images/fafb22d1139a1c8770749a15316b98a8.png"
 via https://x.com/Vivid_Colors01/status/2066053397921648960
 
 ![に関連した画像-02](/rss/downloaded_images/4d0f500295ebd7d463a8ad84046035e1.jpg)
+
+
+</details>

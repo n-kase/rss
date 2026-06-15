@@ -19,7 +19,8 @@ tags: ["サイバー防御", "日英協力", "BAE Systems", "NEC", "能動的サ
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 英国の防衛・航空宇宙・セキュリティ企業であるBAE SystemsとNECは6月15日、日本政府が進める能動的サイバー防御（Active Cyber Defence、以下ACD）の導入に向けて協業する覚書を結んだと発表した。ACDのソリューションを両社で共同開発し、導入から提供までを担うことで、政府のサイバーセキュリティ態勢の強化を支援するとしている。
 
@@ -34,3 +35,6 @@ Copyright © ITmedia, Inc. All Rights Reserved.
 Special
 
 PRメールマガジンのお知らせ
+
+
+</details>

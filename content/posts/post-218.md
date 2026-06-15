@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/59915f4768492689347bb58cbf777c48.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![左派　右派　左翼　右翼　パヨク　ネトウヨ　中国　侵略　親中派　ネットの反応に関連した画像-01](/rss/downloaded_images/59915f4768492689347bb58cbf777c48.jpg)
 
@@ -407,3 +408,6 @@ PAYOKUはバカだからねｗ
 👄
 
 ...（長文のため省略されました）
+
+
+</details>

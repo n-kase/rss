@@ -18,7 +18,8 @@ image: "/rss/downloaded_images/7c212336b91714329cf94e3ace12fbcf.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 4.8億円で未開封の「スーパーマリオブラザーズ」が落札される、ゲームソフトの史上最高落札額を大幅に更新
 
@@ -62,3 +63,6 @@ Read more in todays New York Times (cc:[@nytimes](https://x.com/nytimes?ref_src=
 
 ![](/rss/downloaded_images/b6be45873b7e19652118e1ed6acb283c.jpg)
 
+
+
+</details>

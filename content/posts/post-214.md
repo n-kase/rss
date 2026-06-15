@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/30d9fd186a800bdd0db575c2ad4c1f31.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![深海魚 ギス 金塊 浮袋に関連した画像-01](/rss/downloaded_images/30d9fd186a800bdd0db575c2ad4c1f31.jpg)
 
@@ -443,3 +444,6 @@ The shiny, metallic appearance is created by a specialized tissue layer called t
 - トリコに出てきそう
 
 ...（長文のため省略されました）
+
+
+</details>

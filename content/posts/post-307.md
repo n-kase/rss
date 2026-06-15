@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/a8ce16cb37de528606e0007844f82374.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![2631b8bc-2f8b-437f-ad16-4089a1f79763](/rss/downloaded_images/a8ce16cb37de528606e0007844f82374.jpg)
 
@@ -452,3 +453,6 @@ Bは男＞我が子だろうな
 名無しのハムスター2026年06月14日 17:32 ID：L219X8Th0名無しのハムスター2026年06月14日 17:32 ID：nCl.1Hxl0ハムスター名無し2026年06月14日 17:33 ID：VBDQQHUU0Aさんを選べないような男はBさんを
 
 ...（長文のため省略されました）
+
+
+</details>

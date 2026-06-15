@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/ee907d4ffc64452d2b3f21f0c4aeadad.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ## 「世界史」の世界史（学術俯瞰講義）
 
@@ -524,3 +525,6 @@ Produced by
 
 
 ...（長文のため省略されました）
+
+
+</details>

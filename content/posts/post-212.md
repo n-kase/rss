@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/fb7fa6d8545fb139da1868a20cc41238.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![ssss](/rss/downloaded_images/fb7fa6d8545fb139da1868a20cc41238.png)
 
@@ -211,3 +212,6 @@ usjも万博も自分達で盛り上げて成功させてるし
 
 
 via https://tomcat.2ch.sc/test/read.cgi/livegalileo/1781295747/
+
+
+</details>

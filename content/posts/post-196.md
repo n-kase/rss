@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/0d16405a28e791438e524024e9c94962.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/0d16405a28e791438e524024e9c94962.jpg)
 
@@ -162,3 +163,6 @@ image: "/rss/downloaded_images/0d16405a28e791438e524024e9c94962.jpg"
 総合の見過ぎやね
 
 via https://nova.2ch.sc/test/read.cgi/livegalileo/1781422917/
+
+
+</details>

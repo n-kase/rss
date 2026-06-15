@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/7985ba2640379bf2f488593d8f8aa8fd.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/7985ba2640379bf2f488593d8f8aa8fd.jpg)
 
@@ -116,3 +117,6 @@ www
 ハゲだったらはいってなかった
 
 via https://nova.2ch.sc/test/read.cgi/livegalileo/1781492684/
+
+
+</details>

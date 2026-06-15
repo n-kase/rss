@@ -18,7 +18,8 @@ image: "/rss/downloaded_images/251c982a22bdecd5c18a41add0405f25.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 1: 以下、ニュー速クオリティでお送りします  2026/06/15(月) 08:13:13.43 *ID:N9RMTrcW0*
 
@@ -177,3 +178,6 @@ image: "/rss/downloaded_images/251c982a22bdecd5c18a41add0405f25.png"
 70: 以下、ニュー速クオリティでお送りします  2026/06/15(月) 09:01:14.85 ID:7voKnHrZ0
 
 まぁ金持やろうしノーダメやろ
+
+
+</details>

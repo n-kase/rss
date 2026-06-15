@@ -18,7 +18,8 @@ image: "/rss/downloaded_images/3d49af6070fd1b30b4c02e9324452068.gif"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 清水理史の「イニシャルB」チャンネル
 
@@ -39,3 +40,6 @@ image: "/rss/downloaded_images/3d49af6070fd1b30b4c02e9324452068.gif"
 【清水理史の「イニシャルB」チャンネル登録のお願い】
 
 INTERNET Watchと清水理史氏がお届けするネットワーク機器と関連情報の専門YouTubeチャンネルです。最新Wi-Fiルーターレビューからネットワーク機器の紹介、セキュリティや速度向上のためのハウツーなど、ネットワーク機器の専門家ならではの視点で掘り下げます。コンテンツは今後も続々と追加予定。[チャンネル登録](http://www.youtube.com/channel/UCeHuEhizXp6A0f9lBBvIOuw?sub_confirmation=1)をお願いします！
+
+
+</details>

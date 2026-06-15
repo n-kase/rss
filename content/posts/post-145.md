@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/be0b071eeaa75ce7276c35ff8ee0dc02.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 中古車の個人間売買「カババ」シリーズC追加調達、名古屋テレビ・ベンチャーズなど出資
 
@@ -29,3 +30,6 @@ image: "/rss/downloaded_images/be0b071eeaa75ce7276c35ff8ee0dc02.png"
 調達資金は、営業・マーケティング・エンジニアなどの人材採用強化、広告クリエイティブとデータ基盤の強化を含む販売促進・認知向上施策、UI/UX 改善や AI を活用した査定・価格提示機能などの新規サービス開発に充当する。同社はこれにより、プラットフォームの利便性向上と利用者拡大を図るとしている。
 
 via [PR TIMES](https://prtimes.jp/main/html/rd/p/000000050.000053378.html)
+
+
+</details>

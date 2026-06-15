@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/ba5d72b148f1d75f658ed94833e8f366.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 1
 
@@ -82,3 +83,6 @@ image: "/rss/downloaded_images/ba5d72b148f1d75f658ed94833e8f366.jpg"
 プレゼント抽選に
 
 応募できる！
+
+
+</details>

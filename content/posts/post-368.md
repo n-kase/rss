@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/a0fa335b3be38537c3dfb70c49190afa.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # “黒の表現”を追求したパナソニックビエラ、その画質を『沈黙の艦隊』の吉野監督も評価
 
@@ -71,3 +72,6 @@ Mini-LEDバックライト搭載の製品は3シリーズ展開。最上位はQD
 - [Follow @weeklyascii](https://twitter.com/weeklyascii?ref_src=twsrc%5Etfw)
 
 本記事はアフィリエイトプログラムによる収益を得ている場合があります
+
+
+</details>

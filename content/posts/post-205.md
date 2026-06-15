@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/d7c00de03924340296419c3767116bd5.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![sss](/rss/downloaded_images/d7c00de03924340296419c3767116bd5.png)
 
@@ -186,3 +187,6 @@ image: "/rss/downloaded_images/d7c00de03924340296419c3767116bd5.png"
 そんなんならねえわ
 
 via https://tomcat.2ch.sc/test/read.cgi/livegalileo/1781281808/
+
+
+</details>

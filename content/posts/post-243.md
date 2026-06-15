@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/00d43d3207f7269bf619d1654f9d1dd4.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![富士山　登山　閉山　開山　登山家　クライマー　市長　地元　自治体　反発　救助　費用　危険　署名　反対　観光に関連した画像-01](/rss/downloaded_images/00d43d3207f7269bf619d1654f9d1dd4.png)
 
@@ -513,3 +514,6 @@ image: "/rss/downloaded_images/00d43d3207f7269bf619d1654f9d1dd4.png"
 -
 
 ...（長文のため省略されました）
+
+
+</details>

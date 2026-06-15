@@ -18,7 +18,8 @@ Amazonは2025年9月に手書き可能な電子ペーパー端末「Kindle Scrib
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」に初のカラー表示可能な「Kindle Scribe Colorsoft」を含む3モデルが新登場したので使ってみた
 
@@ -162,3 +163,6 @@ Amazon.co.jp: New Amazon Kindle Scribe フロントライト非搭載モデル |
 
 ![](/rss/downloaded_images/626fee5d889b9ad02f9471b9c50d90cc.png)
 
+
+
+</details>

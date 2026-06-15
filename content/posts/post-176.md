@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/18883a0ebbe7eea6f6f609eddce3fc60.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![sss](/rss/downloaded_images/18883a0ebbe7eea6f6f609eddce3fc60.png)
 
@@ -184,3 +185,6 @@ NHKではうるさい
 本田は預言者
 
 via https://hayabusa9.2ch.sc/test/read.cgi/mnewsplus/1781474564/
+
+
+</details>

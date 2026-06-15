@@ -18,7 +18,8 @@ AppleはiOS 27のベータ版に、SiriからAnthropicのClaudeやGoogleのGemin
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # AppleがSiriでClaudeやGeminiを選べる機能をiOS 27ベータ版に実装か、WWDCでは発表せず
 
@@ -62,3 +63,6 @@ iOS 27とmacOS 27のベータ版からは折りたたみ式iPhoneやタッチ操
 ![](/rss/downloaded_images/75434d44081847b675928ebcefab5308.jpg)
 
 なお、AppleはExtensionsの提供時期を発表しておらず、9月までに詳細が明らかになる可能性があると報じられています。
+
+
+</details>

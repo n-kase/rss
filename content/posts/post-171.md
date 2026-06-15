@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/286d5cfbb84a87d6a69c659cc523ca7e.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![sss](/rss/downloaded_images/286d5cfbb84a87d6a69c659cc523ca7e.png)
 
@@ -406,3 +407,6 @@ YAIBAは当時のヒット作だったとはいえ今や完全に忘れ去られ
 凡人組と静かなるドンの新田たつおを忘れたらあかん
 
 via https://nova.2ch.sc/test/read.cgi/livegalileo/1779435147/
+
+
+</details>

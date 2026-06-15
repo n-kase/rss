@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/5ffe0547f2169f8670edd780ac41b095.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![ナミ　ONEPIECE　ワンピース　キャラクター　胸　コスプレに関連した画像-01](/rss/downloaded_images/5ffe0547f2169f8670edd780ac41b095.jpg)
 
@@ -408,3 +409,6 @@ Red Ice U 1F610 U 1F6AC
 気づいちゃったんだけど俺って才能がナンタラカンタラ(天才だ
 
 ...（長文のため省略されました）
+
+
+</details>

@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/60eabe64da66f1bbd160ea02a73e32f9.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![ドカ食いダイスキ！ もちづきさん 致死量 塩分 博多 豚骨ラーメンに関連した画像-01](/rss/downloaded_images/60eabe64da66f1bbd160ea02a73e32f9.jpg)
 
@@ -215,3 +216,6 @@ image: "/rss/downloaded_images/60eabe64da66f1bbd160ea02a73e32f9.jpg"
 
 
 ...（長文のため省略されました）
+
+
+</details>

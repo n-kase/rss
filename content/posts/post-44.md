@@ -18,7 +18,8 @@ Starlinkは新規ユーザーに対して衛星アンテナやルーターなど
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 衛星インターネットサービスのStarlinkが、新規ユーザーに標準ハードウェアのレンタル月額料金を課し始めた。これまで機器を追加料金なしで貸し出していたが、方針を転換した形だ。新しい料金体系では、米国のユーザーはStarlinkキットを借りるために月額10ドル（約1600円）を支払う。キットには、衛星アンテナ、Wi-Fiルーター、電源、ケーブルが含まれる。
 
@@ -39,3 +40,6 @@ Starlinkは、Elon Musk氏率いる宇宙開発企業SpaceXが手掛けている
 SpaceXの再利用型ロケットは記録を更新し、多くの見出しを飾っているが、同社で群を抜いて収益性の高い部門はStarlinkであり、2025年には[44億2000万ドル](https://www.cnbc.com/2026/05/21/spacex-starlink-growth-profit-nasdaq-ipo.html)を稼いだ。Starlinkの衛星はSpaceXが製造し、打ち上げている。
 
 この記事は海外Ziff Davis発の[記事](https://www.cnet.com/home/internet/starlinks-hardware-rentals-for-new-users-now-costs-10-per-month/)を4Xが日本向けに編集したものです。
+
+
+</details>

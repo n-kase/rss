@@ -18,7 +18,8 @@ image: "/rss/downloaded_images/d9dda5e34af7f2bf63901e0ad9d41298.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 読めば身に付くネットリテラシー
 
@@ -69,3 +70,6 @@ image: "/rss/downloaded_images/d9dda5e34af7f2bf63901e0ad9d41298.jpg"
 ![](/rss/downloaded_images/db54dfe31ec9b056108e6ff93f0de14b.png)
 
 高齢者のデジタルリテラシー向上を支援するNPO法人です。媒体への寄稿をはじめ高齢者向けの施設や団体への情報提供、講演などを行っています。もし活動に興味を持っていただけたり、協力していただけそうな方は、「dlisjapan@gmail.com」までご連絡いただければ、最新情報をお送りするようにします。
+
+
+</details>

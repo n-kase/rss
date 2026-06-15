@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 [リリス @xay6609025327](https://posfie.com/@xay6609025327)
 
@@ -215,3 +216,6 @@ CGでイラストあげてる人、初手から上手ければ賞賛されてま
 [2025-10-11 02:11:07](https://x.com/highland_sh/status/1976697013288026371
 
 ...（長文のため省略されました）
+
+
+</details>

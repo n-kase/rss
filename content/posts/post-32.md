@@ -20,7 +20,8 @@ image: "/rss/downloaded_images/de6d6bb8ce5317acf94d95d3df7de613.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 2025年7月1日、24歳のAlice Carrierさんは「ChatGPT」に、自分が「精神的に参っている」と伝えた。米CNETが確認した裁判資料によると、このチャットボットに「今夜、1人でいても安全かどうか（自分でも分からない）」と話していたという。
 
@@ -49,3 +50,6 @@ Pusateri氏によると、OpenAIはその後、地域に応じた危機対応リ
 （自分または知人が差し迫った危険にあると感じる場合は、緊急通報番号に電話するか、救急外来を受診して助けを求めてほしい。精神科の緊急事態であることを説明し、こうした状況への対応訓練を受けた人につないでもらう必要がある。）
 
 この記事は海外Ziff Davis発の[記事](https://www.cnet.com/tech/services-and-software/carrier-lawsuit-against-openai-chatgpt-design-daughters-death/)を4Xが日本向けに編集したものです。
+
+
+</details>

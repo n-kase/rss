@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/aaad4830fe5fffc58ab3f57bf3ac02ec.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 [この画像を大きなサイズで見る](/archives/609704.html/1-3481)
 
@@ -142,3 +143,6 @@ References: [DOI.10.1016/j.cell.2026.05.007](https://www.cell.com/cell/fulltext/
 だって見た目とかそっくりだもの。
 
 下の画像とかライオンキングよ？
+
+
+</details>

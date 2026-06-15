@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/e537e3330e737ce65799c31b6dcc7816.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![bl](/rss/downloaded_images/e537e3330e737ce65799c31b6dcc7816.jpg)
 
@@ -378,3 +379,6 @@ https://amzn.to/4vBNEjF![](/rss/downloaded_images/f3355eed3c40e8721411e1dc9bf823
 名無しのハムスター2026年06月14日 14:05 ID：.zBQZ0qm0ハムスター名無し2026年06月14日 14:06 ID：MxNnB6Ha0偉そうに日本サッカー論語ってた作者の代弁者キャラがピエロになってしまった悲しき作
 
 ...（長文のため省略されました）
+
+
+</details>

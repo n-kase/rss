@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/81efe544a305781f26703c8a2508c36a.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![イギリス　事件　暴動　イスラム　ムスリム　移民　暴力　抗議に関連した画像-01](/rss/downloaded_images/81efe544a305781f26703c8a2508c36a.jpg)
 
@@ -352,3 +353,6 @@ He claims the UK is no longer safe for Muslims, and that Muslims are feeling anx
 名無しオレ的ゲーム速
 
 ...（長文のため省略されました）
+
+
+</details>

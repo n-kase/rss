@@ -20,7 +20,8 @@ Amazonで、Ryzen 3 7330U搭載のミニPC「NiPoGi P2」が通常価格4万9,99
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 トピック
 
@@ -49,3 +50,6 @@ NiPoGi P2は、CPUがRyzen 3 7330U、メモリが16GBのLPDDR4、ストレージ
 主な仕様は、CPUに省電力なRyzen Embedded R2544、メモリが8GB、ストレージが256GB SSD、OSがWindows 11 Proなどで構成される。
 
 ※セール開催・内容・価格等は、予告なく変更となる場合がございます。正確な情報は、販売ページ上でご確認ください。
+
+
+</details>

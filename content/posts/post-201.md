@@ -12,7 +12,8 @@ NVIDIAのジェンスン・ファン最高経営責任者は5月下旬から6月
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/9e4a1d10ba2685959fd5b5718a802183.jpg)
 
@@ -162,3 +163,6 @@ NVIDIAは製品には台湾と韓国のパーツを使う予定だし
 日本とか意思決定が遅すぎて、スピードが半端ない業界で仲間に入れたらかえって足引っ張るだけだしな
 
 via https://nova.2ch.sc/test/read.cgi/livegalileo/1781412840/
+
+
+</details>

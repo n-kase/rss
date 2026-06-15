@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/355fa8431bc066b876205dcb643b8d56.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 [この画像を大きなサイズで見る](/archives/609595.html/1-3476)
 
@@ -158,3 +159,6 @@ References: [San Carlos Recreation and Wildlife Department](https://www.facebook
 撒いた水が乾くと塩が貯まる乾燥地で塩害を防ぐには大量の水で流し去るか地下深く浸透させるしかないから余計に水を消費するという環境負担を100年以上続けて農業大国アリゾナが成り立っているつらみ
 
 有りそな事件じゃな
+
+
+</details>

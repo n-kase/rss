@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/6ec32760c1f08dcfdd7219ae82c94944.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 ![](/rss/downloaded_images/6ec32760c1f08dcfdd7219ae82c94944.jpg)
 
@@ -208,3 +209,6 @@ XやTikTok上で皇室典範改正がめちゃくちゃ炎上しとるわ
 
 
 via https://nova.2ch.sc/test/read.cgi/livegalileo/1781440881/
+
+
+</details>

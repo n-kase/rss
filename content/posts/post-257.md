@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/d61d3874a20f32bff96eb3aa26fd50ac.jpg"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 [この画像を大きなサイズで見る](/archives/607181.html/10-468)
 
@@ -167,3 +168,6 @@ References: [Sea lions play "pufferball"with unfortunate fish](https://boingboin
 みんなに「すげえ❗️お前は勇者だ‼️」って
 
 賞賛されるまでがお約束的な流れになっているwww
+
+
+</details>

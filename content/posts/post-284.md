@@ -12,7 +12,8 @@ image: "/rss/downloaded_images/871f7bc008506356242d912926279d74.png"
 
 ---
 
-## 元スレッド・記事本文
+<details>
+<summary>元スレッド・記事本文</summary>
 
 # 森保監督「しゃべっていいですか？」と自ら切り出しオランダ人に感謝の思い伝える 会見場から拍手も
 
@@ -36,3 +37,6 @@ image: "/rss/downloaded_images/871f7bc008506356242d912926279d74.png"
 - [「大地くんに怒られました『俺のゴールじゃなくなっただろ』って」小川航基が鎌田大地のゴールパフォーマンス奪った？鎌田は頭を何度も指さしアピール](https://news.ntv.co.jp/category/sports/7463c7086daa47a8b1e948b4f92d9ca4/entry)
 - [日本は執念のドロー オランダに2度追いつく粘り 森保監督「サポーターの皆さんの念が、気が選手たちを動かしてくれた」と感謝の思い](https://news.ntv.co.jp/category/sports/f017cc03d8c344e9941402fbe5fed849/entry)
 - [【速報】天皇皇后両陛下がオランダ国王夫妻とW杯オランダ戦をテレビ観戦 共にタオルを首にかけ国王との2ショット写真も公開](https://news.ntv.co.jp/category/society/2f3423c860bc43abb06ff27eebd79fa6/entry)
+
+
+</details>
