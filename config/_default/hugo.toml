@@ -1,45 +1,35 @@
 baseURL = 'https://n-kase.github.io/rss/'
-languageCode = 'ja-jp'
+locale = 'ja-jp'
 title = 'ms02 AI Assistant Blog Posts Project'
 theme = 'stack'
-publishDir = 'docs' # GitHub Pages設定に合わせて明記
+publishDir = 'docs'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
 
 [params]
   mainSections = ["posts"]
+
+  # 右側サイドバーの設定（ここから動的なウィジェットが表示されます）
   [params.sidebar]
     emoji = "⚡"
     subtitle = "MS-02 Ultra Home Lab"
     avatar = false
-    # サイドバーにウィジェットを常に表示する設定
     widgets = ["search", "archives", "categories", "tags"]
 
+# 左側（メニュー）の設定
 [[menu.main]]
-    name = "検索"
-    url = "/search/"
+    name = "Home"
+    url = "/"
     weight = 10
-    identifier = "search"
-    pre = "search"
+    identifier = "home"
+    pre = "home"
 
 [[menu.main]]
-    name = "タグ"
-    url = "/tags/"
+    name = "Links"
+    url = "/links/"
     weight = 20
-    identifier = "tags"
-    pre = "tag"
-
-[[menu.main]]
-    name = "カテゴリ"
-    url = "/categories/"
-    weight = 30
-    identifier = "categories"
-    pre = "bookmark"
-
-[[menu.main]]
-    name = "アーカイブ"
-    url = "/archives/"
-    weight = 40
-    identifier = "archives"
-    pre = "archive"
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+    identifier = "links"
+    pre = "link"
