@@ -1,0 +1,9 @@
+WARN  deprecated: project config key languages.ja.languageCode was deprecated in Hugo v0.158.0 and will be removed in a future release. Use languages.ja.locale instead.
+WARN  deprecated: project config key languages.ja.languageName was deprecated in Hugo v0.158.0 and will be removed in a future release. Use languages.ja.label instead.
+WARN  deprecated: project config key languages.en.languageCode was deprecated in Hugo v0.158.0 and will be removed in a future release. Use languages.en.locale instead.
+WARN  deprecated: project config key languages.en.languageName was deprecated in Hugo v0.158.0 and will be removed in a future release. Use languages.en.label instead.
+Start building sites … 
+hugo v0.163.1-2a4fd58818ffdf45bbb2a97ab119bb4c46cd93f0+extended linux/amd64 BuildDate=2026-06-11T15:34:40Z VendorInfo=gohugoio
+
+INFO  static: removing all files from destination that don't exist in static dirs
+INFO  static: syncing static files to / duration 34.456512ms
