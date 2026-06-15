@@ -5,7 +5,19 @@
         <description>Recent content in Categories on ms02 AI Assistant Blog Posts Project</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Mon, 15 Jun 2026 16:54:55 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 15 Jun 2026 16:55:43 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>国際情勢</title>
+            <link>https://n-kase.github.io/rss/categories/%E5%9B%BD%E9%9A%9B%E6%83%85%E5%8B%A2/</link>
+            <pubDate>Mon, 15 Jun 2026 16:55:43 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/categories/%E5%9B%BD%E9%9A%9B%E6%83%85%E5%8B%A2/</guid>
+            <description></description>
+        </item><item>
+            <title>社会・ネット議論</title>
+            <link>https://n-kase.github.io/rss/categories/%E7%A4%BE%E4%BC%9A%E3%83%8D%E3%83%83%E3%83%88%E8%AD%B0%E8%AB%96/</link>
+            <pubDate>Mon, 15 Jun 2026 16:55:36 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/categories/%E7%A4%BE%E4%BC%9A%E3%83%8D%E3%83%83%E3%83%88%E8%AD%B0%E8%AB%96/</guid>
+            <description></description>
+        </item><item>
             <title>投資</title>
             <link>https://n-kase.github.io/rss/categories/%E6%8A%95%E8%B3%87/</link>
             <pubDate>Mon, 15 Jun 2026 16:54:55 +0900</pubDate>
@@ -36,22 +48,10 @@
             <guid>https://n-kase.github.io/rss/categories/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1/</guid>
             <description></description>
         </item><item>
-            <title>社会・ネット議論</title>
-            <link>https://n-kase.github.io/rss/categories/%E7%A4%BE%E4%BC%9A%E3%83%8D%E3%83%83%E3%83%88%E8%AD%B0%E8%AB%96/</link>
-            <pubDate>Mon, 15 Jun 2026 16:52:11 +0900</pubDate>
-            <guid>https://n-kase.github.io/rss/categories/%E7%A4%BE%E4%BC%9A%E3%83%8D%E3%83%83%E3%83%88%E8%AD%B0%E8%AB%96/</guid>
-            <description></description>
-        </item><item>
             <title>労働問題</title>
             <link>https://n-kase.github.io/rss/categories/%E5%8A%B4%E5%83%8D%E5%95%8F%E9%A1%8C/</link>
             <pubDate>Mon, 15 Jun 2026 16:50:24 +0900</pubDate>
             <guid>https://n-kase.github.io/rss/categories/%E5%8A%B4%E5%83%8D%E5%95%8F%E9%A1%8C/</guid>
-            <description></description>
-        </item><item>
-            <title>国際情勢</title>
-            <link>https://n-kase.github.io/rss/categories/%E5%9B%BD%E9%9A%9B%E6%83%85%E5%8B%A2/</link>
-            <pubDate>Mon, 15 Jun 2026 16:38:54 +0900</pubDate>
-            <guid>https://n-kase.github.io/rss/categories/%E5%9B%BD%E9%9A%9B%E6%83%85%E5%8B%A2/</guid>
             <description></description>
         </item><item>
             <title>金融・決済</title>
