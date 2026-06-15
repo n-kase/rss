@@ -1,0 +1,41 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>行動変容 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E8%A1%8C%E5%8B%95%E5%A4%89%E5%AE%B9/</link>
+    <description>Recent content in 行動変容 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 08:59:34 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E8%A1%8C%E5%8B%95%E5%A4%89%E5%AE%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>キャラクター活用の行動変容プラットフォーム「キャラミクス」Headline Asiaから1億円調達</title>
+      <link>https://n-kase.github.io/rss/posts/post-156/</link>
+      <pubDate>Tue, 16 Jun 2026 08:59:34 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-156/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>リモアは2026年6月4日に、キャラクターを活用した行動変容プラットフォーム「キャラミクス」の開発資金として、Headline Asiaから1億円の調達を行ったことを発表しました。キャラミクスは睡眠を起点とし、キャラクターによる接客やID連携、生活データの取得、パーソナライズされた提案を組み合わせたサービスです。同社はこれを「Character‑Driven Behavior OS」と位置づけており、IPや世界観を守りながら感情設計とインセンティブ設計を組み込んだフルLLMを基盤とした技術を採用しています。SDK/APIとして外部サービスへの組み込みを想定し、美容・金融・EC・ウェルネス分野への展開を計画しており、すでに美容・小売領域で大手企業を含む複数社とPoCを進めているとのことです。調達資金はプロダクト開発、AI開発、コンテンツ制作、人材採用に充てられ、2026年後半に正式リリースと企業・自治体向けの実運用導入を開始し、2027年以降は金融・EC・美容・教育・ウェルネスへの横断展開と、Charamix IDを基盤としたBtoBtoCモデルの本格展開を予定しています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表を受けてネット上では、キャラクターを通じた日常生活への働きかけに期待する声が多く見られました。特に、睡眠データを起点にしたパーソナライズ提案や、好きなキャラクターとのインタラクションが継続的な行動変容を促す点に注目が集まっています。一方で、個人データの取得範囲やプライバシー保護、キャラクターの知的財産権への配慮について懸念を示す意見もあり、技術的な実現可能性やビジネスモデルの持続可能性について議論が交わされました。時間の経過とともに、実際のPoC結果やパートナー企業からのフィードバックが共有されると、期待と懸念のバランスが少しずつ調整されていく様子がうかがえました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>近年、健康増進や生活習慣の改善を目的としたデジタルヘルスや行動変容サービスが注目を集めており、特にゲーム化やキャラクターを活用したアプローチがユーザーのエンゲージメント向上に有効だと考えられています。キャラミクスはこうしたトレンドに合わせて、IP保護と感情設計を両立させたプラットフォームを提供することで、エンターテインメント性と実用性を兼ね備えた新たな価値を創出しようとしています。資金調達により開発体制が強化され、今後の実際のサービス提供とデータに基づく改善が進むことで、キャラクター駆動型の行動変容が社会に広まる可能性があります。この取り組みからは、技術とコンテンツの融合がユーザー行動に与える影響を慎重に検証しつつ、プライバシーと知的財産のバランスを保つことが重要であるという教訓が得られます。</p>
+<details>
+<summary>元スレッド・記事本文</summary>
+<h1 id="キャラクター活用の行動変容プラットフォームキャラミクスheadline-asiaから1億円調達">キャラクター活用の行動変容プラットフォーム「キャラミクス」Headline Asiaから1億円調達
+</h1><p>キャラクターを活用した行動変容プラットフォーム「キャラミクス」を開発するリモアは4日、1億円の資金調達を実施したことを公表した。出資者は Headline Asia。 キャラミクスは、睡眠を起点にキャラクターによる接客、 […]</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/67b53cdebffb07bf37e7cd53e18706d5.png"></p>
+<p>キャラクターを活用した行動変容プラットフォーム「キャラミクス」を開発するリモアは4日、1億円の資金調達を<a class="link" href="https://prtimes.jp/main/html/rd/p/000000002.000179521.html"  target="_blank" rel="noopener"
+    >実施した</a>ことを公表した。出資者は Headline Asia。</p>
+<p>キャラミクスは、睡眠を起点にキャラクターによる接客、ID 連携、生活データ連携、パーソナライズ提案を統合し、ユーザーの継続行動を支援する行動変容プラットフォーム。同社はこれを「Character-Driven Behavior OS」と位置づけている。</p>
+<p>技術面では、フル LLM による自由会話ではなく IP や世界観を守る制御設計を前提とし、感情設計とインセンティブ設計を組み合わせた設計を採用している。SDK/API として外部サービスへの組み込みを想定しており、美容、金融、EC、ウェルネスを中心に企業や自治体への展開を計画している。同社によると、美容・小売領域を中心に大手企業を含む複数社との PoC を推進中という。</p>
+<p>調達資金はプロダクト開発、AI 開発、コンテンツ開発、人材採用の強化に充当する。今後の<a class="link" href="https://prtimes.jp/main/html/rd/p/000000002.000179521.html"  target="_blank" rel="noopener"
+    >ロードマップ</a>として、2026年後半にキャラミクスの正式リリースおよび企業・自治体向け実運用導入を開始し、2027年以降は金融、EC、美容、教育、ウェルネス領域への横断展開と、Charamix ID を基盤とした BtoBtoC モデルの本格展開を予定している。</p>
+<p>via <a class="link" href="https://prtimes.jp/main/html/rd/p/000000002.000179521.html"  target="_blank" rel="noopener"
+    >PR TIMES</a></p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
