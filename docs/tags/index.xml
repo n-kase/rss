@@ -6,7 +6,196 @@
     <description>Recent content in タグ on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:49:08 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 08:51:09 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIベンチマーク</title>
+      <link>https://n-kase.github.io/rss/tags/ai%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF/</link>
+      <pubDate>Tue, 16 Jun 2026 08:51:09 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/ai%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://n-kase.github.io/rss/tags/llm/</link>
+      <pubDate>Tue, 16 Jun 2026 08:51:09 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/llm/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>MiniMax</title>
+      <link>https://n-kase.github.io/rss/tags/minimax/</link>
+      <pubDate>Tue, 16 Jun 2026 08:51:09 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/minimax/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>オープンウェイト</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88/</link>
+      <pubDate>Tue, 16 Jun 2026 08:51:09 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%88/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>マルチモーダル</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A2%E3%83%BC%E3%83%80%E3%83%AB/</link>
+      <pubDate>Tue, 16 Jun 2026 08:51:09 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A2%E3%83%BC%E3%83%80%E3%83%AB/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://n-kase.github.io/rss/tags/ai/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/ai/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Anthropic</title>
+      <link>https://n-kase.github.io/rss/tags/anthropic/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/anthropic/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Claude</title>
+      <link>https://n-kase.github.io/rss/tags/claude/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/claude/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>セーフガード</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%82%BB%E3%83%BC%E3%83%95%E3%82%AC%E3%83%BC%E3%83%89/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%82%BB%E3%83%BC%E3%83%95%E3%82%AC%E3%83%BC%E3%83%89/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>輸出規制</title>
+      <link>https://n-kase.github.io/rss/tags/%E8%BC%B8%E5%87%BA%E8%A6%8F%E5%88%B6/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E8%BC%B8%E5%87%BA%E8%A6%8F%E5%88%B6/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>ユーザー補償</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A3%9C%E5%84%9F/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:23 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%A3%9C%E5%84%9F/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>利用制限リセット</title>
+      <link>https://n-kase.github.io/rss/tags/%E5%88%A9%E7%94%A8%E5%88%B6%E9%99%90%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:23 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E5%88%A9%E7%94%A8%E5%88%B6%E9%99%90%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>オープンソース</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:01 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>コーディング</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:01 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>ベンチマーク</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:01 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>長文コンテキスト</title>
+      <link>https://n-kase.github.io/rss/tags/%E9%95%B7%E6%96%87%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:01 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E9%95%B7%E6%96%87%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>VLSI</title>
+      <link>https://n-kase.github.io/rss/tags/vlsi/</link>
+      <pubDate>Tue, 16 Jun 2026 08:49:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/vlsi/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>ハワイ</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%83%8F%E3%83%AF%E3%82%A4/</link>
+      <pubDate>Tue, 16 Jun 2026 08:49:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%83%8F%E3%83%AF%E3%82%A4/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>学会</title>
+      <link>https://n-kase.github.io/rss/tags/%E5%AD%A6%E4%BC%9A/</link>
+      <pubDate>Tue, 16 Jun 2026 08:49:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E5%AD%A6%E4%BC%9A/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>生成AI</title>
+      <link>https://n-kase.github.io/rss/tags/%E7%94%9F%E6%88%90ai/</link>
+      <pubDate>Tue, 16 Jun 2026 08:49:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E7%94%9F%E6%88%90ai/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>半導体</title>
+      <link>https://n-kase.github.io/rss/tags/%E5%8D%8A%E5%B0%8E%E4%BD%93/</link>
+      <pubDate>Tue, 16 Jun 2026 08:49:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E5%8D%8A%E5%B0%8E%E4%BD%93/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
     <item>
       <title>Amazonセール</title>
       <link>https://n-kase.github.io/rss/tags/amazon%E3%82%BB%E3%83%BC%E3%83%AB/</link>
@@ -76,15 +265,6 @@
       <pubDate>Tue, 16 Jun 2026 08:48:50 +0900</pubDate>
       
       <guid>https://n-kase.github.io/rss/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
-    <item>
-      <title>生成AI</title>
-      <link>https://n-kase.github.io/rss/tags/%E7%94%9F%E6%88%90ai/</link>
-      <pubDate>Tue, 16 Jun 2026 08:48:50 +0900</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/tags/%E7%94%9F%E6%88%90ai/</guid>
       <description>&lt;![CDATA[]]></description>
     </item>
     
@@ -877,24 +1057,6 @@
       <pubDate>Tue, 16 Jun 2026 08:41:53 +0900</pubDate>
       
       <guid>https://n-kase.github.io/rss/tags/%E6%97%A5%E6%9C%AC%E4%BA%BA/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://n-kase.github.io/rss/tags/ai/</link>
-      <pubDate>Tue, 16 Jun 2026 08:41:18 +0900</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/tags/ai/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
-    <item>
-      <title>Anthropic</title>
-      <link>https://n-kase.github.io/rss/tags/anthropic/</link>
-      <pubDate>Tue, 16 Jun 2026 08:41:18 +0900</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/tags/anthropic/</guid>
       <description>&lt;![CDATA[]]></description>
     </item>
     
@@ -1790,15 +1952,6 @@
     </item>
     
     <item>
-      <title>オープンソース</title>
-      <link>https://n-kase.github.io/rss/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9/</link>
-      <pubDate>Tue, 16 Jun 2026 08:31:18 +0900</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
-    <item>
       <title>ハイパーレイヤリング</title>
       <link>https://n-kase.github.io/rss/tags/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%AA%E3%83%B3%E3%82%B0/</link>
       <pubDate>Tue, 16 Jun 2026 08:31:18 +0900</pubDate>
@@ -2294,15 +2447,6 @@
     </item>
     
     <item>
-      <title>輸出規制</title>
-      <link>https://n-kase.github.io/rss/tags/%E8%BC%B8%E5%87%BA%E8%A6%8F%E5%88%B6/</link>
-      <pubDate>Tue, 16 Jun 2026 08:24:59 +0900</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/tags/%E8%BC%B8%E5%87%BA%E8%A6%8F%E5%88%B6/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
-    <item>
       <title>Kimi</title>
       <link>https://n-kase.github.io/rss/tags/kimi/</link>
       <pubDate>Tue, 16 Jun 2026 08:24:47 +0900</pubDate>
@@ -2317,15 +2461,6 @@
       <pubDate>Tue, 16 Jun 2026 08:24:47 +0900</pubDate>
       
       <guid>https://n-kase.github.io/rss/tags/moonshot-ai/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
-    <item>
-      <title>コーディング</title>
-      <link>https://n-kase.github.io/rss/tags/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/</link>
-      <pubDate>Tue, 16 Jun 2026 08:24:47 +0900</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/tags/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/</guid>
       <description>&lt;![CDATA[]]></description>
     </item>
     
@@ -2501,15 +2636,6 @@
     </item>
     
     <item>
-      <title>Claude</title>
-      <link>https://n-kase.github.io/rss/tags/claude/</link>
-      <pubDate>Tue, 16 Jun 2026 08:23:08 +0900</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/tags/claude/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
-    <item>
       <title>イノベーション治療</title>
       <link>https://n-kase.github.io/rss/tags/%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%B2%BB%E7%99%82/</link>
       <pubDate>Tue, 16 Jun 2026 08:22:52 +0900</pubDate>
@@ -2614,15 +2740,6 @@
       <pubDate>Tue, 16 Jun 2026 08:22:11 +0900</pubDate>
       
       <guid>https://n-kase.github.io/rss/tags/%E7%94%9F%E7%94%A3%E6%8B%A1%E5%A4%A7/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
-    <item>
-      <title>半導体</title>
-      <link>https://n-kase.github.io/rss/tags/%E5%8D%8A%E5%B0%8E%E4%BD%93/</link>
-      <pubDate>Tue, 16 Jun 2026 08:22:11 +0900</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/tags/%E5%8D%8A%E5%B0%8E%E4%BD%93/</guid>
       <description>&lt;![CDATA[]]></description>
     </item>
     

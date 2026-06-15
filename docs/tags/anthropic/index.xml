@@ -6,7 +6,66 @@
     <description>Recent content in Anthropic on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:41:18 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/anthropic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 08:50:43 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/anthropic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ClaudeのMythosとFable 5が利用不可に。米政府の輸出規制で公開3日で</title>
+      <link>https://n-kase.github.io/rss/posts/post-134/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-134/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Anthropicは2026年6月9日に最新AIモデル「Claude Fable 5」および「Claude Mythos 5」を発表しました。Fable 5はこれまで限定パートナーにのみ提供されていたMythosクラスの性能を一般ユーザーにも開放したモデルで、ソフトウェアエンジニアリングや科学研究など多くのベンチマークで最高水準の結果を示しています。発表からわずか3日後の6月12日、米国政府は輸出規制指令を出し、外国籍のユーザーがこれらのモデルにアクセスすることを全面的に禁止しました。Anthropicは指令に従いつつも、根拠が誤解に基づいているとして異議を唱え、アクセスの回復に向けて取り組んでいると表明しています。また、Fable 5にはジェイルブレイク対策や不正利用防止のためのセーフガードが実装されており、初期データでは95％以上のセッションでフォールバックが発生しなかったと報告されています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>ニュースが出ると、技術系フォーラムやSNSではすぐに議論が巻き起こりました。一部のユーザーは、政府の過剰な規制がイノベーションを阻害すると懸念し、AIのオープンな発展を求める声を上げました。一方で、国家安全保障の観点から高性能AIの拡散を防ぐべきだと支持する意見もあり、特に軍事や兵器開発への転用リスクを指摘するコメントが目立ちました。議論が進むにつれ、規制の具体的な根拠が不明瞭である点が批判され、政府側に透明性の向上を求める声が強まりました。また、Anthropicがセーフガードの効果を強調していることに対して、他のモデルでも同様のリスクが存在するという指摘もあり、規制の対象とするべきかどうかの見解が分かれました。時間とともに、規制の影響を受ける開発者や企業から実際の業務への支障が報告され、実務的な懸念が論議に加わるようになりました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回の出来事は、米国が先端技術に対する輸出規制を強化している広い流れの一環です。近年、AIモデルの性能向上に伴い、その悪用可能性が安全保障上の懸念として取り上げられ、政府側が予防的措置を講じるケースが増えています。これにより、国際的なAI研究協力が制約を受けるリスクが高まり、イノベーションのグローバルな共有が難しくなる可能性があります。一方で、技術の安全性を確保するための適切なガバナンスの必要性も再認識されました。今後は、政府と企業が対話を重ね、セキュリティとイノベーションのバランスを取る枠組みづくりが求められます。今回の事例は、技術進歩と規制の関係を見直す良い機会となり、透明性の高い情報共有と柔軟な対応が今後の鍵になるでしょう。</p>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>ニュース</p>
+<h1 id="claudeのmythosとfable-5が利用不可に米政府の輸出規制で公開3日で">ClaudeのMythosとFable 5が利用不可に。米政府の輸出規制で公開3日で
+</h1><p>2026年6月13日 12:10</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/03a59a97c2e9662d90190a77a0ccf6b6.png"></p>
+<p>Anthropicは6月12日(現地時間)、米国政府の輸出規制指令を受け、最新AIモデル「Claude Fable 5」および「Claude Mythos 5」へのすべてのユーザーアクセスを停止した。指令はAnthropicが両モデルを発表してわずか3日後に届いたもので、外国籍の人物によるアクセスを全面的に禁じる内容。Anthropicはこれに従いつつも、「誤解に基づくもの」として異議を唱えており、アクセス回復に向けて取り組んでいるとしている。</p>
+<p>停止の対象となったFable 5は、これまで限定パートナー向けにのみ提供されてきたMythosクラスの能力を一般向けに解放したモデルとして6月9日(現地時間)に発表されたばかりだ。ソフトウェアエンジニアリング、知識労働、視覚タスク、科学研究などほぼすべての主要ベンチマークで最高水準の性能を示す。Stripeの報告では、チーム全体で2カ月以上かかる5,000万行規模のRubyコードベースの移行作業を1日で完了させた事例が紹介されている。</p>
+<p>米政府は指令の根拠として安全保障上の懸念を挙げているが、具体的な詳細は通知されていない。Anthropicの理解では、政府はFable 5のセーフガードを回避するジェイルブレイク手法の存在を把握したとしているが、Anthropicは当該手法を検証した結果、他の公開モデルでも同様の能力が実現可能であり、Fable 5固有のリスクではないと反論している。</p>
+<p>Fable 5にはサイバーセキュリティ攻撃への悪用、生物・化学兵器開発への転用、競合モデルの蒸留を検出した場合にClaude Opus 4.8へ自動切替するセーフガードが実装されており、初期データでは95%以上のセッションでフォールバックが発生しなかったとしている。Anthropicはこれらの対策を踏まえ、「一部のジェイルブレイクが確認されたとしても、市場に展開済みの商用モデルを回収する根拠にはならない」と主張する。</p>
+<p>Fable 5と同じ基盤モデルを用いながら一部セーフガードを解除した「Claude Mythos 5」も同様に停止対象となった。Mythos 5は「Project Glasswing」を通じた限られたサイバー防衛担当者とインフラ提供者向けのモデルであり、停止前はClaude Mythos Previewの半額以下となる100万入力トークンあたり10ドル・100万出力トークンあたり50ドルで提供されていた。</p>
+<p>Pro・Max・Teamなどのサブスクリプションプランでは6月22日まで追加費用なしでFable 5を利用できる予定だったが、現時点ではアクセスが停止されている。Anthropicは状況の進展について随時告知するとしており、そのほかのAnthropicモデルへのアクセスはこの指令の影響を受けないとしている。</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Claude Fable 5/Mythos 5停止の補償か、全ユーザーの利用制限リセット</title>
+      <link>https://n-kase.github.io/rss/posts/post-133/</link>
+      <pubDate>Tue, 16 Jun 2026 08:50:23 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-133/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年6月13日、Anthropicは公式開発者アカウント「@ClaudeDevs」を通じて、ProおよびMaxプランを利用しているすべてのユーザーの5時間ごとおよび週単位の利用制限をリセットしたことを発表しました。この措置は、同日時点で米政府の輸出規制指令により「Claude Fable 5」および「Claude Mythos 5」へのアクセスが全ユーザーに対して停止されたことを受けて行われたと見られています。同社は、Fable 5とMythos 5以外のモデルへのアクセスは引き続き有効であり、アクセス回復に向けて取り組んでいると述べています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表後、SNSや技術系フォーラムでは、制限リセットがユーザーへの補償措置であるという見方が広まりました。一部のユーザーは、制限解除により作業効率が向上すると期待し、肯定的な反応を示しました。一方で、Fable 5とMythos 5へのアクセス停止が長期化するのではないかという懸念も見られ、特に研究開発にこれらのモデルを依存しているユーザーからは不安の声が上がりました。時間の経過とともに、Anthropicが代替モデルの性能向上や規制への対応策を示すことで、不安はやや和らいだ様子がうかがえます。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回の制限リセットは、米政府による輸出規制がAIモデルへのアクセスに直接的な影響を及ぼす事例として注目されています。規制により特定の高性能モデルが利用不可となった際、サービス提供側がユーザーへの不便を軽減するために利用制限を緩和するという対応が取られました。この出来事は、国際的な規制環境がAIサービスの利用可否に与える影響を改めて浮き彫りにし、今後は規制変更への柔軟な対応策や、代替モデルの充実が求められることを示しています。</p>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>ニュース</p>
+<h1 id="claude-fable-5mythos-5停止の補償か全ユーザーの利用制限リセット">Claude Fable 5/Mythos 5停止の補償か、全ユーザーの利用制限リセット
+</h1><p>2026年6月13日 13:36</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d7abb5d311b8ec7861c03282449a28a7.png"></p>
+<p>Anthropicは6月13日、ProおよびMaxプランの全ユーザーを対象に、5時間ごとおよび週単位の利用制限をリセットした。</p>
+<p>同社の開発者向け公式アカウント「@ClaudeDevs」が同日投稿で明らかにした。理由は公表されていないが、<a class="link" href="https://pc.watch.impress.co.jp/docs/news/2116935.html"  target="_blank" rel="noopener"
+    >米政府の輸出規制指令を受けて「Claude Fable 5」および「Claude Mythos 5」へのアクセスを全ユーザーに対して停止</a>しており、その影響による補償措置とみられる。</p>
+<p>We&rsquo;ve reset 5-hour and weekly rate limits for all users.</p>
+<p>— ClaudeDevs (@ClaudeDevs)<a class="link" href="https://x.com/ClaudeDevs/status/2065621176735646006?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >June 13, 2026</a></p>
+<p>Fable 5とMythos 5以外のAnthropicモデルへのアクセスは引き続き有効で、Anthropicはアクセス回復に向けて取り組んでいるとしている。</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>「Fable 5」停止から2日、MicrosoftのナデラCEOがXに「エコシステムなきフロンティアは不安定」と投稿</title>
       <link>https://n-kase.github.io/rss/posts/post-109/</link>
