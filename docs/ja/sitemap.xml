@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://n-kase.github.io/rss/tags/ai/</loc>
-    <lastmod>2026-06-15T14:49:13+09:00</lastmod>
+    <lastmod>2026-06-15T14:50:01+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/categories/</loc>
-    <lastmod>2026-06-15T14:49:13+09:00</lastmod>
+    <lastmod>2026-06-15T14:50:01+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -19,7 +19,7 @@
                 />
   </url><url>
     <loc>https://n-kase.github.io/rss/</loc>
-    <lastmod>2026-06-15T14:49:13+09:00</lastmod>
+    <lastmod>2026-06-15T14:50:01+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -32,13 +32,13 @@
                 />
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/</loc>
-    <lastmod>2026-06-15T14:49:13+09:00</lastmod>
+    <lastmod>2026-06-15T14:50:01+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/summary/</loc>
-    <lastmod>2026-06-15T14:49:13+09:00</lastmod>
+    <lastmod>2026-06-15T14:50:01+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/</loc>
-    <lastmod>2026-06-15T14:49:13+09:00</lastmod>
+    <lastmod>2026-06-15T14:50:01+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -51,7 +51,16 @@
                 />
   </url><url>
     <loc>https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</loc>
-    <lastmod>2026-06-15T14:49:13+09:00</lastmod>
+    <lastmod>2026-06-15T14:50:01+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-78/</loc>
+    <lastmod>2026-06-15T14:50:01+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-77/</loc>
+    <lastmod>2026-06-15T14:49:53+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-76/</loc>
+    <lastmod>2026-06-15T14:49:45+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-75/</loc>
     <lastmod>2026-06-15T14:49:13+09:00</lastmod>
