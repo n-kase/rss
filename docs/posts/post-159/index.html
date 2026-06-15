@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="企業が生成AIを導入しても実際の損益に結びつくケースはごくわずかで、多くの現場では個人的な効率化にとどまっている状況が指摘されている。このギャップを埋めるため、ELYZAは業務プロセスを深く理解するコンサルティング型ソリューションと、...">
+<title>業務に溶け込む AI を作る。ELYZA 曽根岡侑也氏が語る、ELYZA Works の設計思想</title>
+
+
+<link rel="canonical" href="https://n-kase.github.io/rss/posts/post-159/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/rss/scss/style.min.e62e09c60ba428a627e03568fa3df938f6a8224f815b5846f00816c17d4a0be4.css"><meta property='og:title' content="業務に溶け込む AI を作る。ELYZA 曽根岡侑也氏が語る、ELYZA Works の設計思想">
+<meta property='og:description' content="企業が生成AIを導入しても実際の損益に結びつくケースはごくわずかで、多くの現場では個人的な効率化にとどまっている状況が指摘されている。このギャップを埋めるため、ELYZAは業務プロセスを深く理解するコンサルティング型ソリューションと、...">
+<meta property='og:url' content='https://n-kase.github.io/rss/posts/post-159/'>
+<meta property='og:site_name' content='ms02 AI Assistant Blog Posts Project'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='AI' /><meta property='article:tag' content='ELYZA' /><meta property='article:tag' content='業務効率化' /><meta property='article:tag' content='ソリューション' /><meta property='article:tag' content='プロダクト' /><meta property='article:published_time' content='2026-06-15T16:02:48&#43;09:00'/><meta property='article:modified_time' content='2026-06-15T16:02:48&#43;09:00'/><meta property='og:image' content='https://n-kase.github.io/rss/downloaded_images/bfe4a9908153bb3a03738f0f68a7ea98.jpg' />
+<meta name="twitter:title" content="業務に溶け込む AI を作る。ELYZA 曽根岡侑也氏が語る、ELYZA Works の設計思想">
+<meta name="twitter:description" content="企業が生成AIを導入しても実際の損益に結びつくケースはごくわずかで、多くの現場では個人的な効率化にとどまっている状況が指摘されている。このギャップを埋めるため、ELYZAは業務プロセスを深く理解するコンサルティング型ソリューションと、..."><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://n-kase.github.io/rss/downloaded_images/bfe4a9908153bb3a03738f0f68a7ea98.jpg' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="メニューを開く・閉じる">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/rss/">ms02 AI Assistant Blog Posts Project</a></h1>
+            <h2 class="site-description">MS-02 Ultra Home Lab</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/rss/search/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>検索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/tags/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+                
+                <span>タグ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/categories/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                
+                <span>カテゴリ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>アーカイブ</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    <li id="i18n-switch">  
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                        <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                            
+                                
+                                
+                                    
+                                        
+                                    
+                                
+                                <option value="/rss/posts/post-159/" selected>日本語</option>
+                            
+                                
+                                
+                                    
+                                
+                                <option value="/rss/en/" >English</option>
+                            
+                        </select>
+                    </li>
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>ダークモード</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/rss/posts/post-159/">
+            <img alt="Featured image of post 業務に溶け込む AI を作る。ELYZA 曽根岡侑也氏が語る、ELYZA Works の設計思想" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bfe4a9908153bb3a03738f0f68a7ea98.jpg">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/" style="background-color: hsl(221, 60%, 84%); color: hsl(221, 60%, 15%);">
+                テクノロジー
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/rss/posts/post-159/">業務に溶け込む AI を作る。ELYZA 曽根岡侑也氏が語る、ELYZA Works の設計思想</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            企業が生成AIを導入しても実際の損益に結びつくケースはごくわずかで、多くの現場では個人的な効率化にとどまっている状況が指摘されている。このギャップを埋めるため、ELYZAは業務プロセスを深く理解するコンサルティング型ソリューションと、...
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2026-06-15T16:02:48&#43;09:00'>2026年6月15日月曜日</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        読了時間: 1分
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+
+    
+
+    <section class="article-content">
+    
+    
+    <h2 id="aiによる要約">AIによる要約
+</h2><p>企業が生成AIを導入しても実際の損益に結びつくケースはごくわずかで、多くの現場では個人的な効率化にとどまっている状況が指摘されている。このギャップを埋めるため、ELYZAは業務プロセスを深く理解するコンサルティング型ソリューションと、誰でも簡単にアプリを作って改善し続けられるプロダクト「ELYZA Works」を両輪で提供し、現場での実装とスケーラビリティを両立させようとしている。その結果として、AIを単なるツールではなく業務に根付かせる仕組みが求められ、導入後の改善サイクルを回せる組織づくりが競争力の鍵になるという教訓が得られる。</p>
+<hr>
+<h2 id="元スレッド記事本文">元スレッド・記事本文
+</h2><h1 id="業務に溶け込む-ai-を作るelyza-曽根岡侑也氏が語るelyza-works-の設計思想">業務に溶け込む AI を作る。ELYZA 曽根岡侑也氏が語る、ELYZA Works の設計思想
+</h1><p>本稿はKDDIが運営するサイト「MUGENLABO Magazine」に掲載された記事からの転載 前編では、LLM の主戦場が「ロングホライズン・タスク」に移り、その成立要件が何かについて、ELYZA代表取締役 CEO […]</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bfe4a9908153bb3a03738f0f68a7ea98.jpg"></p>
+<p><em>本稿はKDDIが運営するサイト 「MUGENLABO Magazine」に掲載された記事からの転載</em></p>
+<p>前編では、LLM の主戦場が「ロングホライズン・タスク」に移り、その成立要件が何かについて、<a class="link" href="https://elyza.ai/"  target="_blank" rel="noopener"
+    >ELYZA</a>代表取締役 CEO の曽根岡侑也氏に聞いた。後編では、その課題に対する同社の具体的な回答「<a class="link" href="https://lp.works.elyza.ai/"  target="_blank" rel="noopener"
+    >ELYZA Works</a>」の設計思想と、企業の AI 活用を実務に根づかせるための仕組みに迫る。</p>
+<h3 id="plにヒットしなければ意味がない">PLにヒットしなければ意味がない
+</h3><p>技術の主戦場が移る一方で、企業の現場では別の問題が浮上している。生成 AI ツールを導入した企業は急増したが、その多くが「使ってはいるが、業績に効いている実感がない」という状態に陥っているのだ。</p>
+<p>社員が個人的に ChatGPT を使って議事録を要約する。そうした「便利だが小粒な効率化」は広がった。しかし、それが売上増やコスト削減として財務諸表に現れるかどうかは、全く別の話だ。</p>
+<p><strong>——企業の生成 AI 活用の現状をどう見ているか</strong></p>
+<p>曽根岡：MIT が2025年7月頃に出した「<a class="link" href="https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf"  target="_blank" rel="noopener"
+    >The gen AI Divide</a>」というレポートがあります。企業における ChatGPT のような個人向けの生成 AI の導入自体は進んでいる。ただ、それだけでは PL にはまったく影響していません。各社が自分たちの重要なタスクを AI 化するプロジェクトに取り組んではいるものの、実際に PL ヒットにつながっているのはわずか5%でごく一部だと。</p>
+<p><strong>—— 成果を出している企業は何をしているのか</strong></p>
+<p>曽根岡：一番わかりやすいのは、これまで外部に委託していた BPO のコストを AI による内製化で削減し、そこから利益を生み出したというケースです。加えて、すべてを内製で賄おうとするよりも、外部パートナーとの協業が重要だという指摘もされています。</p>
+<p>導入と成果の間にある深い溝。その溝を埋められる企業と埋められない企業の二極化が進んでいる。外注していた業務を AI で内製化し、その差額を利益に転換する。華やかな話ではないが、PL を動かすとはそういうことだ。</p>
+<p>そしてその実行には、AI モデルの性能だけでなく、業務プロセスを理解したパートナーの存在が鍵になる。</p>
+<h3 id="ソリューションとプロダクトの二刀流">ソリューションとプロダクトの二刀流
+</h3><p>AI を企業に導入する方法は、大きく二つに分かれる。一つは、コンサルタントやエンジニアが顧客の業務を深く理解し、個別にシステムを構築するアプローチ。もう一つは、汎用的なプロダクトを提供し、顧客自身が業務に適用していくアプローチだ。</p>
+<p>前者は成果が出やすい反面、人手がかかりスケールしにくい。後者はスケールするが、業務への定着が難しい。ELYZA は両方を併走させる道を選んだ。</p>
+<p><strong>——二つの事業はどう位置づけられているのか</strong></p>
+<p>曽根岡：ソリューション事業は、コンサルティングファームと同様に、AI やエンジニアリングのプロフェッショナルが伴走するハンズオン型のサービスです。一方のプロダクトである ELYZA Works は、これまで人がやっていた業務を AI に置き換え、AI と一緒に改善サイクルを回していく。さらに、それを社内で共有して日常的に使ってもらえる仕組みにする。そこが大きなテーマです。</p>
+<p><strong>ーーソリューション事業での知見はプロダクトに還元されているのか</strong></p>
+<p>曽根岡：我々が選んだのは、企業の業務タスクを AI で解くためのアプリケーション層です。モデルは外部の優れたものを活用しつつ、業務プロセスをどう AI に翻訳するかというインテグレーションの部分に強みを置いています。</p>
+<p>大企業の複雑な業務プロセスに入り込み、「どこで AI が詰まるのか」「現場は何を求めているのか」を肌で学ぶ。その知見がELYZA Works の機能設計に反映される。前編で曽根岡氏が引いた <a class="link" href="https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf"  target="_blank" rel="noopener"
+    >MITのレポート</a>は、AI システムは作って終わりではなく導入がスタートだと指摘していた。ソリューション事業で得た実践知を、スケーラブルなプロダクトに変換する。</p>
+<p>ELYZA の二刀流は、そのための装置だ。</p>
+<h3 id="チャットでaiに相談しながら作り使いながら直す">「チャットでAIに相談しながら作り、使いながら直す」
+</h3><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/067ec3fd360f41ec6d541ef37c354c99.png"></p>
+<p>エンタープライズ向けの AI ツールは、往々にして「導入まで3か月、カスタマイズに半年」という世界だ。IT 部門が要件定義をし、ベンダーが開発し、現場に配られる頃にはニーズが変わっている。ELYZA Works が目指したのは、このサイクルを根本から短縮することだった。</p>
+<p><strong>——ELYZA Works ではどうやってアプリを作るのか</strong></p>
+<p>曽根岡：「どのようなアプリを作成したいですか？」という問いに対して、一文書くだけです。例えば「窓口担当者がマーケティング担当者向けにアンケートを作成するアプリ」と書くと、その内容をもとに最初のたたきを作ってくれます。</p>
+<p><strong>——そこから使いながら改善していけるのか</strong></p>
+<p>曽根岡：自分たちの業務に合うように使いながら、合わない部分をその場で修正していけます。社内の特定のチームで共有して使い合うこともできるので、業務の中に AI がしっかり組み込まれた状態を作れるようになっています。</p>
+<p>「回答者属性を選択式に変えてください」と指示すれば、自由テキストだったフィールドがクリック選択に変わる。「対象商品を au のサービスから選べるようにしてください」と言えば、入力欄がプルダウンメニューに置き換わる。</p>
+<p>プログラミングの知識は要らない。従来の業務システムでは、こうした小さな改修でもチケットを切り、開発キューに並び、数週間待つのが当たり前だった。ELYZA Works はその待ち時間をゼロに近づけようとしている。</p>
+<p><strong>——今後、外部のデータベースとの連携はどこまで広がるのか</strong></p>
+<p>曽根岡：外部のデータベースと連携して使えるようにする機能は、ロードマップに入っています。</p>
+<p>現時点のELYZA Works はアプリ内で完結する設計だが、企業の業務データは Salesforce や SAP、社内の独自システムなど、さまざまな場所に分散している。これらと接続できれば、ELYZA Works が業務データと AI をつなぐハブとして機能する可能性がある。</p>
+<p>AI スタートアップにとって最も重要な経営判断の一つは、「どこで戦わないか」を決めることだ。モデル開発には数百億円規模の資金と、数万台の GPU が必要になる。Google、OpenAI、Anthropic、Meta といったプラットフォーマーが圧倒的な物量で押さえにくるこの領域に、日本のベンチャーが正面から挑んでも勝ち目はない。</p>
+<p>ーーさて、前後編にわたり、ELYZAの曽根岡氏に話を聞いた。</p>
+<p>ChatGPTという衝撃から約3年。企業はより具体的な成果を求め、この LLM という魔法のスティックをどう使うか行動に移し始めている。</p>
+<p>曽根岡氏が解説してくれたロングホライズン・タスクの概念は、明らかに企業にとっての競争力になりうるキーワードだ。</p>
+<p>これをどう手にするか。この問いに対し曽根岡氏はひとつ「垂直統合」というキーワードを話してくれた。</p>
+<p>ビジネスを中心にユーザーが触れるアプリを軸に、モデルやインフラなど、様々な条件を考慮した上で最適な、その企業や利用者にあった垂直統合の基盤を提供する。ここにはツールとしての AI、LLM だけでなく、それを使いこなす人間の存在も重要になる。</p>
+<p>今後は AI ネイティブな組織を目指し、社員教育も大きなテーマになっていくだろう。</p>
+<p>モデル競争がひとつの節目を迎え、エンタメやビジネスといった分野、法律や医療などの事業領域、エッジ・クラウドなど利用シーンといった様々な変数に対して最適化が爆速で進んでいるのが今の状況だ。導入して終わりではなく、現場が使い、直し、育てていくプロセスを回せるかどうか。その仕組みをプロダクトとして形にしたのが今の ELYZA の取り組みに繋がっていると感じた。</p>
+<p>KDDI グループとの提携で得た大企業の業務現場へのアクセスと、松尾研から受け継いだ LLM の研究開発力。ELYZA はこの二つを武器に、「日本語 LLM の会社」から「企業の業務 AI 化を支えるプラットフォーム」へと、静かに、しかし明確に軸足を移しつつある。</p>
+
+</section>
+
+
+    <footer class="article-meta article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/rss/tags/ai/">AI</a>
+        
+            <a href="/rss/tags/elyza/">ELYZA</a>
+        
+            <a href="/rss/tags/%E6%A5%AD%E5%8B%99%E5%8A%B9%E7%8E%87%E5%8C%96/">業務効率化</a>
+        
+            <a href="/rss/tags/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/">ソリューション</a>
+        
+            <a href="/rss/tags/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88/">プロダクト</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside>
+    <h2 class="section-title">関連するコンテンツ</h2>
+    <div class="subsection-list">
+        <div class="article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-154/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post テキストを介さない音声特化型AIモデル開発のDubGuild、ジャフコをリードに21億" loading="lazy" src="/rss/downloaded_images/6e9b80564d7d8e49420bd39810e026ba.png">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">テキストを介さない音声特化型AIモデル開発のDubGuild、ジャフコをリードに21億</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-150/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post なぜPoC地獄は終わらないのか——NEC野口氏と語る、AIを産業にインストールする方法" loading="lazy" src="/rss/downloaded_images/f6ad1f9e1639079e92c02351bce5d969.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">なぜPoC地獄は終わらないのか——NEC野口氏と語る、AIを産業にインストールする方法</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-149/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 社会インフラの計画業務をAIで自動化する「OPTIUM」シリーズBで15.4億円を調達" loading="lazy" src="/rss/downloaded_images/fec1b382ab64561ed23b5364f4eb4751.png">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">社会インフラの計画業務をAIで自動化する「OPTIUM」シリーズBで15.4億円を調達</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-148/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 代理店営業の実務をAIエージェントで自動化「Hiway」がシリーズAで3億円調達" loading="lazy" src="/rss/downloaded_images/43a755eb8ec7a2183d791272fe5f3063.png">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">代理店営業の実務をAIエージェントで自動化「Hiway」がシリーズAで3億円調達</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="">
+    <a href="/rss/posts/post-105/">
+        
+
+        <div class="article-details">
+            <h2 class="article-title">「Fable 5」停止から2日、MicrosoftのナデラCEOがXに「エコシステムなきフロンティアは不安定」と投稿</h2>
+        </div>
+    </a>
+</article>
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+
+        <div class="disqus-container">
+    
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 ms02 AI Assistant Blog Posts Project
+    </section>
+    
+    <section class="powerby">
+        <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> で構築されています。 <br />
+        テーマ <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.3">Stack</a></b> は <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> によって設計されています。
+    </section>
+</footer>
+
+
+    
+
+
+
+<script type="module">
+    import gallery from '\/rss\/ts\/gallery.js';
+
+    const articleContent = document.querySelector('.article-content');
+    const shouldLoad = articleContent && (articleContent.querySelectorAll('figure').length > 0 || articleContent.querySelectorAll('img.gallery-image').length > 0);
+    
+    if (shouldLoad) {
+        gallery(articleContent);
+
+        const PhotoSwipeLightbox = (await import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js")).default;
+        const styleHref = "https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.css";
+
+        const styleTag = document.createElement('link');
+        styleTag.rel = 'stylesheet';
+        styleTag.href = styleHref;
+        document.head.appendChild(styleTag);
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallerySelector: '.article-content',
+            childSelector: 'figure a.image-link',
+            pswpModule: () => import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.esm.min.js")
+        });
+        lightbox.init();
+    }
+</script>
+
+    
+
+            </main>
+        </div>
+        
+<script type="text/javascript" src="/rss/ts/main.8f587a582cd4e51d03a4840028b19d7deac2cee707cfe21ffe942b6666363a7f.js" defer></script>
+
+
+    </body>
+</html>
