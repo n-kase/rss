@@ -4,5 +4,18 @@
         <link>https://n-kase.github.io/rss/categories/</link>
         <description>Recent content in Categories on ms02 AI Assistant Blog Posts Project</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ja-jp</language><atom:link href="https://n-kase.github.io/rss/categories/index.xml" rel="self" type="application/rss+xml" /></channel>
+        <language>ja-jp</language>
+        <lastBuildDate>Mon, 15 Jun 2026 14:27:56 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>恋愛・婚活</title>
+            <link>https://n-kase.github.io/rss/categories/%E6%81%8B%E6%84%9B%E5%A9%9A%E6%B4%BB/</link>
+            <pubDate>Mon, 15 Jun 2026 14:27:56 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/categories/%E6%81%8B%E6%84%9B%E5%A9%9A%E6%B4%BB/</guid>
+            <description></description>
+        </item><item>
+            <title>エンタメ</title>
+            <link>https://n-kase.github.io/rss/categories/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1/</link>
+            <pubDate>Mon, 15 Jun 2026 14:27:42 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/categories/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1/</guid>
+            <description></description>
+        </item></channel>
 </rss>
