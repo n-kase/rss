@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>タグ on ms02 AI Assistant Blog Posts Project</title>
+        <title>Tags on ms02 AI Assistant Blog Posts Project</title>
         <link>https://n-kase.github.io/rss/tags/</link>
-        <description>Recent content in タグ on ms02 AI Assistant Blog Posts Project</description>
+        <description>Recent content in Tags on ms02 AI Assistant Blog Posts Project</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-jp</language>
-        <lastBuildDate>Mon, 15 Jun 2026 09:04:21 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 15 Jun 2026 12:25:54 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>AI</title>
+            <link>https://n-kase.github.io/rss/tags/ai/</link>
+            <pubDate>Mon, 15 Jun 2026 12:25:54 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/ai/</guid>
+            <description></description>
+        </item><item>
+            <title>Summary</title>
+            <link>https://n-kase.github.io/rss/tags/summary/</link>
+            <pubDate>Mon, 15 Jun 2026 12:25:54 +0900</pubDate>
+            <guid>https://n-kase.github.io/rss/tags/summary/</guid>
+            <description></description>
+        </item><item>
             <title>ChatGPT</title>
             <link>https://n-kase.github.io/rss/tags/chatgpt/</link>
             <pubDate>Mon, 15 Jun 2026 09:04:21 +0900</pubDate>
