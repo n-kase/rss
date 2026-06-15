@@ -1,0 +1,64 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>セキュリティ on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</link>
+    <description>Recent content in セキュリティ on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 08:26:48 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか</title>
+      <link>https://n-kase.github.io/rss/posts/post-71/</link>
+      <pubDate>Tue, 16 Jun 2026 08:26:48 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-71/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AMDの自動更新ツールであるAMD Auto Updaterに、HTTPSで取得する更新情報とは別に、実際にダウンロードする実行ファイルのURLがHTTPで提供され、さらにダウンロード後のファイルに暗号学的な署名検証が行われないという脆弱性が見つかりました。これにより、同じネットワーク上にいる攻撃者や通信経路上でデータを書き換えることができる中間者が、正規の更新ファイルを悪意のある実行ファイルに差し替えることが可能となり、ユーザーが通常の自動更新と見なしている間にスパイウェアやランサムウェアが管理者権限で実行されるリスクが指摘されました。</p>
+<p>セキュリティ研究者のMrBruh氏は2026年1月27日にこの問題を発見し、2月6日にAMDへ報告しましたが、AMDのバグ報奨金プログラムを担当するIntigritiは同日、中間者攻撃を前提とするため報奨金対象外とし、報告をクローズしました。その後、MrBruh氏がブログ記事を公開しHacker Newsで話題になると、AMDのPSIRTは改めて調査すると連絡し、内部では脆弱性としての妥当性を確認すると説明、CVEの発行や修正、研究者へのクレジット付与を行う方針を示しました。一方で、AMDはMrBruh氏に対してブログ記事の削除を要求し、正式対応が終わるまで公開を待つよう求めました。MrBruh氏はこれに従ったものの、その後の連絡は積極的ではなく、最終的に初回報告から124日後の2026年6月9日に公開となりました。AMDは最終的にこの問題を「AMD Auto Updater Vulnerability」として公表し、CVE-2026-40677を割り当て、影響製品としてAMD Management Console、AMD Ryzen Master、AMD µProfを挙げ、それぞれのバージョンアップを緩和策として推奨しました。</p>
+<p>この一連の流れは、バグ報奨金制度の運用ルールと実際の脆弱性の深刻さの間に生じるズレを浮き彫りにしました。Hacker Newsでは、中間者攻撃を理由に報奨金対象外とする判断への批判が相次ぎ、HTTPで実行ファイルを配布し署名検証がないことはソフトウェア更新機構として重大な欠陥であるという指摘が多数見られました。また、バグ報奨金制度の対象外という判断が必ずしも脆弱性の影響がないことを意味しないという見方や、中間者攻撃は特定の報奨金プログラムの目的から外れているだけで、脅威そのものが無視できるわけではないというコメントもありました。さらに、YouTubeチャンネル・Gamers NexusもAMDの対応を不誠実かつルールの後付け変更のように批判し、研究者への信頼回復の必要性を訴えました。</p>
+<p>この事例から、ソフトウェアベンダーは報奨金プログラムの基準だけに頼らず、セキュリティ報告の内容そのものを慎重に評価し、中間者攻撃などの現実的な脅威軽視を避けるべきであるという教訓が得られます。また、研究者側も報奨金制度の判断に不満がある場合でも、適切なチャネルを通じて情報を公開し、コミュニティの検証を得ることが重要であり、透明性と迅速な対応が信頼関係を保つ鍵となります。です。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<h1 id="amdの自動更新ツールに見つかったリモートコード実行の脆弱性報告から公開までに何が起きたのか">AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ef2fcb3126da8318cd5e7ccbc1df7b20.jpg"></p>
+<p>AMDの自動更新ツールにリモートコード実行につながる可能性がある脆弱(ぜいじゃく)性が見つかりました。セキュリティ研究者のMrBruh氏はAMDに報告したものの、中間者攻撃を前提とするため報奨金制度の対象外と判断され、その対応を巡って議論が広がっています。</p>
+<p><strong>The RCE that AMD wouldn’t fix! | MrBruh&rsquo;s Epic Blog</strong></p>
+<p><a class="link" href="https://mrbruh.com/amd2/"  target="_blank" rel="noopener"
+    >https://mrbruh.com/amd2/</a></p>
+<p>問題となったのは自動更新ツールである** AMD Auto Updater**が更新情報の取得にHTTPSを使っている一方で、実際にダウンロードする実行ファイルのURLにはHTTPが使われていたという点です。さらにMrBruh氏が逆コンパイルして確認したところ、ダウンロードした実行ファイルに対する暗号学的な署名検証は行われず、そのまま実行される仕組みだったとのこと。</p>
+<p>この問題により、攻撃者が同じネットワーク上にいる場合や通信経路上でデータを書き換えられる立場にある場合、正規の更新ファイルを悪意ある実行ファイルに差し替えられる可能性があります。特にユーザー側から見ると通常の自動更新に見えるため、スパイウェアやランサムウェアなどが管理者権限で実行されるケースも考えられます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/84eafd8cdd52788d4101529b6b57b20f.jpg"></p>
+<p>MrBruh氏は2026年1月27日にこの脆弱性を発見し、2月6日にAMDへ報告しました。しかし、AMDのバグ報奨金プログラムを担当する** Intigriti**は同日、この報告を「修正対象外かつ報奨金対象外」としてクローズしたとのこと。</p>
+<p>その後、MrBruh氏がブログ記事を公開してHacker Newsで話題になると、AMDのPSIRTは改めて調査すると連絡しました。AMD側は「Intigritiが報奨金対象外と判断しても、社内では脆弱性としての妥当性を確認する」と説明し、さらにCVEの発行や修正、研究者としてのクレジット付与を行う方針を示したとされています。</p>
+<p>一方で、AMDはMrBruh氏に対してブログ記事の削除を要求し、正式対応が終わるまで公開を待つよう求めました。MrBruh氏はこれに応じたものの、その後の連絡は積極的ではなく、最終的に初回報告から124日後の2026年6月9日が公開日になったと説明しています。</p>
+<p>AMDは最終的にこの問題を「** AMD Auto Updater Vulnerability**」として公表し、CVE-2026-40677を割り当てました。AMDは影響を受ける製品として</p>
+<p><strong>や</strong></p>
+<p><a class="link" href="https://www.amd.com/en/support/downloads/manageability-tools.html"  target="_blank" rel="noopener"
+    >AMD Management Console</a><strong>、</strong></p>
+<p><a class="link" href="https://www.amd.com/ja/products/software/ryzen-master.html"  target="_blank" rel="noopener"
+    >AMD Ryzen Master</a><strong>を挙げています。緩和策としてAMD Management Consoleはバージョン14.0.0、AMD Ryzen Masterはバージョン2.14.3、AMD µProfはバージョン5.3以降への更新が推奨されています。</strong></p>
+<p><a class="link" href="https://www.amd.com/en/developer/uprof.html"  target="_blank" rel="noopener"
+    >AMD µProf</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d8a9525fa02c8902eba20659d738e1cb.jpg"></p>
+<p>ただし、MrBruh氏はAMDから「Ryzen Masterでは自動更新機能をインストーラーからアプリケーション層へ移し、更新通信はHTTPSで保護され、更新ファイルは署名検証を受ける」と説明されたものの、実際に確認できたのはCRC-32チェックだったと主張しています。CRC-32はデータ破損の検出には使えますが、攻撃者による改ざんを防ぐための暗号学的な署名検証とは異なるため、MrBruh氏はAMDの説明は正確ではないと批判しています。</p>
+<p>さらにMrBruh氏は別の問題としてAMD Auto Updaterがati.comからdrivers.amd.comへのリダイレクトを処理できず、更新処理がクラッシュまたは停止する可能性にも触れています。このため、脆弱性が実際には悪用可能な段階まで到達しない可能性がある一方で、脆弱な更新機構を修正するにはその更新機構自体を更新しなければならないという矛盾した状態になっていたと指摘しています。</p>
+<p>ソーシャルニュースサイトの** Hacker News**では、中間者攻撃を理由に報奨金対象外とする判断への批判が相次ぎました。特にHTTPで実行ファイルを配布し追加の署名検証もない場合は単なる特殊条件ではなく、ソフトウェア更新機構として重大な欠陥だという見方が示されています。</p>
+<p>また、Hacker Newsでは「バグ報奨金制度の対象外という判断は必ずしも脆弱性としての影響がないことを意味しない」という</p>
+<p><strong>も示されました。</strong></p>
+<p><a class="link" href="https://news.ycombinator.com/item?id=48492487"  target="_blank" rel="noopener"
+    >見方</a><strong>では「中間者攻撃は『PCを乗っ取るという観点で対象外』なのではなく、あくまで特定のバグ報奨金プログラムの目的から外れているという意味だ」と指摘されています。</strong></p>
+<p><a class="link" href="https://news.ycombinator.com/item?id=48495932"  target="_blank" rel="noopener"
+    >あるコメント</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ec45d163b7103b997a1d130ce7802db3.jpg"></p>
+<p>ゲーミングPCなどのハードウェアに関する話題を扱うYouTubeチャンネル・Gamers Nexusもこの件を取り上げ、「AMDが研究者に対して不誠実な対応を取り、後からルールを変更したかのように見える」と批判しました。</p>
+<p><a class="link" href="https://www.youtube.com/watch?v=4HjWHNLRMB0"  target="_blank" rel="noopener"
+    >AMD Gaslights Security Researcher, Changes Rules Retroactively - YouTube</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6877bba9432b263f710ce1665976258f.jpg"></p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

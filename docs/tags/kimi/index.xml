@@ -1,0 +1,50 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kimi on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/kimi/</link>
+    <description>Recent content in Kimi on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 08:24:47 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/kimi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中国製AIモデル「Kimi K2.7 Code」がオープンモデルとして公開される、Kimiシリーズ最高のコーディング性能でトークン消費も少なめ</title>
+      <link>https://n-kase.github.io/rss/posts/post-66/</link>
+      <pubDate>Tue, 16 Jun 2026 08:24:47 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-66/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>中国のAI企業Moonshot AIが、コーディングに特化したオープンモデル「Kimi K2.7 Code」を公開した。このモデルは前世代よりもコーディング性能が大幅に向上し、同じ作業を行う際に必要な思考トークン数を約30％削減できるため、効率的にプログラムを生成できる。オープンソースとして誰でもダウンロードできるため、開発者や研究者が自由に利用・改良できる環境が整った。</p>
+<p>この発表により、AIを活用したコーディング支援ツールの普及がさらに進むことが予想され、ソフトウェア開発のスピードや品質が向上する可能性がある。一方で、高性能なモデルが容易に手に入ることで、不正なコード生成やセキュリティリスクへの懸念も高まるかもしれない。ネット上では、技術の進化への期待とともに、使い方のルールや倫理的なガイドラインの必要性が議論される傾向が見られる。</p>
+<p>したがって、開発者はこのような効率的なオープンモデルを積極的に活用しつつ、生成されたコードの品質や安全性をしっかりと確認する姿勢が求められる。また、提供側は利用者が誤用しないよう、適切な利用ポリシーや監視仕組みを整えることが重要である。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<h1 id="中国製aiモデルkimi-k27-codeがオープンモデルとして公開されるkimiシリーズ最高のコーディング性能でトークン消費も少なめ">中国製AIモデル「Kimi K2.7 Code」がオープンモデルとして公開される、Kimiシリーズ最高のコーディング性能でトークン消費も少なめ
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/513b007cc8270062d0be808a8a17a938.png"></p>
+<p>中国企業の** Moonshot AI**がAIモデル「</p>
+<p><strong>Kimi K2.7 Code</strong>」を2026年6月12日に公開しました。Kimi K2.7 Codeはコーディングエージェントに特化したAIモデルで、誰でもダウンロード可能なオープンモデルとして公開されています。</p>
+<p><strong>Kimi K2.7 Code: Open-Source Agentic Coding Model</strong></p>
+<p><a class="link" href="https://www.kimi.com/resources/kimi-k2-7-code"  target="_blank" rel="noopener"
+    >https://www.kimi.com/resources/kimi-k2-7-code</a>🌘 Kimi-K2.7-Code, our latest coding model, is now released and open-sourced!</p>
+<p>— Kimi.ai (@Kimi_Moonshot)</p>
+<p>🔷 Improved coding &amp; agent performance over K2.6: +21.8% on Kimi Code Bench v2, +11.0% on Program Bench, and +31.5% on MLS Bench Lite.</p>
+<p>🔷 Reasoning efficiency: Less overthinking, with 30% lower…<a class="link" href="https://t.co/jFS7I40avs"  target="_blank" rel="noopener"
+    >pic.twitter.com/jFS7I40avs</a><a class="link" href="https://x.com/Kimi_Moonshot/status/2065377579130142937?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >June 12, 2026</a></p>
+<p>Kimi K2.7 Codeは総パラメーター数1兆、アクティブパラメーター数320億のMoEモデルで、最大コンテキスト長は26万2144(256K)トークンです。</p>
+<p>「Kimi K2.7 Code」「Kimi K2.6」「GPT-5.5(xhigh)」「Claude Opus 4.8(xhigh)」のベンチマーク結果が以下。Kimi K2.7 Codeは前世代モデルの** Kimi K2.6**と比べてコーディングタスクにおける性能が大きく向上しています。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ec550339b68461651125fbfc3d325223.png"></p>
+<p>AIエージェントは1つのタスクを実行するために無駄なトークン消費を積み重ねてしまうことがあります。Kimi K2.7 Codeは推論効率が向上しており、Kimi K2.6と比べて約30％少ない思考トークンでタスクを実行できます。以下のグラフは横軸が消費トークン数、縦軸が性能を示しており、Kimi K2.7 CodeがKimi K2.6と比べて高性能かつ高効率であることが分かります。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9d3d610cdc32d5d65a0ef896c27ca874.png"></p>
+<p>Kimi K2.7 Codeは以下のリンク先でオープンモデルとして公開されています。</p>
+<p><strong>moonshotai/Kimi-K2.7-Code · Hugging Face</strong></p>
+<p><a class="link" href="https://huggingface.co/moonshotai/Kimi-K2.7-Code"  target="_blank" rel="noopener"
+    >https://huggingface.co/moonshotai/Kimi-K2.7-Code</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f143a9a3825d36bf6c61b55852d9b0d3.png"></p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
