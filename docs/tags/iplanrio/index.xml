@@ -1,0 +1,45 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IplanRIO on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/iplanrio/</link>
+    <description>Recent content in IplanRIO on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 08:24:04 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/iplanrio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>公営企業の「独自開発AI」が既存モデル2つを混ぜただけと判明、重み解析で発覚</title>
+      <link>https://n-kase.github.io/rss/posts/post-64/</link>
+      <pubDate>Tue, 16 Jun 2026 08:24:04 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-64/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>リオデジャネイロ市の公営IT企業IplanRIOが独自開発と称して公開したAIモデル「Rio 3.5 Open 397B」は、実際には既存のモデル「Nex-N2-Pro」と「Qwen3.5-397B-A17B」を約6対4の割合で混ぜただけであることが重みの解析で判明した。この指摘を受けて公開ページは書き換えられ、IplanRIOは途中段階のモデルを誤ってアップロードしたと説明し、正しい蒸留済みモデルを後日再公開すると述べた。この出来事は、AI開発における透明性の欠如や、既存モデルをそのまま主張する行為がネット上で批判を呼び、信頼性に対する疑念を広げる可能性があることを示唆している。したがって、企業や研究機関はモデルの生成過程を明確に開示し、第三者による検証を受ける体制を整えるべきであり、利用者は情報の出典を慎重に確認する姿勢が求められる。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<h1 id="公営企業の独自開発aiが既存モデル2つを混ぜただけと判明重み解析で発覚">公営企業の「独自開発AI」が既存モデル2つを混ぜただけと判明、重み解析で発覚
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ca5526ecf12df5e2b495cdf0a4c53351.jpg"></p>
+<p>ブラジル・リオデジャネイロ市の公営IT企業IplanRIOが開発したと発表したAIモデル「Rio 3.5 Open 397B」について、既存のAIモデル2つを約6対4の割合で混ぜたものではないかとの指摘が登場しました。指摘を受けた公開ページは内容が書き換えられ、IplanRIO側は「途中段階のモデルを誤ってアップロードした」と説明しています。</p>
+<p><strong>Rio-3.5-Open-397B ≈ 0.6 x Nex-N2_pro + 0.4 x Qwen · Issue #4 · nex-agi/Nex-N2
+<a class="link" href="https://github.com/nex-agi/Nex-N2/issues/4"  target="_blank" rel="noopener"
+    >https://github.com/nex-agi/Nex-N2/issues/4</a></strong></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1d0faa8b3a2e88baeca07b09f4210755.png"></p>
+<p><strong>prefeitura-rio/Rio-3.5-Open-397B · Hugging Face
+<a class="link" href="https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B"  target="_blank" rel="noopener"
+    >https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B</a></strong></p>
+<p>質問に答えたり文章を作ったりできる大規模言語モデルを一から開発するには、大量の学習データや高性能な計算設備が必要です。そのため、公開済みのモデルを土台にして追加学習を行い、用途に合わせて性能を調整する開発手法が広く使われています。</p>
+<p>既存モデルを活用する方法には、AIが学習した数値である「重み」を一定の割合で混ぜる手法である「モデルマージ」もあります。近い構造を持つモデル同士であれば、一方の能力を残しつつ別のモデルの特徴を取り込むことが可能です。</p>
+<p>Rio 3.5 Open 397Bの公開当初の説明では、オデジャネイロ市の公営企業であるIplanRIOが開発し、アリババの「Qwen3.5-397B-A17B」をベースに追加学習したモデルとされていました。プログラミングや数学など複数の性能試験で土台のQwenを上回り、最先端の公開モデルに匹敵する性能を備えるとも主張されていました。</p>
+<p>ところがAI開発組織のNex-AGIがRio 3.5 Open 397Bの中身を調べた結果、Nex-AGIの「Nex-N2-Pro」とQwen3.5-397B-A17Bを混ぜたモデルである可能性が濃厚であることが明らかになりました。Nex-N2-ProもQwen3.5系列を土台にしているため、両モデルは重みを混ぜられるほど近い構造を持っています。</p>
+<p>Nex-AGIによると、AIに「あなたはRioです」と教える固定の指示を外して質問したところ、79％の割合で「Nex-AGIのNex」と名乗り、「Rio」と名乗った回答は0％だったとのこと。Nex-AGI独自の組織紹介まで再現したと報告されています。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/14cbfdbdf2ad4f110e853bfd4a10e7e6.png"></p>
+<p>さらに、Nex-AGIが重みを保存する数値のまとまりである「重みテンソル」を全60層にわたって比較すると、ほぼすべてがNex-N2-Proを約60％、Qwenを約40％混ぜた値と一致することが判明。一般的な追加学習を行ったモデルでは説明しにくいほど一致度が高く、独自の学習を行った証拠は確認できなかったというわけです。</p>
+<p>指摘を受けてIplanRIOは、モデルを混ぜた後に強力なAIの回答を教師役として追加学習する「オンポリシー蒸留」を実施したと主張。Rio 3.5 Open 397Bの公開ページに「Nex-N2-ProとQwenをマージして作ったモデルである」との説明を追記し、公開されていたファイルについては蒸留を終えた完成版ではなく、モデルを混ぜただけの途中版を誤ってアップロードしたと説明しました。</p>
+<p>IplanRIO側は混乱を謝罪し、正しい蒸留済みモデルをできるだけ早く再公開すると述べています。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
