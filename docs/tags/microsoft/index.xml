@@ -6,7 +6,38 @@
     <description>Recent content in Microsoft on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 19:43:17 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 08:41:18 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「Fable 5」停止から2日、MicrosoftのナデラCEOがXに「エコシステムなきフロンティアは不安定」と投稿</title>
+      <link>https://n-kase.github.io/rss/posts/post-109/</link>
+      <pubDate>Tue, 16 Jun 2026 08:41:18 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-109/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Microsoftのサティア・ナデラCEOは2024年6月14日にX（旧Twitter）で「エコシステムなきフロンティアは不安定」という論考を公開した。この投稿は、AIスタートアップのAnthropicが提供していたモデル「Claude Fable 5」および「Claude Mythos 5」が米政府の輸出管理指令により全ユーザーへの提供を停止したことを受けて2日後に行われたものである。Anthropicは6月9日にこれらのモデルを一般提供開始したが、6月12日に米政府から外国籍者へのアクセス遮断を求める指令を受けた。外国籍者のみをリアルタイムで識別する技術が困難であるため、同社は全ユーザーへのアクセスを一時停止した。Anthropicは政府がFable 5のジェイルブレイク手法を把握しているとの理解を示すが、これを誤解と考え、早期復旧に向けて取り組んでいると述べている。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>論考が公開されると、Xや関連のテクノロジーフォーラムでは様々な反応が見られた。ナデラ氏の発言に賛同する声は、AIモデルへの過度な依存が企業の知識を希薄化させるリスクを指摘し、自社内でのAI学習ループの構築の重要性を強調した。一方で、一部のユーザーは大手企業が自社の利益のために規制を利用していると批判し、Anthropicへの制約がイノベーションを阻害する可能性を懸念した。時間の経過とともに、議論は単なるモデルの可用性から、AIエコシステム全体のガバナンスや企業戦略へと広がり、専門家間での政策提言の必要性が叫ばれるようになった。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>ナデラ氏の論考は、AI時代における企業の競争力が特定の汎用モデルへの依存ではなく、自社のワークフローや知識をAIに組み込み、使うほどに改善される学習ループを築くことにあると主張している。これにより、モデルが変更されても企業固有の専門知識が失われず、持続的な価値創出が可能になる。さらに、価値が少数のモデルに集中すれば企業の知識が商品化され、社会全体がその恩恵を受けにくくなると警告し、すべての企業・産業・国が参加できる「フロンティアエコシステム」の構築を優先課題として訴えている。Microsoft自身がOpenAIに130億ドル以上、Anthropicに50億ドルを投資している事実から、同社もエコシステム志向の戦略を実際に進めていることがうかがえる。この議論は、AI技術の普及と規制のバランスを考える上で重要な示唆を与えるものである。</p>
+<hr>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>米Microsoftのサティア・ナデラCEOは6月14日（現地時間）、Xに「A frontier without an ecosystem is not stable」（エコシステムなきフロンティアは不安定）と題した論考を投稿した。米AnthropicのAIモデル「Claude Fable 5」および「Claude Mythos 5」が米政府の輸出管理指令により全ユーザー向けに停止されてから2日後の投稿で、Fable 5への言及はない。</p>
+<p>Fable 5とMythos 5は<a class="link" href="https://www.itmedia.co.jp/news/articles/2606/10/news058.html"  target="_blank" rel="noopener"
+    >6月9日に一般提供が開始</a>されたが、Anthropicは6月12日に米政府から輸出管理上の指令を受け、外国籍者へのアクセス遮断を求められた。外国籍者のみをリアルタイムで識別することが技術的に困難なため、<a class="link" href="https://www.itmedia.co.jp/news/articles/2606/13/news026.html"  target="_blank" rel="noopener"
+    >全ユーザーへのアクセスを停止するに至った</a>。Anthropicは、指令の根拠として政府がFable 5のジェイルブレイク手法の存在を把握したと理解しているが、これを「誤解であると考えており、できる限り早期の復旧に取り組む」としている。</p>
+<p>ナデラ氏は論考で、企業が「ヒューマンキャピタル」（人的資本）と「トークンキャピタル」（AI資本）の両方を自社内で育てることの重要性を説いた。真の機会は最良のモデルを選ぶことではなく、鍵となるのは、自社のワークフローや知識、判断力をAIに組み込み、使うほどに改善される「学習ループ」の構築であり、「汎用モデルを別のものに差し替えても、自社固有の専門知識が失われない」設計こそがAI時代の企業の競争力になると論じている。</p>
+<p>論考で最も強調されているのは、少数のAIモデルに経済的価値が集中することへの警戒だ。ナデラ氏は「全ての価値がわずかなモデルのみに集約されるような未来を、社会は許容しない」と述べた。特定モデルへの過度な依存が進めば、「企業の知識が足元から商品化されていく」と指摘しており、全ての企業、産業、国がAIの恩恵を享受できる「フロンティアエコシステム」の構築を優先課題として訴えた。なお、Microsoftは米OpenAIに130億ドル以上、<a class="link" href="https://www.itmedia.co.jp/news/articles/2511/19/news069.html"  target="_blank" rel="noopener"
+    >Anthropicにも50億ドル</a>をそれぞれ出資している。</p>
+<p>Copyright © ITmedia, Inc. All Rights Reserved.</p>
+<p>Special</p>
+<p>PRメールマガジンのお知らせ</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Microsoft「FalloutとTESの開発の加速を検討します」</title>
       <link>https://n-kase.github.io/rss/posts/post-3/</link>
