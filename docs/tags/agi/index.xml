@@ -1,0 +1,52 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AGI on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/agi/</link>
+    <description>Recent content in AGI on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 08:19:52 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/agi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIが社会を変革する「今」と「AGIの未来」の中間にある真の問題「混沌とした中間期」とは？</title>
+      <link>https://n-kase.github.io/rss/posts/post-50/</link>
+      <pubDate>Tue, 16 Jun 2026 08:19:52 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-50/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>ブルッキングス研究所のモリー・キンダー氏は、現在のAI導入段階から完全に人間の仕事を置き換えるAGIへの移行において、「混沌とした中間期」と呼ばれる期間が訪れると指摘している。この期間では、法律・金融・コンサルティング・営業などのホワイトカラー職や事務職が中心に影響を受け、一部の職種だけが急激に変化する一方で大半の仕事は残ると予測されている。こうした不均衡な影響は、政治的・社会的に大きな摩擦を生み出す可能性があり、特に高収入の知的労働がAIに代替された場合、低賃金の肉体労働者がその補填を担うのかという問題や、ベーシックインカムの額を抑えたときに失業者が抱く怒りが社会分断を招く恐れがある。キンダー氏は、この混沌とした中間期を乗り切るためには、雇用喪失のペースを抑える政策、若手の採用・育成を支援する施策、職業訓練への資金拠出メカニズム、そして必要に応じて政府が新たな雇用を創出する取り組みが求められると主張し、単なるユニバーサル・ベーシックインカムだけでは解決しないと警告している。したがって、AIへの移行をただ観察するのではなく、具体的な対策を講じて社会の不安定化を防ぎ、公平な再分配とスキル移行を促すことが重要であるという教訓が得られる。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<h1 id="aiが社会を変革する今とagiの未来の中間にある真の問題混沌とした中間期とは">AIが社会を変革する「今」と「AGIの未来」の中間にある真の問題「混沌とした中間期」とは？
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bf6391e0010f9a36e38c3460c9d5a5c6.jpg"></p>
+<p>アメリカのシンクタンクである** ブルッキングス研究所**でAIに関するプロジェクトを率いてきたモリー・キンダー氏が、エッセイの中で「AIの混沌(こんとん)とした中間期」の到来を予測しており、それが大きな社会的混乱を招くと指摘しています。</p>
+<p><strong>How to help knowledge workers who lose their jobs to AI</strong></p>
+<p><a class="link" href="https://www.platformer.news/how-to-help-knowledge-workers-who-lose-their-jobs-to-ai/"  target="_blank" rel="noopener"
+    >https://www.platformer.news/how-to-help-knowledge-workers-who-lose-their-jobs-to-ai/</a></p>
+<p><a class="link" href="https://www.youtube.com/watch?v=EEhW_9P7xhQ"  target="_blank" rel="noopener"
+    >How to help people who lose their jobs to AI - YouTube</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/088258d1c58c1ac27c8771a85179a5ec.jpg"></p>
+<p><strong>The &ldquo;Messy Middle&rdquo; - by Molly Kinder</strong></p>
+<p><a class="link" href="https://mollykinder2.substack.com/p/the-messy-middle"  target="_blank" rel="noopener"
+    >https://mollykinder2.substack.com/p/the-messy-middle</a></p>
+<p>キンダー氏は2022年頃から、生成AIが仕事をどのように変革するかを調査する複数年プロジェクトをブルッキングス研究所で率いていました。研究を経てキンダー氏は、AIによる雇用の変化は「仕事がすべてAIに置き換わる」という極端な未来と、「ほとんど影響はない」という楽観的な見方、そしてその間にある「Messy Middle(混沌とした中間)」があると予測しています。</p>
+<p>キンダー氏は、AIによる労働市場への影響がそこまで大きくない状況を「現実1」と呼称。雇用喪失に関するニュースがしばしば発生しているものの、労働市場全体のデータとしては概ね良好な状態を指します。これに対して、** 汎用(はんよう)人工知能(AGI)**に到達してAIがあらゆる仕事を担う未来を「現実3」としています。この未来では多くの仕事がAIに置き換えられる一方で、経済的には莫大な余剰が発生するため、それをどのように再分配するかという問題に焦点が当てられます。</p>
+<p>AI業界の一部では、「現実1」に伴う諸問題は「現実3」に到達することで解決すると考えられていますが、キンダー氏はこの二元論は間違っているとして、その中間期である長く困難な「現実2」こそが問題であると主張しました。この「現実2」がキンダー氏が「混沌とした中間期」と呼ぶ期間で、大半の職業は残る一方、一部の職種だけが集中的に影響を受ける可能性があり、その影響は政治的・社会的に非常に大きなものになると予測しています。</p>
+<p>キンダー氏によると、特に影響を受けやすいのはこれまでコンピューター技術の発展によって恩恵を受けてきた「パソコンだけで完結する知的労働」であるそうです。法律、金融、コンサルティング、営業などのホワイトカラー職や、事務職がAIの影響を受けやすいとの見方をキンダー氏は示しました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c18466ce2d6bc6c87de0c468335ee8e4.jpg"></p>
+<p>キンダー氏は、これまでのコンピューター技術は知的労働者の生産性を高める方向に働いてきたと説明しています。経済はスキル偏重型の技術革新によって支配されており、技術革新は知的労働者の生産性を向上させ続け、知的労働者のスキルに対する需要を拡大させ、賃金を増加させてきました。しかし、大規模言語モデル(LLM)の登場によって、これまで人間だけが担ってきた高度な認知能力そのものが代替される可能性がある点が、従来の技術革新との大きな違いだとしています。</p>
+<p>シリコンバレーを中心としたテック業界エリートがAIの未来について共有しているビジョン「サンフランシスコ・コンセンサス」において、「混沌とした中間期」への対策は「AIが生み出した余剰を配布するベーシックインカムの導入」だと考えられていますが、キンダー氏はこれが不可能だと述べています。従来、リアルタイムで社会の機能を維持するために必要な仕事の大部分は、知的労働者よりも少ない報酬となっていました。しかし、AIによって奪われるのは人間が直接行う必要がある仕事ではなく、コンピューターのみで行うような知的労働です。</p>
+<p>キンダー氏は「仮にコンサルタントやソフトウェアエンジニアといった高収入の仕事がAIに代替され、その高収入をベーシックインカムで補う場合、AIに代替されず残った肉体労働を少ない報酬で担う人はいるでしょうか？」と疑問を投げかけています。かといって、ベーシックインカムの額を抑える場合、AIに職を奪われた人々は政治や社会に強い怒りを抱くことになります。この摩擦が「混沌とした中間期」で重要な問題になるとキンダー氏は述べています。実際に、イーロン・マスク氏がAIによって引き起こされる失業問題に対処する方法として政府から給付金を送る「ユニバーサル・ハイインカム(普遍的な高所得)」という方法を提唱したところ、Xユーザーや専門家から多くの批判を受けています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260420-universal-high-income/"  target="_blank" rel="noopener"
+    >イーロン・マスクがAIによる解雇に対し給付金を送る「ユニバーサル・ハイインカム」で対応すべきと発言し批判が殺到 - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f4c1913bbd46d2c01a877c9089422456.jpg"></p>
+<p>今私たちがいる「現実1」から、AGIに到達した「現実3」までは、急に変化するわけではありません。この移行そのものが重要であり、実際にシリコンバレーが考えるような理想的な「現実3」にたどり着けるかどうかを決定するとキンダー氏は指摘しました。混沌とした中間期における選択を誤った場合、AI開発を強く規制する政権や、** 脱工業化社会**が発生した時のような社会の分断など、致命的な未来が考えられます。</p>
+<p>キンダー氏はより的を絞った介入策を推奨しており、AIによる雇用喪失のペースを抑えて管理する政策や、若手の採用・育成を続ける企業への支援、若手採用を減らした企業が職業訓練へ資金を拠出する仕組みなどを提案しました。また、高品質なホワイトカラー職が不足するようになった場合には、政府が新たな雇用を創出する政策も必要になるとの考えを示しています。</p>
+<p>キンダー氏は、こうした課題に本格的に取り組むため、ブルッキングス研究所を退職して新たな組織を立ち上げることも明らかにしました。キンダー氏は「分析は十分に行われてきました。今必要なのは答えです。AIへの移行を研究するだけでなく、実際に解決策を作りたいと考えています」と語っています。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
