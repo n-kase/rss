@@ -18,7 +18,6 @@ InsForgeというオープンソースのバックエンドプラットフォー
 
 ![](/rss/downloaded_images/a7ce8d21dd8faf4ae7849da6b508ffe7.png)
 
-
 AIを利用してWebアプリを作成する場合、** Firebase**や
 
 **などのバックエンドサービスを利用することが多いですが、これまで管理画面でユーザーの操作が必須だったほとんどの作業をコーディングAIエージェントが直接行える様に拡張したオープンソースのバックエンドサービス「**
@@ -27,17 +26,15 @@ AIを利用してWebアプリを作成する場合、** Firebase**や
 
 **InsForge - The agent-native cloud infrastructure platform**
 
+[https://insforge.dev/](https://insforge.dev/)
 
-[https://insforge.dev/](https://insforge.dev/)![](/rss/downloaded_images/e0021274fe83ef55359bf92bd040b9ed.png)
-
+![](/rss/downloaded_images/e0021274fe83ef55359bf92bd040b9ed.png)
 
 **InsForge/InsForge: The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.**
 
 [https://github.com/InsForge/InsForge](https://github.com/InsForge/InsForge)
 
-
 **◆InsForgeの基本機能一覧**
-
 
 | 機能名 | 説明 |
 |---|---|
@@ -53,7 +50,6 @@ AIを利用してWebアプリを作成する場合、** Firebase**や
 | Payment | 統合による決済・サブスクリプション管理[Stripe](https://stripe.com/jp) |
 | Messaging | メール・通知・トランザクションメッセージ送信 |
 | Cron Jobs | スケジュールされた定期ジョブ |
-
 
 **◆InsForgeが独自に実装している機能**
 
@@ -85,98 +81,66 @@ AIエージェントがターミナルから直接呼び出せるCLIとその操
 
 [.env.example](https://raw.githubusercontent.com/insforge/insforge/main/deploy/docker-compose/.env.example)mkdir -p insforge cd insforge curl -L -o docker-compose.yml "https://raw.githubusercontent.com/insforge/insforge/main/deploy/docker-compose/docker-compose.yml" curl -L -o .env.example "https://raw.githubusercontent.com/insforge/insforge/main/deploy/docker-compose/.env.example"
 
-
-
 .env.exampleを.envとしてコピー。
-
 
 cp .env.example .env
 
-
 .envを環境に合わせて書き換えます。
-
 
 # .env API_BASE_URL=http://localhost:7130 VITE_API_BASE_URL=http://localhost:7130 # Authentication # openssl rand -hex 16などでランダムな値を生成 JWT_SECRET=【ランダムな値32文字以上推奨】 ROOT_ADMIN_USERNAME=【任意のメールアドレス】 ROOT_ADMIN_PASSWORD=【任意のパスワード】
 
-
 コンテナを立ち上げます。
-
 
 docker compose up -d
 
-
 コンテナが起動したらブラウザで.envに設定したURLにアクセスするとログインフォームが表示されるので「Email」に.envで設定したメールアドレス、「Password」に.envで設定したパスワードを入力して「Sign in」をクリック。
-
 
 ![](/rss/downloaded_images/518e212479a03490803d141ee8178ee4.png)
 
-
 ログインすると連携するAIエージェントの設定画面が表示されるので「AIエージェント選択」フォームから連携するAIエージェントを選択。
-
 
 ![](/rss/downloaded_images/3b0de2f052c45674439f08dcb8aee529.png)
 
-
 設定の手順が表示されるので、Step1の「Terminal Command」をコピー。
-
 
 ![](/rss/downloaded_images/24cd740783d84b8bc16b70137ac7b85a.png)
 
-
 Git Bashでコピーしたコマンドを実行するとMCPサーバーが立ち上がります。
-
 
 ![](/rss/downloaded_images/311f1a2b850beef14f4a4de48046e98e.png)
 
-
 次にStep2の「prompt」をコピーしAIエージェントのチャット欄にペーストして実行するとInsForge用のMCPが設定されます。
 
-
 ![](/rss/downloaded_images/35f0c497cc8282ff8e9479db7cfc6a08.png)
-
 
 ** Claude Code**の場合は、MCPサーバー起動後Claude Codeを立ち上げた時点でInsForge用のMCPを導入するかどうか聞かれるのでユーザーレベルでの利用かプロジェクトのみの利用か選択します。
 
 ![](/rss/downloaded_images/7c894089ade00e91c52c307a1d53fe07.png)
 
-
 MCPの設定が完了したら「閉じる」をクリック。
-
 
 ![](/rss/downloaded_images/578061e72885bc28836836c76a50d661.png)
 
-
 管理画面が表示されれば構築完了です。
-
 
 ![](/rss/downloaded_images/6cc6ca80ccb94cd9a3ff6d6f261fb3c3.png)
 
-
 AIエージェントとInsForgeの接続確認として「I'm using InsForge as my backend platform, call InsForge MCP's fetch-docs tool to learn about InsForge instructions.」と指示するとMCPサーバーを通してInsForgeから以下のような返答がありました。
-
 
 ![](/rss/downloaded_images/fefdfb632472ae827219edf4447f0ff9.png)
 
-
 日本語の指示による実装テストとして「title、content、authorカラムを持つpostsテーブルを作成してください」と入力すると指示通りのテーブルが作成されました。
-
 
 ![](/rss/downloaded_images/346bff40823237b4ac68104c52129197.png)
 
-
 管理画面からテーブルが作成されていることが確認できます。
-
 
 ![](/rss/downloaded_images/648bb6ecaa344621ce464e27affb6d86.png)
 
-
 「ユーザープロフィール用の画像アップロード機能を追加してください」と指示するとバックエンドで必要なストレージやテーブルを作成し、フロントエンドでの実装用スクリプトが表示されました。
-
 
 ![](/rss/downloaded_images/4e0f08571a01d3a140b8c6cd23ecbb86.png)
 
-
 これまで管理画面で行っていた操作をコーディングAIエージェントからMCP経由で実装できます。
-
 
 なお、クラウド版にはバックエンドを毎日スキャンしてセキュリティ・パフォーマンス・動作状態の問題を検出し、問題があれば修正内容をAIコーディングエージェントに渡すためのプロンプトを表示する** 機能**があります。

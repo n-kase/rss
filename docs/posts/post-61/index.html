@@ -305,7 +305,8 @@
 <p><a class="link" href="https://www.unitree.com/g1"  target="_blank" rel="noopener"
     >Unitree G1</a><strong>、独自データの140時間サブセットを用いて評価しました。主要なデータセットは約700時間の高品質モーションキャプチャで、35万件のモーションクリップ、9300種類のスキル、36カテゴリ、163人超の演者から構成されます。</strong></p>
 <p><a class="link" href="https://huggingface.co/datasets/lvhaidong/LAFAN1_Retargeting_Dataset"  target="_blank" rel="noopener"
-    >LaFAN1-G1</a><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1c542f4010bcc81b4b56f94c24e829f4.png"></p>
+    >LaFAN1-G1</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1c542f4010bcc81b4b56f94c24e829f4.png"></p>
 <p>MotionBricksは下流タスクごとの再学習や専用タグ付けを前提にしないことが特徴です。歩行やしゃがみ、走行、這う動き、剣を拾う、ベンチを乗り越える、ドアを開けるといったタスクを、同じニューラルバックボーンに対してキーフレーム制約として渡すことで処理できる設計になっています。</p>
 <p>以下はMotionBricksがUnreal Engine 5上で、移動、アクロバット、オブジェクト操作を1本のデモとして連続生成する様子を示したムービー。</p>
 <p>MotionBricksの低レベル側はモーションの開始点と目標点の間を埋める「in-betweening」を基盤にしています。まずroot moduleが動作に必要なフレーム数と体の中心軌道を予測し、次にpose moduleが姿勢トークンの分布を予測し、最後にdecoderがキーフレームや軌道を条件として連続的な動作を出力します。</p>

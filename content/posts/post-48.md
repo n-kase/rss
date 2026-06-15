@@ -18,56 +18,39 @@ image: "/rss/downloaded_images/e2dd53fbaa8e8c5347b64ac16516e9f9.jpg"
 
 ![](/rss/downloaded_images/e2dd53fbaa8e8c5347b64ac16516e9f9.jpg)
 
-
 電気自動車メーカー・テスラの自動車には、ドライバーがハンドルから手を離した状態でもアクセルやブレーキの制御、車線維持または変更などが可能なオートパイロット機能が搭載されています。ドライバーはオートパイロット中も道路の状況を注視する必要があり、テスラ車は搭載するカメラでドライバーを監視していますが、中国のドライバーは監視を欺いてオートパイロット中もよそ見し続ける方法を編み出しました。
-
 
 **Chinese drivers have figured out a silly way to fool Tesla Autopilot and it involves doll heads - Digital Trends**
 
 [https://www.digitaltrends.com/cars/chinese-drivers-have-figured-out-a-silly-way-to-fool-tesla-autopilot-and-it-involves-doll-heads/](https://www.digitaltrends.com/cars/chinese-drivers-have-figured-out-a-silly-way-to-fool-tesla-autopilot-and-it-involves-doll-heads/)
 
-
 テスラ車に搭載されているオートパイロット機能は、ある程度の自動運転が可能な機能ですが、依然としてドライバーによる積極的な監視を必要としています。テスラ車はルームミラーなどに搭載したカメラでドライバーの視線を監視しており、ドライバーが数秒以上道路から目を離している場合は警告を発し、それに従わない場合はオートパイロットをオフにするといった制限を課しています。
 
-
 ところが、中国のテスラ車オーナーたちは「小さなプラスチック製の人形の頭」を利用して、テスラ車による監視を欺く方法を編み出しているとのこと。実際にどうやってテスラ車をだましているのかは、以下の埋め込み動画を見るとよくわかります。
-
 
 Wow China is coming up with so many techniques to beat the FSD driver monitoring system. This one is new
 
 — John Ee (@heyJohnEe)[pic.twitter.com/bPW8QOso7f](https://t.co/bPW8QOso7f)[June 5, 2026](https://x.com/heyJohnEe/status/2062755881255833695?ref_src=twsrc%5Etfw)
 
-
 テスラ車に乗ったドライバーが手にしているのは、小さな人形の頭。頭頂部にクギの頭のような部品が付いています。
-
 
 ![](/rss/downloaded_images/d7478d3350e210b01b91af99cadf3ee0.jpg)
 
-
-
 横から見るとこんな感じ。
-
 
 ![](/rss/downloaded_images/f99ccddc5e9a56505b2c04e27c71d5bb.jpg)
 
-
 ドライバーは人形の頭をルームミラーの前に装着しました。どうやらクギの頭のような部品はマグネットになっており、簡単に車の天井に取り付けられるようです。
-
 
 ![](/rss/downloaded_images/8f32e648b85f56cda33a770a037cfd35.jpg)
 
-
 前面のパネルには、ルームミラーに搭載されているカメラの映像がリアルタイムで表示されています。
-
 
 ![](/rss/downloaded_images/a2dd81796a948fc0785115fee7da75dc.jpg)
 
-
 よく見ると、ちょうどドライバーの頭に人形の頭が重なっており、本人は手元のスマホをいじっているにもかかわらず、真正面の道路を見つめているかのような状態になっていました。このように人形の頭をドライバーの頭と誤認させることで、中国のドライバーはテスラ車の監視を回避しているとのことです。
 
-
 ![](/rss/downloaded_images/f47e9fa09a1c4e01ac04b5fd6549f097.jpg)
-
 
 自動車の監視機能を欺くこれらの人形の頭は、ECサイトで10～40ドル(約1600～6400円)で販売されており、俳優や著名人に似た頭が人気だそうです。また、カメラの前に写真を置いたり、角度によって人間がまばたきしているかのように見える** レンチキュラー画像**を使ったりする人もいるとのこと。
 

@@ -18,7 +18,6 @@ image: "/rss/downloaded_images/5781a4e1735e3fdd867eb4cdc0f7be66.jpg"
 
 # ユーロポール、サイバー攻撃で得た暗号資産のマネーロンダリングを行っていたグループを摘発。警察庁も捜査に協力
 
-
 2026年6月15日 07:00
 
 ![](/rss/downloaded_images/5781a4e1735e3fdd867eb4cdc0f7be66.jpg)

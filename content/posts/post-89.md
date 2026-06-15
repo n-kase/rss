@@ -37,3 +37,4 @@ Wi-Fi 7トライバンドに対応し、最大通信速度は6GHz帯が11529Mbps
 ![](/rss/downloaded_images/bcad8de9798e6d11e107155d6cc95d90.png)
 
 ![](/rss/downloaded_images/7fdad84c7190f3a932cd280f59e2319a.png)
+

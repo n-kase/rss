@@ -18,13 +18,11 @@ image: "/rss/downloaded_images/513b007cc8270062d0be808a8a17a938.png"
 
 ![](/rss/downloaded_images/513b007cc8270062d0be808a8a17a938.png)
 
-
 中国企業の** Moonshot AI**がAIモデル「
 
 **Kimi K2.7 Code**」を2026年6月12日に公開しました。Kimi K2.7 Codeはコーディングエージェントに特化したAIモデルで、誰でもダウンロード可能なオープンモデルとして公開されています。
 
 **Kimi K2.7 Code: Open-Source Agentic Coding Model**
-
 
 [https://www.kimi.com/resources/kimi-k2-7-code](https://www.kimi.com/resources/kimi-k2-7-code)🌘 Kimi-K2.7-Code, our latest coding model, is now released and open-sourced!
 
@@ -34,27 +32,21 @@ image: "/rss/downloaded_images/513b007cc8270062d0be808a8a17a938.png"
 
 🔷 Reasoning efficiency: Less overthinking, with 30% lower…[pic.twitter.com/jFS7I40avs](https://t.co/jFS7I40avs)[June 12, 2026](https://x.com/Kimi_Moonshot/status/2065377579130142937?ref_src=twsrc%5Etfw)
 
-
 Kimi K2.7 Codeは総パラメーター数1兆、アクティブパラメーター数320億のMoEモデルで、最大コンテキスト長は26万2144(256K)トークンです。
-
 
 「Kimi K2.7 Code」「Kimi K2.6」「GPT-5.5(xhigh)」「Claude Opus 4.8(xhigh)」のベンチマーク結果が以下。Kimi K2.7 Codeは前世代モデルの** Kimi K2.6**と比べてコーディングタスクにおける性能が大きく向上しています。
 
 ![](/rss/downloaded_images/ec550339b68461651125fbfc3d325223.png)
 
-
 AIエージェントは1つのタスクを実行するために無駄なトークン消費を積み重ねてしまうことがあります。Kimi K2.7 Codeは推論効率が向上しており、Kimi K2.6と比べて約30％少ない思考トークンでタスクを実行できます。以下のグラフは横軸が消費トークン数、縦軸が性能を示しており、Kimi K2.7 CodeがKimi K2.6と比べて高性能かつ高効率であることが分かります。
-
 
 ![](/rss/downloaded_images/9d3d610cdc32d5d65a0ef896c27ca874.png)
 
-
 Kimi K2.7 Codeは以下のリンク先でオープンモデルとして公開されています。
-
 
 **moonshotai/Kimi-K2.7-Code · Hugging Face**
 
 [https://huggingface.co/moonshotai/Kimi-K2.7-Code](https://huggingface.co/moonshotai/Kimi-K2.7-Code)
 
-
 ![](/rss/downloaded_images/f143a9a3825d36bf6c61b55852d9b0d3.png)
+

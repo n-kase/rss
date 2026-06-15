@@ -18,29 +18,23 @@ image: "/rss/downloaded_images/8be1d7c88b2b70985dbac040bb4da8dd.jpg"
 
 ![](/rss/downloaded_images/8be1d7c88b2b70985dbac040bb4da8dd.jpg)
 
-
 イギリスの** ハートフォードシャー州**に住む助産師のサラ・ホール氏は、「特定の動作に反応して1日に最大12回も失神してしまう」という病気を患っており、日常生活や仕事にも支障を来していました。そんなホール氏が、
 
 **が主導するプロジェクトによる革新的な治療を受け、生活が劇的に改善したことが報告されています。**
 
 [インペリアル・カレッジ・ロンドン](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%AC%E3%83%83%E3%82%B8%E3%83%BB%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3)**"Every time I ate a meal I feared my heart would stop beating" - BHF**
 
-
 [https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2026/june/every-time-i-ate-a-meal-i-feared-my-heart-would-stop-beating](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2026/june/every-time-i-ate-a-meal-i-feared-my-heart-would-stop-beating)**These patients' hearts stopped a dozen times a day. An innovative procedure has transformed their lives. | Live Science**
-
 
 [https://www.livescience.com/health/heart-circulation/these-patients-hearts-stopped-a-dozen-times-a-day-an-innovative-procedure-has-transformed-their-lives](https://www.livescience.com/health/heart-circulation/these-patients-hearts-stopped-a-dozen-times-a-day-an-innovative-procedure-has-transformed-their-lives)**は脳血流の低下などで生じる短時間の意識消失であり、推定では人口の40％が生涯に少なくとも1回は失神を経験し、最大5％の人は複数回失神を経験するとのこと。さらにごく少数の人々は、「せきをする」「排尿する」といった特定の動作に反応して失神を起こす場合があります。**
 
 [失神](https://www.msdmanuals.com/ja-jp/home/06-%E5%BF%83%E8%87%93%E3%81%A8%E8%A1%80%E7%AE%A1%E3%81%AE%E7%97%85%E6%B0%97/%E5%BF%83%E8%87%93%E3%81%A8%E8%A1%80%E7%AE%A1%E3%81%AE%E7%97%85%E6%B0%97%E3%81%AE%E7%97%87%E7%8A%B6/%E5%A4%B1%E7%A5%9E)2児の母親であるホール氏は、39歳の時に初めて失神するようになり、45歳になると食事をきっかけにめまいや失神を起こすようになりました。48歳になる頃には失神する頻度が大幅に増えましたが、当初は助産師としての仕事が忙しいため低血糖や脱水になっているか、あるいは更年期障害だろうと考えていたとのこと。
 
-
 ホール氏は、「しかし、悪い時は1日に何度も意識を失うようになり、失神するのが怖くて人前で食事をすることができませんでした。家族での昼食中、当時12歳だった子どもたちの前で意識を失った時の混乱と不安な状況を通して、本当に病院で診察を受ける必要があると気付いたのです」と語っています。
-
 
 心臓専門医から渡された心臓モニターを48時間にわたって装着したところ、ホール氏の心臓はたった1日で12回も停止していることが判明。ホール氏は医師から、** 血管迷走神経失神**の一種である心抑制型失神であると診断されました。
 
 ![](/rss/downloaded_images/013ce38f1688183d4648b8ede8433ded.jpg)
-
 
 ** 迷走神経**は脳から胸部、さらには腹部まで行き渡っている複雑な神経であり、食べ物が喉に入ったり、足を曲げてしゃがんだりといった身体の変化を感知すると迷走神経はその状況を脳に伝え、脳はそれに応じて消化・呼吸・心拍数などを調整します。
 

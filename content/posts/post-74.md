@@ -18,19 +18,15 @@ image: "/rss/downloaded_images/a3d20f9dfd38f59df60bbf8950e6ba70.jpg"
 
 ![](/rss/downloaded_images/a3d20f9dfd38f59df60bbf8950e6ba70.jpg)
 
-
 英語では26個のアルファベットを並べてさまざまな単語を構成しており、「bed(ベッド)」の両端にある縦線がベッドの柱のように見えたり、「Loop(輪、ループ)」という単語全体が一種のループのように見えたりと、その形状が意味をイメージさせるような単語も存在します。カナダのカールトン大学で心理学助教を務めるデヴィッド・シドゥ氏が、「単語の見た目が意味と似ている場合、人の脳はその単語をより速く正確に処理できる」という研究結果を発表しました。
-
 
 **The word “bed” looks like a bed: Orthographic iconicity in English - ScienceDirect**
 
 [https://www.sciencedirect.com/science/article/pii/S0010027726001174](https://www.sciencedirect.com/science/article/pii/S0010027726001174)
 
-
 **When words look like their meaning, we process them faster, new research reveals**
 
 [https://theconversation.com/when-words-look-like-their-meaning-we-process-them-faster-new-research-reveals-282228](https://theconversation.com/when-words-look-like-their-meaning-we-process-them-faster-new-research-reveals-282228)
-
 
 「山」「手」といった一部の漢字は対象の形に由来する** 象形文字**ですが、英単語にも「bed」や「Loop」のように意味をイメージさせる形状のものがあります。中には、見た目のジグザグ感が混沌(こんとん)とした雰囲気を感じさせる「blizzard(吹雪)」など、より曖昧な形で意味と関連付けられる単語もあります。
 
@@ -44,21 +40,14 @@ image: "/rss/downloaded_images/a3d20f9dfd38f59df60bbf8950e6ba70.jpg"
 
 ![](/rss/downloaded_images/23c5e08cecd3a353adbe2a3608625912.png)
 
-
 これらの単語が高い評価を得た理由については、ある程度の説明が付けられます。たとえば「puppy」にはまるで脚と尻尾があるように見えたり、「wiggle」の真ん中にある小文字の「g」2つが何か揺れているような印象を受けたりするなどです。
-
 
 評価の高い単語の傾向としては「丸いものを表す単語に『O』『G』『C』などの丸い文字が入っている」「とがったものを指す単語に『W』『Z』『X』などの角張った文字が入っている」などがありました。また、小さなものを指す単語の場合は文字数が少ないほど評価が高かったとのこと。
 
-
-
 そしてシドゥ氏は、人々が個々の単語をどれくらいの速さで処理できるかに関する情報を含む3つのデータベースを用いて分析を実施。これらのデータは被験者に文字の羅列を提示し、それが実在する単語か架空の単語かをできるだけ早く識別させるタスクで得られたものです。
-
 
 分析の結果、3つのデータベースすべてで「人々は意味が似ている単語をより速く、正確に処理する」ということが明らかになりました。この関連性は、単語の一般性や文字数などを考慮してもなお確認できたとのことです。
 
-
 ![](/rss/downloaded_images/efcb77548fdbddcc2a8d6a51bb65021f.jpg)
-
 
 シドゥ氏は、「言語は単なる単語とその意味以上のものだという** 認識**が広まりつつあり、声のトーンや身ぶり、視線などあらゆる要素が言語に関わっていることがわかっています。そこに今、『文字の形』というもうひとつの微妙な手がかりが加わったと言えるでしょう」と述べました。
