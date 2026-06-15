@@ -6,7 +6,136 @@
     <description>Recent content in Posts on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:19:52 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 08:20:46 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Fableのサービス停止を受けて中国企業が最先端モデル「GLM-5.2」を急遽発表、2026年6月中に無料公開へ</title>
+      <link>https://n-kase.github.io/rss/posts/post-53/</link>
+      <pubDate>Tue, 16 Jun 2026 08:20:46 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-53/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>中国のAI企業Z.aiは、米政府の命令によりAnthropicのClaude Fableシリーズのサービスが停止されたことを受けて、新たなフラッグシップモデル「GLM-5.2」を発表した。このモデルは高度なコーディング機能を持ち、100万トークンの入力に対応し、長時間のエージェントタスクでも継続実行が可能であり、当初は有料のGLM Coding Planユーザー向けに提供され、同年6月下旬にはオープンモデルとして無料公開される予定である。</p>
+<p>この動きは、特定の先端AIモデルへの非技術的な制限が科学のグローバル性を損なうという懸念を浮き彫りにし、オープンソース志向の強まりを示している。Z.aiの創業者は「フロンティアインテリジェンスは誰にも開かれるべき」と述べ、制限への対抗としてオープンモデルの普及を訴えている。これにより、開発者コミュニティはより自由に先端技術にアクセスできるようになる一方、政府によるAI規制の方向性について国際的な議論が活発化する可能性がある。</p>
+<p>したがって、AIの進展は技術的な制約だけでなく、開放性と協力の原則に基づくべきであり、開発者はオープンモデルを積極的に利用・貢献し、政策立案者は非技術的な理由によるアクセス遮断を見直すべきである。これにより、イノベーションの停滞を防ぎ、人類全体が恩恵を受けるAIエコシステムの構築が期待できる。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<h1 id="claude-fableのサービス停止を受けて中国企業が最先端モデルglm-52を急遽発表2026年6月中に無料公開へ">Claude Fableのサービス停止を受けて中国企業が最先端モデル「GLM-5.2」を急遽発表、2026年6月中に無料公開へ
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ad5785e662bb2fa0756e6d02361d6cb2.png"></p>
+<p>中国企業のZ.aiがAIモデル「<strong>GLM-5.2</strong>」を2026年6月13日に発表しました。GLM-5.2の発表に際してZ.aiの創業者である** Jie Tang**氏は</p>
+<p><strong>に触れています。</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20260613-anthropic-claude-fable-mythos-suspend/"  target="_blank" rel="noopener"
+    >アメリカ政府の命令によってClaude Fableのサービスが停止した件</a>Intelligence should be open, accessible, and ready to build with, empowering every developer, everywhere.</p>
+<p>— Z.ai (@Zai_org)</p>
+<p>GLM-5.2 is now available to all GLM Coding Plan users, including Lite, Pro, Max, and Team plans.<a class="link" href="https://t.co/aOKcqZD5EJ"  target="_blank" rel="noopener"
+    >https://t.co/aOKcqZD5EJ</a></p>
+<p>As our new flagship model, GLM-5.2 delivers…<a class="link" href="https://x.com/Zai_org/status/2065704919299235870?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >June 13, 2026</a></p>
+<p>Z.aiは中国に拠点を置くAI開発企業で、高性能AIモデルのGLMシリーズを展開しています。GLMシリーズはモデルを誰でもダウンロード可能なオープンモデルとして公開しているのが特徴で、2026年4月に登場したGLM-5.1はオープンモデルでありながら一部のテストでClaude Opus 4.6を上回るほどの性能を備えています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260408-z-ai-glm-5-1/"  target="_blank" rel="noopener"
+    >中国製AIモデル「GLM-5.1」が無料公開される、一部のテストでClaude Opus 4.6を打ち負かし数時間のエージェントタスクで威力を発揮 - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/93b772eb405aa3cc1c988b7866703a36.png"></p>
+<p>そんなZ.aiが2026年6月13日にGLM-5.2を発表しました。Z.aiのモデル発表時にはベンチマークスコアなども公開されるのが通例ですが、GLM-5.2については「新たなフラッグシップモデルである」「強力なコーディング機能を備え、100万トークンの入力に対応し、長期的なタスクの継続実行が可能」という情報が明かされているのみで、詳しい情報は明らかになっていません。</p>
+<p>GLM-5.2の発表と同日にはAnthropicの最先端モデルであるClaude Mythos 5とClaude Fable 5のサービスがアメリカ政府の命令によって停止に追い込まれました。Z.aiの創業者であるAI研究者のJie Tang氏はGLM-5.2の発表に際して「特定のフロンティアモデルに対する突然の制限を深く遺憾に思います。フロンティアモデルへのアクセスが非技術的な理由で突然遮断されてしまったことにより、私たちは『科学はグローバルであるべき』という確信を強めています」とコメントしており、GLM-5.2の発表がClaude Mythos 5およびClaude Fable 5のサービス停止を受けたものであることを示唆しています。</p>
+<p>GLM-5.2 is Fully Open, Frontier Intelligence Belongs to Everyone</p>
+<p>— jietang (@jietang)</p>
+<p>Today, the sudden restriction of certain frontier models is deeply regrettable. At a time when access to frontier models is abruptly cut off for non-technical reasons, we are even more convinced of one thing:…<a class="link" href="https://x.com/jietang/status/2065784751345287314?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >June 13, 2026</a></p>
+<p>GLM-5.2は有料プランの「GLM Coding Plan」の加入者向けにリリースされており、2026年6月第3週にチャットAIやAPI経由での利用が可能となる予定です。また、2026年6月第3週にGLM-5.2をオープンモデルとして公開することも予告されています。</p>
+<p>Claude CodeでGLM-5.2を実行するスクリーンショットも公開されています。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/85f3b1b746555606a71e5a8515d39c1d.png"></p>
+<p>Tang氏は「AGI(汎用人工知能)への道は高い壁で囲まれるべきではなく、人類全体が協力する必要があります」「私たちはオープンな姿勢を徹底します。フロンティアインテリジェンスはオープンソースであり、アクセス可能であり、構築可能であり、あらゆる献身的な開発者に奉仕するものとなる必要があります」と述べ、GLM-5.2をオープンモデルとして公開することの意義を強調しています。</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>「人形の頭」でテスラの監視機能をだましてよそ見しながら自動運転させる方法を中国のドライバーが編み出す</title>
+      <link>https://n-kase.github.io/rss/posts/post-52/</link>
+      <pubDate>Tue, 16 Jun 2026 08:20:35 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-52/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>中国のテスラオーナーたちは、小さなプラスチック製の人形の頭をルームミラー前に取り付け、ドライバーの視線を監視するカメラをだましています。これにより、ハンドルから手を離した状態でもスマホをいじったりおやつを食べたりしながら、オートパイロットを作動させ続けることが可能になっています。この手法はネット上で動画として拡散され、テスラがソフトウェアアップデートで監視機能を強化した後にも注目を集めています。</p>
+<p>このような低技術的なだまし方が広がれば、ドライバーが道路から目を離した状態での自動運転が増え、事故のリスクが高まる可能性があります。ネットでは驚きと笑いが混ざった反応が見られ、同時に「AI監視だけでは安全性が確保できない」という懸念が広がっています。テスラを含む自動車メーカーは、監視アルゴリズムの改善だけでなく、ユーザーに対する注意喚起や運転中の注意義務の啓発も必要だと指摘されています。</p>
+<p>つまり、最先端の自動運転技術でも、単純な物理的な trick によって簡単に回避されてしまうことがあり、技術への過信は危険だという教訓が得られます。メーカーは監視システムの耐性を高めるとともに、ドライバーには常に道路を見つめる責任があることを再認識させるべきです。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<h1 id="人形の頭でテスラの監視機能をだましてよそ見しながら自動運転させる方法を中国のドライバーが編み出す">「人形の頭」でテスラの監視機能をだましてよそ見しながら自動運転させる方法を中国のドライバーが編み出す
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e2dd53fbaa8e8c5347b64ac16516e9f9.jpg"></p>
+<p>電気自動車メーカー・テスラの自動車には、ドライバーがハンドルから手を離した状態でもアクセルやブレーキの制御、車線維持または変更などが可能なオートパイロット機能が搭載されています。ドライバーはオートパイロット中も道路の状況を注視する必要があり、テスラ車は搭載するカメラでドライバーを監視していますが、中国のドライバーは監視を欺いてオートパイロット中もよそ見し続ける方法を編み出しました。</p>
+<p><strong>Chinese drivers have figured out a silly way to fool Tesla Autopilot and it involves doll heads - Digital Trends</strong></p>
+<p><a class="link" href="https://www.digitaltrends.com/cars/chinese-drivers-have-figured-out-a-silly-way-to-fool-tesla-autopilot-and-it-involves-doll-heads/"  target="_blank" rel="noopener"
+    >https://www.digitaltrends.com/cars/chinese-drivers-have-figured-out-a-silly-way-to-fool-tesla-autopilot-and-it-involves-doll-heads/</a></p>
+<p>テスラ車に搭載されているオートパイロット機能は、ある程度の自動運転が可能な機能ですが、依然としてドライバーによる積極的な監視を必要としています。テスラ車はルームミラーなどに搭載したカメラでドライバーの視線を監視しており、ドライバーが数秒以上道路から目を離している場合は警告を発し、それに従わない場合はオートパイロットをオフにするといった制限を課しています。</p>
+<p>ところが、中国のテスラ車オーナーたちは「小さなプラスチック製の人形の頭」を利用して、テスラ車による監視を欺く方法を編み出しているとのこと。実際にどうやってテスラ車をだましているのかは、以下の埋め込み動画を見るとよくわかります。</p>
+<p>Wow China is coming up with so many techniques to beat the FSD driver monitoring system. This one is new</p>
+<p>— John Ee (@heyJohnEe)<a class="link" href="https://t.co/bPW8QOso7f"  target="_blank" rel="noopener"
+    >pic.twitter.com/bPW8QOso7f</a><a class="link" href="https://x.com/heyJohnEe/status/2062755881255833695?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >June 5, 2026</a></p>
+<p>テスラ車に乗ったドライバーが手にしているのは、小さな人形の頭。頭頂部にクギの頭のような部品が付いています。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d7478d3350e210b01b91af99cadf3ee0.jpg"></p>
+<p>横から見るとこんな感じ。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f99ccddc5e9a56505b2c04e27c71d5bb.jpg"></p>
+<p>ドライバーは人形の頭をルームミラーの前に装着しました。どうやらクギの頭のような部品はマグネットになっており、簡単に車の天井に取り付けられるようです。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/8f32e648b85f56cda33a770a037cfd35.jpg"></p>
+<p>前面のパネルには、ルームミラーに搭載されているカメラの映像がリアルタイムで表示されています。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a2dd81796a948fc0785115fee7da75dc.jpg"></p>
+<p>よく見ると、ちょうどドライバーの頭に人形の頭が重なっており、本人は手元のスマホをいじっているにもかかわらず、真正面の道路を見つめているかのような状態になっていました。このように人形の頭をドライバーの頭と誤認させることで、中国のドライバーはテスラ車の監視を回避しているとのことです。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f47e9fa09a1c4e01ac04b5fd6549f097.jpg"></p>
+<p>自動車の監視機能を欺くこれらの人形の頭は、ECサイトで10～40ドル(約1600～6400円)で販売されており、俳優や著名人に似た頭が人気だそうです。また、カメラの前に写真を置いたり、角度によって人間がまばたきしているかのように見える** レンチキュラー画像**を使ったりする人もいるとのこと。</p>
+<p>オンラインで共有された動画には、人形の頭でテスラ車の監視を欺いたドライバーがスナックを食べたり、動画を撮影したり、道路から目を離したりする様子が写っています。テスラ車を人形の頭で騙す方法は、2026年にテスラがソフトウェアアップデートを通じて中国での監視機能を強化した後にネット上で拡散されるようになったと報じられています。</p>
+<p>テクノロジー系メディアのDigital Trendsは、「この話は今のところ、高度なAIシステムを搭載した車両でさえ『ルームミラーに取り付けたプラスチック製の人形の頭』といった、驚くほどローテクな手段によって時として無力化されてしまうことがあるという教訓になっています」と述べました。</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Appleが「Siri AI」をEUの規則のせいでヨーロッパにリリースできないと主張するも欧州委員会は「AppleがEU域内で新製品や新サービスを導入することを禁じる条項は一切ない」と反論</title>
+      <link>https://n-kase.github.io/rss/posts/post-51/</link>
+      <pubDate>Tue, 16 Jun 2026 08:20:21 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-51/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>AppleはWWDC26でSiriとApple Intelligenceを統合した新しいAIアシスタント「Siri AI」を発表したが、EUのデジタル市場法(DMA)の影響によりヨーロッパでの提供を延期すると主張している。一方、欧州委員会はDMAには新製品や新サービスの導入を禁じる条項はなく、延期の原因はAppleが相互運用性のための適切なソリューションを提示していないことにあると反論している。この対立は、Appleが強調するプライバシーとセキュリティの保護と、EUが求めるプラットフォームの開放と競争促進という方向性の違いを浮き彫りにしている。専門家は、無制限のデータアクセスを強制すればセキュリティリスクが高まる可能性がある一方で、Appleの姿勢が競争を阻害する狙いであるとの見方も示し、EU市場でのAI機能の遅延がユーザー体験やテクノロジーイノベーションに影響を及ぼしかねないと指摘している。したがって、AppleはDMAに準拠した相互運用性の仕組みを構築し、欧州委員会と建設的な協議を進めるべきであり、規制当局もイノベーションを阻害しない柔軟な解決策を探る必要がある。これにより、プライバシー保護と市場の公平性という両立を目指し、ヨーロッパにおけるAIサービスの適切な導入が実現できるだろう。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<h1 id="appleがsiri-aiをeuの規則のせいでヨーロッパにリリースできないと主張するも欧州委員会はappleがeu域内で新製品や新サービスを導入することを禁じる条項は一切ないと反論">Appleが「Siri AI」をEUの規則のせいでヨーロッパにリリースできないと主張するも欧州委員会は「AppleがEU域内で新製品や新サービスを導入することを禁じる条項は一切ない」と反論
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1b3deea9c7613ccb1298f047ae3d853f.jpg"></p>
+<p>Appleは2026年6月9日の「** WWDC26**」基調講演で、SiriとApple Intelligenceを統合した「</p>
+<p><strong>」を発表しました。このSiri AIについて、EU域内ではEUの</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20260609-apple-wwdc26-apple-intelligence/"  target="_blank" rel="noopener"
+    >Siri AI</a><strong>が影響して提供が延期されるとAppleは発表していましたが、EUの行政執行機関である</strong></p>
+<p><a class="link" href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%B8%82%E5%A0%B4%E6%B3%95"  target="_blank" rel="noopener"
+    >デジタル市場法(DMA)</a><strong>は、DMAがSiri AIの導入を妨げるものではないと反論しています。</strong></p>
+<p><a class="link" href="https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E5%A7%94%E5%93%A1%E4%BC%9A"  target="_blank" rel="noopener"
+    >欧州委員会</a><strong>EU Citizens Q&amp;A - Digital Markets Act (DMA) - European Commission</strong></p>
+<p><a class="link" href="https://digital-markets-act.ec.europa.eu/citizens-and-whistleblower-portal/eu-citizens-qa_en"  target="_blank" rel="noopener"
+    >https://digital-markets-act.ec.europa.eu/citizens-and-whistleblower-portal/eu-citizens-qa_en</a><strong>Apple’s game of chicken with EU over Siri AI: Who will blink first? | The Verge</strong></p>
+<p><a class="link" href="https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai"  target="_blank" rel="noopener"
+    >https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai</a>Siri AIは新生Apple Intelligenceを統合したAIアシスタントで、これまでのSiriと比べて「メールの作成」「画像の理解」「文章自動校正」「パスワード管理」「電話中の情報表示」といった機能が大幅に向上しています。Siri AIは2026年秋に予定されている「iOS 27」「iPadOS 27」「macOS 27」「visionOS 27」「watchOS 27」のリリースと同時に利用可能になりますが、Appleは「デジタル市場法の影響により、EU域内ではiOS 27とiPadOS 27へのSiri AIの提供が延期されます」と発表しています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260609-apple-wwdc26-ai-siri-eu/"  target="_blank" rel="noopener"
+    >iOS 27の目玉機能である「Siri AI」がEU圏内では延期されることが決定 - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5afc27769488449d8af6f888a086aa03.png"></p>
+<p>Appleによると、EUの規制当局がDMAにもとづいて「Siri AI以外のサードパーティーAIシステムにユーザーデータへのアクセス権限やアプリ操作権限を与えること」「ユーザーのデバイスに対するほぼ無制限のアクセスをあらゆるAIシステムに提供すること」「ユーザーによる継続的な視認やコントロールなしで、あらゆるAIシステムがそのアクセスにもとづいて自律的に行動できるようにすること」といった内容を要求してきたそうです。この規制に従いつつユーザーのリスクを緩和する仕組みとして、Siri AI以外のAIアシスタントが安全に各種機能にアクセスできるシステム「Trusted System Agent」を設計しましたが、欧州委員会がAppleの提案を拒否したため、ユーザーの被るリスクを考慮してEU域内におけるSiri AIの延期決定に至ったとAppleは説明しています。</p>
+<p>Appleのグローバルマーケティング担当上級副社長であるグレッグ・ジョスウィアク氏は記者会見で「はっきりさせておきたいのですが、Appleは相互運用性を強く支持しています。問題は、ユーザーのデバイス上のほぼすべての情報への『無制限のアクセス』を他者に提供することを義務付けることになるDMAの厳格な解釈にあります。OS全体をサードパーティのシステムに開放することほど、プライバシーとセキュリティにとって無責任で懸念すべきことは想像できません」と語りました。</p>
+<p>しかし、Appleの発表を受けた直後、欧州委員会は自らの規則がAppleによる新機能の導入を妨げるものではないと反論しています。</p>
+<p>Appleの発表のあと、DMAの公式サイトが更新され、「DMAには、AppleがEU域内で新製品や新サービスを導入することを禁じる条項は一切ありません」「欧州委員会は今回の件に関してAppleと定期的に連絡を取っていますが、AppleはDMAに準拠した相互運用性ソリューションの提案を策定していません」という記述が追加されました。つまり欧州委員会の主張では、Siri AIの延期にDMAが関係しているのは事実ですが、それはDMAに問題があるのではなくAppleの設計に問題があるというわけです。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/af38fc2d49ba3e0ad820086664888e2d.png"></p>
+<p>一方で、欧州委員会の反論に対しジョスウィアク氏は「欧州委員会は、我々の提案について有意義な協議を行っていません。提案が却下され、欧州委員会が関与していない状況を考えると、現時点では我々が設計できる解決策はありません」とさらなる反論を展開しています。</p>
+<p>オランダのティルブルフ大学で競争法とデジタル規制を専門とするフリソ・ボストエン教授は「プラットフォームにシステムの公開を強制することには、非常に現実的なセキュリティとプライバシーのリスクがあります」と語り、Apple側の懸念を支持しました。しかし、Appleのプライバシーとセキュリティを重視した主張は必ずしもAppleの狙いを反映したものではない可能性があり、実際にアプリストアにおける独自決済を巡ったAppleとEpic Gamesの訴訟では、裁判官がAppleのプライバシーとセキュリティを重視した主張に対し懐疑的な見方を示したとボストエン教授は説明しています。</p>
+<p><a class="link" href="https://gigazine.net/news/20251212-apple-contempt/"  target="_blank" rel="noopener"
+    >Apple対Epic Gamesの独占禁止訴訟に関連した控訴審でAppleが敗訴、一方で「適切な手数料」が認められる - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e0e1dadec5970b460f3b8a502b989e54.jpg"></p>
+<p>ユニバーシティ・カレッジ・ロンドンの技術法・政策教授であるマイケル・ビール氏は「核心的な問題は、AppleがAIに関する競争力を維持するために、長年培ってきたプライバシーとセキュリティの仕組みに例外を設けていることにあります。Appleのプライバシーとセキュリティのモデルは、企業による極端な垂直的支配に基づいて構築されており、相互運用性が導入されると崩壊する危険性があります。言い換えれば、AppleはSiri AIのために自社の慣行を変更し、AIがさまざまなアプリ間で大量のデータにアクセスできる能力を与えることには抵抗がありませんが、競合他社が同様のアクセスを要求すると、危険すぎると主張しているのです」と指摘しました。ビール氏によると、Appleが欧州委員会に提案した解決策は公表されていないため、適切に評価することができないそうです。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b70cbf7a5783d6ec5998327949b7eb05.jpg"></p>
+<p>欧州デジタル権利擁護団体(EDRi)の上級政策顧問であるヤン・ペンフラット氏は、Appleの動きはDMAを破棄することを認めるよう欧州委員会に圧力をかける手段だと主張しています。ペンフラット氏は「これはまさにロビー活動の戦術です。問題はDMAではなく、Appleが競争を阻害するソフトウェアエコシステムを開放することを拒否していることにあります」とEUのDMAではなくApple側に問題があると指摘しました。</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>AIが社会を変革する「今」と「AGIの未来」の中間にある真の問題「混沌とした中間期」とは？</title>
       <link>https://n-kase.github.io/rss/posts/post-50/</link>
