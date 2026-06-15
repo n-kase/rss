@@ -6,7 +6,59 @@
     <description>Recent content in AI on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 08:25:52 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 08:29:13 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>地球と月で光通信を確立するための「衛星間光通信ターミナル」試作品をKDDI研究所が展示【Interop Tokyo 2026】</title>
+      <link>https://n-kase.github.io/rss/posts/post-76/</link>
+      <pubDate>Tue, 16 Jun 2026 08:29:13 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-76/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Interop Tokyo 2026の開催期間中に行われた「Internet x Space Summit」では、宇宙とインターネットの融合をテーマにさまざまな展示や講演が行われました。その中で、KDDI総合研究所はJAXAとの共同研究に基づいて開発中の、地球と月の間で光ビームを用いた衛星間光通信ターミナルの試作品をブースで公開し、Best of Show Awardのイノベーションテクノロジー（スペースチャレンジ）部門でグランプリを受賞しました。この技術は、約38万km離れた地球静止衛星と月周回衛星を光のビームで結ぶもので、極めて高い指向精度が求められ、手ブレ補正と追尾のための可動ミラーとセンサーシステムが核となっています。また、同じく summit 内では、月や火星での通信遅延を模したチャットデモや、衛星コンステレーションの追跡シミュレーション、災害時のStarlink利用を想定した防災通信キットなど、宇宙通信に関連するさまざまな展示が紹介されました。</p>
+<p>会場での議論は、まず技術的な難易度に対する驚きと関心から始まりました。参加者は、横浜と舞浜の間で直径10cmのカップにホールインワンする精度に例えられる指向制御の難しさについて詳しく質問し、手ブレ補正アルゴリズムやセンサー融合の仕組みに関心を示しました。一方で、実用化に向けたコストや耐環境性、国際標準化の必要性について懸念する声もあり、時間が経つにつれて楽観的な展望と現実的な課題の両方が交錯する議論へと変化していきました。特に、月面基地や火星探査におけるリアルタイムデータ転送の可能性に期待が寄せられつつ、実際の運用に向けた試験環境の整備や法規制の整備が求められるという指摘が増えてきました。</p>
+<p>このような技術の進展は、月や火星への人間の長期滞在を支える通信基盤としてだけでなく、地上での災害時通信のバックアップや、宇宙産業全体の競争力強化にもつながると考えられます。ネット上でも、KDDIの受賞を契機に「宇宙インターネット」への期待が高まり、官民連携や研究予算の増額を求める声が見られます。さらに、衛星画像の変化検出システム「DANGO」やスターリンクの防災キットなど、関連技術が同時に注目されることで、宇宙と地上の通信インフラが統合される未来への関心が高まっています。</p>
+<p>したがって、今後は光通信の指向精度をさらに向上させる手ブレ補正技術の実証実験を継続し、国際的な標準策定に向けた協力体制を築くことが重要です。これにより、宇宙空間における信頼性の高いインターネット接続が現実となり、探査ミッションの成功だけでなく、地上の防災や産業革新にも貢献できるでしょう。です。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>イベントレポート</p>
+<p>Interop Tokyo 2026</p>
+<h1 id="地球と月で光通信を確立するための衛星間光通信ターミナル試作品をkddi研究所が展示">地球と月で光通信を確立するための「衛星間光通信ターミナル」試作品をKDDI研究所が展示
+</h1><p>ほか、宇宙とインターネットに関する注目の展示をピックアップ</p>
+<p>2026年6月15日 12:06</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5181a4bef4ce0a01251b9e783696e50a.jpg"></p>
+<p>6月10日～12日に開催された「Interop Tokyo 2026」の中では、主催者企画として<a class="link" href="https://www.interop.jp/2026/exhibition/spacesummit/"  target="_blank" rel="noopener"
+    >「Internet x Space Summit」</a>を実施。宇宙とインターネットに関する展示や講演がなされた。</p>
+<p>株式会社KDDI総合研究所のブースでは、JAXAとの契約にもとづいて研究開発している、月と地球の間の光通信の技術について展示していた。同展示は、Interop Tokyo出展者の製品を表彰する「Best of Show Award」にて、「イノベーションテクノロジー（スペースチャレンジ（宇宙産業））部門」のグランプリを受賞した。</p>
+<p>今回の展示は、地球を回る静止衛星と、月を回る月周回衛星との間で光のビームにて通信するための技術だ。距離が38万kmあるため、ターゲットがごく小さく、例えるなら神奈川県の横浜と千葉県の舞浜の間で直系10cmのカップにホールインワンする精度が必要だという。そのための手ブレ補正と追尾の技術が今回の展示のテーマだ。</p>
+<p>仕組みとしては、受信した光に対して、可動ミラーで“手ブレ補正”を行う。可動ミラーの先では光信号を、広視野光センサーと高感度光センサーに分光し、センサーの情報から可動ミラーを調整する。</p>
+<p>なお、この技術の地上検証の開始について、2月18日付で<a class="link" href="https://www.kddi-research.jp/newsrelease/2026/021804.html"  target="_blank" rel="noopener"
+    >プレスリリース</a>として発表されている。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/22780751feeb5eaeb2a20c7208cb6675.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/cd228b01f900e462b83ce707a9611b41.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/972008cbf53be48bf50ed964270a9d4e.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0a7a12d6e9c784b2bf335d6c4f794072.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c4567fa528557d8e464c19bcfc19fc71.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6eb628f8e8853fb919b79041fa768e49.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b488210c80097e90897939960e39a3de.jpg"></p>
+<p>また、同じく「Internet x Space Summit」のWIDE Project Space-WGのブースでは、地球・月・火星の間で、通信遅延時間を模して（月で1.3秒、火星で4分）チャットするシステムをデモしていた。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b07aa8ec822cbb2588da56067c9be46e.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b98bebffffb3319c4634da0a418c4eb2.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/89a4006f19cd1f140dceda8457577e9c.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/76265e34148543e69586e8b49dbeade6.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/71ee978f04384a470559b3776de3d040.jpg"></p>
+<p>調査研究企業のDaiphys Technologies LLC（合同会社大物理技術研究所）のブースでは、NECとのコラボによる、衛星コンステレーションの打ち上げの追跡シミュレーションと、そのクイズを展示。また、衛星の画像を解析して時系列の変化を検出するシステム「DANGO」も展示していた。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6468a17137c14ac2535c2accce1c402d.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6d0a51b7b62cfeaf77beaa626cfedb46.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9595b5b8485fd047fd6ed80200dba568.jpg"></p>
+<p>株式会社インターネットイニシアティブ（IIJ）のブースでは、衛星通信のStarlinkのサービスとして、設置からのワンストップサービスや、防災通信キットを展示していた。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6a1b068f2d25db9b4b55dcb0e0fbf564.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7b360763acda7dfad2f4cd09e78ae4ca.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4b223271d166e89aa9556f1d6dcdfea8.jpg"></p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>ChatGPT・Claude・Geminiに「冷戦下の戦略会議」をさせたら核兵器を使用してしまったという研究結果</title>
       <link>https://n-kase.github.io/rss/posts/post-69/</link>
