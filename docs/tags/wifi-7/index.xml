@@ -1,0 +1,140 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wi‑Fi 7 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/wifi-7/</link>
+    <description>Recent content in Wi‑Fi 7 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 08:33:04 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/wifi-7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>まさに「前代未聞のシロモノ」。Wi-Fiルーター&#43;小型サーバーの2ｰinｰ1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」【イニシャルB】</title>
+      <link>https://n-kase.github.io/rss/posts/post-87/</link>
+      <pubDate>Tue, 16 Jun 2026 08:33:04 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-87/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>ASUSは2026年6月に、Wi‑Fi 7対応のルーターと小型サーバー機能を一体化した「ROG Rapture GT‑BE19000AI」を発売した。この製品は、メインのルーターシステムと別系統のAIボードという二つのArm系システムを内部に持ち、イーサネットで接続されたデュアル構成となっている点が特徴で、従来のルーターには見られない「2in1」設計である。記事では、筆者がこの斬新なアイデアに驚きと興奮を覚えつつも、高価格やニッチな用途ゆえに実際に購入できるユーザー層が限られているのではないかと懸念を示している。さらに、製品の外観は巨大なアンテナと透明パネル、光るヒートシンクなど派手であり、設定画面にはWi‑Fiの干渉状況を時系列で確認できる「WiFi Insight」や自然言語で質問できるAIアシスタントなど、マニア向けの機能が充実していると指摘されている。こうした点について、読者やコメントでは「技術的にすごい」という肯定的な声と、「実際に必要なのか」「コストパフォーマンスはどうか」という疑問の声が交錯し、時間とともに製品の実用性よりもその革新性に注目が集まる傾向が見られる。</p>
+<p>この製品がもたらす影響として、まずルーター市場においてAIやサーバー機能を内蔵する試みが他社にも波及する可能性がある。ハイエンドユーザーやネットワーク愛好家向けのニーズを掘り起こすことで、従来の「単なるアクセスポイント」という概念を超えたマルチファンクションデバイスの需要が喚起されるかもしれない。一方で、高価格と特殊な構成が一般消費者には受け入れられにくく、市場全体への普及は限定的であると予想される。したがって、ASUSのようなメーカーが技術的挑戦を続ける一方で、実際の利用シーンやコストパフォーマンスを十分に考慮した製品設計が求められるという教訓が得られる。</p>
+<p>したがって、技術革新を追求することはブランドイメージの向上やファンの獲得に有効であるが、製品化の段階で実用性と価格バランスを見極めることが、持続可能な市場成功への鍵となる。企業は革新的アイデアを形にする際、ターゲットユーザーの実際のニーズとコストを慎重に評価し、過度なニッチ化を避ける姿勢を保つべきである。です。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>清水理史の「イニシャルB」</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3d49af6070fd1b30b4c02e9324452068.gif"></p>
+<h1 id="まさに前代未聞のシロモノwi-fiルーター小型サーバーの2ｰinｰ1を実現したasusの新型wi-fi-7ルーターrog-rapture-gt-be19000ai">まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ｰinｰ1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」
+</h1><p>2026年6月15日 06:00</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9d42667dc8d9f7cda984543617d13e6b.jpg"></p>
+<p>ASUSから登場した「ROG Rapture GT-BE19000AI（以下、GT-BE19000AI）」は、ルーターとしての機能を処理するシステムに加え、「AI Board」という別系統のシステムボードを搭載したデュアルシステム構成のWi-Fiルーターだ。要するに、ルーター＋小型サーバーという2つのシステムが1つの筐体に共存する非常に珍しい製品となっている。</p>
+<p>圧倒的なパフォーマンスにも注目だが、今までに見たことがない独自の構成を持った本製品の実力を検証する。かなり長文だが、久しぶりに興奮して書いたので、お付き合い願いたい。</p>
+<h2 id="asusという企業の恐ろしさ">ASUSという企業の恐ろしさ
+</h2><p>アイデアとしては思いつきそうではあるが、まさか実際に製品として発売するとは……。</p>
+<p>ASUSから登場した新型のWi-Fi 7ルーター「ROG Rapture GT-BE19000AI（以下、GT-BE19000AI）」は、社内にいる強烈なWi-Fiルーターマニアが“ふざけて”考えたアイデアが、あれよ、あれよという間に製品化されてしまったような奇跡的な製品だ。</p>
+<p>こんな製品を発売してくるASUSは、いい意味で恐ろしい。</p>
+<p>いや、正直、筆者のようなマニアは「スゲェ」と素直に声を上げてしまうが、果たして買う人（買える人）が何人いるんだろうと心配になるような製品で、誤解を恐れずに言えば「怪作」といっていい製品になっている。</p>
+<p>具体的になにがスゴいのかというと、本製品は内部に2つのシステムを搭載した2ｰinｰ1のWi-Fiルーターになっている。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/40d7476844702c6ba9921c984383b75b.jpg"></p>
+<p>ふと、1991年にリリースされたセガの「テラドライブ」（※日本IBMと共同開発、80286と68000の2つのCPUを搭載したメガドライブ一体型PC）を思い出してしまったが、本製品は、恐らくそこまで凝った構成ではなさそうだ。ルーター本体のArm系メインボード（クアッドコア 2.6GHz/4GBメモリ/32GBフラッシュ）の上に、サブボードとして実装されたもう1つのArm系システムである「AI Board（クアッドコア2.1GHz/4GBメモリ/32GBフラッシュ/7.9TOPS NPU）」が存在し、両者が内部的にイーサネット接続（1Gbps）されていると推測される。この2つのシステムで、ルーターとアプリの役割が個別に分担されているのだ。</p>
+<p>以下は、4月21日に開催されたASUSの発表会で展示されていた基板の写真だ。AI BoardはSynaptics SL1680と公表されている（メインのルーター側のチップはBroadcom製）。サブボードにしたのは、シンプルにコストの問題かと想像できるが、これならサブボードなしの構成も作りやすそうだ。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/be9db679e95eb82340837835ed7dbcb6.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e028663a6a98ad7bfc12ce0ecc08625a.jpg"></p>
+<p>まあ、よくもこんな考えに至ったと感心するが、これはある意味合理的なのかもしれない。</p>
+<p>数は少ないかもしれないが、筆者も含め読者の中には、Wi-Fiルーターに加えて、Raspberry PiやミニPCを宅内で稼働させ、DNSサーバーやIoT管理サーバー、ファイルサーバー、メディアサーバーなどとして利用している人がいるだろう。こうしたサーバーを別に稼働させるのは面倒なので、いっそのことWi-Fiルーターに内蔵してしまおうという発想だ。</p>
+<p>4GBなんてメモリを搭載したWi-Fiルーター自体、そもそも珍しいが、その4GBメモリのシステムが1台に2系統も内蔵されるなどというのはフツーの話ではない。しかし、Wi-Fiルーター＋ミニPCという2台体制が1台で済むと考えると、「なるほど、それならアリも」と妙に納得してしまう自分もいる。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1c10160b5a95fb5b723de26d492e474a.jpg"></p>
+<p>というわけで、本製品は「AI」に注目されがちだが、単に流行りを追った製品ではない。</p>
+<p>詳しくは後述するが無線周波数帯をより詳しく調査できる「WiFi Insight」も搭載されており、言葉を慎重に選んで言うと、ネットワークマニアやサーバークラスタの人達の中でも、ちょっと変わった製品が好きという層に好まれる製品となっている。</p>
+<p>もちろん、世界初で、今後も同じような製品が出てくるとは思えないし、他社がマネしようとしても、「絶対（これは言い切れる）」できない製品となっている。</p>
+<p>もう一度、言うが、この製品を実際に販売できるASUSという会社はつくづく恐ろしい。</p>
+<h2 id="巨大な本体と派手なデザインと充実のインターフェース">巨大な本体と派手なデザインと充実のインターフェース
+</h2><p>それでは、本体を見ていこう。</p>
+<p>本製品は、とにかく巨大だ。サイズは350.41×350.41×220.6mmとなっており、さらに長さ20cm（！）もあるアンテナが四辺に2本ずつ合計8本装着されている。国内ではアンテナ内蔵が好まれる傾向が強いが、やはりパフォーマンスを重視して外付け、それも巨大なアンテナが装着されていることになる。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9164cdd50b5673bf01eb99e128675ea5.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5262d59acfe156a087b8be94a6577d48.jpg"></p>
+<p>デザインも独特で、カラーはホワイト。本体上部には透明のパネルで内部が透ける構造となっており、チップなどを模したロボティックな模様が見える工夫がなされている。また、その下に見えるヒートシンクがブルーとパープルのグラデーションとなっており、細かい部分にまでコダワリが詰まったデザインとなっている。</p>
+<p>ヒートシンクを、わざわざグラデーション塗装するとか、もはや普通の感覚では理解不能だったのだが、発表会で公表されたAI Boardのヒートシンクも同じカラーとなっていた。「なるほど、AI Boardのアイデンティティカラーなのか」と、うっかり納得しそうになったが、「いや、普段、見えないんだし、そもそも塗装する必要ないだろ！」と自分に突っ込んでしまった。</p>
+<p>もちろん、光るし、点滅する。設定用アプリやウェブ画面でAURA RGB機能を利用することで、上部のロゴマークを「グラディエン」や「レインボー」のような効果で飾ることができる。</p>
+<p>正直、こうした派手な演出はユーザーの好み次第だが、市販のWi-Fiルーターのデザインを「派手／シンプル」の2方向に分類したとすれば、派手系の先端にあるのが本製品と言ってもいい。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/369688354198cf56b433cf7ab342b619.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0c9a87785d2fd6f8c578cb73ddcb35aa.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fd6f21a256ec479f4bf75551073aa037.jpg"></p>
+<p>無線のスペックは、Wi-Fi 7ことIEEE802.11be対応で、6GHz帯が最大11529Mbps、5GHz帯が最大5764Mbps、2.4GHz帯が最大1376Mbpsと、トライバンドで全バンド4ストリームに対応した製品になっている。</p>
+<p>ASUSのWi-Fiルーターには、クアッドバンドに対応したGT-BE98もラインアップするため、無線のスペックで言えばGT-BE98の方が上だが、CPUやメモリ、前述したAI Boardなどの構成では本製品が上回る。どちらがASUSを代表するフラグシップモデルなのか？ と言われると判断が難しい印象だ。</p>
+<p>もちろん、有線も豪華な構成で、WAN/LAN用として10Gbps×1、2.5Gbps×1、LAN用として10Gbps×1、2.5Gbps×3、1Gbps×1が用意される。WAN、LANともに10Gbps対応となっているのが特徴で、増えてきた10Gbpsインターネットサービスや10Gbps対応のNASなどを減速なしで接続できるようになっている。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f535dbf7698343ba10742750025c45d7.jpg"></p>
+<p>さらに本製品の有線LANは、LAGを利用した冗長性の確保、VLANを利用した柔軟なネットワーク構成にも対応している（コンシューマー向けでは省かれがちなログ機能も充実している！）。こうした機能は、近年、コンシューマー向け製品では省かれる傾向が強いが、ASUSはかたくなに機能を維持している。というか、機能が増えることはあっても、削られることはめったにないというのもASUS製品の特徴かもしれない。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3dd491a1434e2f8c27e922736e06facf.jpg"></p>
+<p>| 価格 | 14万円前後 |
+| CPU | クアッドコア 2.6GHz(ルーター）＋クアッドコア 2.1GHz（AI Board） |
+| メモリ | 4GB/4GB |
+| 無線LANチップ | Broadcom |
+| 対応規格 | IEEE802.11be/ax/ac/n/a/g/b |
+| バンド数 | 3 |
+| 最大速度（2.4GHz帯） | 1376Mbps |
+| 最大速度（5GHz帯-1） | 5764Mbps |
+| 最大速度（5GHz帯-2） | - |
+| 最大速度（6GHz帯） | 11529Mbps |
+| チャネル（2.4GHz帯） | 1-13ch |
+| チャネル（5GHz帯-1） | W52/W53/W56 |
+| チャネル（5GHz帯-2） | - |
+| チャネル（6GHz帯） | 1-93ch |
+| ストリーム数（2.4GHz帯） | 4 |
+| ストリーム数（5GHz帯-1） | 4 |
+| ストリーム数（5GHz帯-2） | - |
+| ストリーム数（6GHz帯） | 4 |
+| アンテナ | 外付け×8 |
+| WPA3 | 〇 |
+| メッシュ | 〇 |
+| IPv6 | 〇 |
+| IPv6 over IPv4（DS-Lite） | 〇 |
+| IPv6 over IPv4（MAP-E） | 〇 |
+| 有線（WAN/LAN自動認識） | 10Gbps×1+2.5Gbps×1 |
+| 有線（LAN） | 10Gbps×1+2.5Gbps×3+1Gbps×1 |
+| 有線（LAG） | 〇（VLANも対応） |
+| 引っ越し機能 | - |
+| 高度なセキュリティ | 〇（無料） |
+| USB | USB 3. 2 Gen 1×1+USB 2.0×1 |
+| USBディスク共有 | 〇 |
+| VPNサーバー | 〇 |
+| DDNS | 〇 |
+| リモート管理機能 | 〇 |
+| 再起動スケジュール | - |
+| 動作モード | ルーター/AP/メッシュ |
+| ファーム自動更新 | 〇 |
+| LEDコントロール | 〇 |
+| ゲーミング機能 | 〇 |
+| サイズ（直径×高さmm） | 350.41×350.41×220.6 |</p>
+<p>ということで、本製品は非常に豪華なスペックになっているが、その分、消費電力も大きい。10Gbpsポートを2つとも接続し、無線クライアントも数台つないだ状態でのアイドル時の消費電力は24～26Wほどで、無線通信で負荷をかけると30W（！）ほどにもなる。ワットチェッカーの表示を見て、思わず笑ってしまった。</p>
+<p>ただ、本製品にはAIを活用した省エネモードが搭載されており、利用状況に応じて自動的に消費電力を抑える機能も搭載されている。今回は試用期間が短かかったため、この効果を体験することはできなかったが、アイドル時は自動的に不要な機能や帯域を無効にすることで、一応、消費電力を抑えることも可能だ。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c4dceaeab05921068a876ce207b3beeb.jpg"></p>
+<h2 id="多機能なダッシュボード">多機能なダッシュボード
+</h2><p>設定や管理に関しては、手軽さとマニアックさが融合している感じだ。</p>
+<p>まず初心者向けの工夫として、アプリによる設定が可能で、以下の画面のように、回線の自動判別やリモート管理にも対応する。ただし、自動設定はIPoE IPv6のIPv4 over IPv6方式のすべてに対応しているわけではない。</p>
+<p>自動設定に失敗した場合も、一応、DS-Liteの手動設定は可能だ。それでも、どんな回線でも対応できるというわけではない。実際、筆者宅はASAHIネットの固定IPサービス（IPIP接続）を利用しているが、この方式では現状接続できない。</p>
+<p>高性能なWi-Fiルーターなので、小規模な法人環境でニーズがある固定IP向けのIPIP接続への対応は、ぜひ進めてほしいところ。4月の発表会の際には、同社の開発担当者と直接話をする機会があったので、「IPIP接続にぜひ対応して欲しい」と一方的に要望を伝えておいた。</p>
+<p>現状、IPIP接続は個人向けでは、Linksys、法人向けではバッファローとYAMAHAくらいしか対応していない。こういうコアなユーザーが求める機能を搭載できるのは、おそらくASUSくらいしかないので、ぜひ対応して欲しいところだ。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/914436cf55ef37b40d2f065d61679725.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9b7e964f4928712ec43c852576b6985f.jpg"></p>
+<p>設定や管理用のウェブ画面も改善がされている。</p>
+<p>まず、最初に表示されるダッシュボードの情報が豊富だ。インターネット接続状況、クライアントの接続状況（無線/有線）、システム負荷などに加え、DNSベンチマークとしてGoogleやCloudflareへのPing結果、イーサネットポートとして有線ポートの接続状況などが表示され、画面上部には「Ask Router Assistant」というAI機能も搭載される。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3cb5170cc9e00b5746bc0edec413772d.jpg"></p>
+<p>UbiquitiのUniFiシリーズほどではないが（同社製品をかなり意識しているのではないかと思える）、現状のコンシューマー向けルーターではかなり豊富な情報や機能が備えらえた管理画面となっている印象だ。</p>
+<p>中でも感心したのは「WiFi Insight」と呼ばれる機能だ。</p>
+<p>これは、スペクトラムアナライザーというほどではないが、チャネルの干渉状況を時系列に分析可能な機能だ。もちろん、全帯域の電波をリアルタイムに分析するわけではなく、2.4GHz帯と5GHz帯のチャネルごとに、ほかのWi-Fiが使用しているチャネル、非Wi-Fiが使用しているチャネル、DFS（5GHz帯）をシンプルに時系列にグラフ化したものとなるが、「Wi-Fiが遅い」という原因を探す手助けになる。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/87ecf799308c0dd4424e10902c18ff76.jpg"></p>
+<p>例えば、瞬間的なチャネルの使用状況ではなく、継続的な調査によって数時間や1日単位で干渉の少ないチャネルを探すことができる。また、ルーターによってチャネルが自動的に変更されたり、帯域幅が自動的に変更されたりした場合でも、記録されたイベントから、その状況を判断できる。さらに、その原因がほかのWi-Fi機器なのか、非Wi-Fi機器なのか、DFS（レーダー）なのかという判断にも役立つ。</p>
+<p>これは推測だが、リアルタイムの検出を実行するとWi-Fi通信が遅くなる可能性があるのだが、FCCの内部写真を見ると、基板上にDFS ANT（CON15）というアンテナ用コネクタが確認できるので、チャネルスキャン用に専用のアンテナを装備しており、それを使って各チャネルを常時チェックしているのかもしれない。</p>
+<p>前述したように、本格的なWi-Fi調査用のスペクトラムアナライザーには及ばないものの、簡易的な調査機能を搭載してきただけでも高く評価したい。</p>
+<p>画面上部の「Ask Router Assistant」は、自然言語でQ&amp;Aやルーターの設定ができる機能となっている。ローカルで処理されるLLMとなっており、例えば「無線でつながっているデバイスの数は？」と質問すると「2」などと回答することや、「LEDをオフにして」と依頼するとLEDをオフに設定することができる（公式には日本語非対応だが簡単な日本語には対応する）。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/05ba2f7f048cd010fb2d4e2ca755da07.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/637408348022e9888af7cf0acd3e343d.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ac614d04b3b1e0c4e6c2cc567cf7307b.jpg"></p>
+<p>本製品は「AIルーター」という側面も持つ製品となっており、このRouter Assistantに加え、Wi-Fiの安定性（チャネルの選択など）、ゲーミング性能（アダプティブQoEのAIバランスモード）、省エネ性（前述したアイドル時の省電力機能）、さらには後述するAIボード上のコンテナアプリの機能（Frigate）などにAI技術が活用されている。</p>
+<p>ただし、本製品の本質は、デュアルシステムによる処理負荷の分散であり、Wi-Fiルーターとしての性能を落とすことなく、開発者自身が欲しい機能、思いついたアイデアを思う存分投入できるようにした点にある。この「やりたい放題感」をいか</p>
+<p>&hellip;（長文のため省略されました）</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
