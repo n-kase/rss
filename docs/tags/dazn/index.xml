@@ -1,0 +1,36 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DAZN on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/dazn/</link>
+    <description>Recent content in DAZN on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 08:05:28 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/dazn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>W杯日本対オランダ戦のDAZN中継で音声トラブル--「音ズレ」相次ぎ　報道</title>
+      <link>https://n-kase.github.io/rss/posts/post-27/</link>
+      <pubDate>Tue, 16 Jun 2026 08:05:28 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-27/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>2026 FIFAワールドカップ北中米大会のグループF第1節、日本代表対オランダ代表の試合をDAZNがライブ配信したところ、映像は正常に流れていたものの実況・解説の音声が数秒遅れたり音割れやノイズが発生する音ズレトラブルが起きた。試合開始直後から視聴者は映像と音声が合わない状況に戸惑い、X（旧Twitter）では「DAZN音」がトレンドになるなど不満の声が相次ぎ、一部の視聴者は途中で地上波のNHKへ切り替える事態となった。DAZN側もトラブルを認識し、テロップやアナウンサーのアナウンスで謝罪と復旧に向けた対応を行ったが、前半終了頃まで問題が続いた。</p>
+<p>このトラブルにより、配信サービスへの信頼が揺らぎ、特に国際的な大型イベントでのストリーミング品質への期待が高まる中で、視聴者の不満がネット上で拡散した。また、代替放送への流出が見られ、有料配信サービスに対する視聴者の離れや、今後の同様の問題への警戒感が高まったことが示唆される。さらに、スポーツ中継における技術的インフラの重要性が改めて浮き彫りとなり、配信事業者側にはより厳格な品質管理とバックアップ体制の必要性が指摘された。</p>
+<p>したがって、配信事業者はイベント前の徹底したテストと、トラブル発生時の迅速な代替手段（たとえばサブストリームや地上波への自動切替）を整備すべきであり、視聴者も複数の視聴手段を確保しておくことが望ましい。これにより、重要なスポーツイベントにおける視聴体験の安定性を確保し、サービスへの信頼を維持できるだろう。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>2026 FIFAワールドカップ（北中米W杯）グループF第1節、日本代表対オランダ代表のDAZN中継で、試合開始直後から音声トラブルが発生した。映像と実況・解説の音声がかみ合わない「音ズレ」や音割れが続き、X（旧Twitter）では「DAZN音」がトレンド入りするなど、視聴者から不満の声が相次いだ。</p>
+<p>各紙の報道によれば、映像そのものは問題なく流れている一方で、実況・解説の音声だけが映像より数秒遅れて聞こえてくるというものだ。<a class="link" href="https://www.footballchannel.jp/2026/06/15/post916002/"  target="_blank" rel="noopener"
+    >フットボールチャンネル</a>は、映像に対して3秒ほど遅れてコメントが届く状態だったと伝えており、ゴールキーパーがシュートをセーブした後になって「シュートー！」という実況が聞こえてきたと指摘している。音割れやノイズ、音声が途切れる場面も報告され、視聴者の中には「自宅の回線やテレビの問題かと思った」と戸惑う人も少なくなかった。</p>
+<p>DAZN側も試合中に異常を認識し、対応に追われた。<a class="link" href="https://news.yahoo.co.jp/articles/0dcc202cad9fee4f2a4fc920ceda9ea29a23f950"  target="_blank" rel="noopener"
+    >スポニチアネックス</a>や<a class="link" href="https://news.yahoo.co.jp/articles/8493dbc1e63e9ed49a0d6a70f2be692ff020a7a6"  target="_blank" rel="noopener"
+    >日刊スポーツ</a>の報道によると、前半30分ごろに「現在音声トラブルが発生しております。復旧まで今しばらくお待ちください」とのテロップが流れ、実況の野村明弘アナウンサーが「ただいま音声が乱れております。大変申し訳ございません」と謝罪した。前半41分ごろにも野村アナが「音声トラブルが続いています。今、改善に努めています」と再度アナウンス。トラブルは前半終了間際から後半開始にかけておおむね改善したと伝えられている。</p>
+<p>X上でも不満の投稿が相次いだ。「日本対オランダ見てるけど映像と音声が合っていない。音声が5秒くらい遅れてるしマイクぼろぼろ」「前半をDAZNで観たけど音声ガビガビのうえ常時3〜4秒遅延していて最悪。後半はNHKにする」といった投稿が相次いだ。実際に途中から地上波のNHKへ切り替えたという報告も多く、「DAZNの音声遅れが気になって途中からNHKで観た」「音割れがすごすぎてテレビで見た」との声が目立った。</p>
+<p>今大会のW杯は、日本国内ではDAZNが全64試合をライブ配信し、日本代表戦など一部の試合は地上波でも放送される。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
