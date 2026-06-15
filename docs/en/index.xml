@@ -6,5 +6,23 @@
     <description>Recent content on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://n-kase.github.io/rss/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archives</title>
+      <link>https://n-kase.github.io/rss/en/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/en/archives/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://n-kase.github.io/rss/en/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/en/search/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
   </channel>
 </rss>

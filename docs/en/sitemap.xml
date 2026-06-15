@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://n-kase.github.io/rss/en/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://n-kase.github.io/rss/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://n-kase.github.io/rss/en/archives/"
+                />
+  </url><url>
     <loc>https://n-kase.github.io/rss/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -24,6 +36,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://n-kase.github.io/rss/en/"
+                />
+  </url><url>
+    <loc>https://n-kase.github.io/rss/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://n-kase.github.io/rss/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://n-kase.github.io/rss/en/search/"
                 />
   </url><url>
     <loc>https://n-kase.github.io/rss/en/tags/</loc>

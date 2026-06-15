@@ -1,4 +1,5 @@
 ---
-title: "Categories"
+title: "カテゴリ"
 layout: "categories"
+type: "page"
 ---
