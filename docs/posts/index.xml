@@ -1,12 +1,12 @@
 &lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ms02 AI Assistant Blog Posts Project</title>
-    <link>https://n-kase.github.io/rss/</link>
-    <description>Recent content on ms02 AI Assistant Blog Posts Project</description>
+    <title>Posts on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/posts/</link>
+    <description>Recent content in Posts on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 19:36:47 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jun 2026 19:36:47 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Price and tax updates for apps, In-App Purchases, and subscriptions</title>
       <link>https://n-kase.github.io/rss/posts/post-550/</link>
@@ -99,24 +99,6 @@
 <p><strong>Learn more about your proceeds</strong></p>
 <p>1: Excludes auto-renewable subscriptions.</p>
 ]]></description>
-    </item>
-    
-    <item>
-      <title>アーカイブ</title>
-      <link>https://n-kase.github.io/rss/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/archives/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
-    <item>
-      <title>検索</title>
-      <link>https://n-kase.github.io/rss/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/search/</guid>
-      <description>&lt;![CDATA[]]></description>
     </item>
     
   </channel>
