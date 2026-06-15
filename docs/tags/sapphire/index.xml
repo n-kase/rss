@@ -1,0 +1,39 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAPPHIRE on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/sapphire/</link>
+    <description>Recent content in SAPPHIRE on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 08:36:49 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/sapphire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>補助電源ケーブル不要のマザー＆グラボがデビュー　異常検知機能付き1300W電源も　アキバで高まるPCパーツ「安全」の価値</title>
+      <link>https://n-kase.github.io/rss/posts/post-97/</link>
+      <pubDate>Tue, 16 Jun 2026 08:36:49 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-97/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>先週、SAPPHIRE Technologyから自社規格「PhantomLink」に対応したマザーボードとグラフィックスカードが発表されました。マザーボードは「NITRO＋ X870EA PhantomLink」とそのホワイトベースの「Polar Edition」の2モデルで、いずれもAMD X870Eチップセットを搭載したATXサイズです。価格はそれぞれ約6万8000円と約7万円です。グラフィックスカードはRadeon RX 9070 XTを搭載したブラック＆グレーの「NITRO＋ AMD Radeon RX 9070 XT OC PhantomLink Edition」とホワイト基調の「Polar Edition」で、価格は約19万5000円と約20万円です。これらの製品は、グラフィックスカードの補助電源をマザーボードから直接供給できる着脱式のPhantomLinkコネクターを備えており、従来の12V-2x6ケーブルを省く仕組みとなっています。ASUSが提案する裏配線規格「BTF」とは異なり、マザーボード自体は裏配線デザインにはなっておらず、あくまで給電コネクターを簡素化する目的です。</p>
+<p>ショップやユーザーの間では、この新規格について意見が変化してきました。当初は「見た目をスッキリさせる」という美観上の利点が強調されていましたが、その後「発火などのトラブルを回避する目的が強い」という安全面への期待が話題の中心となりました。特に、コネクターの接続不良やケーブルの劣化による発火リスクを指摘する声が増え、ハイスペック構成ほど安全を重視する傾向が顕著になっています。さらに、パーツの価格高騰と供給の不安定さが背景にあり、マシンの故障による金銭的損失や復旧にかかる時間のリスクが懸念されているため、安全設計への関心が高まっていることが伺えます。</p>
+<p>こうした議論が進むことで、今後はマザーボードやグラフィックスカードの給電方式を見直す動きが広がり、ケーブルレスや直接給電を採用した製品が増える可能性があります。また、ユーザー側も電源周りのトラブルを未然に防ぐため、接続の信頼性や安全性を重視したパーツ選びを意識するようになるでしょう。結果として、PC全体の信頼性向上と、高価なパーツを長く安心して使える環境づくりが促進されると考えられます。</p>
+<p>したがって、高性能かつ高価なPCパーツが増える中で、見た目の美しさだけでなく、給電コネクターの信頼性や火災リスクの低減といった安全面を重視した設計が重要だという教訓が得られます。ユーザーは購入時にこうしたポイントを確認し、トラブルを防ぐための製品を選ぶべきです。</p>
+<hr>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p>先週（6月7日週）、SAPPHIRE Technologyから自社規格「PhantomLink」に対応したマザーボードとグラフィックスカードが登場した。</p>
+<p>マザーボードのラインアップは「NITRO＋ X870EA PhantomLink」と「同Polar Edition」だ。いずれもAMD X870Eチップセットを搭載するATXモデルで、全体のカラーは前者がブラック＆グレー、後者がホワイト＆ブラックとなる。</p>
+<p>価格は6万8000円弱と7万円弱だ。いずれもグラフィックスカードスロットの脇に、電力供給用のPhantomLinkコネクターを備えている。</p>
+<p>グラフィックスカードはRadeon RX 9070 XTを搭載した2モデルで、こちらも色違いとなる。ブラック＆グレーの「NITRO＋ AMD Radeon RX 9070 XT OC PhantomLink Edition」とホワイト基調の「同Polar Edition」で、価格は19万5000円前後と20万円前後だ。</p>
+<p>いずれも着脱式のPhantomLinkコネクターを備えており、対応するマザーボードから直接給電もできる仕様となっている。</p>
+<p>グラフィックスカードの補助電源までマザーボードから直接給電する仕組みは、ASUS JAPANの裏配線規格「<a class="link" href="https://www.itmedia.co.jp/pcuser/articles/2404/30/news073.html"  target="_blank" rel="noopener"
+    >BTF</a>」があるが、PhantomLink対応のマザーボードは裏配線デザインにはなっていない。あくまで、グラフィックスカードに補助電源を供給する12V-2x6ケーブルのみを省く仕組みだ。</p>
+<p>この作りについて、パソコンSHOPアークは「見た目をスッキリさせる効果もありますが、発火などのトラブルを回避する目的が強いんじゃないかと思います。コネクターの接続が甘かったり、ケーブル自体の劣化などで危険な状態になったりすることもありますから」と推測する。</p>
+<p>ハイスペックな構成ほど安全面を重視する傾向は以前からあるが、最近はより重視する人が増えていると方々で耳にする。別のショップは「あらゆるパーツが高価になっていますし、供給も安定していません。発火などでマシンが死んでしまうと、金銭的な損失も大きいですし、同じ環境を構築するのに時間がかかるリスクも高まっているのは確かですから」と話していた。</p>
+<p>Copyright © ITmedia, Inc. All Rights Reserved.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
