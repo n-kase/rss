@@ -1,9 +1,8 @@
 baseURL = 'https://n-kase.github.io/rss/'
 defaultContentLanguage = 'ja'
-languageCode = 'ja'
-title = 'ms02 AI Assistant Blog Posts Project'
 theme = 'stack'
-publishDir = 'docs' # GitHub Pages設定に合わせて明記
+publishDir = 'docs'
+title = 'ms02 AI Assistant Blog Posts Project'
 
 [params]
   mainSections = ["posts"]
@@ -11,8 +10,6 @@ publishDir = 'docs' # GitHub Pages設定に合わせて明記
     emoji = "⚡"
     subtitle = "MS-02 Ultra Home Lab"
     avatar = false
-    # サイドバーにウィジェットを常に表示する設定
-    # widgets = ["search", "archives", "categories", "tags"]
 
   [[params.widgets.homepage]]
     type = "search"
@@ -29,3 +26,71 @@ publishDir = 'docs' # GitHub Pages設定に合わせて明記
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[languages]
+  [languages.ja]
+    languageName = "日本語"
+    languageCode = "ja"
+    weight = 1
+  [languages.ja.menus]
+    [[languages.ja.menus.main]]
+      name = "検索"
+      url = "/search/"
+      weight = 10
+      [languages.ja.menus.main.params]
+        icon = "search"
+
+    [[languages.ja.menus.main]]
+      name = "タグ"
+      url = "/tags/"
+      weight = 20
+      [languages.ja.menus.main.params]
+        icon = "tag"
+
+    [[languages.ja.menus.main]]
+      name = "カテゴリ"
+      url = "/categories/"
+      weight = 30
+      [languages.ja.menus.main.params]
+        icon = "categories"
+
+    [[languages.ja.menus.main]]
+      name = "アーカイブ"
+      url = "/archives/"
+      weight = 40
+      [languages.ja.menus.main.params]
+        icon = "archives"
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 2
+
+  [languages.en.menus]
+    [[languages.en.menus.main]]
+      name = "Search"
+      url = "/search/"
+      weight = 10
+      [languages.en.menus.main.params]
+        icon = "search"
+
+    [[languages.en.menus.main]]
+      name = "Tags"
+      url = "/tags/"
+      weight = 20
+      [languages.en.menus.main.params]
+        icon = "tag"
+
+    [[languages.en.menus.main]]
+      name = "Categories"
+      url = "/categories/"
+      weight = 30
+      [languages.en.menus.main.params]
+        icon = "categories"
+
+    [[languages.en.menus.main]]
+      name = "Archives"
+      url = "/archives/"
+      weight = 40
+      [languages.en.menus.main.params]
+        icon = "archives"
