@@ -4,7 +4,6 @@ description: "ネット上では、週刊誌が公人や有名人の不倫を繰
 date: 2026-06-15T15:11:40+09:00
 categories: ["社会・ネット議論"]
 tags: ["不倫", "メディア報道", "SNS反応", "スキャンダル", "社会的影響"]
-image: "//ir-jp.amazon-adsystem.com/e/ir?t=hasimotti2150-22&l=am2&o=9&a=B07QG6GP6X"
 ---
 
 ## AIによる要約

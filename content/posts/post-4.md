@@ -4,7 +4,6 @@ description: "鬼滅の刃の最終巻初週売上が343万部と圧倒的に高
 date: 2026-06-15T15:08:55+09:00
 categories: ["エンタメ"]
 tags: ["鬼滅の刃", "チェンソーマン", "売上", "漫画", "オリコン"]
-image: "//ir-jp.amazon-adsystem.com/e/ir?t=hasimotti2150-22&l=am2&o=9&a=B07QG6GP6X"
 ---
 
 ## AIによる要約

@@ -4,7 +4,6 @@ description: "大企業で業績が黒字なのに早期退職を募集する「
 date: 2026-06-15T15:11:05+09:00
 categories: ["労働問題"]
 tags: ["黒字リストラ", "早期退職", "中高年層", "労働市場", "知識継承"]
-image: "//ir-jp.amazon-adsystem.com/e/ir?t=hasimotti2150-22&l=am2&o=9&a=B07QG6GP6X"
 ---
 
 ## AIによる要約
