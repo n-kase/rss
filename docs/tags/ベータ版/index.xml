@@ -6,7 +6,66 @@
     <description>Recent content in ベータ版 on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 10:45:08 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%BC%E3%82%BF%E7%89%88/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 12:39:03 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%BC%E3%82%BF%E7%89%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stack Overflow、AIエージェント同士が掲示板で技術情報を共有する「Stack Overflow for Agents」ベータ公開</title>
+      <link>https://n-kase.github.io/rss/posts/post-679/</link>
+      <pubDate>Tue, 16 Jun 2026 12:39:03 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-679/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Stack Overflowは、AIエージェント同士が技術的な知識をやり取りできる新しいサービス「Stack Overflow for Agents」のベータ版を公開しました。このサービスは、従来のStack Overflowのように質問と回答を投稿できる掲示板ですが、利用者は人間ではなくAIエージェントです。AIエージェントは、自分たちが解決した問題や学んだことをテキスト形式で投稿し、他のエージェントが検索して再利用できる仕組みになっています。さらに、単なるテキストだけでなく、問題の詳細な記録や設計パターンなども共有できるようになっています。利用を始めるには、特定のプロンプトをエージェントに実行させるだけで、公開されている情報を参照できます。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>これまでAIエージェントは各組織ごとに独立して動作しており、同じ問題に直面してもそれぞれが試行錯誤を繰り返し、計算資源やトークンを無駄にしていました。Stack Overflow for Agentsが組織の壁を越えて知識を共有できる場を提供すれば、エージェントは過去の解決策をすぐに参照し、効率的に作業を進められるようになると期待されています。これにより、開発全体のスピードが向上し、無駄な計算コストが削減される可能性があります。また、人間がエージェントの投稿をレビューし、承認する仕組みを残すことで、品質管理や倫理的な配慮も保たれる設計となっています。全体として、AIエージェント同士が協力し合う環境を整えることで、技術開発の効率化と知識の蓄積が促進されるでしょう。</p>
+<p><a class="link" href="https://www.publickey1.jp/blog/26/stack_overflowaistack_overflow_for_agents.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="stack-overflowaiエージェント同士が掲示板で技術情報を共有するstack-overflow-for-agentsベータ公開">Stack Overflow、AIエージェント同士が掲示板で技術情報を共有する「Stack Overflow for Agents」ベータ公開
+</h1><p>Stack Overflowは、AIエージェント同士がオープンな掲示板の上で技術的な解決策などの情報を共有する新サービス「<a class="link" href="https://agents.stackoverflow.com/"  target="_blank" rel="noopener"
+    >Stack Overflow for Agents</a>」を<a class="link" href="https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/"  target="_blank" rel="noopener"
+    >ベータ版として提供開始したことを明らかにしました</a>。</p>
+<p>What if our AI agents could learn from each other? Introducing Stack Overflow for Agents, an API-first knowledge exchange built for the agentic era. No longer do you need to spend your time and tokens getting solutions that other agents have already figured out. Stack Overflow…</p>
+<p>— Stack Overflow (@StackOverflow)<a class="link" href="https://t.co/XCl6nkfQdm"  target="_blank" rel="noopener"
+    >pic.twitter.com/XCl6nkfQdm</a><a class="link" href="https://x.com/StackOverflow/status/2064740876828422456?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >June 10, 2026</a></p>
+<p>Stack OverflowはITエンジニア向けのQ＆Aコミュニティサイトとして、誰でも技術的な質問を書き込むことができ、またその回答も誰でも書き込むことができるサービスを提供してきました。</p>
+<p>そのようにしてWebサイト上に蓄積された多数の知見がITエンジニアのあいだで共有されたことで、多くのITエンジニアが、例えばよくあるバグやミスを避けることができたり、試行錯誤することなく最適な方法を知ることができたり、新たな知見を身につけることができたりしてきました。</p>
+<h2 id="aiエージェント同士が知見を共有">AIエージェント同士が知見を共有
+</h2><p>今回公開されたStack Overflow for Agentsは、こうした知見の共有をAIエージェント同士で行える、AIエージェントのためのコミュニティと言えるものです。</p>
+<p><img alt="fig" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/db4d33cde20403e1670972f2bc088bc4.png"></p>
+<p>現在、AIエージェントはそれぞれのチームや組織ごとに独立して稼働させているため、例えばある開発チームが利用しているAIエージェントが試行錯誤の末に解決した問題に、別の組織のAIエージェントがふたたび直面すると、同じように多くのトークンを消費して試行錯誤しつつ解決する、といったことが行われています。</p>
+<p>こうした状況に対して、Stack Overflow for Agentsにより組織を超えてAIエージェント同士が知見を共有できるようになれば、AIエージェントがより効率的に少ないトークンで適切な解決策を実現できることが期待できます。</p>
+<p>下記はStack Overflow for Agentsのブログからの引用です。</p>
+<p>This beta release of Stack Overflow for Agents is an API-first knowledge exchange built for the agentic era. It extends the Stack ecosystem so agents work at machine speed with humans still in the loop to orchestrate them and approve what gets published.</p>
+<p>Stack Overflow for Agentsベータ版は、AIエージェントの時代におけるAPIファーストの知識交換プラットフォームです。AIエージェントは機械的な速度で動作しますが、そこに人間が連携してAIエージェントの調整や公開内容の承認を行えるように、Stack Overflowのエコシステムを拡張しています。</p>
+<p>Stack Overflow for Agentsは人間のコミュニティで得たモデレーション手法などの知識共有プラットフォームの経験を生かしつつ、それを拡張することでAIエージェントのための知識共有プラットフォームへと進化させていくものだといえます。</p>
+<p>Stack Overflow for Agentsのユースケースは次のように想定されています。</p>
+<p><em>1.探索</em></p>
+<p>AIエージェントがタスクを計画しているときや実装に行き詰まったとき、学習されていない内容について実行しようとしているときなどに、AIエージェントがStack Overflow for Agentsを検索。そこに答えがあればそれを取得して利用します。</p>
+<p><em>2.貢献</em></p>
+<p>もしStack Overflow for Agentsのコーパス内に答えがなく、AIエージェントがその問題について解決した場合には、ドラフトとしてAIエージェントがStack Overflow for Agents用のスキルファイルを作成し、人間のレビューワーに提出します。</p>
+<p><em>3.他のAIエージェントによる検証</em></p>
+<p>Stack Overflow for Agentsに公開されている問題と同じ問題に直面したAIエージェントやITエンジニアは、公開された情報が適切だったか、変更する必要があったか、などの検証結果を返信します。検証と返信によっても評価を得ることができます。</p>
+<p><em>4.合意の積み重ね</em></p>
+<p>投稿、検証、返信のフィードバックが積み重なることで、問題に対して単一の答えではなく、コンテキストごとに適切なさまざまな解決策が合意として積み重なっていくことになります。</p>
+<h2 id="テキストだけではない詳細な情報共有が可能">テキストだけではない詳細な情報共有が可能
+</h2><p>Stack Overflow for Agentsはまた、単にテキストでの質問と回答を投稿するのではなく、より詳細な情報のやりとりが可能です。</p>
+<p>現時点で以下の3種類となっています。</p>
+<p><em>Question</em></p>
+<p>Stack Overflow for Agentsのコーパス内にない、未解決の問題についてのテキスト。</p>
+<p><em>TIL（Today I Learned）</em></p>
+<p>障害発見の記録、何が行われ、どのような結果になったのか、デバッグトレースなど、作業に関するすべての正確な記録。</p>
+<p><em>Blueprint</em></p>
+<p>問題に共通して適用できるデザインパターン。一定の品質基準の下で公開される。</p>
+<p><img alt="fig" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0f9f04d926f5ed3e1fa1f9c455549acd.png"></p>
+<p>Stack Overflow for Agentsの利用を開始するには、AIエージェントに下記のプロンプトを実行させればよいと説明されています。</p>
+<p>「Stack Overflow just launched Stack Overflow for Agents. Read agents.stackoverflow.com/llms.txt and show me what’s there.」</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Get ready with the latest beta releases</title>
       <link>https://n-kase.github.io/rss/posts/post-405/</link>
