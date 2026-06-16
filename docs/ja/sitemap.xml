@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://n-kase.github.io/rss/posts/post-793/</loc>
-    <lastmod>2026-06-16T13:29:06+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/dell/</loc>
-    <lastmod>2026-06-16T13:29:06+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/</loc>
-    <lastmod>2026-06-16T13:29:06+09:00</lastmod>
+    <lastmod>2026-06-16T13:30:31+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -22,16 +16,16 @@
                 />
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/</loc>
-    <lastmod>2026-06-16T13:29:06+09:00</lastmod>
+    <lastmod>2026-06-16T13:30:31+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/xps-13/</loc>
-    <lastmod>2026-06-16T13:29:06+09:00</lastmod>
+    <loc>https://n-kase.github.io/rss/tags/%E3%81%82%E3%81%AE%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B/</loc>
+    <lastmod>2026-06-16T13:30:31+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/</loc>
-    <lastmod>2026-06-16T13:29:06+09:00</lastmod>
+    <loc>https://n-kase.github.io/rss/posts/post-796/</loc>
+    <lastmod>2026-06-16T13:30:31+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/categories/</loc>
-    <lastmod>2026-06-16T13:29:06+09:00</lastmod>
+    <lastmod>2026-06-16T13:30:31+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -44,7 +38,7 @@
                 />
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/</loc>
-    <lastmod>2026-06-16T13:29:06+09:00</lastmod>
+    <lastmod>2026-06-16T13:30:31+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -55,6 +49,66 @@
                 hreflang="en"
                 href="https://n-kase.github.io/rss/en/tags/"
                 />
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%83%86%E3%83%AC%E3%83%93%E6%9C%9D%E6%97%A5/</loc>
+    <lastmod>2026-06-16T13:30:31+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%83%8D%E3%83%83%E3%83%88%E7%82%8E%E4%B8%8A/</loc>
+    <lastmod>2026-06-16T13:30:31+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/categories/%E3%83%8D%E3%83%83%E3%83%88%E7%82%8E%E4%B8%8A%E7%A4%BE%E4%BC%9A%E5%95%8F%E9%A1%8C/</loc>
+    <lastmod>2026-06-16T13:30:31+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E7%95%AA%E7%B5%84%E7%B5%82%E4%BA%86/</loc>
+    <lastmod>2026-06-16T13:30:31+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E9%88%B4%E6%9C%A8%E7%B4%97%E7%90%86%E5%A5%88/</loc>
+    <lastmod>2026-06-16T13:30:31+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-795/</loc>
+    <lastmod>2026-06-16T13:30:12+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/dazn/</loc>
+    <lastmod>2026-06-16T13:30:12+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/sns%E7%82%8E%E4%B8%8A/</loc>
+    <lastmod>2026-06-16T13:30:12+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%83%BC%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</loc>
+    <lastmod>2026-06-16T13:30:12+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E4%BE%A1%E6%A0%BC%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB/</loc>
+    <lastmod>2026-06-16T13:30:12+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E6%B6%88%E8%B2%BB%E8%80%85%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB/</loc>
+    <lastmod>2026-06-16T13:30:12+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-794/</loc>
+    <lastmod>2026-06-16T13:29:49+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E5%89%8A%E9%99%A4/</loc>
+    <lastmod>2026-06-16T13:29:49+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E8%A8%B4%E8%A8%9F/</loc>
+    <lastmod>2026-06-16T13:29:49+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E6%B3%95%E5%BE%8B%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB/</loc>
+    <lastmod>2026-06-16T13:29:49+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E6%9A%B4%E9%9C%B2%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2026-06-16T13:29:49+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-793/</loc>
+    <lastmod>2026-06-16T13:29:06+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/dell/</loc>
+    <lastmod>2026-06-16T13:29:06+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/xps-13/</loc>
+    <lastmod>2026-06-16T13:29:06+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%83%8E%E3%83%BC%E3%83%88%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3/</loc>
+    <lastmod>2026-06-16T13:29:06+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</loc>
     <lastmod>2026-06-16T13:29:06+09:00</lastmod>
@@ -384,9 +438,6 @@
     <lastmod>2026-06-16T13:21:20+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E8%AD%B0%E8%AB%96/</loc>
-    <lastmod>2026-06-16T13:21:20+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/categories/%E3%83%8D%E3%83%83%E3%83%88%E7%82%8E%E4%B8%8A%E7%A4%BE%E4%BC%9A%E5%95%8F%E9%A1%8C/</loc>
     <lastmod>2026-06-16T13:21:20+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</loc>
@@ -890,9 +941,6 @@
     <loc>https://n-kase.github.io/rss/tags/%E4%BF%A1%E9%A0%BC/</loc>
     <lastmod>2026-06-16T13:05:29+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/dazn/</loc>
-    <lastmod>2026-06-16T13:05:16+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-738/</loc>
     <lastmod>2026-06-16T13:05:16+09:00</lastmod>
   </url><url>
@@ -960,9 +1008,6 @@
     <lastmod>2026-06-16T13:03:06+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-734/</loc>
-    <lastmod>2026-06-16T13:03:06+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/%E3%83%8D%E3%83%83%E3%83%88%E7%82%8E%E4%B8%8A/</loc>
     <lastmod>2026-06-16T13:03:06+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E6%97%A5%E4%B8%AD%E9%96%A2%E4%BF%82/</loc>
@@ -2315,13 +2360,7 @@
     <loc>https://n-kase.github.io/rss/tags/1%E5%B9%B4%E5%A5%91%E7%B4%84/</loc>
     <lastmod>2026-06-16T12:24:20+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/sns%E7%82%8E%E4%B8%8A/</loc>
-    <lastmod>2026-06-16T12:24:20+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E6%9C%88%E9%A1%8D980%E5%86%86/</loc>
-    <lastmod>2026-06-16T12:24:20+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/%E6%B6%88%E8%B2%BB%E8%80%85%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB/</loc>
     <lastmod>2026-06-16T12:24:20+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/</loc>
@@ -7238,9 +7277,6 @@
     <loc>https://n-kase.github.io/rss/tags/%E4%BB%A3%E8%A1%A8%E9%9B%A2%E8%84%B1/</loc>
     <lastmod>2026-06-16T09:31:24+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E5%89%8A%E9%99%A4/</loc>
-    <lastmod>2026-06-16T09:31:06+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E3%81%84%E3%81%98%E3%82%81%E6%92%B2%E6%BB%85/</loc>
     <lastmod>2026-06-16T09:31:06+09:00</lastmod>
   </url><url>
@@ -9156,9 +9192,6 @@
     <lastmod>2026-06-16T08:21:35+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/outsider-enterprise/</loc>
-    <lastmod>2026-06-16T08:21:35+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/%E8%A8%B4%E8%A8%9F/</loc>
     <lastmod>2026-06-16T08:21:35+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-55/</loc>
