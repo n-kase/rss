@@ -1,0 +1,55 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>時間測定 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E6%99%82%E9%96%93%E6%B8%AC%E5%AE%9A/</link>
+    <description>Recent content in 時間測定 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:39:28 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E6%99%82%E9%96%93%E6%B8%AC%E5%AE%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>時計を使わずに時間を測定するための「ミニ宇宙」を創造する実験に成功</title>
+      <link>https://n-kase.github.io/rss/posts/post-535/</link>
+      <pubDate>Tue, 16 Jun 2026 11:39:28 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-535/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>イギリスのバーミンガム大学の研究チームは、ルビジウム87原子を約2万4000個極低温まで冷やし、ボース・アインシュタイン凝縮体という特殊な状態を作りました。この原子の集まりは外部からほぼ孤立しており、研究者たちはそれを小さな「ミニ宇宙」として扱いました。ミニ宇宙は光の薄い壁で二つの領域に分けられ、観測される側を「明るい領域」、観測されない側を「暗い領域」とし、原子がその間を行き来できるようにしました。明るい領域では原子雲が広がったり縮んだりし、研究チームはその広がり始めをビッグバンに、縮んで戻る動きをビッグクランチに例えています。さらに、外部の時計を使わずに明るい領域内のエントロピー（原子の散らばり具合）の変化から時間の順番を定義し、エントロピーが変化すると時間が進み、変化が止まると時間も止まるという考え方を示しました。実験ではエントロピー時間を用いたシュレーディンガー方程式を導き、その結果が実際に観測された原子雲の広がりとよく一致したことを確認しました。また、光の壁を高くして原子の移動を抑えるとエントロピーの交換が減り、内部時間の流れが遅くなることも観測されました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>この研究は、時間が外部から与えられる固定されたものではなく、閉じた量子系内部の変化、特にエントロピーの変化から生じ得るという考え方を実験室レベルで支持するものです。時間の起源や流れを量子力学と宇宙論の観点から探る際の一つのアプローチとして、冷却原子を使った制御可能なミニ宇宙モデルが有用であることを示しています。今後、同様の手法をビッグバンやビッグクランチ、量子宇宙論における時間の問題を調べるための実験プラットフォームとして活用できる可能性があり、基礎物理学の理解を深める手がかりになると期待されます。</p>
+<p><a class="link" href="https://gigazine.net/news/20260616-mini-universe-measure-time/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="時計を使わずに時間を測定するためのミニ宇宙を創造する実験に成功">時計を使わずに時間を測定するための「ミニ宇宙」を創造する実験に成功
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/05ed5c2a98f26648a1a7c1a7782c4702.jpg"></p>
+<p>イギリスのバーミンガム大学の研究チームが冷却原子を使い、時計に頼らず時間の流れを測る実験を行いました。この研究は、時間が外から与えられるものではなく、閉じた量子系の内部変化から生まれる可能性を調べたものです。</p>
+<p><strong>Testing the problem of time with cold atoms | Phys. Rev. Research</strong></p>
+<p><a class="link" href="https://journals.aps.org/prresearch/abstract/10.1103/1h9j-df4k"  target="_blank" rel="noopener"
+    >https://journals.aps.org/prresearch/abstract/10.1103/1h9j-df4k</a></p>
+<p><strong>Scientist creates &lsquo;mini‑universe&rsquo; to measure time without a clock</strong></p>
+<p><a class="link" href="https://phys.org/news/2026-06-scientist-miniuniverse-clock.html"  target="_blank" rel="noopener"
+    >https://phys.org/news/2026-06-scientist-miniuniverse-clock.html</a></p>
+<p>実験では2万4000個の** ルビジウム87**原子を極低温まで冷やし、</p>
+<p><strong>という特殊な状態にしました。この原子の集まりは外部からほぼ孤立しており、研究では小さな「ミニ宇宙」として扱われました。</strong></p>
+<p><a class="link" href="https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%B9%EF%BC%9D%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E5%87%9D%E7%B8%AE"  target="_blank" rel="noopener"
+    >ボース・アインシュタイン凝縮体</a>バーミンガム大学のジョバンニ・バロンティーニ教授が率いる研究チームは、このミニ宇宙を光の薄い壁で2つの領域に分け、観測する側を「明るい領域」、観測しない側を「暗い領域」として、原子がその間を行き来できるようにしました。</p>
+<p>明るい領域では、原子の雲が広がったり縮んだりします。研究チームは広がり始める瞬間を「** ビッグバン**」、縮んで戻る瞬間を「</p>
+<p><strong>」に似た動きだと述べています。</strong></p>
+<p><a class="link" href="https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%82%B0%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%81"  target="_blank" rel="noopener"
+    >ビッグクランチ</a>以下は冷却原子で作ったミニ宇宙の時間変化を示した図。光の薄い障壁によって、観測される明るい領域と観測されない暗い領域が分けられ、原子雲が移動しながら膨張と収縮を繰り返します。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f3f34e2d8cc3ff4a47b67dbf29911280.png"></p>
+<p>さらに、研究チームは外部の時計を使わず、明るい領域の内部変化だけで出来事の順番を並べました。その手がかりとして使われたのが、原子の散らばり具合を表すエントロピーです。</p>
+<p>原子が明るい領域と暗い領域の間で移動するとエントロピーも変化します。研究チームはこの変化から「エントロピー時間」を定義し、エントロピーが動くと時間が進み、変化が止まると時間も止まるように扱いました。</p>
+<p>以下のグラフは外部の実験室時計(横軸)に対して、ミニ宇宙内部で定義したエントロピー時間(縦軸)がどのように進むかを示しています。エントロピーの交換が大きいほど内部時間は速く進み、交換が小さいほど遅くなっています。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bb20118bea0863db54c29eba104fe5ef.png"></p>
+<p>さらに研究では、通常は外部時間を使う** シュレーディンガー方程式**をエントロピー時間を使う形で導きました。その計算結果は、実験で観測された原子雲の広がりをよく再現したとのこと。</p>
+<p>実験の結果、エントロピー時間によって膨張と収縮を繰り返す明るい領域の変化を自然な順番で並べられることが示されました。光の壁を高くして原子の移動を抑えると、エントロピーの交換が減り、内部時間の流れも遅くなりました。</p>
+<p>研究チームは、今回の成果は時間の流れがエントロピーの変化から現れるという考えを実験室で確かめる手がかりになると述べています。また、冷却原子を使えばビッグバンやビッグクランチ、量子宇宙論に関わる時間の問題を、制御された環境で調べられる可能性があると論じました。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

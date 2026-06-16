@@ -1,0 +1,55 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lonvo-Z on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/lonvo-z/</link>
+    <description>Recent content in Lonvo-Z on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:39:48 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/lonvo-z/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>体内で遺伝子を書き換えるCRISPR治療が初の第3相試験を完了</title>
+      <link>https://n-kase.github.io/rss/posts/post-536/</link>
+      <pubDate>Tue, 16 Jun 2026 11:39:48 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-536/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>アムステルダム大学医療センターなどの研究チームは、2026年6月13日にトルコのイスタンブールで開催された欧州アレルギー臨床免疫学会(EAACI)の年次会議で、遺伝性血管性浮腫の患者を対象としたCRISPR治療の第3相試験結果を発表しました。この試験は、患者の体内で直接遺伝子編集を行う「in vivo」タイプのCRISPR療法として世界で初めて第3相まで到達したものです。試験では、遺伝性血管性浮腫に関わるKLKB1遺伝子を無効化する薬剤「lonvoguran ziclumeran(lonvo-z)」を1回の点滴で投与し、プラセボ群と比較して効果と安全性を評価しました。</p>
+<p>lonvo-zを受けた患者80人は、投与後5週目から28週目までの発作頻度がプラセボ群と比べて87％低下しました。また、発作時に使用する救急薬の必要性は89％減少し、中等度から重度の発作は91％減少しました。生活の質を示す指標もプラセボ群より大きく改善し、6か月間無発作で継続治療が不要だった患者はlonvo-z群で62％、プラセボ群で11％でした。副作用は軽い点滴関連反応・頭痛・疲労・背部痛などが報告されましたが、重大な健康上の問題は観察されませんでした。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>遺伝性血管性浮腫は、顔・気道・腹部・手足などに繰り返し腫れの発作が起こる希少な遺伝性疾患で、気道に発作が生じると命に関わることがあります。従来の治療は定期的な薬剤投与が必要で、患者の負担が大きかったものです。今回の試験結果は、1回の点滴で長期間の効果が得られることを示しており、第1・2相試験に参加した37人の4年追跡データでも効果と安全性が維持されていることが確認されました。研究チームは、これにより治療の継続負担や将来の発作への不安を軽減できる可能性があると指摘しています。</p>
+<p>lonvo-zは現在規制当局の承認を得ていませんが、今回得られたデータは薬としての販売可否を判断するための重要な根拠となります。さらに、体内で直接遺伝子編集を行うCRISPRアプローチが他の遺伝性疾患にも応用できる道を開くものとして、今後の遺伝子医療の発展に大きな期待が寄せられています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260616-crispr-hereditary-angioedema-trial/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="体内で遺伝子を書き換えるcrispr治療が初の第3相試験を完了">体内で遺伝子を書き換えるCRISPR治療が初の第3相試験を完了
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c8e09b721beed5524baa6426443e495c.jpg"></p>
+<p>アムステルダム大学医療センターなどの研究チームは2026年6月13日にトルコのイスタンブールで開催された欧州アレルギー臨床免疫学会(EAACI)の年次会議で、遺伝性血管性浮腫の患者を対象にしたCRISPR治療の試験結果を発表しました。</p>
+<p><strong>In Vivo CRISPR Gene Editing in Hereditary Angioedema | New England Journal of Medicine</strong></p>
+<p><a class="link" href="https://www.nejm.org/doi/full/10.1056/NEJMoa2600931"  target="_blank" rel="noopener"
+    >https://www.nejm.org/doi/full/10.1056/NEJMoa2600931</a></p>
+<p><strong>World first: First phase 3 trial of in vivo CRISPR therapy successfully completed CRISPR treatment comes one step closer to reality | EurekAlert!</strong></p>
+<p><a class="link" href="https://sciencesources.eurekalert.org/news-releases/1131680"  target="_blank" rel="noopener"
+    >https://sciencesources.eurekalert.org/news-releases/1131680</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/19b4876a2a737e058e125683f0a0a13f.png"></p>
+<p><strong>Intellia Therapeutics Reports Positive Phase 3 Results in Hereditary Angioedema, Marking a Global First for In Vivo Gene Editing</strong></p>
+<p><a class="link" href="https://ir.intelliatx.com/news-releases/news-release-details/intellia-therapeutics-reports-positive-phase-3-results"  target="_blank" rel="noopener"
+    >https://ir.intelliatx.com/news-releases/news-release-details/intellia-therapeutics-reports-positive-phase-3-results</a></p>
+<p>CRISPRはDNAの狙った場所に変化を加える遺伝子編集技術です。医療分野では遺伝性疾患の治療への応用が進められており、今回行われた第3相試験では、患者の体内で直接遺伝子編集を行うCRISPR治療が検証されました。研究チームによると、このようなCRISPR治療の第3相試験が完了したのは初めてとのことです。</p>
+<p>第3相試験は前段階の臨床試験で一定の安全性や効果の見込みが確認された開発中の治療について、より多くの患者を対象に効果や副作用を確認する段階です。標準治療や有効成分を含まないプラセボ(偽薬)と比較されることも多く、薬や治療法を承認するかどうかの判断に使う重要なデータを集めるという目的があります。</p>
+<p>今回の試験の対象となった「遺伝性血管性浮腫」は顔・気道・腹部・手足などに腫れの発作が繰り返し起こる希少な遺伝性疾患であり、発作は痛みや生活上の支障につながるだけでなく気道に起こると命に関わることもあります。この疾患に対して、1回の点滴で投与するCRISPR治療「lonvoguran ziclumeran(lonvo-z)」の試験が行われました。lonvo-zは** CRISPR-Cas9**を利用して遺伝性血管性浮腫に関わるKLKB1遺伝子を患者の体内で直接働かないようにする治療として設計されています。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2ed7badb302584e06ea0d6d96d00d6af.jpg"></p>
+<p>試験では遺伝性血管性浮腫の患者80人が、lonvo-zを受ける群とプラセボを受ける群にランダムに分けられ、それぞれ点滴による投与が行われました。そして、投与後5週目から28週目までに発作が起きる頻度を調べたところ、lonvo-zを受けた患者はプラセボを受けた患者と比べて発作が起きる頻度が87％低かったとのことです。</p>
+<p>このほか、発作時に使う薬の必要性は89％低下し、中等度から重度の発作は91％減少したほか、生活の質に関する指標もプラセボを受けた患者より大きく改善したとのことです。</p>
+<p>6カ月間の評価期間中に発作が起きず、発作を防ぐための継続治療も不要だった患者は、lonvo-zを受けた患者で62％、プラセボを受けた患者で11％でした。この点についてアムステルダム大学医療センターのダニー・コーン氏は、「試験参加者が腫れの兆候を感じた段階で早めに薬を使う傾向があったため、報告された腫れがすべて遺伝性血管性浮腫由来の発作だったかは確かではない」とした上で、「参加者が自分が有効成分を受けたと分かれば薬を控える自信が生まれ、完全に発作なしと判定される患者が増える可能性がある」と説明しています。</p>
+<p>また、lonvo-zの安全性についてはよく見られた副作用として軽い点滴関連反応・頭痛・疲労・背部痛が挙げられていますが、lonvo-zを受けた患者で治療後に重大な健康上の問題は報告されなかったとのことです。</p>
+<p>コーン氏によると、前段階の第1相・第2相試験に参加した37人を追跡したデータでは、投与から4年後もlonvo-zの効果と安全性が維持されていたとのこと。コーン氏は「1回の治療で重い慢性疾患を長期管理できれば、治療を続ける負担や将来の発作への不安を減らせる可能性がある」と述べています。</p>
+<p>記事作成時点でlonvo-zはまだ規制当局の承認を受けていませんが、今回の結果を「lonvo-zを薬として販売できるかどうかを規制当局が判断するために必要なデータ」だとコーン氏は説明しています。その上でコーン氏は今回の試験結果について、「体内で直接遺伝子編集を行うCRISPR治療を他の遺伝性疾患の患者に応用する道を開くものだ」とまとめています。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
