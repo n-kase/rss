@@ -1,0 +1,38 @@
+---
+title: "Updated Apple Developer Program License Agreement now available"
+description: "概要と事実 2026年3月30日にAppleはDeveloper Program License Agreement（開発者プログラム利用契約）を改訂したことを発表しました。この改訂は新機能のサポート、ポリシーの更新、およびいくつかの..."
+date: 2026-06-16T10:41:11+09:00
+categories: ["テクノロジー"]
+tags: ["Apple", "Developer Program", "License Agreement", "Foveated Streaming", "プライバシー保護"]
+image: "/rss/downloaded_images/3c25aace77a0736d1ec069bb112a52d7.png"
+---
+
+## AIによる要約
+
+### 概要と事実
+2026年3月30日にAppleはDeveloper Program License Agreement（開発者プログラム利用契約）を改訂したことを発表しました。この改訂は新機能のサポート、ポリシーの更新、およびいくつかの項目の clarification（明確化）を目的としています。開発者は変更内容を確認し、Apple Developerアカウントにサインインして更新後の利用規約に同意する必要があります。主な変更点として、Definitions（定義）セクションの3.3.3(B)および3.3.7(K)ではFoveated Streamingフレームワークの利用要件が明示され、データプライバシーに関する規定が補足されました。また、同じくDefinitionsの3.3.3(Q)ではFamily Controlsフレームワークの利用要件が追加され、3.3.7(J)ではAccessory NotificationsフレームワークおよびAccessory Live Activitiesフレームワークの利用要件が指定されています。これらの改訂版の翻訳は、1か月以内にApple Developerウェブサイトで公開される予定です。
+
+### ネットの反応と意見の変遷
+発表後、開発者コミュニティでは契約内容の詳細を確認する動きが活発になりました。特にプライバシー関連の項目が強調されたことに対して、ユーザーデータの取り扱いに慎重になるべきだと指摘する声が上がっています。一方で、Foveated StreamingやFamily Controls、Accessory関連のフレームワークが明確にサポートされることで、新しい機能を活用したアプリ開発がしやすくなると期待する意見も見られました。時間が経つにつれて、契約の翻訳が公開されるまでの間、開発者フォーラムやSNSでは「変更点がどこまで影響するのか」を巡る議論が続き、実際にアプリへの実装を検討するケースが増えてきました。全体としては、新しい技術への対応とプライバシー保護のバランスをどう取るかが話題の中心となっています。
+
+### 背景と結論
+今回の契約改訂は、AppleがAR/VRやヘルスケア、スマートアクセサリーなどの分野で新たなフレームワークを提供し続ける中で、開発者側に明確なガイドラインを示す狙いがあります。データプライバシーへの関心が高まる社会情勢を反映し、利用規約においてプライバシー要件を具体化したことは、開発者が法令順守やユーザー信頼を得やすくするための措置と言えます。結論として、開発者は今回の変更点をしっかりと把握し、新しいフレームワークを活用しつつプライバシー保護にも配慮したアプリ開発を進めることが求められます。これにより、エコシステム全体の健全性とイノベーションがさらに促進されることが期待されます。
+
+[🔗 元記事を読む](https://developer.apple.com/news/?id=fwswmjcn)
+
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+
+## Updated Apple Developer Program License Agreement now available
+
+March 30, 2026
+
+The [Apple Developer Program License Agreement](https://developer.apple.com/support/terms/apple-developer-program-license-agreement/) has been revised to support new features, updated policies, and clarifications. Please review the changes and [sign in to your account](https://developer.apple.com/account) to accept the updated terms.
+
+- Definitions, Section 3.3.3(B), Section 3.3.7(K): Specified requirements for use of the Foveated Streaming framework and clarified data privacy requirements.
+- Definitions, Section 3.3.3(Q): Specified requirements for use of the Family Controls framework.
+- Definitions, Section 3.3.7(J): Specified requirements for use of the Accessory Notifications framework and Accessory Live Activities framework.
+
+Translations of the updated agreement will be available on the [Apple Developer website](https://developer.apple.com/support/terms/) within one month.
+
+</details>

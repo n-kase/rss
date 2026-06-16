@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://n-kase.github.io/rss/tags/apple-ecosystem/</loc>
-    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+    <loc>https://n-kase.github.io/rss/posts/post-397/</loc>
+    <lastmod>2026-06-16T10:41:23+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/flight-tracking/</loc>
-    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+    <loc>https://n-kase.github.io/rss/tags/ios/</loc>
+    <lastmod>2026-06-16T10:41:23+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/liquid-glass/</loc>
-    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+    <loc>https://n-kase.github.io/rss/tags/ipados/</loc>
+    <lastmod>2026-06-16T10:41:23+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/macos/</loc>
+    <lastmod>2026-06-16T10:41:23+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/</loc>
-    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+    <lastmod>2026-06-16T10:41:23+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -24,20 +27,17 @@
                 href="https://n-kase.github.io/rss/en/"
                 />
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/plane-finder/</loc>
-    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/posts/</loc>
-    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+    <lastmod>2026-06-16T10:41:23+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/posts/post-394/</loc>
-    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+    <loc>https://n-kase.github.io/rss/tags/xcode/</loc>
+    <lastmod>2026-06-16T10:41:23+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/small-team/</loc>
-    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+    <loc>https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</loc>
+    <lastmod>2026-06-16T10:41:23+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/categories/</loc>
-    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+    <lastmod>2026-06-16T10:41:23+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -50,7 +50,7 @@
                 />
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/</loc>
-    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+    <lastmod>2026-06-16T10:41:23+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -63,6 +63,60 @@
                 />
   </url><url>
     <loc>https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</loc>
+    <lastmod>2026-06-16T10:41:23+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/apple/</loc>
+    <lastmod>2026-06-16T10:41:11+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/developer-program/</loc>
+    <lastmod>2026-06-16T10:41:11+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/foveated-streaming/</loc>
+    <lastmod>2026-06-16T10:41:11+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/license-agreement/</loc>
+    <lastmod>2026-06-16T10:41:11+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-396/</loc>
+    <lastmod>2026-06-16T10:41:11+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E4%BF%9D%E8%AD%B7/</loc>
+    <lastmod>2026-06-16T10:41:11+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/app-store/</loc>
+    <lastmod>2026-06-16T10:40:54+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-395/</loc>
+    <lastmod>2026-06-16T10:40:54+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%82%A4%E3%83%B3%E3%83%89%E5%B8%82%E5%A0%B4/</loc>
+    <lastmod>2026-06-16T10:40:54+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%A9%E3%82%A4%E3%82%BA/</loc>
+    <lastmod>2026-06-16T10:40:54+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85%E6%94%AF%E6%8F%B4/</loc>
+    <lastmod>2026-06-16T10:40:54+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E5%A4%9A%E8%A8%80%E8%AA%9E%E5%AF%BE%E5%BF%9C/</loc>
+    <lastmod>2026-06-16T10:40:54+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/apple-ecosystem/</loc>
+    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/flight-tracking/</loc>
+    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/liquid-glass/</loc>
+    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/plane-finder/</loc>
+    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-394/</loc>
+    <lastmod>2026-06-16T10:40:17+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/small-team/</loc>
     <lastmod>2026-06-16T10:40:17+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/apple-design-award/</loc>
@@ -85,9 +139,6 @@
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3rpg/</loc>
     <lastmod>2026-06-16T10:40:01+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/apple/</loc>
-    <lastmod>2026-06-16T10:39:43+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-392/</loc>
     <lastmod>2026-06-16T10:39:43+09:00</lastmod>
@@ -118,9 +169,6 @@
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA/</loc>
     <lastmod>2026-06-16T10:39:02+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/app-store/</loc>
-    <lastmod>2026-06-16T10:38:43+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/ios-26/</loc>
     <lastmod>2026-06-16T10:38:43+09:00</lastmod>
@@ -168,9 +216,6 @@
     <lastmod>2026-06-16T10:37:34+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-387/</loc>
-    <lastmod>2026-06-16T10:37:34+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/xcode/</loc>
     <lastmod>2026-06-16T10:37:34+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%BC%E3%82%BF%E7%89%88/</loc>
@@ -227,15 +272,6 @@
     <loc>https://n-kase.github.io/rss/posts/post-382/</loc>
     <lastmod>2026-06-16T10:35:54+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/ios/</loc>
-    <lastmod>2026-06-16T10:35:54+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/ipados/</loc>
-    <lastmod>2026-06-16T10:35:54+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/macos/</loc>
-    <lastmod>2026-06-16T10:35:54+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-381/</loc>
     <lastmod>2026-06-16T10:35:41+09:00</lastmod>
   </url><url>
@@ -275,9 +311,6 @@
     <loc>https://n-kase.github.io/rss/tags/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E5%B7%9E%E6%B3%95/</loc>
     <lastmod>2026-06-16T10:34:36+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E4%BF%9D%E8%AD%B7/</loc>
-    <lastmod>2026-06-16T10:34:36+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85%E5%AF%BE%E5%BF%9C/</loc>
     <lastmod>2026-06-16T10:34:36+09:00</lastmod>
   </url><url>
@@ -288,12 +321,6 @@
     <lastmod>2026-06-16T10:34:11+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/app-review-guidelines/</loc>
-    <lastmod>2026-06-16T10:34:11+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/developer-program/</loc>
-    <lastmod>2026-06-16T10:34:11+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/license-agreement/</loc>
     <lastmod>2026-06-16T10:34:11+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-377/</loc>
