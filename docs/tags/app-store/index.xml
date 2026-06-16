@@ -6,7 +6,106 @@
     <description>Recent content in App Store on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:15:37 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/app-store/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 11:16:35 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/app-store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhancements to the App Store featuring process</title>
+      <link>https://n-kase.github.io/rss/posts/post-483/</link>
+      <pubDate>Tue, 16 Jun 2026 11:16:35 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-483/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2024年11月12日に発表された内容では、App Storeのフィーチャー（特集）プロセスに新しい機能が追加されたことが説明されています。開発者はApp Store Connect内の「Featuring Nominations」と呼ばれる新しい仕組みを使って、アプリやゲームの新規リリース、アプリ内コンテンツの追加、機能の拡張などをAppleの担当チームに知らせることができます。 nominate（ノミネート）が受理され、Todayタブなどの特定の掲載場所に掲載されると、開発者はApp Store Connectアプリを通じて通知を受け取れるようになります。さらに、アプリの大きな瞬間―たとえばリリースや新バージョン、特集掲載など―を宣伝するために、Appleがデザインした完成済みのマーケティング素材を生成し、SNSなどで共有できる機能も提供されています。素材にはダウンロードリンクが付随しており、ユーザーはそれをクリックするだけでApp Storeからアプリやゲームを入手できます。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネット上の反応やコメントは含まれていませんので、ネットの反応については記載できません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleは開発者が自分のアプリやゲームをより多くのユーザーに届けやすくするため、フィーチャーの申請プロセスを簡素化し、プロモーション支援ツールを強化しました。これにより、開発者は自分の作品の重要なアップデートや新機能を効果的にアピールし、App Store内での露出機会を増やすことが可能になります。結果として、ユーザー側も新しい魅力的なコンテンツに気付きやすくなり、エコシステム全体の活性化が期待されます。この取り組みは、プラットフォーム側が開発者支援をさらに進める姿勢を示すものであり、今後も同様の機能拡充が続くことが予想されます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=nx3eotat"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="enhancements-to-the-app-store-featuring-process">Enhancements to the App Store featuring process
+</h2><p>November 12, 2024</p>
+<p><img alt="A MacBook, iPad, and iPhone showing various App Store screens." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e89098b2211420358baab57cf6d18653.jpeg"></p>
+<p>Share your app or game’s upcoming content and enhancements for App Store featuring consideration with new Featuring Nominations in App Store Connect. Submit a nomination to tell our team about a new launch, in-app content, or added functionality. If you’re featured in select placements on the Today tab, you’ll also receive a notification via the App Store Connect app.</p>
+<p>In addition, you can promote your app or game’s biggest moments — such as an app launch, new version, or select featuring placements on the App Store — with readymade marketing assets. Use the App Store Connect app to generate Apple-designed assets and share them to your social media channels. Include the provided link alongside your assets so people can easily download your app or game on the App Store.</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Price and tax updates for apps, In-App Purchases, and subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-482/</link>
+      <pubDate>Tue, 16 Jun 2026 11:16:22 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-482/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>この記事は、AppleのApp Storeにおいて2024年11月と12月に行われる価格および税金の更新について説明しています。まず、税金の面では、ネパールとカザフスタンではAppleが現地の開発者に対する付加価値税（VAT）の納付をやめ、その結果開発者の受け取り金額が増加しました。また、ポルトガルのマデイラではニュース出版物や雑誌、書籍、オーディオブックなどに適用されるVAT税率が5％から4％に引き下げられました。これらの変更は、Paid Applications AgreementのExhibit Bに反映されています。続いて、価格の更新については、2024年12月2日から日本とトルコのストアフロントで価格が見直されます。開発者がこれらの地域をベース価格として選んでいない場合、自動的に他のストアフロントと価格が均等になるように調整されます。ただし、ベースとして日本またはトルコを選んでいる場合は価格に変更はなく、自動更新サブスクリプションや手動で価格を管理している項目にも変更は適用されません。これらの情報はApp Store Connectの「価格と提供状況」セクションに反映され、開発者はいつでも価格を編集できます。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネット上の反応やコメントは含まれていませんので、推測による記述は行いません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleは世界中の複数の通貨と税制に対応するため、為替レートや税法の変更に応じて価格や開発者への収入を定期的に見直しています。今回の更新は、特定の国や地域での税制改正や通貨変動に対応し、開発者が公平な収益を得られるようにする狙いがあります。これにより、開発者は税負担の変化を把握しやすくなり、価格設定の柔軟性が保たれます。全体として、グローバル市場での一貫した価格体制を維持しつつ、地域ごとの税務環境に適応するAppleの姿勢が示されています。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=onjo01rj"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="Price and tax updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a0c5138e2ba690e7f0014b3be0264826.png"></p>
+<h2 id="price-and-tax-updates-for-apps-in-app-purchases-and-subscriptions">Price and tax updates for apps, In-App Purchases, and subscriptions
+</h2><p>November 14, 2024</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.</p>
+<p>From time to time, we may need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>Tax updates as of October:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been increased in:</p>
+<ul>
+<li>**Nepal:**Apple no longer remits Nepal value-added tax (VAT) for local developers and proceeds were increased accordingly.</li>
+<li>**Kazakhstan:**Apple no longer remits Kazakstan VAT for local developers and proceeds were increased accordingly.</li>
+<li>**Madeira:**Decrease of the Madeira VAT rate from 5% to 4% for news publications, magazines and other periodicals, books, and audiobooks.</li>
+</ul>
+<p>Exhibit B of the Paid Applications Agreement has been updated to indicate that Apple will not remit VAT in Nepal and Kazakhstan for local developers.</p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p><strong>Price updates as of December 2:</strong></p>
+<ul>
+<li>Pricing for apps and In-App Purchases will be updated for the Japan and Türkiye storefronts if you haven’t selected one of these as the base for your app or In‑App Purchases.</li>
+</ul>
+<p>If you’ve selected the Japan or Türkiye storefront as the base for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription and won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>App Store Award finalists announced</title>
+      <link>https://n-kase.github.io/rss/posts/post-481/</link>
+      <pubDate>Tue, 16 Jun 2026 11:16:08 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-481/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2024年11月25日に、AppleはApp Store Awardのファイナリストを発表しました。毎年開催されるこの賞は、人々の生活を向上させ、技術革新・ユーザー体験・デザイン・ポジティブな文化的影響において最高水準を示すアプリやゲームを称えるものです。今年は編集チームが40以上の優れたファイナリストを選出し、受賞者は今後数週間以内に発表される予定です。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネットユーザーのコメントや反応は含まれていません。したがって、オンライン上での議論の流れや意見の変遷については記載できません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>App Store Awardは、開発者にとって優れた作品を世に広める重要な機会であり、ユーザーに質の高いアプリやゲームを紹介する指標となっています。今回のファイナリスト発表は、技術の進歩と創造性がどのように日常生活に役立っているかを示すものであり、今後の受賞者発表を通じてさらに多くの人々に優れたデジタル体験が届くことが期待されます。これにより、開発者はさらなるイノベーションを促され、ユーザーはより良いサービスを享受できるでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=ek82tlh0"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="app-store-award-finalists-announced">App Store Award finalists announced
+</h2><p>November 25, 2024</p>
+<p><img alt="A white App Store logo set against a deep blue background" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b906fa9cfa3631f29f3e177e710dcced.jpeg"></p>
+<p>Every year, the App Store Awards celebrate exceptional apps and games that improve people&rsquo;s lives while showcasing the highest levels of technical innovation, user experience, design, and positive cultural impact. This year, the App Store Editorial team is proud to recognize over 40 outstanding finalists. Winners will be announced in the coming weeks.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Get your apps and games ready for the holidays</title>
       <link>https://n-kase.github.io/rss/posts/post-480/</link>
