@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="概要と事実 Microsoftは2026年6月15日に、大規模言語モデルへの質問一回あたりの消費電力を0.16～0.60Whと推定したと発表しました。これは従来の見積もりの約20分の1から4分の1に相当し、40ワットのパソコンを約15...">
+<title>Microsoftが「AIへの質問1回の消費電力量は電子レンジを数秒動かす程度」と主張、従来推定の最大20分の1</title>
+
+
+<link rel="canonical" href="https://n-kase.github.io/rss/posts/post-836/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/rss/scss/style.min.e62e09c60ba428a627e03568fa3df938f6a8224f815b5846f00816c17d4a0be4.css"><meta property='og:title' content="Microsoftが「AIへの質問1回の消費電力量は電子レンジを数秒動かす程度」と主張、従来推定の最大20分の1">
+<meta property='og:description' content="概要と事実 Microsoftは2026年6月15日に、大規模言語モデルへの質問一回あたりの消費電力を0.16～0.60Whと推定したと発表しました。これは従来の見積もりの約20分の1から4分の1に相当し、40ワットのパソコンを約15...">
+<meta property='og:url' content='https://n-kase.github.io/rss/posts/post-836/'>
+<meta property='og:site_name' content='ms02 AI Assistant Blog Posts Project'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='AI' /><meta property='article:tag' content='エネルギー効率' /><meta property='article:tag' content='マイクロソフト' /><meta property='article:tag' content='データセンター' /><meta property='article:tag' content='推論' /><meta property='article:published_time' content='2026-06-16T14:35:14&#43;09:00'/><meta property='article:modified_time' content='2026-06-16T14:35:14&#43;09:00'/><meta property='og:image' content='https://n-kase.github.io/rss/downloaded_images/8e333a9766192a22eaff286bc7401576.jpg' />
+<meta name="twitter:title" content="Microsoftが「AIへの質問1回の消費電力量は電子レンジを数秒動かす程度」と主張、従来推定の最大20分の1">
+<meta name="twitter:description" content="概要と事実 Microsoftは2026年6月15日に、大規模言語モデルへの質問一回あたりの消費電力を0.16～0.60Whと推定したと発表しました。これは従来の見積もりの約20分の1から4分の1に相当し、40ワットのパソコンを約15..."><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://n-kase.github.io/rss/downloaded_images/8e333a9766192a22eaff286bc7401576.jpg' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="メニューを開く・閉じる">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/rss/">ms02 AI Assistant Blog Posts Project</a></h1>
+            <h2 class="site-description">MS-02 Ultra Home Lab</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/rss/search/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>検索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/tags/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+                
+                <span>タグ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/categories/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                
+                <span>カテゴリ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>アーカイブ</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    <li id="i18n-switch">  
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                        <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                            
+                                
+                                
+                                    
+                                        
+                                    
+                                
+                                <option value="/rss/posts/post-836/" selected>日本語</option>
+                            
+                                
+                                
+                                    
+                                
+                                <option value="/rss/en/" >English</option>
+                            
+                        </select>
+                    </li>
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>ダークモード</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/rss/posts/post-836/">
+            <img alt="Featured image of post Microsoftが「AIへの質問1回の消費電力量は電子レンジを数秒動かす程度」と主張、従来推定の最大20分の1" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/8e333a9766192a22eaff286bc7401576.jpg">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/" style="background-color: hsl(221, 60%, 84%); color: hsl(221, 60%, 15%);">
+                テクノロジー
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/rss/posts/post-836/">Microsoftが「AIへの質問1回の消費電力量は電子レンジを数秒動かす程度」と主張、従来推定の最大20分の1</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            概要と事実 Microsoftは2026年6月15日に、大規模言語モデルへの質問一回あたりの消費電力を0.16～0.60Whと推定したと発表しました。これは従来の見積もりの約20分の1から4分の1に相当し、40ワットのパソコンを約15...
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2026-06-16T14:35:14&#43;09:00'>2026年6月16日火曜日</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        読了時間: 1分
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+
+    
+
+    <section class="article-content">
+    
+    
+    <h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Microsoftは2026年6月15日に、大規模言語モデルへの質問一回あたりの消費電力を0.16～0.60Whと推定したと発表しました。これは従来の見積もりの約20分の1から4分の1に相当し、40ワットのパソコンを約15～60秒動かすエネルギー量に匹敵します。同社は、GPUの使用率やバッチ処理、データセンターの冷却効率などを総合的に考慮した新しい手法で算出し、過去の推定が実際よりも4～20倍大きかった可能性があると指摘しています。また、回答が長くなると消費電力も増え、中央値が約300トークンの質問では0.31Wh、5000トークンになると3.91Whになることを示しています。さらに、1日10億件の一般的な質問を処理する場合の電力需要は約0.7GWhで、効率化を進めると0.3GWhまで削減できると見込んでいます。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>AIサービスの利用が拡大する中で、データセンターの電力や冷却水の使用量を正確に把握することは、インフラ計画や環境負荷評価において重要です。Microsoftは、モデルのサイズや半導体の性能、処理のバッチサイズ、冷却システムの効率などが電力消費に影響することを強調し、今後は小型モデルへの割り当てや次世代GPU、独自AIチップの活用により、エネルギー効率を8～20倍向上させられると見ています。これにより、AIの利用増加に伴う電力や水の消費が同割合で増えないようにしたいとしています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260616-microsoft-ai-energy-efficiency/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="microsoftがaiへの質問1回の消費電力量は電子レンジを数秒動かす程度と主張従来推定の最大20分の1">Microsoftが「AIへの質問1回の消費電力量は電子レンジを数秒動かす程度」と主張、従来推定の最大20分の1
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ab6a91455369b646078fc5b9b0ba4e88.jpg"></p>
+<p>Microsoftは2026年6月15日、大規模言語モデルに質問を1回送った際の消費電力量の推定範囲はおよそ0.16～0.60Whで、40WのPCを約15～60秒動かす電力量に相当するという分析結果を発表しました。従来推定の約20分の1～4分の1に収まるとのことです。</p>
+<p><strong>Scaling AI with 8 to 20x energy efficiency | The Microsoft Cloud Blog
+<a class="link" href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/15/scaling-ai-with-8-to-20x-energy-efficiency/"  target="_blank" rel="noopener"
+    >https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/15/scaling-ai-with-8-to-20x-energy-efficiency/</a></strong></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/59e588f5509c7566396bf6749716027d.png"></p>
+<p>Microsoft Copilotにメールの要点を尋ね、会議資料を要約させ、プログラムの修正案を作らせるたびに、データセンターでは大規模言語モデルによる計算が実行されます。AIサービスの利用者が増える中で、質問1回に必要な電力や冷却用水を正確に把握することが、データセンターの建設計画や電力網への影響を考える上で重要です。</p>
+<p>AIへの入力を読み取り、回答を少しずつ生成する処理は「推論」と呼ばれます。文章は「トークン」という細かな単位で処理され、質問や回答が長いほど計算量も増加します。</p>
+<p>そのため、AIの消費電力を考える際には処理するトークン数が重要な指標になります。ただし、同じ量の文章を扱う場合でも消費電力が一律に決まるわけではなく、利用する半導体の性能や同時に処理する質問数、データセンターの冷却効率によって必要な電力量は変化します。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d839d0a373bec1f409192a065a0417c8.jpg"></p>
+<p>同じAIモデルでも、GPUを少数の質問に使う実験環境と、多数の質問をまとめて処理する本番環境では1件当たりの消費電力が変わります。Microsoftによると、過去の推定には複数の質問をまとめて計算する「バッチ処理」や、大量の利用者がいる環境でGPUを効率よく稼働させる仕組みを十分に反映していない例があったとのこと。測定対象にGPUだけを含めるのか、CPUや冷却設備まで含めるのかという違いも推定値のばらつきを生んでいました。</p>
+<p>Microsoftの研究チームは2000億パラメーター超の大規模モデルを8基のNVIDIA H100を搭載したサーバーで動作させた場合について、半導体が1秒間に処理できるトークン数、サーバー1台の消費電力、施設全体の電力効率を示すPUEなどを組み合わせ、本番規模の運用を想定して消費電力を推定しました。</p>
+<p>回答が中央値で約300トークンとなる一般的な質問では、消費電力量の中央値は1件当たり0.31Whでした。推定範囲の中央50％は0.16～0.60Whで、1000Wの電子レンジを約0.6～2秒動かす電力量に相当します。冷却などに伴う水の消費量は質問1回当たり0～0.067mLと推定され、中央値は小さじ約100分の1以下でした。</p>
+<p>従来推定ではAIへの質問1回に数Whの電力が必要とされることが多く、<strong>(PDFファイル) ChatGPTの質問1回はGoogle検索の約10倍の電力を消費するとの見方</strong>も広く引用されてきました。しかしMicrosoftは、本番環境でのGPU利用率やバッチ処理を考慮すると、こうした推定は実際より4～20倍大きかった可能性があると主張しています。</p>
+<p>ただし、質問1回の負荷が常に小さいわけではありません。複数段階の推論や長いコードの生成などで回答が中央値5000トークンに達する場合、消費電力量の中央値は3.91Whとなり、一般的な質問の約13倍に増加しました。AIが長時間考えるような処理では、回答の長さが電力消費を大きく左右します。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f9ea52f69faf378d9f2d9939e54adff7.jpg"></p>
+<p>1日10億件の一般的な質問を処理する場合、基本条件で必要な電力は約0.7GWhと試算されており、さらに効率化を適用すると約0.3GWhまで減少する見込みです。全体の10％を長い推論が必要な質問に置き換えると約1.7GWhまで増えますが、効率化後は約0.8GWhに抑えられるとのこと。</p>
+<p>Microsoftはさらに、小型モデルへの振り分けや処理基盤の最適化、次世代GPUや独自AIチップの活用を組み合わせることで質問1回当たりのエネルギー効率を近い将来に8～20倍改善できると推定しています。MicrosoftはAIの利用拡大に伴って電力や水の消費が同じ割合で増えないよう、モデルや処理基盤、半導体の各段階で効率化を続けると述べています。</p>
+</details>
+
+</section>
+
+
+    <footer class="article-meta article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/rss/tags/ai/">AI</a>
+        
+            <a href="/rss/tags/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%8A%B9%E7%8E%87/">エネルギー効率</a>
+        
+            <a href="/rss/tags/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88/">マイクロソフト</a>
+        
+            <a href="/rss/tags/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC/">データセンター</a>
+        
+            <a href="/rss/tags/%E6%8E%A8%E8%AB%96/">推論</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside>
+    <h2 class="section-title">関連するコンテンツ</h2>
+    <div class="subsection-list">
+        <div class="article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-813/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 子どものスマホ･家事分担･お金の使い方…どう教えればいい？\u3000アメリカの家庭で実践｢自立させる思春期教育｣の中身 | ライフ | 東洋経済オンライン" loading="lazy" src="/rss/downloaded_images/71938b96dcaab7d7781ec7b3be5a0164.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">子どものスマホ･家事分担･お金の使い方…どう教えればいい？　アメリカの家庭で実践｢自立させる思春期教育｣の中身 | ライフ | 東洋経済オンライン</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-798/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 明治や森永など6社、アイス価格でカルテルか\u3000公取委が立ち入り検査 - 日本経済新聞" loading="lazy" src="/rss/downloaded_images/ff2aa5c4a03e7a7dd9b7c3ff1090bbda.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">明治や森永など6社、アイス価格でカルテルか　公取委が立ち入り検査 - 日本経済新聞</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="">
+    <a href="/rss/posts/post-785/">
+        
+
+        <div class="article-details">
+            <h2 class="article-title">米 「19日に実務的な協議開始」 レバノンでは攻撃応酬も</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-771/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 辺野古学習でなぜ命が失われたのか\u3000長期化する運動、薄れた安全意識：朝日新聞" loading="lazy" src="/rss/downloaded_images/4e1f91aaab722238772128493057549c.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">辺野古学習でなぜ命が失われたのか　長期化する運動、薄れた安全意識：朝日新聞</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-766/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post ｢どうしても｣と7歳で仏門に入った尼僧が開山…足立区｢ベトナム人の駆け込み寺｣に､数百人が集った一日と住民の声 | ライフ | 東洋経済オンライン" loading="lazy" src="/rss/downloaded_images/ebae5d6706c936716de96cf7631fc7b6.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">｢どうしても｣と7歳で仏門に入った尼僧が開山…足立区｢ベトナム人の駆け込み寺｣に､数百人が集った一日と住民の声 | ライフ | 東洋経済オンライン</h2>
+        </div>
+    </a>
+</article>
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+
+        <div class="disqus-container">
+    
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 ms02 AI Assistant Blog Posts Project
+    </section>
+    
+    <section class="powerby">
+        <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> で構築されています。 <br />
+        テーマ <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.3">Stack</a></b> は <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> によって設計されています。
+    </section>
+</footer>
+
+
+    
+
+
+
+<script type="module">
+    import gallery from '\/rss\/ts\/gallery.js';
+
+    const articleContent = document.querySelector('.article-content');
+    const shouldLoad = articleContent && (articleContent.querySelectorAll('figure').length > 0 || articleContent.querySelectorAll('img.gallery-image').length > 0);
+    
+    if (shouldLoad) {
+        gallery(articleContent);
+
+        const PhotoSwipeLightbox = (await import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js")).default;
+        const styleHref = "https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.css";
+
+        const styleTag = document.createElement('link');
+        styleTag.rel = 'stylesheet';
+        styleTag.href = styleHref;
+        document.head.appendChild(styleTag);
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallerySelector: '.article-content',
+            childSelector: 'figure a.image-link',
+            pswpModule: () => import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.esm.min.js")
+        });
+        lightbox.init();
+    }
+</script>
+
+    
+
+            </main>
+        </div>
+        
+<script type="text/javascript" src="/rss/ts/main.8f587a582cd4e51d03a4840028b19d7deac2cee707cfe21ffe942b6666363a7f.js" defer></script>
+
+
+    </body>
+</html>

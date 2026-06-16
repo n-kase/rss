@@ -6,7 +6,45 @@
     <description>Recent content in AI on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 13:38:07 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 14:35:14 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoftが「AIへの質問1回の消費電力量は電子レンジを数秒動かす程度」と主張、従来推定の最大20分の1</title>
+      <link>https://n-kase.github.io/rss/posts/post-836/</link>
+      <pubDate>Tue, 16 Jun 2026 14:35:14 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-836/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Microsoftは2026年6月15日に、大規模言語モデルへの質問一回あたりの消費電力を0.16～0.60Whと推定したと発表しました。これは従来の見積もりの約20分の1から4分の1に相当し、40ワットのパソコンを約15～60秒動かすエネルギー量に匹敵します。同社は、GPUの使用率やバッチ処理、データセンターの冷却効率などを総合的に考慮した新しい手法で算出し、過去の推定が実際よりも4～20倍大きかった可能性があると指摘しています。また、回答が長くなると消費電力も増え、中央値が約300トークンの質問では0.31Wh、5000トークンになると3.91Whになることを示しています。さらに、1日10億件の一般的な質問を処理する場合の電力需要は約0.7GWhで、効率化を進めると0.3GWhまで削減できると見込んでいます。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>AIサービスの利用が拡大する中で、データセンターの電力や冷却水の使用量を正確に把握することは、インフラ計画や環境負荷評価において重要です。Microsoftは、モデルのサイズや半導体の性能、処理のバッチサイズ、冷却システムの効率などが電力消費に影響することを強調し、今後は小型モデルへの割り当てや次世代GPU、独自AIチップの活用により、エネルギー効率を8～20倍向上させられると見ています。これにより、AIの利用増加に伴う電力や水の消費が同割合で増えないようにしたいとしています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260616-microsoft-ai-energy-efficiency/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="microsoftがaiへの質問1回の消費電力量は電子レンジを数秒動かす程度と主張従来推定の最大20分の1">Microsoftが「AIへの質問1回の消費電力量は電子レンジを数秒動かす程度」と主張、従来推定の最大20分の1
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ab6a91455369b646078fc5b9b0ba4e88.jpg"></p>
+<p>Microsoftは2026年6月15日、大規模言語モデルに質問を1回送った際の消費電力量の推定範囲はおよそ0.16～0.60Whで、40WのPCを約15～60秒動かす電力量に相当するという分析結果を発表しました。従来推定の約20分の1～4分の1に収まるとのことです。</p>
+<p><strong>Scaling AI with 8 to 20x energy efficiency | The Microsoft Cloud Blog
+<a class="link" href="https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/15/scaling-ai-with-8-to-20x-energy-efficiency/"  target="_blank" rel="noopener"
+    >https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/15/scaling-ai-with-8-to-20x-energy-efficiency/</a></strong></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/59e588f5509c7566396bf6749716027d.png"></p>
+<p>Microsoft Copilotにメールの要点を尋ね、会議資料を要約させ、プログラムの修正案を作らせるたびに、データセンターでは大規模言語モデルによる計算が実行されます。AIサービスの利用者が増える中で、質問1回に必要な電力や冷却用水を正確に把握することが、データセンターの建設計画や電力網への影響を考える上で重要です。</p>
+<p>AIへの入力を読み取り、回答を少しずつ生成する処理は「推論」と呼ばれます。文章は「トークン」という細かな単位で処理され、質問や回答が長いほど計算量も増加します。</p>
+<p>そのため、AIの消費電力を考える際には処理するトークン数が重要な指標になります。ただし、同じ量の文章を扱う場合でも消費電力が一律に決まるわけではなく、利用する半導体の性能や同時に処理する質問数、データセンターの冷却効率によって必要な電力量は変化します。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d839d0a373bec1f409192a065a0417c8.jpg"></p>
+<p>同じAIモデルでも、GPUを少数の質問に使う実験環境と、多数の質問をまとめて処理する本番環境では1件当たりの消費電力が変わります。Microsoftによると、過去の推定には複数の質問をまとめて計算する「バッチ処理」や、大量の利用者がいる環境でGPUを効率よく稼働させる仕組みを十分に反映していない例があったとのこと。測定対象にGPUだけを含めるのか、CPUや冷却設備まで含めるのかという違いも推定値のばらつきを生んでいました。</p>
+<p>Microsoftの研究チームは2000億パラメーター超の大規模モデルを8基のNVIDIA H100を搭載したサーバーで動作させた場合について、半導体が1秒間に処理できるトークン数、サーバー1台の消費電力、施設全体の電力効率を示すPUEなどを組み合わせ、本番規模の運用を想定して消費電力を推定しました。</p>
+<p>回答が中央値で約300トークンとなる一般的な質問では、消費電力量の中央値は1件当たり0.31Whでした。推定範囲の中央50％は0.16～0.60Whで、1000Wの電子レンジを約0.6～2秒動かす電力量に相当します。冷却などに伴う水の消費量は質問1回当たり0～0.067mLと推定され、中央値は小さじ約100分の1以下でした。</p>
+<p>従来推定ではAIへの質問1回に数Whの電力が必要とされることが多く、<strong>(PDFファイル) ChatGPTの質問1回はGoogle検索の約10倍の電力を消費するとの見方</strong>も広く引用されてきました。しかしMicrosoftは、本番環境でのGPU利用率やバッチ処理を考慮すると、こうした推定は実際より4～20倍大きかった可能性があると主張しています。</p>
+<p>ただし、質問1回の負荷が常に小さいわけではありません。複数段階の推論や長いコードの生成などで回答が中央値5000トークンに達する場合、消費電力量の中央値は3.91Whとなり、一般的な質問の約13倍に増加しました。AIが長時間考えるような処理では、回答の長さが電力消費を大きく左右します。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f9ea52f69faf378d9f2d9939e54adff7.jpg"></p>
+<p>1日10億件の一般的な質問を処理する場合、基本条件で必要な電力は約0.7GWhと試算されており、さらに効率化を適用すると約0.3GWhまで減少する見込みです。全体の10％を長い推論が必要な質問に置き換えると約1.7GWhまで増えますが、効率化後は約0.8GWhに抑えられるとのこと。</p>
+<p>Microsoftはさらに、小型モデルへの振り分けや処理基盤の最適化、次世代GPUや独自AIチップの活用を組み合わせることで質問1回当たりのエネルギー効率を近い将来に8～20倍改善できると推定しています。MicrosoftはAIの利用拡大に伴って電力や水の消費が同じ割合で増えないよう、モデルや処理基盤、半導体の各段階で効率化を続けると述べています。</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>子どものスマホ･家事分担･お金の使い方…どう教えればいい？　アメリカの家庭で実践｢自立させる思春期教育｣の中身 | ライフ | 東洋経済オンライン</title>
       <link>https://n-kase.github.io/rss/posts/post-813/</link>
