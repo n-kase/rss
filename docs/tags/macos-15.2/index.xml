@@ -1,0 +1,47 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MacOS 15.2 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/macos-15.2/</link>
+    <description>Recent content in MacOS 15.2 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:18:53 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/macos-15.2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get ready with the latest beta releases</title>
+      <link>https://n-kase.github.io/rss/posts/post-489/</link>
+      <pubDate>Tue, 16 Jun 2026 11:18:53 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-489/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは2024年10月23日に、iOS 18.2とiPadOS 18.2、そしてmacOS 15.2のベータ版をリリースしました。これに合わせてXcode 16.2のベータ版も提供され、最新のSDKを活用したアプリのビルドとテストが可能になります。ベータ版では、EUユーザー向けにブラウザ選択画面やデフォルトアプリの設定、アプリの削除方法が変更され、Safariからユーザーデータをエクスポートし、他のウェブブラウザがそれをインポートできる機能が追加されています。また、設定の「App」エリアに新たに「デフォルトApp」セクションが設けられ、世界中のすべてのユーザーがデフォルトの通話やメッセージングアプリを選べるようになりました。開発者はEU特有の機能（代替ブラウザエンジン、非接触アプリ、ウェブブラウザからのマーケットプレイスインストールなど）を世界中どこからでも開発・テストでき、代替ブラウザエンジンを使うアプリでもWebKitを利用できるようになっています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネットの反応は含まれていません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回のアップデートは、欧州連合の規制に対応しつつ、世界中の開発者に柔軟なテスト環境を提供する狙いがあります。デフォルトアプリの選択肢が増えることでユーザーの利便性が向上し、Safariと他ブラウザ間のデータ移行が容易になることで、プライバシーとデータポータビリティが強化されます。開発者は場所を問わずEU向けの機能を検証できるため、アプリの品質向上と市場適応が期待されます。全体として、Appleはプラットフォームの開放性と規制遵守のバランスを取ろうとしており、これが今後のエコシステムに影響を与えるでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=qs5bol0g"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="Get ready with the latest beta releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ff0383ce819efb1bca34abf5bb35cc42.png"></p>
+<h2 id="get-ready-with-the-latest-beta-releases">Get ready with the latest beta releases
+</h2><p>October 23, 2024</p>
+<p>The beta versions of iOS 18.2, iPadOS 18.2, and macOS 15.2 are now available. Get your apps ready by confirming they work as expected on these <a class="link" href="https://developer.apple.com/news/releases/"  target="_blank" rel="noopener"
+    >releases</a>. And make sure to build and test with Xcode 16.2 beta to take advantage of the advancements in the latest SDKs.</p>
+<p>As <a class="link" href="https://developer.apple.com/news/?id=zglax7gc"  target="_blank" rel="noopener"
+    >previewed earlier this year</a>, changes to the browser choice screen, default apps, and app deletion for EU users, as well as support in Safari for exporting user data and for web browsers to import that data, are now available in the beta versions of iOS 18.2 and iPadOS 18.2.</p>
+<p>These releases also include improvements to the Apps area in Settings first introduced in iOS 18 and iPadOS 18. All users worldwide will be able to manage their default apps via a Default Apps section at the top of the Apps area. New calling and messaging defaults are also now available for all users worldwide.</p>
+<p>Following feedback from the European Commission and from developers, in these releases developers can develop and test EU-specific features, such as alternative browser engines, contactless apps, marketplace installations from web browsers, and marketplace apps, from anywhere in the world. Developers of apps that use alternative browser engines can now use WebKit in those same apps.</p>
+<p>View details about the <a class="link" href="https://developer.apple.com/support/browser-choice-screen/"  target="_blank" rel="noopener"
+    >browser choice screen</a>, <a class="link" href="https://developer.apple.com/documentation/updates/defaultapps"  target="_blank" rel="noopener"
+    >how to make an app available for users to choose as a default</a>, how to create a <a class="link" href="https://developer.apple.com/documentation/callkit/preparing-your-app-to-be-the-default-calling-app"  target="_blank" rel="noopener"
+    >calling</a> or <a class="link" href="https://developer.apple.com/documentation/messages/preparing-your-app-to-be-the-default-messaging-app"  target="_blank" rel="noopener"
+    >messaging</a> app that can be a default, and <a class="link" href="https://developer.apple.com/documentation/SafariServices/importing-data-exported-from-safari"  target="_blank" rel="noopener"
+    >how to import user data from Safari</a>.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

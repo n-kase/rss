@@ -1,0 +1,45 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TestFlight on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/testflight/</link>
+    <description>Recent content in TestFlight on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:18:31 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/testflight/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TestFlight enhancements to help you reach testers</title>
+      <link>https://n-kase.github.io/rss/posts/post-488/</link>
+      <pubDate>Tue, 16 Jun 2026 11:18:31 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-488/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2024年10月24日にAppleが公開した開発者向けブログ記事では、TestFlightの新機能について説明しています。ベータテストの招待状が刷新され、アプリの説明やスクリーンショット、カテゴリ情報を含められるようになりました。また、招待リンクにデバイス種類やOSバージョンなどの参加条件を設定できるテスター登録基準が追加され、対象外のテスターが参加しにくくなる仕組みが導入されています。さらに、公開リンクの効果を測る新しい指標が提供され、招待を閲覧した人数や実際に受諾したテスター数、条件を満たさなかった人数を確認できるようになっています。これらの機能を利用するには、ビルドをアップロードし、テスト情報を追加した後、テスターを招待する手順を踏みます。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネット上の反応やコメントは含まれていませんので、ネットの反応については記載できません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>TestFlightの改善により、開発者は自分のアプリやゲームに適したテスターをより正確に選びやすくなり、フィードバックの質が向上すると期待されます。招待状にアプリの特徴を詳しく示せば、興味を持つユーザーが参加しやすくなり、参加を断った理由も把握できるため、今後の改善点を見つけやすくなります。参加条件を設定できることで、不適切なデバイスやOSバージョンでのテストを減らし、開発リソースの無駄を削減できるでしょう。公開リンクの指標により、プロモーションの効果を定量的に評価し、マーケティング戦略を調整する材料にもなります。全体として、これらのアップデートはベータテストの効率と信頼性を高め、開発者がより良い製品を市場に送り出す支援になると考えられます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=fps422ld"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="testflight-enhancements-to-help-you-reach-testers">TestFlight enhancements to help you reach testers
+</h2><p>October 24, 2024</p>
+<p><img alt="An iPad and iPhone, both showing the app AwayFinder against a white and blue background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/869513e51dfc197097dc2074895d4af5.jpeg"></p>
+<p>Beta testing your apps, games, and App Clips is even better with new enhancements to TestFlight. Updates include:</p>
+<ul>
+<li>**Redesigned invitations.**TestFlight invitations now include your beta app description to better highlight new features and content your app or game offers to prospective testers. Apps and games with an approved version that’s ready for distribution can also- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/provide-test-information"  target="_blank" rel="noopener"
+    >include</a>their screenshots and app category in their invite. We’ve also added a way for people to leave feedback if they didn’t join your beta, so you can understand why they didn’t participate.</li>
+<li>**Tester enrollment criteria.**You can choose to- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/invite-external-testers#invite-testers-using-a-public-link"  target="_blank" rel="noopener"
+    >set criteria</a>, such as device type and OS versions, to more easily enroll qualified testers via a public link to provide more relevant feedback on your invite.</li>
+<li>**Public link metrics.**Find out how successful your public link is at enrolling testers for your app with- <a class="link" href="https://developer.apple.com/help/app-store-connect/test-a-beta-version/view-and-manage-tester-information#view-public-link-metrics"  target="_blank" rel="noopener"
+    >new metrics</a>. Understand how many testers viewed your invite in the TestFlight app and chose to accept it. If you’ve set criteria for the public link, you can also view how many testers didn’t meet the criteria.</li>
+</ul>
+<p>To get started with TestFlight, upload your build, add test information, and invite testers.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

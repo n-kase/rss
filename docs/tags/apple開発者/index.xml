@@ -1,0 +1,44 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple開発者 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/apple%E9%96%8B%E7%99%BA%E8%80%85/</link>
+    <description>Recent content in Apple開発者 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:18:16 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/apple%E9%96%8B%E7%99%BA%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upcoming changes to the App Store Receipt Signing Intermediate Certificate</title>
+      <link>https://n-kase.github.io/rss/posts/post-487/</link>
+      <pubDate>Tue, 16 Jun 2026 11:18:16 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-487/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは、プラットフォームのセキュリティとプライバシーを向上させる取り組みの一環として、App Storeレシート署名の中間証明書をSHA‑256暗号アルゴリズムを使用するものに変更すると発表しました。この変更は2025年1月24日から適用され、その日からSHA‑256に対応していないアプリではレシートの検証に失敗する可能性があります。レシート検証に失敗すると、アプリ内のプレミアムコンテンツへのアクセスがブロックされるケースがあります。開発者は、対応する証明書をサポートするようにアプリをアップデートするか、StoreKitのAppTransactionおよびTransaction APIを使ってトランザクションを検証することを推奨されています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネット上の反応やコメントは含まれていませんので、ここでの議論の流れや意見の変遷についてはお伝えできません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回の証明書更新は、Appleが継続的に行っているセキュリティ強化の一部であり、古い暗号アルゴリズムへの依存を減らす狙いがあります。開発者にとっては、レシート検証の実装を見直し、最新のセキュリティ基準に合わせる良い機会となります。今後も同様のアルゴリズム変更が行われる可能性があるため、定期的に開発ガイドラインを確認し、必要に応じてアップデートを行う姿勢が求められます。これにより、ユーザーは安心してアプリを利用し続けることができ、開発者は信頼性の高いサービスを提供できるでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=b6tejt6f"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="Upcoming changes to the App Store Receipt Signing Intermediate Certificate" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1df3c9b947e5dcde1ae52cfde4a0945b.png"></p>
+<h2 id="upcoming-changes-to-the-app-store-receipt-signing-intermediate-certificate">Upcoming changes to the App Store Receipt Signing Intermediate Certificate
+</h2><p>October 31, 2024</p>
+<p>As part of ongoing efforts to improve security and privacy on Apple platforms, the App Store receipt signing intermediate certificate is being updated to use the SHA-256 cryptographic algorithm. This certificate is used to sign App Store receipts, which are the proof of purchase for apps and In-App Purchases.</p>
+<p>This update is being completed in <a class="link" href="https://developer.apple.com/news/?id=smofnyhj"  target="_blank" rel="noopener"
+    >multiple phases</a> and some existing apps on the App Store may be impacted by the next update, depending on how they verify receipts.</p>
+<p>Starting <strong>January 24, 2025</strong>, if your app performs on-device receipt validation and doesn&rsquo;t support a SHA-256 algorithm, your app will fail to validate the receipt. If your app prevents customers from accessing the app or premium content when receipt validation fails, your customers may lose access to their content.</p>
+<p>If your app performs on-device receipt validation, update your app to support certificates that use the SHA-256 algorithm; alternatively, use the <a class="link" href="https://developer.apple.com/documentation/storekit/apptransaction"  target="_blank" rel="noopener"
+    >AppTransaction</a> and <a class="link" href="https://developer.apple.com/documentation/storekit/transaction"  target="_blank" rel="noopener"
+    >Transaction</a> APIs to verify App Store transactions.</p>
+<p>For more details, view <a class="link" href="https://developer.apple.com/documentation/technotes/tn3138-handling-app-store-receipt-signing-certificate-changes"  target="_blank" rel="noopener"
+    >TN3138: Handling App Store receipt signing certificate change</a>.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
