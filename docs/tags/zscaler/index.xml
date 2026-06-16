@@ -1,0 +1,48 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zscaler on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/zscaler/</link>
+    <description>Recent content in Zscaler on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:42:25 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/zscaler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZscalerのゼロトラストプラットフォームでIoTセキュリティ強化・運用の簡素化を実現する「Cellular SASE for IoT」、NTTドコモビジネスとTransatelが提供</title>
+      <link>https://n-kase.github.io/rss/posts/post-542/</link>
+      <pubDate>Tue, 16 Jun 2026 11:42:25 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-542/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>NTTドコモビジネス株式会社とTransatelは、2026年6月15日にグローバルなIoT市場向けのセキュリティソリューション「Cellular SASE for IoT」の提供開始を発表しました。このソリューションは、Transatelが持つ世界200以上の国と地域で利用可能なモバイルネットワークと、Zscalerのゼロトラストセキュリティプラットフォームを組み合わせたものです。SIM自体を通信とセキュリティの基盤として活用し、IoTデバイスのセキュリティを強化すると同時に、グローバルでの展開や運用を簡素化することを目的としています。具体的には、グローバル対応SIMと回線管理プラットフォーム、ゼロトラストセキュリティ（今後提供予定）、そしてNTTドコモビジネスのManaged Service Providerサービス「X Managed」による高品質な一元サポート（今後提供予定）の三つの特徴が挙げられています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>IoTデバイスの普及に伴い、企業ネットワークに接続される端末数が急増していますが、多くのIoTデバイスは処理能力やストレージが限られているため、端末自身で不正通信の検知やアクセス制御、脆弱性対応といったセキュリティ対策を十分に行うことが難しい状況がありました。特に海外への展開では、各国の通信インフラやデバイスの多様性に対応するセキュリティ対策が課題となっていました。今回のソリューションは、グローバルSIMによる安定した通信環境と、ゼロトラスト原理に基づくクラウドセキュリティを組み合わせることで、これらの課題を解決し、IoTの安全かつ効率的な利用を支援することを狙っています。今後はZscalerとの連携を深め、機能の強化や対応地域の拡大を進めていくとしています。</p>
+<p><a class="link" href="https://internet.watch.impress.co.jp/docs/news/2117268.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>ニュース</p>
+<h1 id="zscalerのゼロトラストプラットフォームでiotセキュリティ強化運用の簡素化を実現するcellular-sase-for-iotnttドコモビジネスとtransatelが提供">ZscalerのゼロトラストプラットフォームでIoTセキュリティ強化・運用の簡素化を実現する「Cellular SASE for IoT」、NTTドコモビジネスとTransatelが提供
+</h1><p>2026年6月16日 08:00</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bed678ac7e889e2ba3b5f8471178b7a0.png"></p>
+<p>NTTドコモビジネス株式会社と、NTTグループでIoT向けSIMなどを手掛けるTransatelは6月15日、グローバルなIoT市場に向けたセキュリティソリューション「Cellular SASE for IoT」の提供を開始した。</p>
+<p>IoTの急速な普及により、企業のネットワークに接続されるデバイス数が増加している。しかし、IoTデバイスは処理能力や容量が限られているため、デバイス上で不正な通信の検知やアクセス制御、脆弱性への対応といったセキュリティ対策を行うことが難しく、サイバー攻撃の標的になりやすいという課題があった。</p>
+<p>特にグローバル展開においては、多様なデバイスや各国の通信インフラへの対応が求められるため、従来の手法では十分なセキュリティ対策を講じることが困難だったという。</p>
+<p>同ソリューションは、Transatelが持つグローバル対応可能なモバイルネットワークと、Zscaler（ゼットスケーラー）のゼロトラストセキュリティを組み合わせたもの。SIM自体を接続とセキュリティの基盤として活用し、IoTのセキュリティを強化すると同時に、グローバルでのIoTの展開や運用の簡素化を実現する。</p>
+<p>両社は同ソリューションの特徴として、次の3点を挙げている。</p>
+<h3 id="グローバル対応simと回線管理プラットフォーム">グローバル対応SIMと回線管理プラットフォーム
+</h3><p>グローバルに展開しているTransatelのモバイルネットワークを活用し、200以上の国と地域でシームレスな常時接続を提供する。また、マルチキャリアSIM技術により、IoTデバイスは世界中の対応する国と地域で安定した通信が可能。</p>
+<p>これに加えて、世界各国のSIMおよび回線の管理を実現するポータルサイトも提供され、SIM管理の負荷を大幅に軽減できる。</p>
+<h3 id="ゼロトラストセキュリティ今後提供予定">ゼロトラストセキュリティ（今後提供予定）
+</h3><p>Zscalerの「Zero Trust Exchange」プラットフォームをモバイルネットワークに組み込むことで、インターネットアクセスではファイアウォール、URLフィルタリング、IPSなど、IT環境と同レベルの脅威防御とアクセス制御を実現する。</p>
+<p>また、社内システムなどへのアクセス（プライベートアクセス）では、すべての通信をクラウド経由で安全に転送し、攻撃対象領域を最小化しながら、IoTデバイスとユーザやサーバのセキュアな双方向通信を実現できる。</p>
+<h3 id="高品質な一元サポート今後提供予定">高品質な一元サポート（今後提供予定）
+</h3><p>NTTドコモビジネスが提供するMSP（Managed Service Provider）サービスである「X Managed」を組み合わせたサポートが提供される。</p>
+<p>今後両社は、Zscalerと連携し、今後もIoT市場の拡大に合わせて、本ソリューションの機能強化・対応地域の拡大を進めていくとしている。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
