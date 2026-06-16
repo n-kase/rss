@@ -1,0 +1,37 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ホリデーシーズン on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3/</link>
+    <description>Recent content in ホリデーシーズン on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:15:37 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get your apps and games ready for the holidays</title>
+      <link>https://n-kase.github.io/rss/posts/post-480/</link>
+      <pubDate>Tue, 16 Jun 2026 11:15:37 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-480/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは2024年12月2日に開発者向けブログで、年末年始のホリデーシーズンに向けたアプリとゲームの準備を呼びかけました。App Storeはこの時期が最も利用者が多くなる時期であり、審査チームは引き続き申請を受け付けると発表しています。ただし、12月20日から26日の期間は申請件数が増加し、審査に通常より時間がかかる見込みであるため、時間に敏感なアップデートや新規リリースは早めに提出するよう推奨しています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネットの反応は含まれていません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>ホリデーシーズンは消費者の購買意欲が高まるため、アプリ開発者にとって重要な収益機会となります。Appleが早期提出を促す背景には、審査の遅延によるリリース機会の損失を防ぎ、ユーザーにスムーズに新機能やゲームを届けたい意図があります。これにより、開発者は計画的にスケジュールを調整し、ユーザー体験の向上と売上機会の最大化を図ることが期待されます。全体として、プラットフォーム側と開発者側が協力して季節変動に対応する姿勢が示されています。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=iwvebnw2"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="get-your-apps-and-games-ready-for-the-holidays">Get your apps and games ready for the holidays
+</h2><p>December 2, 2024</p>
+<p><img alt="The App Store logo in blue against a light gray background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6bbbce894bc49e644e01cb05d59cf3b2.jpeg"></p>
+<p>The busiest season on the App Store is almost here. Make sure your apps and games are up to date and ready.</p>
+<p>App Review will continue to accept submissions throughout the holiday season. Please plan to submit time-sensitive submissions early, as we anticipate high volume and reviews may take longer to complete from December 20-26.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
