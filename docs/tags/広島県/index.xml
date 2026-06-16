@@ -1,0 +1,43 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>広島県 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E5%BA%83%E5%B3%B6%E7%9C%8C/</link>
+    <description>Recent content in 広島県 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 12:37:16 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E5%BA%83%E5%B3%B6%E7%9C%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NTT西日本、「フレッツ光」提供エリアを広島県東広島市安芸津・三原市本郷エリアの一部地域で拡大。最大10Gbpsの「フレッツ 光クロス」も提供</title>
+      <link>https://n-kase.github.io/rss/posts/post-675/</link>
+      <pubDate>Tue, 16 Jun 2026 12:37:16 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-675/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>NTT西日本株式会社は2026年6月15日、光回線インターネットサービス「フレッツ光」の提供エリアを広島県東広島市安芸津町および三原市本郷エリアの一部地域に拡大すると発表しました。対象となる地域では、最大10Gbpsの「フレッツ 光クロス」、最大1Gbpsの「フレッツ 光ネクスト」、およびIP電話サービスの「ひかり電話ネクスト」が新たに利用可能になります。申し込みの受付は2026年7月10日から開始し、実際のサービス提供は同年8月3日から予定されています。発表資料には、市外局番や市内局番、加入者番号の詳細が掲載されており、具体的な番地ごとの提供範囲が示されています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回のエリア拡大は、地域における高速インターネット需要の高まりに応える取り組みであり、テレワークやオンライン教育、医療・福祉分野でのデジタルサービス利用を支援することを目的としています。光ファイバーによる大容量通信環境が整うことで、住民や企業はより快適にデータの送受信ができ、地域の産業振革や生活の質向上に寄与すると期待されます。NTT西日本は今後もインフラ整備を進め、デジタル格差の解消と持続可能な地域社会の実現に向けた取り組みを続けていく方針です。</p>
+<p><a class="link" href="https://internet.watch.impress.co.jp/docs/news/2117279.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>ニュース</p>
+<h1 id="ntt西日本フレッツ光提供エリアを広島県東広島市安芸津三原市本郷エリアの一部地域で拡大最大10gbpsのフレッツ-光クロスも提供">NTT西日本、「フレッツ光」提供エリアを広島県東広島市安芸津・三原市本郷エリアの一部地域で拡大。最大10Gbpsの「フレッツ 光クロス」も提供
+</h1><p>2026年6月16日 08:30</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7394c7a51e2daf7a254c8d546a169b23.png"></p>
+<p>NTT西日本株式会社は6月15日、光回線によるインターネットサービス「フレッツ光」の提供エリア拡大を発表した。対象は広島県東広島市安芸津・三原市本郷エリアの一部地域。最大10Gbpsの「フレッツ 光クロス」、最大1Gbpsの「フレッツ 光ネクスト」のほか、IP電話サービスの「ひかり電話ネクスト」などを新たに提供する。</p>
+<p>申し込み受付開始日は7月10日、サービス提供開始日は8月3日の予定。</p>
+<p>| 地域名 | 市外局番 | 市内局番 | 加入者番号 |
+| 東広島市安芸津町風早、安芸津町木谷、安芸津町三津の一部地域 | 0846 | 45 | 0xxx～6xxx |
+| 46 | 0xxx～1xxx | ||
+| 三原市高坂町真良、沼田西町、沼田東町納所、本郷町、本郷北、本郷南、下北方、南方の一部地域 | 0848 | 60 | 6xxx |
+| 8xxx | |||
+| 85 | 0xxx | ||
+| 86 | 0xxx～9xxx |</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
