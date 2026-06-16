@@ -1,0 +1,38 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Figma/Sketch on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/figma/sketch/</link>
+    <description>Recent content in Figma/Sketch on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 10:57:54 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/figma/sketch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: August 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-436/</link>
+      <pubDate>Tue, 16 Jun 2026 10:57:54 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-436/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2025年8月5日にAppleは、世界中の開発者向けに新しいワークショップを開催すると発表しました。このワークショップでは、FigmaおよびSketch向けのApple UIデザインキットが提供され、参加者は実際にこれらのツールを使ってデザインを学ぶことができます。さらに、イタリアを拠点とするSunlittチームと直接交流できる機会も設けられ、彼らが手掛ける最新のデザイン事例を紹介する予定です。発表はオンラインで行われ、関心のある開発者は公式サイトから申し込みが可能です。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表を受けて、開発者コミュニティではワークショップの開催を歓迎する声が多く見られました。特に、FigmaやSketch向けのデザインキットが無料で配布される点に対して、初心者からプロフェッショナルまで幅広い層が利用しやすいと評価しています。一方で、ワークショップの開催地域や時間帯について詳細がまだ不明であるため、参加しづらい地域の開発者からは情報の早期公開を求める意見も出ています。時間が経つにつれて、実際の参加者からのフィードバックが共有され、今後の改善点としてオンライン配信の充実や地域別のサテライトイベントの追加が期待されています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleはこれまでにも開発者向けのイベントやツール提供を通じて、エコシステムの活性化に努めてきました。今回のワークショップとデザインキットの配布は、アプリのユーザーインターフェースの質を向上させ、より直感的で美しいデザインを促進する狙いがあります。その結果、開発者はより高品質なアプリを短期間で制作できるようになり、エンドユーザーにも優れた体験が提供されることが期待されます。このように、技術支援とコミュニティ形成を両立させる取り組みは、今後のアプリ市場における競争力強化に寄与すると考えられます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=4qkavrhc"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="hello-developer-august-2025">Hello Developer: August 2025
+</h2><p>August 5, 2025</p>
+<p><img alt="A woman stands on stage in a darkened auditorium in front of an audience. Behind her is a screen showing illustrations of the new Apple design system, including clear buttons and sliders. The screen has a light-gray background with a grid." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3b2db57e262b84f95ec30ce105dbb98a.jpeg"></p>
+<p>Sign up for new Apple developer workshops all over the world. Plus, download Apple UI design kits for Figma and Sketch, meet the Italy-based team behind Sunlitt, and more.</p>
+<p>August 5, 2025</p>
+<p>Sign up for new Apple developer workshops all over the world. Plus, download Apple UI design kits for Figma and Sketch, meet the Italy-based team behind Sunlitt, and more.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

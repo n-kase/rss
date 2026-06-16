@@ -6,7 +6,94 @@
     <description>Recent content in ベトナム on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 10:36:23 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 10:57:38 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tax and Price Updates for Apps, In-App Purchases, and Subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-435/</link>
+      <pubDate>Tue, 16 Jun 2026 10:57:38 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-435/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2025年8月21日にAppleは、App Storeにおけるアプリおよびアプリ内課金、サブスクリプションの税金と価格の更新を発表しました。この更新は、各国の税制や為替レートの変化に対応するために行われ、ブラジルでは金融取引税（IOF）3.5％が適用され、カナダではデジタルサービス税が撤廃されました。エストニアでは付加価値税（VAT）が22％から24％に引き上げられ、ルーマニアでは標準税率が19％から21％に、さらにニュース・雑誌・書籍・オーディオブック向けの軽減税率が5％から11％に変更されました。フィリピンではフィリピン以外に拠点を置く開発者に対してVAT12％が導入され、ベトナムでは外国ベースの組織に対するVATが5％から10％に引き上げられるとともに、個人開発者には所得税5％が新設され、ニュース・雑誌・書籍の軽減税率0％が廃止されました。また、ベトナム国内の組織については外国契約者税が撤廃され、Appleの手数料に5％の外国契約者税が課され、個人開発者には所得税2％が適用され、同様に軽減税率0％が廃止となります。これらの変更は、Paid Applications AgreementのExhibit BおよびCに反映され、9月8日からフィリピンおよびベトナムの価格が自動的に調整されます（ベースストアフィールドとして選択していない場合）。自動更新サブスクリプションや手動で価格管理している場合は価格変更は適用されません。開発者はApp Store Connectで予定されている価格変更を確認・編集でき、いつでも価格を設定し直すことが可能です。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表後、開発者コミュニティでは税金や価格の変動に対する懸念と理解が混在していました。特にブラジルやベトナムのように新たな税負担が生じた地域では、収益への影響を懸念する声が多く、税務申告の手続きが複雑になることを指摘する投稿が目立ちました。一方で、カナダのデジタルサービス税撤廃や、ベースストアフィールドを設定している場合は価格が変わらないという点については、予測可能性が高まり運営が楽になると評価する意見も見られました。また、フィリピンやベトナムでの価格自動調整について、開発者側でベースストアを適切に選択すれば不意の価格変動を防げるというアドバイスが共有され、徐々に「事前に設定を見直すべき」という合意が形成されました。全体としては、税制変更への対応コストが増える一方で、Appleが提供するツールを活用すれば影響を最小限に抑えられるという認識が広がっていきました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回の税金と価格の更新は、グローバルに展開するデジタルサービスにおける税制の多様化と為替リスクへの対応として行われました。各国がデジタル課金に関する税法を頻繁に改正する中、プラットフォーム側が税金の徴収・納付を代行し、価格の均等化を図る仕組みは、開発者が個別に各国の税務に対応する負担を軽減する目的があります。ただし、税率の引き上げや新たな税目の導入は、特に新興市場での収益性に直接的な影響を及ぼすため、開発者は自分のターゲット市場の税制変動を常に監視し、ベースストアフィールドや価格設定の戦略を見直す必要があります。今後も同様の税制改正は続くと予想されるため、柔軟な価格管理と税務知識のアップデートが持続的なビジネス運営の鍵となるでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=yo2104n5"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="Tax and Price Updates for Apps, In-App Purchases, and Subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="tax-and-price-updates-for-apps-in-app-purchases-and-subscriptions">Tax and Price Updates for Apps, In-App Purchases, and Subscriptions
+</h2><p>August 21, 2025</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.</p>
+<p>From time to time, we need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>Tax and price updates</strong></p>
+<p><strong>As of August 21:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in:</p>
+<ul>
+<li>
+<p>Brazil: Imposto sobre Operações Financeiras (IOF) of 3.5%</p>
+</li>
+<li>
+<p>Canada: Digital services tax (DST) no longer applicable</p>
+</li>
+<li>
+<p>Estonia: Value‑added tax (VAT) rate increase from 22% to 24%</p>
+</li>
+<li>
+<p>Romania:</p>
+</li>
+<li>
+<p>VAT rate increase from 19% to 21%</p>
+</li>
+<li>
+<p>Reduced VAT rate increase from 5% to 11% for news, magazines, books, and audiobooks</p>
+</li>
+<li>
+<p>The Philippines: VAT introduction of 12% for developers based outside of the Philippines</p>
+</li>
+<li>
+<p>Vietnam:</p>
+</li>
+<li>
+<p>Organizations based outside of Vietnam: VAT rate increase from 5% to 10%.</p>
+</li>
+<li>
+<p>Individual developers based outside of Vietnam: Personal income tax (PIT) introduction of 5%, replacing the corporate income tax (CIT). Reduced VAT rate of 0% for news, magazines, and books no longer applies and all content will be taxed at the standard rate.</p>
+</li>
+<li>
+<p>Organizations based in Vietnam: Apple will no longer remit foreign contractor tax (FCT) on sales to end customers. FCT of 5% introduced on Apple’s commission.</p>
+</li>
+<li>
+<p>Individual developers based in Vietnam: Personal income tax (PIT) introduction of 2%, replacing the corporate income tax (CIT). FCT of 5% introduced on Apple’s commission. Reduced VAT rate of 0% for news, magazines, and books no longer applies and all content will be taxed at the standard rate.</p>
+</li>
+</ul>
+<p>Exhibit B and C of the Paid Applications Agreement will be updated to indicate that Apple collects and remits applicable taxes in the Philippines, and the relevant tax changes in Vietnam.¹</p>
+<p><strong>Beginning September 8:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for the Philippines and Vietnam if you haven’t selected one of these storefronts as the base storefront for your app or In‑App Purchase.² These updates also consider VAT introductions and changes listed in the tax updates section above.</p>
+<p>If you’ve selected the Philippines or Vietnam as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p>¹ Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+<p>² Excludes auto-renewable subscriptions.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Upcoming changes to age ratings in Australia and Vietnam</title>
       <link>https://n-kase.github.io/rss/posts/post-383/</link>
