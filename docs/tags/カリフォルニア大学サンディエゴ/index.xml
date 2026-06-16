@@ -1,0 +1,56 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>カリフォルニア大学サンディエゴ on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%A4%A7%E5%AD%A6%E3%82%B5%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A8%E3%82%B4/</link>
+    <description>Recent content in カリフォルニア大学サンディエゴ on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 12:09:49 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%A4%A7%E5%AD%A6%E3%82%B5%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A8%E3%82%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使わなくなったスマホをサーバーに、Google支援で2000台のPixelを再利用</title>
+      <link>https://n-kase.github.io/rss/posts/post-606/</link>
+      <pubDate>Tue, 16 Jun 2026 12:09:49 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-606/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>カリフォルニア大学サンディエゴ校の研究チームは、Googleの支援を受けて使われなくなったスマートフォンを再利用し、低炭素なクラウドコンピューティングプラットフォームを構築する取り組みを進めています。今秋には、2000台のGoogle Pixelを活用したデータセンターが稼働する予定です。スマートフォンは平均4年で買い替えられますが、チップセットやメモリー、ストレージなどの主要半導体は無傷で残り、最新端末の処理性能はマルチコアサーバーと同等かそれ以上であるため、新たな原材料の採掘を避けてカーボンフットプリントを直接削減できると考えられています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>プロジェクトでは、サーバーとして不要な部品を取り除き、マザーボードのみを残します。マザーボードは製造時の炭素排出量の約50％を占めるため、これを残すことで製造段階の環境負荷を大幅に低減できます。ソフトウェア面では、Androidを汎用のLinuxディストリビューションに置き換え、プログラムのしやすさを向上させるとともに不要なメモリー消費を削減しています。25～50台のスマートフォンを1つの自己管理クラスターとし、これを最新サーバー1台分の性能に相当させる仕組みで、Kubernetesによるコンテナ化アプリケーションを用いてジョブを連携させています。初期実験では、20台のクラスターで75人以上のクラスの課題提出処理をピーク時に対応でき、遅延は一般的なAWSバックエンドよりも低かったと報告されています。今秋には2000台規模のクラスターが本格稼働し、一度に100のクラスを同時に支える計算能力を提供するとともに、一般消費者向けハードウェアの長期間使用における信頼性を調査する大規模な実験環境としても機能します。これにより、低コストでサーバー50台分に相当する計算資源を利用できるだけでなく、製造段階の炭素排出を削減する具体的な手段として社会に貢献できることが期待されます。</p>
+<p><a class="link" href="https://k-tai.watch.impress.co.jp/docs/news/2117297.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>ニュース</p>
+<h1 id="使わなくなったスマホをサーバーにgoogle支援で2000台のpixelを再利用">使わなくなったスマホをサーバーに、Google支援で2000台のPixelを再利用
+</h1><p>2026年6月16日 00:00</p>
+<p>カリフォルニア大学サンディエゴ校の研究チームは、Googleの支援を受け、中古のスマートフォンを再利用して低炭素なクラウドコンピューティングプラットフォームを構築する取り組みを進めている。今秋には、2000台のGoogle Pixelを利用したデータセンターが立ち上げられる予定だ。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2d233a26f95c5b93170abf2dfdac724a.jpg"></p>
+<h2 id="取り組みの背景">取り組みの背景
+</h2><p>コンピューティング分野において、カーボンフットプリント（製品やサービスのライフサイクル全体における温室効果ガス排出量）の削減は重要な課題となっている。</p>
+<p>炭素排出の要因は、運用時のエネルギー消費に伴うものと、ハードウェア製造に伴う「エンボディードカーボン」（内包炭素）に分類される。運用時の排出はクリーンエネルギーの活用などで対処が進められているが、製造時の排出削減はより複雑な課題となる。</p>
+<p>スマートフォンは平均4年で買い替えられる傾向にある。しかし、不要になった端末でもチップセットやメモリー、ストレージといった中心的な半導体は無傷で残されている。</p>
+<p>最新のスマートフォンの処理性能は、シングルスレッド性能では最新のマルチコアサーバーと同等かそれ以上の性能だという。これらの端末を再利用することで、新たな原材料の抽出を避け、カーボンフットプリントを直接的に削減できる。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0d0d8f0abe129d1f70a9e379809d39a8.jpg"></p>
+<h2 id="スマートフォンをサーバー向けに改造">スマートフォンをサーバー向けに改造
+</h2><p>スマートフォンにはサーバー用としては不要なパーツが多く含まれるため、運用前にマザーボード以外の部品が取り除かれる。なお、マザーボードは製造時の炭素排出量の約50％を占めるという。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4de6b132aecdeffe020c2f4e82353292.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e2005aaa69e77d3722adcb781cf37914.jpg"></p>
+<p>ソフトウェア面では、OSがAndroidから汎用のLinuxディストリビューションに置き換えられる。これにより、プログラムのしやすさを向上させ、メモリーの余計な消費を削減する。</p>
+<p>一般的なサーバーと同等の性能を確保するため、25～50台のスマートフォンを1つの自己管理クラスターとして構成する。このクラスターで最新サーバー1台分に相当する性能を発揮するとしている。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2f487701220db23e226a262ece07ef43.jpg"></p>
+<p>多数のデバイス間でジョブを連携させる仕組みには、Kubernetesによるコンテナ化アプリケーションを採用した。</p>
+<h2 id="2026年秋の本格稼働と今後の展開">2026年秋の本格稼働と今後の展開
+</h2><p>大学の教育現場では、科学技術を活用した教育（EdTech）や採点、研究用アプリケーションがクラウド上で実行されている。これらの大部分は、スマートフォン1台の処理能力で十分に対応できる規模となっている。</p>
+<p>カリフォルニア大学サンディエゴ校の研究チームによる初期実験では、20台のスマートフォンによるクラスターで、75人以上のクラスにおいてピーク時の課題提出処理に対応できた。</p>
+<p>さらに、採点処理における遅延は、通常利用されているAWS（Amazon Web Services）のバックエンド環境よりも低遅延だった。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7700c8fa1daa9799bc8f100f551fa5ec.jpg"></p>
+<p>並列計算やシステムプログラミングといったコンピューターサイエンスの授業を支援するため、今秋には2000台規模のクラスターが本格稼働する見込みだ。これにより、一度に100のクラスを同時に支えられる。</p>
+<p>このプロジェクトは、低コストでサーバー50台分に相当する計算能力を利用できるだけでなく、一般消費者向けハードウェアを長期間使用した場合の信頼性を調査するための、大規模な実験環境としても機能する。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
