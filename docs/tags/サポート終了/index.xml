@@ -1,0 +1,44 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>サポート終了 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E7%B5%82%E4%BA%86/</link>
+    <description>Recent content in サポート終了 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 13:12:30 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E7%B5%82%E4%BA%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows 11向けの新しい「Kindle」アプリが登場、しかし評価のほとんどが星1つと大炎上【やじうまWatch】</title>
+      <link>https://n-kase.github.io/rss/posts/post-755/</link>
+      <pubDate>Tue, 16 Jun 2026 13:12:30 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-755/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年6月16日に、Windows PC向けの新しい「Kindle」アプリがMicrosoft Storeに登場しました。このアプリはWindows 11向けに新たに作られたもので、従来の「Kindle for PC」とは別に提供される予定でした。しかし、リリース直後からユーザーの間で評価が芳しくなく、ほとんどのレビューが星1つとなっています。具体的な問題としては、起動が遅いことや、従来のアプリで利用できていたカスタマイズ機能がなくなったことが挙げられます。さらに、保存先フォルダーが変更されて過去にダウンロードした本が読めなくなったり、一部の本がダウンロードできないなどの致命的な不具合も報告されています。その結果、ストアでの評価は6月15日時点で1.7まで落ち込んでいます。なお、従来のアプリは「Legacy Kindle」と名前が変わり、サポート終了が2週間後に迫っているため、今後のAmazonの対応が注目されています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Amazonは5月に、Windows PC向けのKindleアプリをリニューアルすると発表し、アップデートではなく完全に新しいアプリとして提供すると説明していました。これにより、6月30日以降は旧アプリが使えなくなることをユーザーに周知していましたが、新アプリの機能不足や互換性の問題が明らかになると、利用者からは不満が噴出しました。海外でも同様の移行が進められていますが、各国での対応にばらつきがあり、機能よりも移行そのものへの批判が目立っています。この状況から、Amazonが早期に不具合を修正し、ユーザーのフィードバックに応じたアップデートを行うことが求められています。また、 legado アプリのサポート終了が近いことから、移行期間の猶予や代替手段の提供がユーザーの信頼回復につながると考えられます。</p>
+<p><a class="link" href="https://internet.watch.impress.co.jp/docs/yajiuma/2117404.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>やじうまWatch</p>
+<h1 id="windows-11向けの新しいkindleアプリが登場しかし評価のほとんどが星1つと大炎上">Windows 11向けの新しい「Kindle」アプリが登場、しかし評価のほとんどが星1つと大炎上
+</h1><p>2026年6月16日 11:17</p>
+<p>Windows PC向け「Kindle」アプリがリリースされ、Microsoft Storeに登場した。しかし、評価のほとんどが星1つと低評価が目立つ状況になっている。</p>
+<p>Amazonは5月に、Windows PC向けのKindleアプリである「Kindle for PC」のリニューアルを予告。アップデートではなくWindows 11向けの新アプリとしてのリリースで、6月30日以降は従来アプリが利用できなくなることも併せて告知するなど、ユーザの戸惑いをよそに、急ピッチで差し替えを行うことを公表していた。</p>
+<p>ところが、6月に入って新しくリリースされたアプリ「Amazon Kindle」は、起動の遅さなどの従来アプリにおける問題点はさして変化が見られないことに加えて、これまで存在したカスタマイズ関連の機能が消失。さらに「保存先フォルダーが変更されておりこれまでダウンロードした本が読み込めない」「一部の本が非対応としてダウンロードできない」など致命的な問題が発覚し不満が続出、ストアの評価は6月15日時点で「1.7」にまで低迷している。「Legacy Kindle」と名前を改められた旧アプリのサポートおよびサービスの提供終了が2週間後に迫っていることもあって、今後のAmazonの対応に注目が集まる。</p>
+<p>ちなみに、この新アプリへの移行は海外でも並行して行われているが、国によって足並みが揃っておらず、海外では機能よりもむしろそのことに対しての指摘が上がっている。</p>
+<ul>
+<li>Amazon Kindle: Reading App（Microsoft Store）<a class="link" href="https://apps.microsoft.com/detail/9p8jq0jjstll?hl=ja-JP&amp;gl=JP"  target="_blank" rel="noopener"
+    >https://apps.microsoft.com/detail/9p8jq0jjstll?hl=ja-JP&amp;gl=JP</a></li>
+<li>デスクトップ版Kindleアプリをインストールまたはアップデートする（Amazonカスタマーサービス）https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=GZSM7D8A85WKPYYD</li>
+<li>Amazon still promoting Kindle for PC and not Kindle for Windows 11（Good e-Reader）<a class="link" href="https://goodereader.com/blog/kindle/amazon-still-promoting-kindle-for-pc-and-not-kindle-for-windows-11"  target="_blank" rel="noopener"
+    >https://goodereader.com/blog/kindle/amazon-still-promoting-kindle-for-pc-and-not-kindle-for-windows-11</a></li>
+</ul>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

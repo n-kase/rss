@@ -1,0 +1,59 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZDRポリシー on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/zdr%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/</link>
+    <description>Recent content in ZDRポリシー on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 13:13:00 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/zdr%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「Fable 5」わずか3日での停止劇　米政府介入の裏側とサティア・ナデラCEOが語る「AI依存」のリスク</title>
+      <link>https://n-kase.github.io/rss/posts/post-757/</link>
+      <pubDate>Tue, 16 Jun 2026 13:13:00 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-757/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>米Anthropicが6月9日に公開したAIモデル「Claude Fable 5」は、以前議論になった「Claude Mythos 5」に安全機能を追加した形で一般提供されました。しかし公開からわずか3日後の6月12日に米政府から、米国籍または永住権を持たない者への提供を禁止する指令が出され、これに従いAnthropicは全ユーザーへのアクセスを停止すると発表しました。この指令の背景には、Fable 5が持つ「自律的なサイバー攻撃と脆弱性発見能力」への懸念があり、特に「ジェイルブレイク」と呼ばれる保護機能を突破する手法が発見されたことが挙げられます。一方、MicrosoftはもともとOpenAIに出資していましたが、現在は特定モデルへの依存を避けるマルチ戦略を進めており、AnthropicのOpusやSonnetなどをCopilot製品群で利用可能にしていました。しかし社内でのClaude製品利用が急増したためコスト削減のため一時利用停止を打ち出すなど、特定モデルへの集中を避ける動きも見られました。さらに、AmazonのCEOアンディ・ジャシー氏がジェイルブレイク手法を財務長官スコット・ベッセント氏に通告したことが政府の対応に影響したと報じられています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回の出来事は、先進AIモデルの能力が国家安全保障の観点から過剰に懸念されるケースを示しています。政府の外国籍者へのアクセス禁止という措置は、AI開発に携わる外国籍人材が多いAnthropicにとって研究継続の障害となり得ます。また、MicrosoftやAmazon、Googleなどの大手テック企業がAnthropicへ巨額投資を行い、自社製品にモデルを組み込んでいるため、IPOを控えた同社にとってネガティブなニュースは投資家の懸念を招く可能性があります。一方で、企業側はゼロデータ保持（ZDR）ポリシーの違いなど、利用契約の細部についても調整を求めており、安全性と利用の利便性のバランスが今後のAIサービス運営における重要な課題となっています。このように、技術の進歩と規制・セキュリティの間で生じる緊張関係は、今後もAI業界全体に影響を及ぼし続けるでしょう。</p>
+<p><a class="link" href="https://www.itmedia.co.jp/pcuser/articles/2606/16/news050.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>米Anthropicが先日公開したばかりのAIモデル「Claude Fable 5」を巡る状況が騒がしい。MicrosoftはもともとOpenAIに出資していたが、<a class="link" href="https://www.itmedia.co.jp/pcuser/articles/2605/01/news059.html"  target="_blank" rel="noopener"
+    >最近は特定のAIモデルに依存しないマルチ戦略を推進</a>しており、AnthropicのOpusやSonnetといった最新モデルをCopilot製品群から利用できるようにしていた。</p>
+<p>一方で、Microsoft社内でのAnthropic Claude製品使用を許容したことで利用者が殺到し、コスト支出を抑えるために<a class="link" href="https://www.itmedia.co.jp/pcuser/articles/2606/01/news045.html"  target="_blank" rel="noopener"
+    >急きょ利用を停止する方針を打ち出す</a>といった事件もあるなど、特定のAIモデルに利用が集中しないよう苦慮する一面も見せている。</p>
+<p>そのような状況下で起きたのが、<a class="link" href="https://x.com/satyanadella/status/2066182223213293753"  target="_blank" rel="noopener"
+    >「Claude Fable 5」の停止事件</a>だ。</p>
+<p>この最新モデルは米国時間で6月9日に公開されたものだが、以前に物議を醸した「Claude Mythos 5」に保護機能を加えて安全性を高めたという触れ込みで一般提供が行われた。ただし、公開からわずか3日後の12日には米政府からの指令で米国外（正確には米国籍または永住権を持たない者）への提供を禁止する保護措置が採られ、結果としてAnthropicは全ユーザーへの同モデル（Fable 5／Mythos 5）のアクセスを<a class="link" href="https://www.anthropic.com/news/fable-mythos-access"  target="_blank" rel="noopener"
+    >停止することを発表</a>している。</p>
+<p>同社Mythosの存在が恐れられていたのは、その強力な「自律的なサイバー攻撃と脆弱（ぜいじゃく）性発見能力」にある。人間の手ではセキュリティ専門家でも困難な脆弱性の発見に加え、それをサイバー攻撃に応用することでハッキングが容易になる懸念が高かったからだ。</p>
+<p>保護機能を加えて安全性を高めたという触れ込みで登場したFable 5だが、わずか数日程度の間に起きた事象を6月14日時点の情報でMicrosoft視点から整理する。</p>
+<p>Microsoftからは「GitHub Copilot」「Microsoft 365 Copilot」「Microsoft Foundry」での提供に加え、AmazonからはAWS Bedrock、GoogleからはVertex AIを通じて全世界で利用可能に。</p>
+<p>実際のタイミングはFable 5のリリース直後だったと言われるが、<a class="link" href="https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally"  target="_blank" rel="noopener"
+    >The Vergeのトム・ウォーレン氏の同日付の報道</a>によれば、Microsoftは自社の従業員に対してFable 5の利用を禁止していたという。</p>
+<p>理由として挙げられているのが、「ZDR（Zero Data Retention）」に関するポリシーの変更だ。具体的には<a class="link" href="https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models"  target="_blank" rel="noopener"
+    >Anthropicのサポートページ</a>でも触れられているが、OpusやSonnetなどの既存モデルでは「入力したプロンプトや出力結果をサーバ側で保持しない」というZDRの契約が利用可能だったのに対し、Fable 5では前述のMythosでの安全性上の懸念から「30日間のデータ保持」をうたってZDRを認めていなかったため、この部分にMicrosoft側が難色を示したという経緯だ。</p>
+<p>米商務省長官のハワード・ラトニック氏が安全保障上のリスクを理由に、居住地を問わず、米国籍および永住権を持たない全ての人物へのFable 5／Mythos 5の提供を禁止するという緊急指令が発出。報道などによれば、Fable 5の保護機能を突破する“ジェイルブレイク”手法が発見されたため、悪用への危険性から国家安全保障上のリスクが浮上したからだという。</p>
+<p>同日、Anthropicは同件に<a class="link" href="https://www.anthropic.com/news/fable-mythos-access"  target="_blank" rel="noopener"
+    >公式声明</a>を出し、背景について説明を行っている。</p>
+<p>対象を限定せよとの米国政府側の指令ではあるものの、米国外からのアクセスはIPアドレスでブロックできるとしても、VPNを使うなど突破手段はいくつかあり、加えて米国内であっても国籍に応じた提供可否を判断することは不可能なため、結果としてサービスの全停止を選択したことになる。</p>
+<p>また前述のZDRポリシーについても触れており、問題となったジェイルブレイクを含む攻撃手段について、Fable 5では多層防御手段を講じている。完全な防御姿勢を採るよりも限定的なアクセス手段を提供することで監視を行うことで最終的な“突破”を防ぐことを狙っており、ZDRを採用しなかった理由がここにあるとも説明している。</p>
+<p>ゆえに、今回指摘されたジェイルブレイク手法についても軽微な可能性の1つに過ぎず、政府側の過剰な反応に対して暗に釘を刺しているとも読める。</p>
+<p>なお<a class="link" href="https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578"  target="_blank" rel="noopener"
+    >Wall Street Journalなどの報道</a>によれば、このジェイルブレイク問題について米財務長官のスコット・ベッセント氏に通告を行ったのはAmazon CEOのアンディ・ジャシー氏だという。</p>
+<p>Amazon社内のセキュリティチームがジェイルブレイク手法を“発見”し、その旨をBessent氏を含むトランプ政権高官らに伝えたところ、政府側でもそれが可能であると検証の末に判断、大統領は米国でのAI開発遅れにつながる懸念を示しつつも、最終的に前述のアクセス禁止令に署名したという。</p>
+<p>一見するとライバル企業によるAI開発やリリース妨害工作の一種に見えるかもしれないが、先ほども触れたようにAmazonはAnthropicのAIモデルを自社でホスティングして一般提供も行っているお得意様であり、Anthropicへの投資を最初期から行っている主力株主の1社だ。</p>
+<p>同様のことはGoogleにもいえる。いわゆるAI提供に関わる“ビッグテック”各社は他にMicrosoftやNVIDIA含めてAnthropicへの巨額投資を行い、自社製品にそこで開発されたAIモデルを組み込んでいる。</p>
+<p>さらにAnthropicは2026年秋にも株式上場（IPO）を計画していると言われ、“ロックアップ”期間を考慮したとしてもここで挙げた企業群は同社IPOをもって巨額の資金を手に入れることになるわけで、IPOのマイナス要因になる事象は望んでいない。</p>
+<p>また米政府が指示した「外国籍の人物へのAIモデルへのアクセスを禁止」という方針も懸念事項だ。AnthropicでAI開発に携わる人員の多くが外国籍の者であるため、AI開発自体をストップさせかねない。通報を行ったジャシー氏にこういった意図がなかったとしても、米政府の過剰反応を引き起こすこの事態こそAIにとってのリスクと言えるかもしれない。</p>
+<p>Copyright © ITmedia, Inc. All Rights Reserved.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
