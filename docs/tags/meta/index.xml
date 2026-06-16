@@ -6,7 +6,46 @@
     <description>Recent content in Meta on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:44:28 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 13:23:16 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebookが新しい「AIモード」を導入、プラットフォーム全体から公開情報を取得する</title>
+      <link>https://n-kase.github.io/rss/posts/post-779/</link>
+      <pubDate>Tue, 16 Jun 2026 13:23:16 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-779/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Metaは2026年6月15日にFacebook向けの新しいAI機能「AIモード」を発表しました。この機能はMeta AIを活用し、Facebook内での検索やコンテンツ作成、共有をより簡単にすることを目的としています。AIモードでの検索は、通常のリンク一覧ではなく、GroupsやReelsなどMetaの各アプリで公開されている投稿の内容やレコメンドを元に回答を生成します。これにより、利用者は実際の人々の視点や経験に基づいた情報を得られるとMetaは説明しています。</p>
+<p>検索以外にも、カメラロールの写真や動画を共有する際にAIが編集を提案する機能が追加されました。たとえば、最近の外出をまとめたコラージュや滑らかな動画モンタージュのテンプレートが表示され、利用者はいつでもオフにできるオプトイン方式です。さらに、AIによる写真プリセットでは服装や髪型、アクセサリーを変更でき、スポーツファンはチームジャージを仮想的に着用することも可能です。これらの編集機能は「埋もれがちな写真や動画を1タップで共有しやすい作品に変える」と位置付けられています。</p>
+<p>TechCrunchはこの機能追加を、FacebookにおけるAI機能の連続的な拡充の一部と見ています。2026年2月には静止画のプロフィール写真を動かす機能、3月にはMarketplaceでの自動返信AI、6月初めにはクリエイター向けAIアシスタントが導入されており、今回のAIモードはその流れに続くものです。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>MetaはAIを検索、制作、共有の各場面に組み込むことで、利用者が情報を探し、投稿を作り、次の行動へ移るまでの手間を減らそうとしています。これにより、Facebookの利用時間を延ばし、プラットフォームへの滞在を増やす戦略の一環だと見られます。一方で、TechCrunchは公開投稿やグループの会話を要約するだけでは回答の信頼性に課題が残ると指摘しています。専門的に検証された情報ではなく一般ユーザーの投稿に依存するため、古い情報や誤解を招く内容が混ざるリスクがあります。</p>
+<p>このように、AIモードは利便性を高める反面、情報の正確性やプライバシーへの影響について注意が必要です。今後、Metaがどのようにこれらの課題に対応し、利用者の信頼を得ていくかが注目されます。</p>
+<p><a class="link" href="https://gigazine.net/news/20260616-meta-facebook-new-ai-mode/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="facebookが新しいaiモードを導入プラットフォーム全体から公開情報を取得する">Facebookが新しい「AIモード」を導入、プラットフォーム全体から公開情報を取得する
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b98d3adcbdf26ec0fb84a0a1fb612ba2.png"></p>
+<p>MetaがFacebook向けに新たなAI機能を2026年6月15日に発表しました。中心となるのは「AIモード」で、検索やコンテンツ作成、共有をFacebook上でより簡単にすることを狙っています。</p>
+<p><strong>New AI Tools to Help You Make Things Happen on Facebook</strong></p>
+<p><a class="link" href="https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook/"  target="_blank" rel="noopener"
+    >https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook/</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2bafcd26724308a1be5cb2bfd2a56243.png"></p>
+<p><strong>Meta&rsquo;s new ‘AI mode’ on Facebook pulls from public info across its platforms | TechCrunch</strong></p>
+<p><a class="link" href="https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/"  target="_blank" rel="noopener"
+    >https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/</a></p>
+<p>AIモードはMeta AIを使ってFacebook上で質問に答える新しい検索機能で、通常のリンク一覧ではなく、GroupsやReelsなど、Metaのアプリ上で公開共有されている投稿の内容やレコメンドをもとに回答を生成します。Metaはこの仕組みによって、利用者が実際の人々の視点や経験に基づく情報を得られると説明しています。</p>
+<p>IT系ニュースメディアのTechCrunchは「AIが公開投稿やグループでの会話を要約する以上、回答の信頼性が課題になる」と指摘しています。専門的に検証された情報ではなく一般利用者の投稿をもとにするため、古い情報や誤解を招く内容が混じるリスクがあります。</p>
+<p>検索以外ではAIを使った編集機能も追加されます。たとえばカメラロールの写真や動画を共有する時、友人との最近の外出をまとめるようなコラージュの切り抜きテンプレートや、滑らかな動画モンタージュを作るトランジション効果が提案されます。この共有提案はオプトイン方式で、利用者はいつでもオフにできるとのこと。</p>
+<p>MetaはAIを活用した編集と共有機能について、「埋もれがちな写真や動画を1タップで共有しやすい作品に変えられる機能」と位置付けています。</p>
+<p>さらに、AIによる写真プリセットでは服装や髪型、アクセサリーを変更可能。たとえば、スポーツファンであればストーリーの「AI Edit」から「Wear It」を選ぶか、プロフィール画像の「Restyle profile picture with AI」から「Wardrobe」を選ぶことで、チームジャージを仮想的に着用できます。</p>
+<p>TechCrunchは今回の機能追加を、Facebookで続くAI機能拡充の一部と見ています。2026年2月には静止画のプロフィール写真を動かす機能、3月にはFacebook Marketplaceで出品者に代わって購入希望者へ自動返信するAI機能が導入されており、6月初めにはクリエイター向けAIアシスタントも投入されています。</p>
+<p>こうしたAI導入を推し進めるMetaの動きは、Facebookをより使いやすく、滞在時間の長いサービスにするための戦略の一環といえます。TechCrunchは「Metaは検索、制作、共有の各場面にAIを組み込み、利用者がFacebook上で情報を探し、投稿を作り、次の行動へ移るまでの手間を減らそうとしている」と指摘しました。</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Facebookの新「AI Mode」、グループやリールの公開投稿が検索結果に</title>
       <link>https://n-kase.github.io/rss/posts/post-547/</link>
