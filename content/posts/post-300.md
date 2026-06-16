@@ -1,0 +1,379 @@
+---
+title: "ANA便に乗ろうとしたらオーバーブッキングと言われ、協力金は到着地で聞いてくれとのことだったが、到着してみると「今回は補償金は支払えない」→その後複数のやりとりを通して、真相が判明"
+description: "概要と事実 ユーザーはANAの便に搭乗しようとしたところ、空港のカウンターでオーバーブッキングだと告げられ、後続便への振替を案内された。振替後の便に乗るまでに約30分の手続き時間がかかり、到着後に補償金の支払いがないと言われた。当初、..."
+date: 2026-06-16T10:00:57+09:00
+categories: ["ネット炎上・社会問題"]
+tags: ["ANA", "オーバーブッキング", "客対応", "補償金", "SNS炎上"]
+image: "/rss/downloaded_images/5b8aac2ab630456bfc002acf6128bcc7.jpeg"
+---
+
+## AIによる要約
+
+### 概要と事実
+ユーザーはANAの便に搭乗しようとしたところ、空港のカウンターでオーバーブッキングだと告げられ、後続便への振替を案内された。振替後の便に乗るまでに約30分の手続き時間がかかり、到着後に補償金の支払いがないと言われた。当初、オーバーブッキングの協力金として通常は1万円程度支払われるはずだと指摘したが、空港側は「今回は補償金は支払えない」と回答した。その後、ANAのスーパーフライヤーズデスクに問い合わせたところ、空港の判断によるもので理由が不明とされ、最終的にANAからお詫びとして2000円の飲食代・補償金が送られたが、これは遅延時の補償金に該当するものだとユーザーは指摘した。さらにやり取りを経て、ANAは今回の事態についてお詫びとして1万円を振込すると連絡し、当初の2000円は誤送信だったと説明した。最終的に、ANAは地上スタッフの手続きミスが原因であり、オーバーブッキングではなかったことを認め、お詫び金として1万円を支払うことを決定した。
+
+### ネットの反応と意見の変遷
+Twitter上では、当初のつぶやきに多くのユーザーが共感し、オーバーブッキングの対応や補償金の不透明さに対する批判が集まった。一部のユーザーは、地上スタッフがミスを隠すためにオーバーブッキングと偽ったのではないかと推測し、GS（グランドスタッフ）の対応に疑問を呈した。議論が進むにつれて、ANA側からの説明が遅れたことへの不満や、約款に明記されていない対応が行われたことへの不信感が強まった。最終的に、ANAが誤りを認めて補償金を支払うと発表したことで、一部のユーザーは「やっと誠意を見せた」と評価したが、一方でプロセスの不透明さや初期の誤った情報提供については依然として批判的な声が残った。
+
+### 背景と結論
+この事例は、航空会社の過剰予約（オーバーブッキング）に関するルールと、実際の空港での対応が乖離していることを浮き彫りにした。利用客は約款に基づく正当な補償を期待するが、現場の判断やマニュアルの不備により、期待通りの対応が行われないケースがある。その結果、SNSを通じて情報が拡散し、企業の信頼性に影響を及ぼす可能性がある。教訓として、航空会社は現場スタッフへの明確なガイドラインの徹底と、トラブル発生時の迅速かつ透明性のある説明が求められる。また、利用客側も自身の権利を把握し、必要に応じて適切なチャネルで確認を取る姿勢が重要である。
+
+<details>
+<summary>元スレッド・記事本文</summary>
+
+
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+#
+[【追記あり】ANA便に乗ろうとしたらオーバーブッキングと言われ、協力金は到着地で聞いてくれとのことだったが、到着してみると「今回は補償金は支払えない」→その後複数のやりとりを通して、真相が判明](https://togetter.com/li/2709434)
+
+
+
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+帰りしぶしぶANA便で、24時間前過ぎてシートマップ見たらここしか空いてないとかヤバくね？？
+んなわけないやろ？？ [pic.x.com/KszTjEyMP0](https://t.co/KszTjEyMP0)
+
+[2026-06-05 08:56:12](https://x.com/Raccoon_Second_/status/2062684877607363002)
+
+
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+その後オンラインチェックイン出来なくなり、結局この便、オーバーブッキングでした🙃🙃
+カウンターの手続きに30分くらいかかってしまい、後続便に変えてもらえたけど、、、なんやこれ
+これ最終便とかやったらエグない？？ [pic.x.com/dId2mWky8L](https://t.co/dId2mWky8L) [x.com/Raccoon_Second…](https://t.co/JiQglwpnxl)
+
+[2026-06-05 19:12:39](https://x.com/Raccoon_Second_/status/2062840014363660742)
+
+
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+ちなみに後続のNH41は今では珍しい773で良かったのか悪かったのか？？笑
+オーバーブッキングの協力金は到着地で聞いてくれとのこと [pic.x.com/xsBabTFN6m](https://t.co/xsBabTFN6m)
+
+[2026-06-05 19:14:32](https://x.com/Raccoon_Second_/status/2062840489049784427)
+
+
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+到着後ゲートで呼び止められ、今回の場合は補償金の支払いはできないとのこと
+普段のオーバーブッキングの募集では次便振替で1万円くらい貰えるはずだが？と聞いたらそれとはまた違うと…
+その便に乗れなかったのは同じやし、
+こっちは勝手に便変更させられてるんやが… [x.com/Raccoon_Second…](https://t.co/L9FIWi94uP)
+
+[2026-06-05 20:49:58](https://x.com/Raccoon_Second_/status/2062864502539071681)
+
+
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+[フレックストラベラー制度のご案内|ANA](https://www.ana.co.jp/ja/jp/guide/boarding-procedures/flex-traveler/)【ANA公式サイト】フレックストラベラー制度のご案内。国内線の空港・機内でのサービスに関する情報はこちらから。国内旅行のお役に立つ情報が満載。旅の計画・準備はANAのホームページで。
+
+6 users
+
+
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+ ANA公式サイト
+
+ANA公式サイト
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+まぁ15分後の便やし良いやろと思われたんかもしれん でももうANAにはマイルでしか乗りません
+
+[2026-06-05 20:53:27](https://x.com/Raccoon_Second_/status/2062865379295383868)
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+別に金がどうとかではなく、FSCのその対応どうなんって話です こちらに非はないんですから…
+
+[2026-06-05 23:00:22](https://x.com/Raccoon_Second_/status/2062897320346460592)
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+ANAのスーパーフライヤーズデスクに問い合わせたところ、空港の判断だから、補償金が無かった原因は分からないとのこと
+約款には書かれてあるが？と言うと、空港に確認して折り返しますとのことです [x.com/Raccoon_Second…](https://t.co/K4gi5v3nUK)
+
+[2026-06-06 13:08:13](https://x.com/Raccoon_Second_/status/2063110687120130503)
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+ANAから電話があり、今日は当日空港で対応した者がいないから後日また連絡するとのことで… 長い戦いにはしたくないんやが…
+
+[2026-06-06 15:27:15](https://x.com/Raccoon_Second_/status/2063145676620652781)
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+デスクから折り返しありました
+・補償金がなかった理由は、長時間待たせてる訳でもなく、追加で費用も発生してないから
+・しかも、本来はNH99(KIX)に振替なのに「特別に」NH41に振替をした
+→でも約款にはそんなことは書かれていないが？
+・それは申し訳ない、今後記載するか検討する
+↓続 [x.com/Raccoon_Second…](https://t.co/r4sykvFvw0)
+
+[2026-06-08 18:39:10](https://x.com/Raccoon_Second_/status/2063918750391562747)
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+→でも今回適用される約款には記載されてないんだから対応すべきでは？ ・空港に確認して折り返します (追記) デスクは、お客様が41でいいと言ったから特別に振替えた →それはGSがあたふたしていたのと、39の出発が迫っていたからで、本来は39に乗りたくて予約していて41に乗りたかった訳ではない
+
+[2026-06-08 18:44:34](https://x.com/Raccoon_Second_/status/2063920108532330682)
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+今日デスクから電話あり、担当部署からの回答待ちだから、もう少し回答に時間かかると言われた数時間後、以下のメールが届きました
+内容は、飲食代/お詫び金としての2,000円
+…これって約款に記載の協力金ではなく、遅延のとき等の補償金では？？
+ANAさんやっぱ勘違いしてるな？？ [pic.x.com/y14H4Bu5SK](https://t.co/y14H4Bu5SK) [x.com/Raccoon_Second…](https://t.co/8Vpw54qPvv)
+
+[2026-06-10 19:22:30](https://x.com/Raccoon_Second_/status/2064654432852434956)
+
+
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+自分は補償金じゃくて「協力金」の話をしてたんだよなぁ、、 そりゃ大幅な遅延も欠航もしてないんやから補償金は出ないでしょ
+
+[2026-06-10 19:27:43](https://x.com/Raccoon_Second_/status/2064655743769579982)
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+ANAオーバーブッキング問題、ついに真相が分かりました！！
+デスクから電話あり、
+・今回は大変ご迷惑をおかけしている状況から、お詫びとして1万円支払うこととした
+・先に送った2千円の補償は、羽田との連携が取れていなかったため誤送信(？)
+・今回の件について、改めて説明したいのですが
+↓続 [x.com/Raccoon_Second…](https://t.co/XvhRRjp60C)
+
+[2026-06-14 22:28:12](https://x.com/Raccoon_Second_/status/2066150717287784745)
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+・私がカウンターに伺った時点では、オーバーブッキングは発生しておらず、予約した航空券は発券されていた(？) ・GSが本来の搭乗手続きの手順を踏まず(手間取り)、時間を要してしまったため、振替での取り扱いとなった ・オーバーブッキングではないため、協力金の案内は無かった ↓続
+
+[2026-06-14 22:32:37](https://x.com/Raccoon_Second_/status/2066151827561951546)
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+・きちんと説明すべきだったが、至らぬところが多く、ご迷惑をおかけしたため、お詫びとして1万円を口座に振込します →マイルでは難しいのか？ ・確認して週明け連絡します まだ完全に終わったわけではないけど、とりあえず一件落着か？？
+
+[2026-06-14 22:35:45](https://x.com/Raccoon_Second_/status/2066152617726849138)
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+係員がミスして乗れなかった場合のことって約款に書いてある？？ないよな？
+
+[2026-06-15 02:36:49](https://x.com/Raccoon_Second_/status/2066213282390892908)
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+以上の一連の流れを、ブログにまとめました。
+前編(空港編)、後編(問合せ編)
+どのように搭乗拒否されたかを、ツイートに載せられなかったところまで記載しました。
+ANA予約便を持っている方、今後利用される方に参考になればと思います🙇
+[raccoon-tabilog.com](https://t.co/sSngDilxMl)
+
+[2026-06-14 23:44:49](https://x.com/Raccoon_Second_/status/2066169998012518550)
+
+
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+[空飛ぶアライグマの社畜旅日記](https://raccoon-tabilog.com/)空飛ぶアライグマの社畜旅日記
+
+
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+ 空飛ぶアライグマの社畜旅日記
+
+空飛ぶアライグマの社畜旅日記
+
+
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+[旅客手荷物運送約款|ANA](https://www.ana.co.jp/ja/jp/guide/terms/conditions-of-carriage-passenger-baggage/)【ANA公式サイト】旅客手荷物運送約款
+
+16
+
+
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+ www.ana.co.jp
+
+www.ana.co.jp
+
+## GSのミスを隠すために大事になったのか
+
+
+**りんごちゃん？てゃん？**@h9s9h
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+GSはオーバーブッキングだから乗れないって言ったんかな？ [x.com/raccoon_second…](https://t.co/7D3G2Dx7PC)
+
+[2026-06-14 22:43:03](https://x.com/h9s9h/status/2066154452592283706)
+
+
+**らくーん🦝**@Raccoon_Second_
+
+![](/rss/downloaded_images/15ba04ac83cf2f58f3e800b28629f1cc.gif)
+
+
+
+
+そうです
+確かに、もう間に合わない時間になってから、オーバーブッキング(予約が座席数を超過している)なので次便に振替ます、と伝えられた
+GS側のミスを隠すためにオーバーブッキングの案内をしたのか？？という感じ [x.com/h9s9h/status/2…](https://t.co/5CS2sXnUbw)
+
+[2026-06-14 22:46:39](https://x.com/Raccoon_Second_/status/2066155357907619931)
+
+
+**halt**@halthalt99
+
+...（長文のため省略されました）
+
+</details>
