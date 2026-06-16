@@ -1,0 +1,53 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICloud on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/icloud/</link>
+    <description>Recent content in ICloud on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 12:33:10 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/icloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sign in with Apple と iCloud&#43; Hide My Email の新ドメイン</title>
+      <link>https://n-kase.github.io/rss/posts/post-665/</link>
+      <pubDate>Tue, 16 Jun 2026 12:33:10 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-665/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは今夏後半に、Sign in with AppleとiCloud+ Hide My Emailで使用されているメールアドレスのドメインを統合すると発表しました。新しい共通ドメインは<strong>private.icloud.com</strong>となり、今後発行されるすべてのアドレスはこのドメイン下で提供されます。たとえば、これまでprivaterelay.appleid.comで発行されていたSign in with Appleのアドレスや、icloud.comで発行されていたiCloud+ Hide My Emailのアドレスは、今後はprivate.icloud.comになります。既存のアドレスは引き続き機能し、メールの転送も中断なく行われます。</p>
+<p>開発者やサービス提供者側には、アカウントシステムやメール検証ロジック、許可リストに新しいドメインを追加することが求められます。また、ドメインベースのフィルタリングや抑制リスト、ルーティングルールを明示的に列挙している場合は、そこにprivate.icloud.comも含める必要があります。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>この変更は、Appleがプライバシー保護サービスの管理をシンプルにし、ユーザーにとって一貫した体験を提供する狙いがあります。複数のドメインを抱えることで生じていた設定ミスや互換性の問題を減らし、開発者側の対応負荷を軽減することが期待されます。一方で、既存のシステムに依存しているサービスでは、アップデート作業が発生するため、早めの対応が重要です。全体として、プライバシー重視のサービスをより統一的に運用するための一歩であり、今後同様のドメイン統合が他の機能にも広がる可能性があります。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=sus6t6ab"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="new-domain-for-sign-in-with-apple-and-icloud-hide-my-email">New domain for Sign in with Apple and iCloud+ Hide My Email
+</h2><p>June 15, 2026</p>
+<p>Later this summer, Apple will unify the email domains used by Sign in with Apple and iCloud+ Hide My Email under a single, shared domain: <strong>private.icloud.com</strong>.</p>
+<p>New addresses generated for both features will be issued on the new domain. For example:</p>
+<ul>
+<li>
+<p>Sign in with Apple addresses, previously issued on <code>privaterelay.appleid.com</code>, will be issued on<code>private.icloud.com</code>.</p>
+</li>
+<li>
+<p>iCloud+ Hide My Email addresses, previously issued on <code>icloud.com</code>, will be issued on<code>private.icloud.com</code>.</p>
+</li>
+</ul>
+<p>Existing addresses on the legacy domains will continue to work and forward mail to users without interruption.</p>
+<h3 id="what-you-need-to-do">What you need to do
+</h3><ul>
+<li>
+<p>Developers with apps or websites that use Sign in with Apple should ensure that their account systems, email validation logic, and allowlists accept addresses on the new <code>private.icloud.com</code>domain in addition to existing domains:<code>privaterelay.appleid.com</code>and<code>icloud.com</code>.</p>
+</li>
+<li>
+<p>Email service providers should update any domain-based filtering, suppression lists, or routing rules that explicitly enumerate relay domains so that the new <code>private.icloud.com</code>domain is included.</p>
+</li>
+</ul>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
