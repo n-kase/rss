@@ -1,0 +1,41 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI編集 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/ai%E7%B7%A8%E9%9B%86/</link>
+    <description>Recent content in AI編集 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:44:28 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/ai%E7%B7%A8%E9%9B%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebookの新「AI Mode」、グループやリールの公開投稿が検索結果に</title>
+      <link>https://n-kase.github.io/rss/posts/post-547/</link>
+      <pubDate>Tue, 16 Jun 2026 11:44:28 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-547/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>米Metaは2025年6月15日（現地時間）に、Facebook向けの新しいAI機能群を発表しました。その中核となるのは、MetaのAIアシスタント「Meta AI」を活用した「AI Mode」です。AI Modeは、フィードを閲覧しているときや特定の情報を検索する際に、Meta AIが質問への回答を提示する仕組みで、従来の検索結果リストではなく、Facebook上で公開されている投稿（グループやリールなど）を基に答えを生成します。これにより、実際のユーザーの視点や体験を反映した回答が得られると説明されています。AI Modeの基盤には、Meta Superintelligence Labsが4月に発表した独自モデル「Muse Spark」が採用されています。回答のソースとなるのは、Metaアプリ上で「公開」状態にある投稿のみです。Metaは、既存の検索や閲覧体験にAIを組み込むことで、ユーザーが目的を達成するまでの手間を減らしたいとしています。ただし、今回の発表では自分の投稿をAI Modeの回答ソースから除外するためのオプトアウト方法については言及されていません。<br>
+AI Modeと同時に、AIを活用した写真・動画の編集機能も拡充されました。カメラロールの共有提案機能には、新しいコラージュの切り抜きテンプレートや動画モンタージュ向けのトランジション効果が追加され、これらはオプトイン設定でいつでもオフにできます。さらに、AIで服装を変えられる写真プリセットが導入され、スポーツファンはストーリーズの「Edit with AI」アイコンやプロフィール画像の「Restyle profile picture with AI」から、応援するチームのユニフォームを仮想的に着用するなどの機能が利用できるようになります。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Metaはこれまでにもプラットフォーム内にAIを組み込む取り組みを進めてきましたが、今回の発表は「AI Mode」という形で検索や情報取得の体験そのものをAI中心に転換しようとする意図が見て取れます。公開投稿のみをソースとすることで、プライバシーへの配慮を示している一方で、オプトアウトの選択肢が示されていない点は、ユーザーが自分のデータがどのように利用されるかをコントロールしにくいという懸念を残しています。このように、AIの利便性向上と個人情報の管理という二つの側面が同時に浮き彫りになっています。今後、ユーザーからのフィードバックや規制の動向次第で、オプトアウト機能の追加や利用ポリシーの見直しが求められる可能性があります。全体として、MetaはAIを日常的なソーシャル体験に深く組み込むことで、プラットフォームの滞在時間やエンゲージメントを高めようとしていると考えられます。です。</p>
+<p><a class="link" href="https://www.itmedia.co.jp/news/articles/2606/16/news061.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>米Metaは6月15日（現地時間）、Facebook向けの複数のAI採用新機能を発表した。中核となるのは、同社のAIアシスタント「Meta AI」を使ってFacebook上で質問への回答を得られる新機能「AI Mode」だ。</p>
+<p>AI Modeは、フィードの閲覧中や特定の情報を検索する際に、Meta AIが回答を提示する仕組み。一般的な検索結果のリストを返すのではなく、グループやリールなどのMetaのアプリ上で人々が公開している投稿に基づいて回答を生成し、実際のユーザーの視点や体験を反映するとしている。基盤には、<a class="link" href="https://www.itmedia.co.jp/news/articles/2507/15/news064.html"  target="_blank" rel="noopener"
+    >Meta Superintelligence Labs</a>が4月に発表した同社初の独自モデル「<a class="link" href="https://www.itmedia.co.jp/news/articles/2604/09/news122.html"  target="_blank" rel="noopener"
+    >Muse Spark</a>」を採用する。</p>
+<p>回答のソースとなるのは、Metaアプリ上で「公開」状態にある投稿だ。Metaは、検索などの既存の利用体験の中にMeta AIを組み込むことで、ユーザーが少ない手間で目的を達成できるようにするとしている。</p>
+<p>なお今回の発表では、自分の投稿をAI Modeの回答ソースから除外するためのオプトアウト手段については説明されていない。AI Modeが参照するのは公開状態の投稿である旨が示されるにとどまっている。</p>
+<p>AI Modeと併せて、AIを活用した写真と動画の編集機能も拡充する。カメラロールの共有提案機能に、新しいコラージュの切り抜きテンプレートや動画モンタージュ向けのトランジション効果が加わるほか（この機能はオプトイン設定で、いつでもオフにできる）、AIで服装を変えられる写真プリセットも導入する。スポーツファンはストーリーズの「Edit with AI」アイコンやプロフィール画像の「Restyle profile picture with AI」から、応援するチームのユニフォームを仮想的に着用するなどの機能を利用できるという。</p>
+<p>Copyright © ITmedia, Inc. All Rights Reserved.</p>
+<p>Special</p>
+<p>PRメールマガジンのお知らせ</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
