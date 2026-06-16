@@ -1,0 +1,102 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IOSアップデート on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/ios%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88/</link>
+    <description>Recent content in IOSアップデート on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:23:37 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/ios%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: September 2024</title>
+      <link>https://n-kase.github.io/rss/posts/post-500/</link>
+      <pubDate>Tue, 16 Jun 2026 11:23:37 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-500/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは開発者向けに「Apple Intelligence」への準備を呼びかけるページを公開しました。このページでは、ビデオセッションやリソースを活用してアプリを準備する方法が紹介されており、SiriやApple Intelligenceへのアクション提供方法を学ぶ新しいリソース、機械学習とAIのキュレートガイドへのリンクが掲載されています。さらに、OSの最新アップデートに関する開発者セッション、iOSおよびiPadOSアプリのアップグレード方法、visionOS向けアプリ開発のガイド、アプリのパフォーマンス最適化や起動時間短縮のためのフレームワーク活用法などが案内されています。また、Apple Design Award受賞パズルゲーム「Rytmos」の開発ストーリーや、App Storeでの発見方法、今後の開発者イベントへの参加案内、開発者からのフィードバックを募るセクションも含まれています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleは自社プラットフォーム全体に人工知能を統合し、開発者が最新のAI機能を容易に利用できる環境を整えています。これにより、開発者はSiri連携や機械学習を活用した革新的な機能を実装しやすくなり、アプリの品質やユーザー体験の向上が期待されます。さらに、OSアップデートやフレームワーク最適化の情報提供により、開発効率の向上とアプリのパフォーマンス改善が促進されます。全体として、Appleは開発者コミュニティの支援を強化し、エコシステム全体の競争力を高める戦略を進めていると言えます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=myu3gpem"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>Get ready for Apple Intelligence.</p>
+<h4 id="prepare-for-the-world-of-appleintelligence">Prepare for the world of Apple Intelligence
+</h4><p>Get your apps ready by digging into these video sessions and resources.</p>
+<h4 id="browse-new-resources">Browse new resources
+</h4><p>Learn how to make actions available to Siri and Apple Intelligence.</p>
+<h4 id="need-a-boost">Need a boost?
+</h4><h4 id="get-ready-for-os-updates">Get ready for OS updates
+</h4><p>Dive into the latest updates with these developer sessions.</p>
+<p>Bring your vision to life</p>
+<p>Upgrade your iOS and iPadOS apps</p>
+<h4 id="get-expert-guidance">Get expert guidance
+</h4><p>Check out curated guides to the latest features and technologies.</p>
+<h4 id="rytmos-a-puzzle-game">Rytmos: A puzzle game
+</h4><p>with a global beat</p>
+<p>Find out how Floppy Club built an Apple Design Award winner that sounds as good as it looks.</p>
+<h4 id="reserve-your-spot-for-upcoming-developer-activities">Reserve your spot for upcoming developer activities
+</h4><p>Get discovered on the App Store</p>
+<p>Ask about product pages, search and referral traffic, and promotional tools in this online Q&amp;A.</p>
+<p>Envision the future: Create great apps for visionOS</p>
+<p>Find out how to build visionOS apps for a variety of use cases.</p>
+<p>Build faster and more efficient apps</p>
+<p>Learn how to optimize your use of Apple frameworks, resolve performance issues, and reduce launch time.</p>
+<h4 id="share-your-thoughts">Share your thoughts
+</h4><p>We’d love to hear from you. If you have suggestions for our activities or stories, please [let us know].</p>
+<p>|</p>
+<p>| SEPTEMBER 2024 |
+| ## Hello Developer |  |  |
+|
+|</p>
+<p><img alt="A circular icon with interlocking shapes with glowing orange, purple, and blue edges, set against a black background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7d156bbab0a04900feb768cc2da3ab67.jpg"></p>
+<p>|
+|
+| ## Prepare for the world of Apple Intelligence |
+| Get your apps ready by digging into thesevideo sessions and resources.
+|
+|  |
+| ###### Browse new resources |
+| Learn how to make actions available to Siri and Apple Intelligence. |
+|  |
+| ###### Need a boost? |
+| Check out our [curated guide]to machine learning and AI. |  |  |  |  |
+|
+|  |
+|
+| ### Get ready for OS updates |
+| Dive into the latest updates with these developer sessions. |
+| Level up your games |
+|  |
+| Bring your vision to life |
+|  |
+| Upgrade your iOS and iPadOS apps |
+|  |
+| <strong>Browse Apple Developer on YouTube</strong> |
+|  |
+| ###### Get expert guidance |
+| Check out curated guides to the latest features and technologies. |
+|  |  |  |  |  |
+|
+|  |
+|</p>
+<p><img alt="A screenshot from the game Rytmos that depicts a floating cube-like shape with a puzzle covering its sides. The shape is set against a green and blue background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/705d9181104c6822f00ac05c286ed81e.jpg"></p>
+<p>|
+|
+| BEHIND THE DESIGN |
+| ### Rytmos: A puzzle game with a global beat
+|
+| Find out how Floppy Club built an Apple Design Award winner that sounds as good as it looks. |
+| <a class="link" href="/news/?id=34m9vbvv" >Read the story</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2fd9366fa6a07583d4e7f5a7ba3203e9.png"></p>
+<p>|  |  |  |  |
+|</p>
+<p>&hellip;（長文のため省略されました）</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
