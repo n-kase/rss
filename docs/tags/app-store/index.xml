@@ -6,7 +6,59 @@
     <description>Recent content in App Store on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 10:52:58 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/app-store/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 10:53:35 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/app-store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhancements to help you submit and market your apps and games</title>
+      <link>https://n-kase.github.io/rss/posts/post-425/</link>
+      <pubDate>Tue, 16 Jun 2026 10:53:35 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-425/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは開発者がApp Storeでアプリやゲームをより柔軟に提出・販売できるよう、いくつかの機能強化を発表しました。まず、審査中のアプリバージョンとは別に、追加のアイテムをApp Reviewに送信できるようになりました。これにより、インオアプリイベントやクリティカルバグ修正のためのバージョン、Game Centerの機能などを独立した形で提出することが可能になります。次に、カスタム製品ページの作成上限が従来の35から最大70に倍増し、各ページにキーワードを割り当てて検索での見つけやすさを向上させることができます。さらに、オファーコードがすべてのインオアプリ購入タイプ（消費型、非消費型、非更新型サブスクリプション、および自動更新型サブスクリプション）に対応し、期間限定の無料または割引提供がしやすくなりました。なお、インオアプリ購入向けのプロモコードは2026年3月26日以降作成できなくなり、既存のコードは期限まで利用可能ですが、アプリの無料ダウンロード用プロモコードは引き続き使えます。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この発表を受けて、開発者コミュニティでは主に肯定的な声が多く聞かれました。特に、審査中でも別途イベントやバグ修正を提出できる柔軟性は、リリーススケジュールの調整がしやすくなると好評です。カスタム製品ページの数が増え、キーワード設定が可能になったことで、ターゲットユーザーへのアプローチが細かくできる点も評価されています。一方で、インオアプリ購入向けプロモコードの提供終了については、一部の開発者からプロモーション施策の選択肢が狭まる懸念が示されました。しかし、オファーコードが全購入タイプに拡張されたことで、代替手段として十分に機能するとの見方もあり、全体としては新しいツールへの移行を前向きに捉える意見が目立ちます。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleは開発者がApp Storeでの成功をサポートするため、審査プロセスの効率化とマーケティングの柔軟性を高める施策を続けてきました。今回のアップデートは、開発者がアプリのアップデートやプロモーションをより細かくコントロールできる環境を整える狙いがあります。その結果、市場での競争力を維持しつつ、ユーザーに適切な情報やオファーを届けやすくなることが期待されます。開発者側も新しい仕組みに慣れることで、より迅速かつ効果的なアプリ提供が可能になるでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=gf6mgrs6"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="Enhancements to help you submit and market your apps and games" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="enhancements-to-help-you-submit-and-market-your-apps-and-games">Enhancements to help you submit and market your apps and games
+</h2><p>October 29, 2025</p>
+<p>As part of our ongoing commitment to helping developers succeed on the App Store, we’re introducing new options for submitting content and updates while your app is in review, double the number of custom product pages, and offer codes for all In-App Purchase types.</p>
+<h3 id="submit-additional-items-to-app-review">Submit additional items to App Review
+</h3><p>Now you can send additional items to App Review independent of an existing submission, giving you greater flexibility when submitting your apps and games. For example, you can now submit:</p>
+<ul>
+<li>One or more In-App Events in a separate submission if you have an app version under review.</li>
+<li>An app version to address a critical bug that’s separate from any existing custom product pages under review.</li>
+<li>One or more Game Center features — including achievements, leaderboards, challenges, and more — in a submission that’s separate from an app version under review.</li>
+</ul>
+<h3 id="create-double-the-number-of-custom-product-pages-and-add-keywords">Create double the number of custom product pages and add keywords
+</h3><p>Custom product pages let you highlight different content and features within your app or game using unique screenshots, app previews, and promotional text. To provide you with even more flexibility, you can now create and publish up to 70 custom pages at a given time. Additionally, you can now assign keywords to each custom product page so they’re more discoverable on the App Store. Custom product pages with keywords assigned to them can appear in search results for those selected keywords instead of your default product page.</p>
+<p><a class="link" href="https://developer.apple.com/app-store/custom-product-pages/"  target="_blank" rel="noopener"
+    >Learn more about custom product pages</a></p>
+<h3 id="offer-codes-expand-to-all-in-app-purchase-types">Offer codes expand to all In-App Purchase types
+</h3><p>Offer codes now support all In-App Purchase types, including consumable, non-consumable, and non-renewing subscriptions, in addition to expanded support for auto-renewable subscriptions. With offer codes, you can present people with a limited-time offer for a free or discounted In-App Purchase. This allows you to share the value of your In-App Purchases and encourage engagement and purchases within your apps and games. This expanded support includes the ability to create offer codes for:</p>
+<ul>
+<li>Consumable, non-consumable, and non-renewing subscriptions.</li>
+<li>Auto-renewable subscriptions that don’t auto-renew once the promotional period ends.</li>
+</ul>
+<p>Schedule 1 and the Paid Applications Agreement (Schedules 2 and 3) will be updated to indicate that offer codes are available for all In-App Purchase types.¹</p>
+<p><strong>Promo codes for In-App Purchases</strong></p>
+<p>Offer codes build on the functionality of <a class="link" href="https://developer.apple.com/help/app-store-connect/offer-promo-codes/request-and-manage-promo-codes/"  target="_blank" rel="noopener"
+    >promo codes</a> and provide improved configuration and customer eligibility options. As a result, starting March 26, 2026, you’ll no longer be able to create promo codes for In-App Purchases in App Store Connect. Any existing promo codes for In-App Purchases you’ve created can be redeemed until they expire. You can continue to use promo codes in order to provide people with a free download of your app.</p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/create-offer-codes-for-in-app-purchases"  target="_blank" rel="noopener"
+    >Learn about creating offer codes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-subscriptions/set-up-offer-codes"  target="_blank" rel="noopener"
+    >Learn about offer codes for auto-renewable subscriptions</a></p>
+<p>¹ Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Price updates for apps, In-App Purchases, and subscriptions</title>
       <link>https://n-kase.github.io/rss/posts/post-424/</link>

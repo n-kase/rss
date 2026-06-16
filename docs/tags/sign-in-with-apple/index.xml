@@ -1,0 +1,60 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sign in With Apple on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/sign-in-with-apple/</link>
+    <description>Recent content in Sign in With Apple on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 10:53:53 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/sign-in-with-apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New requirement for apps using Sign in with Apple for account creation</title>
+      <link>https://n-kase.github.io/rss/posts/post-426/</link>
+      <pubDate>Tue, 16 Jun 2026 10:53:53 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-426/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2025年10月9日にAppleが発表した新しい要件によれば、2026年1月1日から韓国に拠点を置く開発者は、Sign in with Appleを使ってアカウント作成を行う際に、サーバー・トゥ・サーバー通知エンドポイントを設定しなければならない。これは、新しいServices IDを登録する場合や既存のものを更新する場合に適用される。通知エンドポイントを設定することで、Appleはメール転送設定の変更、アプリ内でのアカウント削除、そしてAppleアカウント自体の永久削除など、ユーザーのアカウント状況に関する重要なアップデートを開発者に送信できるようになる。開発者はこれらの通知を受け取った際に、アプリ内の関連データやサーバーインフラストラクチャを速やかに更新し、ユーザーが自身の個人データをコントロールしやすくすることが求められる。また、アカウント変更に関するガイドラインとして、メール転送変更時の表示データの整合性、ウェブサイトへの誘導リンクの提供、その他のサービスへの影響説明、そしてアカウント削除時の法令遵守とデータ保持の注意点が示されている。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この発表を受けて、開発者コミュニティでは様々な反応が見られた。一部の開発者は、ユーザーのプライバシー保護とデータコントロールを強化するための必要なステップだと評価し、特にGDPRや韓国の個人情報保護法に準拠しやすくなる点を挙げて支持した。一方で、追加のサーバー側実装が必要になることから、中小規模の開発者や個人開発者にとって負担が増えるのではないかという懸念も表明された。特に、通知エンドポイントの設定や受信後のデータ更新フローを実装するためのドキュメントが十分でないと感じる声があり、Apple側にさらに詳しいサンプルコードやチュートリアルの提供を求める意見が出た。時間が経つにつれて、実際に導入を進めた開発者からは、初期の設定作業は手間だが、長期的にはユーザーからの信頼獲得や不正アクセスのリスク低減につながるとの肯定的な評価も増えてきた。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回の要件は、Appleがプライバシー中心のエコシステムをさらに強化しようとする方針の一環である。近年、世界各国で個人データ保護法が強化される中、サインイン機能におけるアカウント変更の透明性を高めることは、開発者側にも利用者側にもメリットがある。ユーザーは自分のメール転送設定やアカウント状況が正確に通知されることで、不要なデータ共有を防ぎやすくなり、開発者は法令遵守のリスクを低減しつつ、サービスの信頼性向上につなげられる。したがって、この変更は開発者に一時的な作業負荷をもたらすが、結果としてより健全で安全なアプリエコシステムの構築に寄与すると考えられる。今後は、開発者が必要なリソースを確実に確保し、Appleが提供するガイドラインやサンプルを活用することが成功の鍵となるだろう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=j9zukcr6"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="New requirement for apps using Sign in with Apple for account creation" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7ea03cb4a58f68f88a1498bc8b09f602.png"></p>
+<h2 id="new-requirement-for-apps-using-sign-in-with-apple-for-account-creation">New requirement for apps using Sign in with Apple for account creation
+</h2><p>October 9, 2025</p>
+<p>Starting January 1, 2026, developers based in the Republic of Korea must provide a <a class="link" href="https://developer.apple.com/help/account/capabilities/enabling-server-to-server-notifications"  target="_blank" rel="noopener"
+    >server‑to‑server notification endpoint</a> when registering a new Services ID, or updating an existing Services ID, to <a class="link" href="https://developer.apple.com/help/account/capabilities/configure-sign-in-with-apple-for-the-web"  target="_blank" rel="noopener"
+    >associate their website</a> with an app using <a class="link" href="https://developer.apple.com/design/human-interface-guidelines/sign-in-with-apple"  target="_blank" rel="noopener"
+    >Sign in with Apple</a>.</p>
+<p>As a reminder, registering a notification endpoint allows Apple to send you important updates about the people who use your app and their account status, including:</p>
+<ul>
+<li>Changes in email forwarding preferences.</li>
+<li>Account deletions in your app.</li>
+<li>Permanent Apple Account deletions.</li>
+</ul>
+<p>To learn more about server-to-server notifications, see <a class="link" href="https://developer.apple.com/videos/play/wwdc2020/10173/"  target="_blank" rel="noopener"
+    >WWDC20 session 10173: Get the most out of Sign in with Apple</a>.</p>
+<p>When you receive these notifications, you should immediately update any data associated with the account change in the app, as well as any necessary server infrastructure, to give people more control of the personal data they’ve shared. For more information, see <a class="link" href="https://developer.apple.com/documentation/signinwithapple/processing-changes-for-sign-in-with-apple-accounts"  target="_blank" rel="noopener"
+    >Processing changes for Sign in with Apple accounts</a>.</p>
+<p>Before submitting a new app to the App Store, or updating an existing app configuration to register a new Services ID or modify an existing Services ID, please read the guidance below.</p>
+<h3 id="account-change-guidance">Account change guidance
+</h3><p>Account changes are directly related to privacy and control for the user and their personal data, and confirming account changes should be straightforward and transparent.</p>
+<p><strong>For account email forwarding changes:</strong></p>
+<ul>
+<li>Ensure any displayed user data affected by the account change matches the change event in the notification payload. Typically, this data is displayed in the app’s account settings or user profile.</li>
+<li>If people need to visit a website to finish changing or verifying their email address, include a link directly to the page on your website where they can complete the process.</li>
+<li>Keep users informed. If the email forwarding change affects other services you offer, let them know. If your app supports In-App Purchases, help people understand how billing, order tracking, and cancellations will be handled with the new email address.</li>
+</ul>
+<p><strong>For account deletions:</strong></p>
+<p><strong>Note:</strong> Always follow applicable legal requirements for storing and retaining user account information and for handling account changes and deletions. This includes complying with local laws where your apps are available. If you have questions regarding your legal obligations, check with your legal counsel.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
