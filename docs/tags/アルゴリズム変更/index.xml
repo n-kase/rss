@@ -1,0 +1,50 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>アルゴリズム変更 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E5%A4%89%E6%9B%B4/</link>
+    <description>Recent content in アルゴリズム変更 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:12:52 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E5%A4%89%E6%9B%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithm changes to server connections for Apple Pay on the Web</title>
+      <link>https://n-kase.github.io/rss/posts/post-473/</link>
+      <pubDate>Tue, 16 Jun 2026 11:12:52 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-473/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは2025年2月4日から、ウェブでのApple Payにおけるサーバー接続を保護するアルゴリズム（暗号スイート）を変更すると発表しました。この変更により、現在のサーバーがサポートしている暗号スイートのうち、指定された六種類のうちいずれか一つ以上をサポートしている必要があります。対象となる接続ポイントは、Apple Payの支払いセッションのリクエスト、ドメイン検証の更新、定期・延期・自動リロード取引のマーチャントトークン通知の受信・処理、Wallet Ordersの作成・更新、およびApple Pay Webマーチャント登録APIを通じたマーチャントオンボーディング管理です。開発者は、2025年2月4日までに本番サーバーがこれらのアルゴリズムに対応していることを確認し、サービスの中断を防ぐ必要があります。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネットの反応やコメントは含まれていませんので、推測による記載は行いません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>アルゴリズムの更新は、セキュリティ基準の進化に合わせて行われる定期的な対応であり、ウェブ決済サービスの安全性を維持するために必要です。開発者側では、サーバー設定の見直しやテストを早期に実施することで、移行期間中に発生しうる接続エラーを防ぐことができます。このような変更は、決済インフラ全体の信頼性向上に寄与し、利用者にとっても安心してサービスを利用できる環境を支えるものです。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=2x8awlvm"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="Algorithm changes to server connections for Apple\u00a0Pay on\u00a0the\u00a0Web" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/682546ced730d2d1af5bd53dc79bbe57.png"></p>
+<h2 id="algorithm-changes-to-server-connections-for-apple-pay-on-the-web">Algorithm changes to server connections for Apple Pay on the Web
+</h2><p>January 9, 2025</p>
+<p>Starting next month, Apple will change the supported algorithms that secure server connections for Apple Pay on the Web. In order to maintain uninterrupted service, you’ll need to ensure that your production servers support one or more of the <a class="link" href="https://developer.apple.com/documentation/apple_pay_on_the_web/setting_up_your_server#overview"  target="_blank" rel="noopener"
+    >designated six ciphers</a> before <strong>February 4, 2025.</strong></p>
+<p>These algorithm changes will affect any secure connection you’ve established as part of your Apple Pay integration, including the following touchpoints:</p>
+<ul>
+<li><a class="link" href="https://developer.apple.com/documentation/apple_pay_on_the_web/apple_pay_js_api/requesting_an_apple_pay_payment_session"  target="_blank" rel="noopener"
+    >Requesting an Apple Pay payment session</a>(Apple Pay on the Web only)</li>
+<li><a class="link" href="https://developer.apple.com/documentation/apple_pay_on_the_web/maintaining_your_environment#3179140"  target="_blank" rel="noopener"
+    >Renewing your domain verification</a>(Apple Pay on the Web only)</li>
+<li><a class="link" href="https://developer.apple.com/documentation/applepaymerchanttokenmanagementapi/receiving-and-handling-merchant-token-notifications"  target="_blank" rel="noopener"
+    >Receiving and handling merchant token notifications</a>for recurring, deferred, and automatic-reload transactions (Apple Pay on the Web and in app)</li>
+<li>Creating and updating <a class="link" href="https://developer.apple.com/documentation/walletorders"  target="_blank" rel="noopener"
+    >Wallet Orders</a>(Apple Pay on the Web and in app)</li>
+<li>Managing merchant onboarding via the <a class="link" href="https://developer.apple.com/documentation/applepaywebmerchantregistrationapi"  target="_blank" rel="noopener"
+    >Apple Pay Web Merchant Registration API</a>(payment service provider (PSP) and e-commerce platforms only)</li>
+</ul>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

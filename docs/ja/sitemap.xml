@@ -2,8 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://n-kase.github.io/rss/tags/ai/</loc>
+    <lastmod>2026-06-16T11:13:46+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-474/</loc>
+    <lastmod>2026-06-16T11:13:46+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/</loc>
+    <lastmod>2026-06-16T11:13:46+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://n-kase.github.io/rss/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://n-kase.github.io/rss/en/"
+                />
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/</loc>
+    <lastmod>2026-06-16T11:13:46+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/summary/</loc>
+    <lastmod>2026-06-16T11:13:46+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/categories/</loc>
+    <lastmod>2026-06-16T11:13:46+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://n-kase.github.io/rss/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://n-kase.github.io/rss/en/categories/"
+                />
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/</loc>
+    <lastmod>2026-06-16T11:13:46+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://n-kase.github.io/rss/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://n-kase.github.io/rss/en/tags/"
+                />
+  </url><url>
+    <loc>https://n-kase.github.io/rss/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</loc>
+    <lastmod>2026-06-16T11:13:46+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/2025%E5%B9%B42%E6%9C%88/</loc>
+    <lastmod>2026-06-16T11:12:52+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-473/</loc>
+    <lastmod>2026-06-16T11:12:52+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/apple-pay/</loc>
+    <lastmod>2026-06-16T11:12:52+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/web%E6%B1%BA%E6%B8%88/</loc>
+    <lastmod>2026-06-16T11:12:52+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/</loc>
+    <lastmod>2026-06-16T11:12:52+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E5%A4%89%E6%9B%B4/</loc>
+    <lastmod>2026-06-16T11:12:52+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</loc>
+    <lastmod>2026-06-16T11:12:52+09:00</lastmod>
+  </url><url>
     <loc>https://n-kase.github.io/rss/tags/app-store/</loc>
-    <lastmod>2026-06-16T11:12:01+09:00</lastmod>
+    <lastmod>2026-06-16T11:12:42+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-472/</loc>
+    <lastmod>2026-06-16T11:12:42+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/sha-256/</loc>
+    <lastmod>2026-06-16T11:12:42+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88/</loc>
+    <lastmod>2026-06-16T11:12:42+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%88%E7%BD%B2%E5%90%8D/</loc>
+    <lastmod>2026-06-16T11:12:42+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85%E5%90%91%E3%81%91/</loc>
+    <lastmod>2026-06-16T11:12:42+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/apple/</loc>
     <lastmod>2026-06-16T11:12:01+09:00</lastmod>
@@ -17,52 +107,7 @@
     <loc>https://n-kase.github.io/rss/tags/eu/</loc>
     <lastmod>2026-06-16T11:12:01+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/</loc>
-    <lastmod>2026-06-16T11:12:01+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://n-kase.github.io/rss/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://n-kase.github.io/rss/en/"
-                />
-  </url><url>
-    <loc>https://n-kase.github.io/rss/posts/</loc>
-    <lastmod>2026-06-16T11:12:01+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/tags/trader-status/</loc>
-    <lastmod>2026-06-16T11:12:01+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/categories/</loc>
-    <lastmod>2026-06-16T11:12:01+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://n-kase.github.io/rss/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://n-kase.github.io/rss/en/categories/"
-                />
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/</loc>
-    <lastmod>2026-06-16T11:12:01+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://n-kase.github.io/rss/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://n-kase.github.io/rss/en/tags/"
-                />
-  </url><url>
-    <loc>https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</loc>
     <lastmod>2026-06-16T11:12:01+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/2025%E5%B9%B4%E7%99%BA%E8%A1%A8/</loc>
@@ -219,9 +264,6 @@
     <lastmod>2026-06-16T11:08:37+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</loc>
-    <lastmod>2026-06-16T11:08:37+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85%E5%90%91%E3%81%91/</loc>
     <lastmod>2026-06-16T11:08:37+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-460/</loc>
@@ -382,9 +424,6 @@
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E5%89%B5%E9%80%A0%E6%80%A7/</loc>
     <lastmod>2026-06-16T11:03:07+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/ai/</loc>
-    <lastmod>2026-06-16T11:02:53+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/core-ai/</loc>
     <lastmod>2026-06-16T11:02:53+09:00</lastmod>
@@ -749,13 +788,7 @@
     <loc>https://n-kase.github.io/rss/tags/%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BF%9D%E8%AD%B7/</loc>
     <lastmod>2026-06-16T10:49:36+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/summary/</loc>
-    <lastmod>2026-06-16T10:49:02+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-414/</loc>
-    <lastmod>2026-06-16T10:49:02+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/</loc>
     <lastmod>2026-06-16T10:49:02+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-413/</loc>
