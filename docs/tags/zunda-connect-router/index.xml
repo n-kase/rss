@@ -1,0 +1,57 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZUNDA CONNECT ROUTER on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/zunda-connect-router/</link>
+    <description>Recent content in ZUNDA CONNECT ROUTER on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 12:42:09 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/zunda-connect-router/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>緑色の10GbE対応ルーターに閉域網SIMを内蔵、「ZUNDA CONNECT ROUTER」は情シス支援の経験から生まれた【Interop Tokyo 2026】</title>
+      <link>https://n-kase.github.io/rss/posts/post-687/</link>
+      <pubDate>Tue, 16 Jun 2026 12:42:09 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-687/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年6月10日から12日にかけて開催された「Interop Tokyo 2026」において、ZUNDA株式会社は法人向けルーター製品「ZUNDA CONNECT ROUTER」をブースで展示しました。このルーターは月額1万5000円のサブスクリプション方式で提供され、初期費用は0円です。通常の10GbE対応モデルに加えて、小型化した試作機「ZUNDA CONNECT ROUTER LITE」も同時に展示されていました。さらに、この製品は同展示会の「Best of Show Award」にて、「ネットワークインフラ（エンタープライズ）部門」および「ShowNetコントリビュータ部門」の審査員特別賞を受賞しています。</p>
+<p>ZUNDA株式会社は元々中小企業やスタートアップ向けに情シス支援やクラウド導入支援を行ってきた会社です。顧客企業でのネットワークトラブルが増加したことを受けて、自社でルーターを開発しました。ネットワーク管理者が常駐しない拠点でも、トラブル時に現地へ駆けつける負担を軽減できるよう設計されています。具体的には、クラウド管理型でインターネット経由どこからでも設定可能であり、閉域網SIMを内蔵しているため、WAN接続前やトラブル時でもルーターの設定が行えます。これにより、設置時は電話でケーブル接続の指示をするだけで利用開始でき、トラブル発生時もリモート対応が可能です。ハードウェア故障時は先出しセンドバックで交換対応し、交換機にケーブルを差し替えるだけで設定を復元できます。</p>
+<p>また、ポートやネットワーク状態、ログはクラウドコンソールで確認でき、スピードテスト機能も備えています。複数拠点をフルメッシュでVPN接続する「マネージドメッシュ」機能があり、ルーターを追加するときは名前を指定するだけでVPNに参加できます。コンフィグはJSON形式で管理され、クラウドコンソールから直接編集や項目名の補完、バージョン管理、変更点の確認、ロールバックなどが行えます。実際にInterop Tokyoの会場ネットワーク「ShowNet」でも、ラックN-7にZUNDA CONNECT ROUTER LITE、ラックN-8にZUNDA CONNECT ROUTERを配置し、VPN接続に利用されていました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>ZUNDA CONNECT ROUTERの開発は、中小・中堅企業におけるネットワーク管理の負担軽減という実際のニーズから生まれました。情シス担当者が常駐しない拠点でも、クラウド管理と閉域網SIMによる遠隔設定・トラブル対応が可能になることで、導入ハードルが下がり、運用コストの削減に寄与すると考えられます。受賞歴や実際のショーイベントでの利用実績は、製品の信頼性と実用性を裏付けるものです。今後、同様のクラウド管理型ネットワーク機器が増えることで、企業のITインフラはより柔軟かつ効率的になることが期待されます。</p>
+<p><a class="link" href="https://internet.watch.impress.co.jp/docs/event/2117173.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>イベントレポート</p>
+<p>Interop Tokyo 2026</p>
+<h1 id="緑色の10gbe対応ルーターに閉域網simを内蔵zunda-connect-routerは情シス支援の経験から生まれた">緑色の10GbE対応ルーターに閉域網SIMを内蔵、「ZUNDA CONNECT ROUTER」は情シス支援の経験から生まれた
+</h1><p>2026年6月16日 09:31</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ee0da30fa6c99ea87953032311908dd6.jpg"></p>
+<p>6月10日～12日に開催された「Interop Tokyo 2026」の<a class="link" href="https://www.zunda.co.jp/"  target="_blank" rel="noopener"
+    >ZUNDA株式会社</a>のブースでは、法人向けルーター製品「ZUNDA CONNECT ROUTER」を展示していた。月額1万5000円のサブスクリプション方式で、初期費用は0円。</p>
+<p>ブースでは、通常の10GbE対応のZUNDA CONNECT ROUTERに加えて、10GbE非対応で小型化した試作機「ZUNDA CONNECT ROUTER LITE」も展示されていた。</p>
+<p>なお、ZUNDA CONNECT ROUTERは、Interop Tokyo出展者の製品を表彰する「Best of Show Award」にて、「ネットワークインフラ（エンタープライズ）部門」と「ShowNetコントリビュータ部門」の審査員特別賞を受賞した。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2e6ed0d882c675d6bd7398591fa30e7c.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3fd8187f19e939cdc79507436f67d995.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fa84ba1b587f89301268b87331070180.jpg"></p>
+<p>同社はもともと、中小企業やスタートアップ企業に、情シス支援やクラウド導入支援などを行ってきた会社だ。その中で、顧客企業でネットワークのトラブルが問題になることが増えてきたことから、自分たちでルーターを開発したとのことだった。</p>
+<p>そのため、ネットワーク管理者のいない拠点を抱え、拠点でネットワークにトラブルがあると情シス担当者が駆けつけないといけないような中小・中堅企業を助けるような作りになっているのが特徴だ。</p>
+<p>具体的には、ZUNDA CONNECT ROUTERは、クラウド管理型になっていて、インターネット経由でどこからでもルーターを設定できる。しかも、閉域網SIMを内蔵してその回線からクラウド管理につながっているため、ルーターをWANに接続する前や、WAN接続にトラブルがあるときでも、ルーターを設定できる。</p>
+<p>それにより、設置時にも、情シス担当者が電話などで拠点の人にケーブルをつなぐ指示をするだけで使い始められる。トラブルが発生したときにも、多くの場合は現地に駆けつけることなくリモートから対応できるという。なお、ハードウェア故障時は先出しセンドバックにより交換対応し、交換機にケーブルを差し替えるだけで設定を復元できる。</p>
+<p>もちろん、ポートやネットワークの状態、ログなどをクラウドのコンソールで確認できるほか、ルーターからのスピードテスト機能もあるため、現地での状況がリモートで分かる。複数拠点をフルメッシュでVPN接続する「マネージドメッシュ」機能もあり、ルーターを追加するときはその名前を指定すればVPNに参加できる。</p>
+<p>コンフィグはJSON形式で管理。クラウドのコンソールから直接JSONで編集することもでき、入力時の項目名の補完や、バージョン管理、変更点の確認、ロールバックなどの機能もある。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/56b7a3b8edc53604f572596773f44493.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/acc76d2ce06df4ef195f2e8608a8635d.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ec69c3fbc5be1ad90c0e382e4c78e468.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/276bd5f6003613fb5097b8201f27b97d.jpg"></p>
+<p>ZUNDA CONNECT ROUTERは今回、Interop Tokyoの会場ネットワーク「ShowNet」にも参加。出展ブースを収容するラックN-7で「ZUNDA CONNECT ROUTER LITE」が、Wi-Fiアクセスポイントを管理するラックN-8で「ZUNDA CONNECT ROUTER」が、それぞれVPNに使われていた。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d28204be49b507033548b1af923bf28c.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/62ebadf907e1cc40ee97429a03265e38.jpg"></p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
