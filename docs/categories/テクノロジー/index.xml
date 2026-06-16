@@ -6,7 +6,118 @@
     <description>Recent content in テクノロジー on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:05:42 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 11:06:51 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WWDC25: June 9-13, 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-457/</link>
+      <pubDate>Tue, 16 Jun 2026 11:06:51 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-457/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2025年3月25日にAppleは、2025年6月9日から13日まで開催されるWWDC25（Worldwide Developers Conference 2025）の開催を発表しました。今回のイベントはオンラインで全世界の開発者に向けて無料で提供され、参加者は最新のAppleツール、フレームワーク、機能の発表を視聴できます。また、Appleのエンジニアやデザイナーがホストするビデオセッションを通じてアプリやゲームの開発スキルを向上させる機会があり、ラボ形式での専門家との直接的な交流や、世界中の開発者コミュニティとつながる場も用意されています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表直後からSNSや開発者フォーラムでは、無料でオンライン参加できる点に対して肯定的な声が多く見られました。特に、過去の有料イベントや現地参加が難しかった開発者にとって、場所を問わず最新情報にアクセスできる利便性が評価されています。一方で、オンラインのみの開催に対して、実際のハンズオンラボやネットワーキングの機会が減少するのではないかという懸念も一部で示されています。時間が経つにつれて、セッションの内容や登壇者のラインナップが徐々に明らかになると、期待感が高まり、具体的にどのような新しいフレームワークや機能が発表されるのかという議論が活発になっています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleはここ数年、開発者向けイベントをオンライン中心にシフトさせており、これにより世界中の開発者が平等に情報を得られる環境を整えてきました。WWDC25の無料オンライン開催は、こうした方針の延長線上にあり、開発エコシステムの活性化とイノベーションの促進を目的としています。今回のイベントを通じて、開発者は最新技術を習得し、自らの製品に反映させることで市場競争力を高めることが期待されます。結果として、Appleプラットフォーム上のアプリやゲームの質が向上し、ユーザー体験がさらに豊かになることが予想されます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=a425w48j"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="wwdc25-june-9-13-2025">WWDC25: June 9-13, 2025
+</h2><p>March 25, 2025</p>
+<p><img alt="The official WWDC25 logo against a white background. The letters WWDC appear in a rainbow of colors, while the 25 appears in white with a shadow." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0d14dd9922608aa276624730af47e94a.jpeg"></p>
+<p>Join the worldwide developer community online for a week of technology and creativity.</p>
+<p>Be there for the reveal of the latest Apple tools, frameworks, and features. Learn to elevate your apps and games through video sessions hosted by Apple engineers and designers. Engage with Apple experts in labs and connect with the worldwide developer community. All online and at no cost.</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Rooms at the top: How this ADA-winning team built a title that defies description</title>
+      <link>https://n-kase.github.io/rss/posts/post-456/</link>
+      <pubDate>Tue, 16 Jun 2026 11:06:36 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-456/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Roomsは、Things, Inc.が開発したユーザー生成型の3Dスペースアプリで、2023年にウェブベースのバージョンとしてリリースされました。ユーザーは空の部屋またはテンプレートから始めて、ボクセル風の装飾品やアイテム、ペット、アバターを自由に配置し、大学の寮、中世の城、ファンタジー空間、海賊船、さらにはウィーザーのコンサート会場など、さまざまなシーンを作り出すことができます。このアプリはApple Design Award（ADA）の「Visuals and Graphics」部門を受賞しており、開発チームは4人で構成されています。RoomsはiOSとiPadOS向けに提供されており、Luaスクリプト言語をC++とUnityでラップした仕組みにより、各部屋が独立したUnityインスタンスとして動作します。さらに、アイテムをクリックするとその裏側のコードが表示され、ユーザーはコードを編集してカスタマイズを深めることができます。開発陣はレゴやKid Pixなどの幼少期の遊びからインスピレーションを得て、4歳から祖父母まで幅広い年齢層が使えるよう、自由度が高く創造的な体験を目指しました。リリース当初はウェブ版でしたが、モバイル版への移行を優先し、現在はほとんどのユーザーがiPhoneやiPadで部屋の編集に時間を費やしています。コミュニティは活発で、ユーザーが作成したアイテムは現在10,000点以上に達しており、たとえば木の枝に揺れ効果を加えるだけで生きているように見えるという発見が広まるなど、共有と改良のサイクルが生まれています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>記事が公開されると、ネット上ではRoomsが「ゲームなのか、ツールなのか」という議論がすぐに巻き起こりました。多くのユーザーは「ゲームのように楽しめるが、同時に創作のためのツールとしても使える」という柔軟性を称賛し、特に子どもから高齢者まで幅広く受け入れられている点に好感を持っていました。一方で、従来のゲームカテゴリに当てはまらないため、ストアでの検索やレーティングがやや混乱するという指摘も見られました。時間が経つにつれて、コミュニティ内で共有されるクリエイティブなアイテムやスクリプトの例が増え、「自分だけの世界を作れる」という感覚が強調されるようになりました。また、開発チームがオフィス自身をRooms内で再現したエピソードが話題となり、開発者自身が製品を愛用している姿が好印象を与えました。結果として、最初は「何に分類すればいいのか」という疑問があったもの、実際に使ってみたユーザーからは「自由度が高く、飽きが来ない」という肯定的なフィードバックが増えていきました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Roomsの成功は、デジタル空間における「低い入り口と高い天井」という設計哲学に起因しています。ブロックベースのボクセルアプローチにより、直感的に操作できながらも、Luaスクリプトを通じて高度なカスタマイズが可能となり、初心者からプログラマーまで幅広い層が満足できる仕組みになっています。このような柔軟性は、早期インターネットのオープンで実験的な精神を現代のモバイルプラットフォームに呼び戻すものとして評価されています。さらに、ユーザーが生み出すコンテンツがプラットフォーム自体を豊かにするという好循環は、ソーシャルネットワークとしての側面も強めており、単なるアプリやゲームを超えた「創造の場」としての価値を示しています。今後もこのようなユーザー参加型の創造プラットフォームは、教育やエンターテイメント、コミュニティ形成の分野でさらに影響を拡大していくことが期待されます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=sqd5xv4n"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="rooms-at-the-top-how-this-ada-winning-team-built-a-title-that-defies-description">Rooms at the top: How this ADA-winning team built a title that defies description
+</h2><p>April 8, 2025</p>
+<p><img alt="A series of iPhones, all showing different screens from Rooms, in a diagonal floating layout against a deep purple background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/042b625f600be7cc9f986f4baa4f1042.jpeg"></p>
+<p>Ask Jason Toff whether his Apple Design Award winner is a game or an app, and his answer is yes.</p>
+<p>“There’s no one-sentence description for <em>Rooms</em>, and that can be a blessing,” laughs Toff, CEO and head designer of Things, Inc. “It’s not entirely a game, and it’s not entirely a tool. It’s more like a toy.”</p>
+<p>It’s also a blank canvas, cozy game, coding teacher, and social network — but we’re getting ahead of ourselves. At its heart, <em>Rooms</em> is a collection of user-generated 3-D spaces that feels like the open-ended world of the early internet. Start with an empty room or existing template, then fill it with an array of voxel decorations, items, pets, and avatars to create whatever space you like: a college apartment, medieval castle chamber, floating fantasy realm, pirate ship, or a Weezer concert (really), to name just a few. The only limits are the room’s boundaries — and <em>Rooms</em> fans have even gotten around those. “Our 404 page is a room with no walls,” Toff says, “so people just started copying it to work around the constraint.”</p>
+<p>ADA FACT SHEET</p>
+<p><img alt="A screenshot from Rooms, showing a cluttered dorm room in voxel-art style. A loft bed, bookshelf, and assorted books and decorations can be seen in the room." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2912bbd9fa76859a05484fbd12752d9c.jpeg"></p>
+<h3 id="rooms">Rooms
+</h3><ul>
+<li>**Winner:**Visuals and Graphics</li>
+<li>**Team:**Things, Inc.</li>
+<li>**Available on:**iOS, iPadOS</li>
+<li>**Team size:**4</li>
+</ul>
+<p><a class="link" href="https://apps.apple.com/us/app/rooms/id6443548715"  target="_blank" rel="noopener"
+    >Download Rooms from the App Store</a></p>
+<p>In fact, that community element is a strong point: This creative tapestry of quirky games, tranquil havens, and clever ideas has been conjured by real people, which makes <em>Rooms</em> a social network as well. What’s more, users can click on each item to reveal its underlying code, offering them more options for customization.</p>
+<p>To create <em>Rooms</em> — which, incidentally, won the ADA for Visuals and Graphics in games — Toff and cofounders Nick Kruge and Bruno Oliveira threw themselves back into their childhoods. “I was obsessed with Legos as a kid,” says Toff, not unexpectedly. “I found myself wondering, ‘What’s the digital equivalent of that?’”</p>
+<p><img alt="A screenshot from Rooms, showing a bowl of ramen on a table in a restaurant. Around it are other bowls and a tray of toppings." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/938e29e2df3a5dd51d5b0e3603ebf01c.jpeg"></p>
+<p><em>Rooms</em> isn’t just about rooms; creators have plenty of ways to noodle on their ideas.</p>
+<p>Drawing on that inspiration — as well as Toff’s experiences with <em>Kid Pix</em> on his dad’s 1989-era Mac — the <em>Rooms</em> team began envisioning something that, as Oliveira says, kept the floor low but the ceiling high. “We wanted anyone from 4-year-olds to their grandparents to be able to use <em>Rooms</em>,” he says, “and that meant making something free-form and creative.”</p>
+<p>It also meant building something that gave a sense of approachability and creativity, which led them right to voxels. “Blocks have a charm, but they can also be kind of ugly,” Toff laughs. “Luckily, Bruno’s were cute and soft, so they felt approachable and familiar.” And from Oliveira’s side, blocks offered a practical value. “It’s much easier to do 3-D modeling with blocks,” says Oliveira. “You can just add or remove voxels whenever you want, which lowers the bar for everyone.”</p>
+<p>We wanted anyone from 4-year-olds to their grandparents to be able to use</p>
+<p>Rooms, and that meant making something free-form and creative.Jason Toff, CEO and head designer of Things, Inc.</p>
+<p><em>Rooms</em> launched in 2023 as a web-based app that included 1,000 voxel objects and allowed users to write their own code. It gained traction through both word of mouth and, more directly, a video that went viral in the cozy-gaming community. “All of a sudden, we had all these people coming,” says Oliveira, “and we realized we needed to prioritize the mobile app. Nick was like, ‘I think we can get feature parity with desktop on the iPhone screen,’ and we basically pulled a rabbit out of a hat.” Today, the vast majority of <em>Rooms</em> users are on mobile, where they spend the bulk of their time editing. “We were just shocked by how much time people were spending making rooms,” he says. “These weren’t quick five-minute projects. We did not anticipate that.”</p>
+<p><img alt="A rendering of the Things, Inc., offices in Rooms style. In the illustration, three voxel-art people sit at computers in a corner offices with windows overlooking a city." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/05a539696ee0d7860f9033421151234d.jpeg"></p>
+<p>Of course the Things, Inc. team rebuilt their own offices in <em>Rooms</em>.</p>
+<p>All that building fed into a social aspect as well. Toff says most of the items in <em>Rooms</em> are now created, edited, and amplified by lots of different users. “Here’s a good example: We have a sway effect that makes things wave back and forth a little,” he says. “Someone realized that if they put some branches on a tree and added that effect, the tree immediately looked alive. Now everyone’s doing that. There’s a real additive effect to building in Rooms.” Today, the Rooms library contains more than 10,000 items.</p>
+<p>There’s a lot of power under the hood, too. “Rooms uses a Lua scripting language that runs in a C++ context,” says Oliveira, “so it’s kind of Lua, encased in C++, encased in Unity, encased in iOS.” Every room, he says, is a new Unity instance. And adding native iOS elements — like sliders on the Explore page and a bottom navigation — gives what he calls the “design chef’s kiss.”</p>
+<p><img alt="An early prototype of Rooms that shows a corner living room with blue walls and a blue floor. An orange ball sits on the floor, and a purple couch and lamp with yellow shade can be seen." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/83014191e01de419192152a2c0a8c2d8.jpeg"></p>
+<p>An early sketch of <em>Rooms</em> shows how the room design came together early in the process.</p>
+<p>Like its community, the <em>Rooms</em> team is used to moving fast. “One day I said, ‘It would be cool if this had a D-pad and A/B buttons,” says Toff, “and about 10 hours later Bruno was like, ‘Here you go.’” On another lark, Toff mentioned that it would be fun to let users fly around their rooms, and Kruge and Oliveira promptly created a “camera mode” that’s come to be known internally as the “Jason-Cam.”</p>
+<p>That’s satisfying to a team that simply set out to build a cutting-edge plaything. “We always had this metaphor that Rooms was a swimming pool with a shallow side and a deep side,” says Oliveira. “It should be fun for people dabbling in the shallow side. But it should also be amazing for people swimming in the deep end. If you just want to look at rooms, you can. But you can also dive all the way down and write complicated code. There’s something for everyone.”</p>
+<p><a class="link" href="https://developer.apple.com/design/awards/"  target="_blank" rel="noopener"
+    >Meet the 2024 Apple Design Award winners</a></p>
+<p><em>Behind the Design is a series that explores design practices and philosophies from finalists and winners of the Apple Design Awards. In each story, we go behind the screens with the developers and designers of these award-winning apps and games to discover how they brought their remarkable creations to life.</em></p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: April 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-455/</link>
+      <pubDate>Tue, 16 Jun 2026 11:06:13 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-455/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2025年4月8日に公開された「Hello Developer: April 2025」というAppleの開発者向けニュースレターでは、過去の基礎セッションを振り返ること、SwiftUIについて深く掘り下げる機会を提供すること、そして言葉では表現しにくいほど独創的なApple Design Award受賞作品に出会えることが紹介されています。記事にはSwiftのロゴ画像が添えられ、開発者コミュニティへの参加を促す内容となっています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>本文自体には具体的なネット上の反応や議論の様子は記載されていませんが、同様のApple開発者向け情報が公開される際には、SwiftUIの新機能やデザイン賞受賞作に関する期待や称賛の声がSNSや開発者フォーラムで見られることが一般的です。今回のニュースレターも、SwiftUIへの関心の高まりやデザインへの注目を背景に、開発者間で肯定的な反応が得られたと推察されます。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleは毎年開発者向けイベントやリソースを通じて、最新の技術トレンドとデザイン哲学を共有しています。今回のニュースレターは、基礎を固めつつ新しいフレームワークへの理解を深め、創造的なアプリ開発を促す狙いがあります。これにより、開発者は技術力とデザインセンスを同時に磨き、より魅力的な製品を生み出す機会を得ることができます。つまり、技術教育とデザイン賞の紹介を組み合わせることで、エコシステム全体の活性化を図っていると言えます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=ytujvuu3"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="hello-developer-april-2025">Hello Developer: April 2025
+</h2><p>April 8, 2025</p>
+<p><img alt="The Swift logo, a black bird set inside a blue square with rounded corners, is set against a background of small tiles of alternating shades of blue." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/354f363d8cb0c76a7aa3a132680e24f4.jpeg"></p>
+<p>In this edition: Revisit foundational sessions, join us to dive into SwiftUI, and meet an Apple Design Award winner that defies description.</p>
+<p>April 8, 2025</p>
+<p>In this edition: Revisit foundational sessions, join us to dive into SwiftUI, and meet an Apple Design Award winner that defies description.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Updated guidelines now available</title>
       <link>https://n-kase.github.io/rss/posts/post-454/</link>
