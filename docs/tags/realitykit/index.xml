@@ -1,0 +1,66 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RealityKit on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/realitykit/</link>
+    <description>Recent content in RealityKit on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:28:35 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/realitykit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: July 2024</title>
+      <link>https://n-kase.github.io/rss/posts/post-512/</link>
+      <pubDate>Tue, 16 Jun 2026 11:28:35 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-512/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>このテキストは、WWDC24（Appleの世界開発者会議2024）の主要な発表内容を紹介しています。世界中の15都市で開催されるグループセッションおよびオンラインでの動画、ドキュメント、新機能の解説が提供され、7月22日から26日にかけてオンラインのオフィスアワーでは、アプリやゲームに関する個別指導が受けられます。また、フォーラムではエンジニアが質問に答える体制が整っています。さらに、Apple Design Awardを受賞したライフスタイルアプリの開発チームが成功の秘訣を語るストーリーや、マルチプラットフォームでロボット植物学者の温室を作成する「BOT‑anist」チュートリアル、RealityKitビューにパーティクルエフェクトを追加する方法、SwiftUIを使った没入型メディア体験の構築、すべてのAppleデバイスでゲームを快適に動かすテクニック、Control Centerやロック画面、アクションボタンからアプリ機能への素早いアクセス方法、iOSとiPadOS用のダークおよびティント済みアプリアイコンの作成、そして次世代CarPlayデザインシステムの概要などが具体的に紹介されています。最後に、読者からのフィードバックや提案を募集する呼びかけが掲載されています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>WWDC24は、開発者が最新のAppleプラットフォーム技術を習得し、実際のアプリやゲームに活用できるようにするための場として位置づけられています。新しいフレームワークやツールの解説、実践的なチュートリアル、専門家からの直接サポートを通じて、開発スキルの向上とイノベーションの促進が狙われています。これにより、個人開発者から大企業までがより高品質で魅力的な製品を市場に送り出すことが期待され、結果としてユーザー体験の向上やデジタルエコシステムの活性化に寄与するでしょう。開発者コミュニティの参加とフィードバックが重視される姿勢は、技術進歩とユーザーニーズの両方に応える持続可能な成長基盤を築く一助となるでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=v9l8j3j9"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>In this edition: Dive deep into the big announcements from WWDC24, check out the first installment of the 2024 Behind the Design series, and more.</p>
+<p>Dive into all the new updates from WWDC24</p>
+<p>Join us to explore new videos, documentation, and features from WWDC24 in group sessions held in 15 cities around the world and online.</p>
+<p>Join us July 22–26 for online office hours to get one-on-one guidance about your app or game. And visit the forums where more engineers are ready to answer your questions.</p>
+<p>Positive vibrations:</p>
+<p>Find out why the team behind this Apple Design Award-winning lifestyle app believes success is about more than stats.</p>
+<p>Grow your skills with the BOT-anist</p>
+<p>Build a multiplatform app that uses windows, volumes, and animations to create a robot botanist’s greenhouse.</p>
+<p>Doing the things a particle can</p>
+<p>Add a range of visual effects to a RealityKit view by attaching a particle emitter component to an entity.</p>
+<p>Chart a course for Destination Video</p>
+<p>Leverage SwiftUI to build an immersive media experience.</p>
+<p>Make your game feel at home on all Apple devices.</p>
+<p>Provide quick access to a feature of your app from Control Center, the Lock Screen, or the Action button.</p>
+<p>Create dark and tinted app icon variants for iOS and iPadOS.</p>
+<p>Say hello to the next generation of CarPlay design system</p>
+<p>Learn how the system at the heart of CarPlay allows each automaker to express their vehicle’s character and brand.</p>
+<p>Share your thoughts</p>
+<p>We’d love to hear from you. If you have suggestions for our activities or stories, please let us know .</p>
+<p>JULY 2024</p>
+<p>Hello Developer</p>
+<p>BEHIND THE DESIGN</p>
+<p>Positive vibrations:</p>
+<p>Find out why the team behind this Apple Design Award-winning lifestyle app believes success is about more than stats.</p>
+<p>Read the story</p>
+<p>Grow your skills with
+the BOT-anist</p>
+<p>Build a multiplatform app that uses windows, volumes, and animations to create a robot botanist’s greenhouse.</p>
+<p>Meet the BOT-anist</p>
+<p>Doing the things a particle can</p>
+<p>Add a range of visual effects to a RealityKit view by attaching a particle emitter component to an entity.</p>
+<p>Read more</p>
+<p>Chart a course for Destination Video</p>
+<p>Leverage SwiftUI to build an immersive media experience.</p>
+<p>Read more</p>
+<p>&hellip;（長文のため省略されました）</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

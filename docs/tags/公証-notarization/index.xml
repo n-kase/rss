@@ -1,0 +1,36 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>公証 Notarization on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E5%85%AC%E8%A8%BC-notarization/</link>
+    <description>Recent content in 公証 Notarization on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:28:08 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E5%85%AC%E8%A8%BC-notarization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updates to runtime protection in macOS Sequoia</title>
+      <link>https://n-kase.github.io/rss/posts/post-510/</link>
+      <pubDate>Tue, 16 Jun 2026 11:28:08 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-510/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>macOS Sequoiaでは、Gatekeeperによってブロックされる署名が正しくないか、公証されていないソフトウェアを開こうとしたときに、Control‑クリックでこれを無効にするオプションがなくなりました。ユーザーは、システム設定の「プライバシーとセキュリティ」を開き、そこでソフトウェアのセキュリティ情報を確認した上で実行を許可する必要があります。また、Mac App Store以外でソフトウェアを配布する開発者には、Appleの公証サービスにソフトウェアを提出することを推奨しています。このサービスはDeveloper IDで署名されたソフトウェアを自動的にスキャンし、セキュリティチェックを行い、公証が完了するとGatekeeperが認識できるチケットを付与します。これにより、ユーザーは安心してソフトウェアを実行できるようになります。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>この変更は、誤って危険なソフトウェアを実行してしまうリスクを減らすことを目的としています。Gatekeeperの回避手段を制限することで、マルウェアや改ざんされたアプリの実行を防ぎ、全体的なシステムの安全性が向上します。開発者側は、公証の手順をワークフローに組み込む必要がありますが、それによってユーザーからの信頼を得やすくなり、ソフトウェア配布のハードルが低くなる効果も期待できます。結果として、macOSエコシステム全体のセキュリティが強化され、ユーザーはより安心してアプリを利用できるようになります。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=saqachfa"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="Updates to runtime protection in macOS\u00a0Sequoia" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5e293aba7b1994bda1b47072148e6a31.png"></p>
+<h2 id="updates-to-runtime-protection-in-macos-sequoia">Updates to runtime protection in macOS Sequoia
+</h2><p>August 6, 2024</p>
+<p>In macOS Sequoia, users will no longer be able to Control-click to override <a class="link" href="https://developer.apple.com/developer-id/"  target="_blank" rel="noopener"
+    >Gatekeeper</a> when opening software that isn’t signed correctly or notarized. They’ll need to visit System Settings &gt; Privacy &amp; Security to review security information for software before allowing it to run.</p>
+<p>If you distribute software outside of the Mac App Store, we recommend that you submit your software to be notarized. The Apple notary service automatically scans your Developer ID-signed software and performs security checks. When your software is ready for distribution, it’s assigned a ticket to let Gatekeeper know it’s been notarized so customers can run it with confidence.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
