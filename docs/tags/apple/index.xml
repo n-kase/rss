@@ -6,7 +6,86 @@
     <description>Recent content in Apple on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:26:24 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 11:27:15 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: August 2024</title>
+      <link>https://n-kase.github.io/rss/posts/post-508/</link>
+      <pubDate>Tue, 16 Jun 2026 11:27:15 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-508/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>このニュースレターでは、Appleが開発者向けに提供するさまざまなリソースと最新情報が紹介されています。まず、アプリを新しい市場に展開するための地域別インサイトやコンテンツのローカライズに関するオンラインセッションが案内されています。次に、Apple Design Awardを受賞したゲーム『Lost in Play』の開発陣が、大きなカエルやいたずら好きのgnome、時折登場するピザなどを使って想像力豊かな世界を作り上げた裏側のストーリーが特集されています。さらに、visionOSの部屋トラッキング機能を活用して物理空間と連携したカスタムインタラクションを実装する方法や、XcodeでアプリのインターフェースをさまざまなAppleデバイスに合わせてプレビューし、デザインを素早く反復する手法が説明されています。ニューススニペットとして、Apple Developer Programを通じて利用可能になったApple Music Feedの豊富なカタログメタデータ、macOS Sequoiaにおけるランタイム保護のアップデートとセキュアなユーザー体験の構築方法、アプリのパフォーマンスをピアグループベンチマークで評価する手段、そしてXcode Cloudのワークフローを開発ニーズに合わせて拡張する方法がそれぞれ簡単に触れられています。最後に、開発者からの意見や提案を募集する呼びかけが掲載されています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleは、開発者がグローバル市場で成功し、最新のハードウェアやプラットフォームの特性を最大限に活用できるよう、実践的なガイドとツールを継続的に提供しています。ローカライズ支援やゲーム制作の裏話を通じて創造性を刺激し、visionOSやXcodeの新機能を使った体験設計を促進することで、アプリの品質とユーザー満足度の向上を狙っています。また、セキュリティアップデートやパフォーマンス評価の仕組みを共有することで、信頼性と効率性の向上も支援しています。これらの取り組みは、開発者が技術的な課題を乗り越え、ビジネスチャンスを広げるための基盤となり、結果としてエコシステム全体の活性化に寄与すると考えられます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=2keszuqr"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>In this edition: Bring your app to new markets, go behind the design with Lost in Play, and more.</p>
+<p>Bring your app to new markets</p>
+<p>Get region-specific insights about the App Store and content localization in these online sessions.</p>
+<p>Creating the make-believe magic of Lost in Play</p>
+<p>Discover how the developers of this Apple Design Award-winning game conjured up an imaginative world of oversized frogs, mischievous gnomes, and occasional pizzas.</p>
+<p>Build local experiences with room tracking</p>
+<p>Use room tracking in visionOS to provide custom interactions with physical spaces.</p>
+<p>Preview your app‘s interface in Xcode</p>
+<p>Iterate designs quickly and preview how your app displays across different Apple devices.</p>
+<p>News snippets</p>
+<p>Explore the Apple Music Feed</p>
+<p>Now available through the Apple Developer Program, the Apple Music Feed provides rich catalog metadata for developing experiences that link back to Apple Music.</p>
+<p>Updates to runtime protection in macOS Sequoia</p>
+<p>Learn how to create a smooth and secure user experience for apps distributed outside the Mac App Store.</p>
+<p>Evaluate your app‘s performance</p>
+<p>Find out what’s working — and what you can improve — with peer group benchmark metrics across app categories, business models, and download volumes.</p>
+<p>Extend your Xcode Cloud workflows</p>
+<p>Discover how Xcode Cloud can adapt to your development needs.</p>
+<p>Share your thoughts</p>
+<p>We’d love to hear from you. If you have suggestions for our activities or stories, please let us know .</p>
+<p>AUGUST 2024</p>
+<p>Hello Developer</p>
+<p>BEHIND THE DESIGN</p>
+<p>Creating the make-believe magic</p>
+<p>Discover how the developers of this Apple Design Award-winning game conjured up an imaginative world of oversized frogs,</p>
+<p>Read the story</p>
+<p>&hellip;（長文のため省略されました）</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Updates to the StoreKit External Purchase Link Entitlement</title>
+      <link>https://n-kase.github.io/rss/posts/post-507/</link>
+      <pubDate>Tue, 16 Jun 2026 11:26:57 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-507/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは2024年6月に欧州委員会が発表したデジタル市場法（DMA）への対応として、App Storeのヨーロッパ版ストアフロントで利用可能なStoreKit External Purchase Link Entitlementの利用規約を更新すると発表しました。この変更は今秋から適用され、該当するエンタイトルメントを持つ開発者に対していくつかの新しい機能が提供されます。具体的には、開発者は自分のアプリ内で購入可能なオファーを通知・宣伝でき、その誘導先は別のアプリマーケットプレイス、別のアプリ、またはウェブサイトとすることができます。さらに、アプリ内またはウェブビューを通じてユーザーを誘導するアクション可能なリンクを使用でき、パラメータ付きURLやリダイレクト、中間リンクも許可されます。これらのリンクはInfo.plistに宣言する必要がなく、複数のURLを自由に利用できます。開発者は提供する情報がデジタル商品やサービスについて正確であることを確認しなければなりません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回の更新は、欧州委員会がデジタル市場法を施行し、大手プラットフォームに対して公正な競争環境を求める動きに対応するAppleのコンプライアンス計画の一部です。これにより、ヨーロッパの開発者はアプリ内での課金プロモーションの自由度が高まり、代替の決済手段や外部サービスへの誘導が容易になります。その結果、ユーザーは選択肢が広がり、開発者はビジネスモデルの柔軟性を向上させることが期待されます。ただし、提供する情報の正確性やユーザー保護の観点から、適切なガイドライン遵守が求められます。全体として、この変更はデジタル市場におけるプラットフォームの透明性と競争促進を目的とした規制への対応として評価できます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=szrqxadx"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="updates-to-the-storekit-external-purchase-link-entitlement">Updates to the StoreKit External Purchase Link Entitlement
+</h2><p>August 8, 2024</p>
+<p>In response to the announcement by the European Commission in June, we’re making the following changes to Apple’s Digital Markets Act compliance plan. We’re introducing updated terms that will apply this fall for developers with apps in the European Union storefronts of the App Store that use the StoreKit External Purchase Link Entitlement. Key changes include:</p>
+<ul>
+<li>Developers can communicate and promote offers for purchases available at a destination of their choice. The destination can be an alternative app marketplace, another app, or a website, and it can be accessed outside the app or via a web view that appears in the app.</li>
+<li>Developers may design and execute within their apps the communication and promotion of offers. This includes providing information about prices of subscriptions or any other offer available both within or outside the app, and providing explanations or instructions about how to subscribe to offers outside the application. These communications must provide accurate information regarding the digital goods or services available for purchase.</li>
+<li>Developers may choose to use an actionable link that can be tapped, clicked, or scanned, to take users to their destination.</li>
+<li>Developers can use any number of URLs, without declaring them in the app’s Info.plist.</li>
+<li>Links with parameters, redirects, and intermediate links to landing pages are permitted.</li>
+<li>Updated business terms for apps with the External Purchase Link Entitlement are being introduced to align with the changes to these capabilities.</li>
+</ul>
+<p>Learn more by visiting <a class="link" href="https://developer.apple.com/support/alternative-payment-options-on-the-app-store-in-the-eu/"  target="_blank" rel="noopener"
+    >Alternative payment options on the App Store in the European Union</a> or <a class="link" href="https://developer.apple.com/events/view/upcoming-events?search=apps%20distributed%20in%20the%20European%20Union"  target="_blank" rel="noopener"
+    >request a 30-minute online consultation</a> to ask questions and provide feedback about these changes.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Apple Entrepreneur Camp applications are now open</title>
       <link>https://n-kase.github.io/rss/posts/post-506/</link>
