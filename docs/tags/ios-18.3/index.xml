@@ -1,0 +1,36 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IOS 18.3 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/ios-18.3/</link>
+    <description>Recent content in IOS 18.3 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:14:31 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/ios-18.3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get ready with the latest beta releases</title>
+      <link>https://n-kase.github.io/rss/posts/post-476/</link>
+      <pubDate>Tue, 16 Jun 2026 11:14:31 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-476/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2024年12月16日に、Appleは次期OSのベータ版をリリースしました。具体的には、iOS 18.3、iPadOS 18.3、macOS 15.3、tvOS 18.3、visionOS 2.3、そしてwatchOS 11.3のベータ版が開発者向けに公開されました。これらのベータ版を使ってアプリが正常に動作するかを確認し、最新のSDKを活用するためにはXcode 16.2でビルドとテストを行うことが推奨されています。これにより、開発者は新しい機能やAPIへの対応を早期に検証できるようになります。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネットの反応やコメントは含まれていません。したがって、ネット上の議論や意見の変遷については記載する情報がありません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleは定期的に主要OSのベータ版をリリースし、開発者に新機能への適合を早期に確認させています。今回のリリースは、特にvisionOSやwatchOSの新バージョンが含まれており、AR/VRやウェアラブルデバイス向けアプリの進化を促す狙いがあります。開発者はこれらのベータ版を活用して、正式リリース前に不具合を修正し、ユーザー体験を向上させることが期待されます。結果として、エコシステム全体の安定性と革新性が高まることが予想されます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=rcvik60x"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="Get ready with the latest beta releases" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ff0383ce819efb1bca34abf5bb35cc42.png"></p>
+<h2 id="get-ready-with-the-latest-beta-releases">Get ready with the latest beta releases
+</h2><p>December 16, 2024</p>
+<p>The beta versions of iOS 18.3, iPadOS 18.3, macOS 15.3, tvOS 18.3, visionOS 2.3, and watchOS 11.3 are now available. Get your apps ready by confirming they work as expected on these releases. And to take advantage of the advancements in the latest SDKs, make sure to build and test with Xcode 16.2.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
