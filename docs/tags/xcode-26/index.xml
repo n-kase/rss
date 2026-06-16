@@ -1,47 +1,42 @@
 &lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xcode 26 on ms02 AI Assistant Blog Posts Project</title>
+    <title>Xcode 26 on ms02 AI Assistant Blog Posts Project</title>
     <link>https://n-kase.github.io/rss/tags/xcode-26/</link>
-    <description>Recent content in Xcode 26 on ms02 AI Assistant Blog Posts Project</description>
+    <description>Recent content in Xcode 26 on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 10:44:18 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/xcode-26/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 10:56:25 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/xcode-26/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello Developer: March 2026</title>
-      <link>https://n-kase.github.io/rss/posts/post-403/</link>
-      <pubDate>Tue, 16 Jun 2026 10:44:18 +0900</pubDate>
+      <title>App Store submissions now open for the latest OS releases</title>
+      <link>https://n-kase.github.io/rss/posts/post-432/</link>
+      <pubDate>Tue, 16 Jun 2026 10:56:25 +0900</pubDate>
       
-      <guid>https://n-kase.github.io/rss/posts/post-403/</guid>
+      <guid>https://n-kase.github.io/rss/posts/post-432/</guid>
       <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
 </h2><h3 id="概要と事実">概要と事実
-</h3><p>2026年3月に公開されたAppleの開発者向けニュースレター「Hello Developer: March 2026」では、いくつかの注目ポイントが紹介されました。まず、GDC（Game Developers Conference）への参加呼びかけがあり、開発者が直接Appleの最新技術に触れる機会が示されています。次に、プライバシーとセキュリティに関する新しい開発者向けアクティビティが告知され、データ保護の実装方法について学べる内容となっています。さらに、Xcode 26におけるコーディングインテリジェンスの深掘りが予告され、コード補助やリファクタリング支援が強化される見込みです。また、SpeechifyチームがAIへの全面的な取り組みを表明し、音声関連サービスの革新が期待されます。最後に、最新のニュースとアップデートをキャッチアップするよう促す一般的なお知らせが含まれています。</p>
+</h3><p>Appleは2025年9月9日に、iOS 26、iPadOS 26、macOS Tahoe 26、tvOS 26、visionOS 26、watchOS 26の最新OSリリースに向けてApp Storeへのアプリ提出を開始したことを発表しました。開発者はXcode 26リリース候補版と最新SDKを使ってアプリをビルドし、TestFlightでテストした後、App Store Connectを通じて審査に提出できます。新しいデザイン言語であるLiquid Glass、Foundation Modelsフレームワーク、新たに提供されるApple Gamesアプリなどを活用することで、より独自性の高い体験を提供できるとしています。さらに、2026年4月からはApp Store Connectにアップロードするすべてのアプリおよびゲームについて、iOSおよびiPadOSアプリはiOS 26／iPadOS 26 SDK以降、tvOSアプリはtvOS 26 SDK以降、visionOSアプリはvisionOS 26 SDK以降、watchOSアプリはwatchOS 26 SDK以降でビルドされていることが最低要件となります。</p>
 <h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
-</h3><p>ニュースレターが公開されると、開発者コミュニティではまずGDC参加の呼びかけに対して期待の声が多く上がりました。特に、最新のハードウェアやソフトウェアを実際に体験できる点が好評でした。プライバシーとセキュリティのアクティビティについては、データ保護への関心が高まっている背景もあり、具体的なガイドラインが欲しいという意見と、もう少し実践的なワークショップが欲しいという声が混在しました。Xcode 26のコーディングインテリジェンスについては、AIを活用したコード補助への期待が高まり、生産性向上への期待が示される一方で、学習コストや依存リスクへの懸念も一部で見られました。SpeechifyのAI全面投入については、音声技術の進化に対する興奮と、競合サービスとの差別化がどのようになるかへの関心が寄せられました。全体として、ポジティブな反応が中心でありながら、新技術への適応やプライバシーへの配慮について慎重な意見も見受けられました。</p>
+</h3><p>本文には具体的なネット上の反応は記載されていませんが、同様の発表では開発者コミュニティから新しいSDKへの移行作業や、Liquid Glassなどのデザイン変更への適応について期待と不安が混ざった声が上がることが一般的です。当初は新機能への興味と、既存アプリの互換性確保に向けた作業負荷への懸念が同時に示されると考えられます。時間が経つにつれて、実際に新しいSDKを試した開発者からのフィードバックが増え、実装の難易度やメリットについての議論が具体的になっていくと予想されます。</p>
 <h3 id="背景と結論">背景と結論
-</h3><p>今回のニュースレターは、Appleが開発者エコシステムにおけるイノベーションと信頼性の両方を強化しようとしている姿勢を示しています。GDCへの参加促進は、ゲームやインタラクティブコンテンツ分野でのAppleのプレゼンスを高める狙いがあり、開発者に最新ツールへのアクセスを提供することでエコシステムの活性化を図っています。プライバシーとセキュリティへの焦点は、ユーザーの信頼を維持しつつ、開発者が法規制に対応しやすくするための戦略的な動きと言えます。Xcode 26におけるAI支援機能の強化は、開発効率の向上だけでなく、コード品質の向上にも寄与すると期待されています。SpeechifyのAIへのシフトは、音声インターフェース市場におけるAppleの競争力をさらに高める可能性があります。これらの取り組みは、開発者にとって新たな機会をもたらすと同時に、技術の変化に適応するための学びと注意が必要であることを示しています。全体として、Appleは技術革新とユーザー保護のバランスを取りながら、開発者コミュニティへの支援を強化していると評価できます。</p>
-<p><a class="link" href="https://developer.apple.com/news/?id=zmqipz05"  target="_blank" rel="noopener"
+</h3><p>Appleは毎年OSの大型アップデートを行い、デザイン統一や機能拡張を通じて開発者に新たな表現の場を提供してきました。今回のリリースでは、AIを活用したFoundation Modelsフレームワークやゲーム特化のApple Gamesアプリが追加され、プラットフォーム全体での体験の向上を狙っています。また、最低SDK要件を設けることで、すべてのアプリが最新のセキュリティとパフォーマンス基準を満たすことを確保し、エコシステムの健全性を維持しようとしています。結論として、開発者は2026年4月までにアプリを新しいSDKでビルドし直す必要があり、これによりAppleプラットフォームにおける革新的なアプリ提供がさらに促進されるでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=6lxhtioi"  target="_blank" rel="noopener"
     >🔗 元記事を読む</a></p>
 <details>
 <summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
-<h2 id="hello-developer-march-2026">Hello Developer: March 2026
-</h2><p>March 3, 2026</p>
-<p><img alt="A series of light-blue icons against a darker blue background. The icons include a large game controller, surrounded by a smaller iPhone, iMac, Apple TV, Apple Vision Pro, and iPad." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a386bf17e2862e48517131b7f1a24301.jpeg"></p>
-<p>In this edition:</p>
+<h2 id="app-store-submissions-now-open-for-the-latest-os-releases">App Store submissions now open for the latest OS releases
+</h2><p>September 9, 2025</p>
+<p><img alt="A collage of icons of Apple apps — including Xcode, Apple Developer, Swift, and more —\u00a0set diagonally against a light blue background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7ec0c870b64acd13fec43953841dfb65.jpeg"></p>
+<p>iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26 will soon be available to customers worldwide — which means you can now submit apps and games that take advantage of Apple’s broadest design update ever.</p>
+<p>Build your apps and games using the <a class="link" href="https://developer.apple.com/download/"  target="_blank" rel="noopener"
+    >Xcode 26 Release Candidate</a> and latest SDKs, test with TestFlight, and submit for review to the App Store. By taking advantage of the <a class="link" href="https://developer.apple.com/design/"  target="_blank" rel="noopener"
+    >new design and Liquid Glass</a>, the <a class="link" href="https://developer.apple.com/documentation/FoundationModels"  target="_blank" rel="noopener"
+    >Foundation Models framework</a>, the new <a class="link" href="https://developer.apple.com/games-app/"  target="_blank" rel="noopener"
+    >Apple Games app</a>, and more, you can deliver even more unique experiences on Apple platforms.</p>
+<p>Starting April 2026, apps and games uploaded to App Store Connect need to meet the following minimum requirements.</p>
 <ul>
-<li>Join Apple at GDC.</li>
-<li>Get tips on privacy and security in a new developer activity.</li>
-<li>Dive deep on coding intelligence in Xcode 26.</li>
-<li>Learn how the Speechify team is going all in on AI.</li>
-<li>Catch up on the latest news and updates.</li>
-</ul>
-</details>
-]]></description>
-    </item>
-    
-  </channel>
-</rss>
-ater</li>
+<li>iOS and iPadOS apps must be built with the iOS 26 &amp; iPadOS 26 SDK or later</li>
+<li>tvOS apps must be built with the tvOS 26 SDK or later</li>
 <li>visionOS apps must be built with the visionOS 26 SDK or later</li>
 <li>watchOS apps must be built with the watchOS 26 SDK or later</li>
 </ul>
