@@ -6,7 +6,38 @@
     <description>Recent content in Google Earth on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 12:54:59 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/google-earth/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 13:22:17 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/google-earth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Earthの「フライトシミュレータ」がウェブ版に登場、遊び方はこちら</title>
+      <link>https://n-kase.github.io/rss/posts/post-777/</link>
+      <pubDate>Tue, 16 Jun 2026 13:22:17 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-777/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Google Earthのデスクトップアプリには、2007年から提供されているフライトシミュレータがあり、地球上のさまざまな場所を飛行して景色を楽しむことができます。今回Googleは、このフライトシミュレータをウェブ版でも利用できるようにしたことを発表しました。ウェブ版ではアプリをインストールする必要がなく、ブラウザから直接アクセスできます。利用方法は、Google Earthのウェブサイトにアクセスし、右上の「Earthを探索」ボタンをクリックし、検索バーで目的地を入力した後、「ツール」メニューからフライトシミュレータを選ぶだけです。操作はマウスまたは矢印キーでピッチとロールを調整し、Page Up／Page Downキーで推力を変更しますが、機体は制御を失いやすく、墜落するとゲームが終了します。ただし、何度でも再挑戦が可能です。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>このアップデートは、Googleがデスクトップ向けのプロ機能をウェブ版にも展開する取り組みの一環であり、最近追加された標高プロファイルや新しいインポート形式なども同様の目的で提供されています。フライトシミュレータ自体は専門家向けの高度な機能ではなく、純粋に楽しむための簡易的なもので、ミッションや実績といった進行要素はありません。ただし、Google Earthのデータベース全体にアクセスできるため、世界中のほぼどこへでも飛んでランドマークを眺めることができます。従来の本格的なフライトシミュレータと比べると奥深さは劣りますが、手軽さと自由度の高さが魅力です。これにより、特別なソフトウェアをインストールせずにブラウザだけで気軽にフライト体験ができるようになり、カジュアルユーザーにも新たな楽しみ方が提供されることになります。</p>
+<p><a class="link" href="https://japan.cnet.com/article/35248969/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>「Google Earth」のデスクトップアプリには、アプリが生成した地図を使って地球上のさまざまな場所を飛行できる、ちょっと楽しい「フライトシミュレータ」が用意されている。Googleはこのほど、そのフライトシミュレータをウェブ版でも利用できるようにしたと<a class="link" href="https://x.com/googleearth/status/2065449043925381293"  target="_blank" rel="noopener"
+    >発表</a>した。</p>
+<p>これは、デスクトップアプリをインストールしなくても済むよう、Googleがウェブ版にプロ向け機能を展開する取り組みの一環だ。最近追加された機能には、標高プロファイルや新しいインポート形式が含まれる。</p>
+<p>これらの機能の多くは専門家や愛好家向けだが、フライトシミュレータは純粋に楽しむためのものだ。デスクトップアプリでは2007年から提供されてきたが、米国時間6月12日にGoogle Earthのウェブ版へ初めて登場した。</p>
+<p>始めるのに手間はかからない。まず<a class="link" href="https://earth.google.com/web"  target="_blank" rel="noopener"
+    >Google Earthのウェブサイト</a>にアクセスし、右上の「Earthを探索」ボタンをクリックする。検索バーを使って、飛行したい地球上の地点を読み込む。最後に「ツール」をクリックすると、一覧の最下部にフライトシミュレータが表示される。</p>
+<p>操作方法はゲーム内には表示されないが、<a class="link" href="https://developers.google.com/maps/documentation/earth/flight-simulator?hl=ja"  target="_blank" rel="noopener"
+    >Googleの開発者向けサイト</a>で確認できる。機体のピッチとロールは、マウスまたは矢印キーで操作できる。「Page Up」キーと「Page Down」キーは、それぞれ推力の増減に使う。ただし注意が必要だ。機体は制御を失いやすく、景色が上下左右に大きく傾くことになる。飛行機が墜落するとゲームは終了するが、何度でも再挑戦できる。</p>
+<p>ゲームプレイの奥深さという点では、「Microsoft Flight Simulator」や「ACE COMBAT」シリーズのような作品には遠く及ばない。とはいえ、Google EarthのフライトシミュレータはGoogle Earthのデータベース全体にアクセスできるため、地球上のほぼどこへでも飛んでいき、さまざまなランドマークを眺められる。</p>
+<p>ミッションや実績、進行状況を示すような目立った要素はない。それでも、飛行機でゴールデンゲートブリッジの下をくぐってみたいと思ったことがあるなら、今がそのチャンスだ。</p>
+<p>この記事は海外Ziff Davis発の<a class="link" href="https://www.cnet.com/tech/gaming/google-earths-flight-simulator-is-now-on-browsers-heres-how-to-play/"  target="_blank" rel="noopener"
+    >記事</a>を4Xが日本向けに編集したものです。</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>【マジかよ】グーグルアース上でフライトシミュレーター機能が利用可能に！時間泥棒きたああああ！</title>
       <link>https://n-kase.github.io/rss/posts/post-717/</link>
