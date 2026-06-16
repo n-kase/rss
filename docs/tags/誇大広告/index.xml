@@ -1,0 +1,53 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>誇大広告 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E8%AA%87%E5%A4%A7%E5%BA%83%E5%91%8A/</link>
+    <description>Recent content in 誇大広告 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 13:11:36 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E8%AA%87%E5%A4%A7%E5%BA%83%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude高額プラン、利用上限「20倍」はウソ？ Anthropicに集団訴訟</title>
+      <link>https://n-kase.github.io/rss/posts/post-753/</link>
+      <pubDate>Tue, 16 Jun 2026 13:11:36 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-753/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>人工知能企業Anthropicが提供するAIアシスタント「Claude」について、有料プランの利用上限が広告と実際に大きな違いがあるとして、米国のユーザーKarl Khan氏が集団訴訟を起こしました。訴状では、最も高額な「Max 20x」プランが月額200ドルで「Proプランの20倍」の利用上限を謳っているにもかかわらず、実際にはProのわずか6～8倍しか提供されていないと主張しています。同様に「Max 5x」プランも謳われている5倍ではなく、Proの約3.5倍にとどまっていると指摘しています。Claudeはコーディング、執筆、調査、データ分析向けに設計されており、Khan氏はコーディング作業中に週単位のデータ割り当ての20％近くを5時間で使い切る事態に直面し、プランの実態と広告の乖離に気付いたと訴えています。訴状は、2025年4月以降にMax 5xまたはMax 20xプランを購入した全員を対象に集団訴訟とすることを求めており、損害賠償額は費用を除いて500万ドル（約8億円）を超えると見ています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>訴訟のニュースが広がると、RedditのClaudeCodeコミュニティやその他のフォーラムで多くのユーザーが同様の体験を共有し始めました。投稿では「20xプランが実際には20倍ではない」と指摘し、利用上限に達すると追加クレジットの購入を促される仕組みに不満を表明しています。特に「おとり商法」と表現する声が目立ち、広告内容と実際のサービスに食い違いがあることを指摘するコメントが増加しました。一方で、一部のユーザーは利用上限の仕組みが複雑で分かりにくいことを理解しつつも、透明性の欠如に対する批判を強めています。こうしたネット上の議論は、訴訟の事実関係が明らかになるにつれて、誇大広告への懸念から消費者保護の必要性へと焦点を移しています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回の訴訟は、AIサービスの普及とともに広がる利用料金の不透明さや、プラン契約における誇大表現への懸念が背景にあります。AIモデルの性能向上に伴うサブスクリプション料金の上昇や、法人向け利用上限の開示不足が指摘される中、個人ユーザーも同様の問題に直面しやすくなっています。訴訟の結果次第では、AIサービス提供者に対して利用上限の明確な定義や、広告と実際の提供内容の整合性を求める規制や業界ガイドラインが強化される可能性があります。消費者側としては、契約前に利用条件を十分に確認し、不明点はサポートに問い合わせる姿勢が重要であるという教訓が得られます。</p>
+<p><a class="link" href="https://japan.cnet.com/article/35248964/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>人工知能（AI）企業Anthropicが、AIアシスタント「Claude」の利用上限についてプラン加入者に誤解を与えているとして、<a class="link" href="https://www.vacadaffanlaw.com/post/kahn-v-anthropic-pbc"  target="_blank" rel="noopener"
+    >集団訴訟</a>に直面している。Claudeは、コーディング、執筆、調査、データ分析向けに設計されたAIアシスタントだ。</p>
+<p>訴状では、有料プランのうち最も高額な2つのプラン「Max 5x」と「Max 20x」の加入者に実際に適用されるレート制限が、同社の宣伝内容を大きく下回っていると主張している。Anthropicによると、利用上限とは、一定の時間枠の中でユーザーがClaudeをどれだけ使えるかを示すもので、「<a class="link" href="https://support.claude.com/ja/articles/11647753-%E4%BD%BF%E7%94%A8%E9%87%8F%E3%81%A8%E9%95%B7%E3%81%95%E3%81%AE%E5%88%B6%E9%99%90%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%A9%9F%E8%83%BD%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B"  target="_blank" rel="noopener"
+    >会話予算</a>」のようなものだという。</p>
+<p>訴状は、月額200ドル（約3万2000円）で「Pro」プランの20倍の利用上限をうたう20xプランについて、実際の利用上限は「Proのわずか6～8倍」にすぎないと主張している。月額100ドル（約1万6000円）のMax 5xプランも、うたわれている5倍ではなく、「Proのわずか3.5倍」しか提供していないという。Claude Proのサブスクリプション料金は月額17～20ドル（約2700円～約3200円）だ。</p>
+<p>原告のKarl Khan氏は米国時間6月14日、カリフォルニア州北部地区連邦地方裁判所に訴えを起こした。Khan氏は当初、個人的な目的でClaudeを試していたが、コーディング作業に使うことを決め、2026年4月までにサブスクリプションを2度アップグレードしてMax 20xプランに加入した。</p>
+<p>同氏によると、5時間に及ぶ1回のコーディング作業で、週単位のデータ割り当ての20％近くを頻繁に使い切ってしまうことにすぐ気付いたという。Khan氏は複数のサブスクリプションプランでの自身の利用状況を比較し、Claudeの利用レート制限について、広告の内容と実態に食い違いがあると結論付けた。</p>
+<p>AIモデルのサブスクリプション料金の上昇や、法人顧客向けAI利用上限の透明性不足をめぐる懸念が広がる中でも、Claudeの複数のモデルはプログラマーやいわゆる「バイブコーダー」に採用され続けている。</p>
+<p>トランプ政権は最近、外国政府や外国企業がAnthropicの最も強力なAIツールを利用することを禁じ、新たな規制に従うまでモデル全体を一時停止させた。</p>
+<p>Anthropicは新規株式公開（IPO）を控え、ユーザー向けツールの投入を急いでいる。競合各社も同じ動きを見せており、SpaceXはこのほど史上最大規模のIPOを実施し、OpenAIも近く株式市場に上場する準備を進めている。</p>
+<p>Anthropicの担当者はコメントの要請に対し、すぐには回答しなかった。</p>
+<p>Pro、Max 5x、Max 20xの各プランで実際の利用上限がどれほどなのかは、依然として明らかではない。この点は訴状でも取り上げており、Anthropicのウェブサイトについて「利用量がどのように算出されるのかについて意味のある説明がないブラックボックス」だと主張している。</p>
+<p><a class="link" href="https://support.claude.com/ja/articles/14552983-claude-code%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AB-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E3%81%8A%E3%82%88%E3%81%B3%E5%88%B6%E9%99%90"  target="_blank" rel="noopener"
+    >Claudeのサポートページ</a>では、大規模プロジェクトで利用量を管理する方法について助言し、どのプランも1回のセッションごとの上限と週単位の利用上限の影響を受けると説明している。しかし、各プランで一定時間に送信できるプロンプト数は明示していない。訴訟では、Anthropicが1回のセッションを構成する要素を明確に定義していないとも主張している。</p>
+<p>高額プランでレート制限に達すると、Claudeの利用を続けるために追加のクレジットを購入するよう促す表示が出る。Anthropicは<a class="link" href="https://support.claude.com/ja/articles/11049741-max-%E3%83%97%E3%83%A9%E3%83%B3%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B"  target="_blank" rel="noopener"
+    >サポートページ</a>で、「週間および月間の上限やモデルおよび機能の使用量など、他の方法で使用量を制限する場合がある」としている。</p>
+<p>訴状は、怒りを示す顧客の証言を挙げたうえで、「多くの加入者が不満を報告し、同社が『おとり商法』を行ったと訴えている」としている。<a class="link" href="https://www.reddit.com/r/ClaudeCode/comments/1qiyf2j/are_people_aware_that_20x_is_not_20x_weekly/"  target="_blank" rel="noopener"
+    >Redditの人気スレッド</a>にも同様の体験談が並び、複数の有料プラン加入者が利用上の制約に驚いたと書き込んでいる。投稿者はその有料プランについて「極めて誤解を招く」と表現した。</p>
+<p>訴状は、2025年4月以降にAnthropicのMax 5xまたはMax 20xのサブスクリプションプランを購入し、利用したすべての人を対象に、集団訴訟として扱うことを求めている。この訴訟で返還が求められる損害額の規模はまだ分かっていないが、訴状は「訴額は費用を除いて500万ドル（約8億円）を超える」としている。</p>
+<p>この記事は海外Ziff Davis発の<a class="link" href="https://www.cnet.com/tech/services-and-software/anthropic-sued-alleged-false-advertising-claude-max-subscription-usage-limits/"  target="_blank" rel="noopener"
+    >記事</a>を4Xが日本向けに編集したものです。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
