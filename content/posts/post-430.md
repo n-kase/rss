@@ -1,0 +1,54 @@
+---
+title: "Upcoming Currency Change in Bulgaria"
+description: "概要と事実 ブルガリアは2026年1月1日から公式通貨をブルガリア・レフ（BGN）からユーロ（EUR）に変更することが決定されました。これに伴い、ブルガリア国内でのApp Storeにおける購入やサブスクリプションの通貨もBGNからE..."
+date: 2026-06-16T10:55:28+09:00
+categories: ["テクノロジー"]
+tags: ["ブルガリア", "ユーロ導入", "App Store", "為替レート", "開発者対応"]
+image: "/rss/downloaded_images/cbbc31616b431a9282b1de88227a7793.png"
+---
+
+## AIによる要約
+
+### 概要と事実
+ブルガリアは2026年1月1日から公式通貨をブルガリア・レフ（BGN）からユーロ（EUR）に変更することが決定されました。これに伴い、ブルガリア国内でのApp Storeにおける購入やサブスクリプションの通貨もBGNからEURへと切り替わります。開発者がApp Store Connectで銀行口座の通貨をレフに設定している場合は、2025年12月1日に自動的にユーロに変更されます。それ以外の通貨を選択している場合は、それまでの通貨での支払いが継続されます。法定固定換算レートは1ユーロ＝1.95583レフであり、これは2025年7月8日に欧州連合理事会によって定められました。この変更に基づき、ブルガリアを本店舗とするアプリやアプリ内課金、自動更新サブスクリプションの価格はユーロに換算され、サポートされているユーロ価格点に切り下げられます。その他のアプリや課金については、ユーロ市場における標準的な等価換算が適用されます。価格は開発者がいつでも変更可能で、自動更新サブスクリプションは中断されず、価格は自動的にユーロに更新されます。変更後の購入については返金もユーロで行われます。また、移行期間中（現在から2026年8月8日まで）は、アプリ内課金においてレフとユーロの両方の価格を表示する必要があります。売上・トレンド報告や月次財務報告も、変更前はレフ、変更後はユーロで表示されます。
+
+### ネットの反応と意見の変遷
+本文には具体的なネット上の反応や議論の流れは記載されていません。ただし、通貨変更が開発者に与える影響については、価格の自動調整や表示義務などが挙げられており、これに対応するためのシステム変更や価格戦略の見直しが必要になると予想されます。開発者コミュニティでは、移行期間中の二重表示作業や、価格の切り下げによる収益への影響について懸念の声が上がる可能性があります。一方で、ユーロ圏への統一により、ヨーロッパ市場全体での価格比較が容易になり、長期的には取引の透明性が向上すると見る向きもあります。全体としては、開発者側が早めに価格設定やレポートの仕組みを調整することが求められる状況だと考えられます。
+
+### 背景と結論
+ブルガリアがユーロを採用する背景には、欧州連合への更なる経済統合と、国内の金融安定性・投資環境の向上があります。これにより、ブルガリア国内での消費者購買力がユーロベースで統一され、跨国取引が簡素化されることが期待されます。App Storeにおける今回の変更は、その一環としてデジタルコンテンツ市場にも影響を及ぼすものです。開発者は、法定換算レートに基づく価格変動や移行期間中の表示義務に対応し、顧客への明確なコミュニケーションを心がける必要があります。長期的には、ユーロ圏内での市場統一が進むことで、ブルガリア発のアプリやサービスもより広いユーザー層に届きやすくなるでしょう。したがって、今回の通貨変更は、デジタル経済における地域通貨の統一という大きな流れの一部であり、適切な準備と柔軟な対応が今後の成功の鍵となります。
+
+[🔗 元記事を読む](https://developer.apple.com/news/?id=rbfp3bpb)
+
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+
+
+
+![Upcoming Currency Change in Bulgaria](/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png)
+
+
+
+## Upcoming Currency Change in Bulgaria
+
+September 25, 2025
+
+Beginning January 1, 2026, Bulgaria will adopt the euro (EUR) as its official currency, replacing the Bulgarian lev (BGN). As a result, the currency for App Store purchases and subscriptions in Bulgaria will change from BGN to EUR on this date. Your proceeds from sales in Bulgaria will also change to euros.
+
+If you’ve selected the lev as the currency for your bank in App Store Connect, it will automatically change to the euro on December 1, 2025. If you’ve selected a different currency for your bank account, you’ll continue to be paid in that currency. The statutory fixed conversion rate is 1.95583 BGN = 1 EUR as established on July 8, 2025, by the Council of the European Union in connection with the introduction of the euro as the official currency in the Republic of Bulgaria.
+
+- **Auto-renewing subscriptions, manually priced apps and In‑App Purchases, or apps and In‑App Purchases with Bulgaria as the base storefront:**Pricing on the Bulgaria storefront will be updated to a euro price based on the statutory conversion rate and rounded down to a supported euro price point. If you’ve chosen Bulgaria as the base storefront for your app or In‑App Purchases, pricing in other storefronts may be updated to maintain equalization with the new euro price.
+
+- **Other apps or In‑App Purchases:**Pricing on the Bulgaria storefront will be converted to the euro using the standard equalization for euro markets where App Store sales are subject to value‑added tax (VAT).
+
+You can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.
+
+Auto‑renewable subscriptions won’t be interrupted. Subscription prices will be automatically updated for each current, preserved, and future scheduled price to euros. Customers with auto‑renewable subscriptions will receive an email informing them of the currency change.
+
+Per the Euro Act, you’ll need to communicate both the lev and euro prices for In‑App Purchases to customers within your app for the duration of the transitional period from now until the end of the transition period on August 8, 2026. This messaging should appear anywhere prices are displayed.
+
+Your Sales and Trends reports and monthly financial reports will also be updated. For Sales and Trends, euros will be indicated for transactions after the currency change. For monthly financial reports, earnings from sales that occurred before the currency change will be in the BG report, and earnings from sales after the currency change will be in the EU report.
+
+All refunds issued after January 1, 2026, will be refunded in euros, regardless of the date of purchase.
+
+</details>

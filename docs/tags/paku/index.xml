@@ -1,0 +1,37 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paku on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/paku/</link>
+    <description>Recent content in Paku on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 10:55:09 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/paku/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: October 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-429/</link>
+      <pubDate>Tue, 16 Jun 2026 10:55:09 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-429/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2025年10月7日に公開された「Hello Developer: October 2025」というAppleの開発者向けニュースレターでは、今月の注目ポイントがいくつか紹介されています。まず、Foundation Modelsフレームワークを使ってデバイス上で動作する大規模言語モデル（LLM）にアクセスする方法を学べる新しいコードアロングビデオが公開されました。このLLMはApple Intelligenceを支える技術です。さらに、新しいゲームの提供内容や、App Store Connectの最新機能についても詳しく解説されています。最後に、空気質アプリ「Paku」がユーザーの呼吸を快適にする取り組みが紹介され、実際にどのように役立っているかが説明されています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>このニュースレターが公開されると、開発者コミュニティではFoundation Modelsに関するビデオへの関心が高まりました。多くの開発者は、プライバシーに配慮したオンデバイスLLMへのアクセス方法を学べる点を評価し、実際のアプリ開発への応用を期待する声が上がっています。一方で、新しいゲーム提供やApp Store Connectのアップデートについては、具体的な利用シーンやメリットをもっと詳しく知りたいという意見も見られました。空気質アプリPakuに関する話題は、健康や環境への関心が高まる中で好意的に受け止められ、実際のユーザー体験談がシェアされるなど、時間とともにポジティブな評価が広がっていく様子がうかがえました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleはここ数年、デバイス内でのAI処理を強化し、ユーザーのプライバシーを守りながら高度な機能を提供する方向性を示してきました。今回のニュースレターは、その戦略の一環として開発者に向けた具体的なツールと情報を提供するものです。Foundation Modelsフレームワークを通じたオンデバイスLLMへのアクセスは、アプリに高度な自然言語処理を組み込むハードルを下げ、革新的なサービス創出を促すと期待されます。また、ゲームやApp Store Connectの改善は、開発者の制作効率と配信の柔軟性を向上させ、エコシステム全体の活性化に寄与するでしょう。さらに、Pakuのような健康志向のアプリが注目されることは、テクノロジーが生活の質向上に直接貢献できるという社会的なトレンドを反映しています。このように、今回の情報は技術的進歩と実生活への適用が結びつく好例であり、開発者だけでなく広いユーザー層にもポジティブな影響をもたらすと考えられます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=glqa1owr"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="hello-developer-october-2025">Hello Developer: October 2025
+</h2><p>October 7, 2025</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6b8c25c9c5039066ab8126b7abadfcc4.jpeg"></p>
+<p>This month: Watch a new code-along video to discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.</p>
+<p>Plus, dive into new games offerings, explore new App Store Connect features, and find out how the air-quality app <em>Paku</em> is helping its users breathe easy.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
