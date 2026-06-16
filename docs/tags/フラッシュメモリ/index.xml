@@ -1,0 +1,51 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>フラッシュメモリ on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%A1%E3%83%A2%E3%83%AA/</link>
+    <description>Recent content in フラッシュメモリ on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 12:59:29 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%A1%E3%83%A2%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AMDがAIのメモリ不足を解決するべく「MEXT」を買収、フラッシュメモリをDRAMとして扱う技術</title>
+      <link>https://n-kase.github.io/rss/posts/post-726/</link>
+      <pubDate>Tue, 16 Jun 2026 12:59:29 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-726/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>AMDは2026年6月15日に、フラッシュメモリを高速なDRAMとして扱う技術を開発しているMEXTという企業を買収したことを発表しました。MEXTは安価なフラッシュメモリを予測AIを使って高速化し、DRAMと同等の性能を引き出す仕組みを研究しています。この技術をAIサーバーに導入すれば、OSから見えるDRAMの容量を2～4倍に増やしつつ、コストを約50％削減できる見込みです。導入はハードウェアに変更を加えることなく、数分で完了するとされています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>近年のAIブームにより、GPUや大容量の揮発性メモリへの需要が急増し、VRAMやDRAMの価格が高騰しています。2026年5月にはAI処理チップ全体のコストのうち、メモリが63％を占める状況になっており、メモリのコストがボトルネックとなっていることが課題でした。MEXTの技術は、比較的安価なフラッシュメモリを活用することでこの問題を緩和し、AIインフラストラクチャーのコスト効率を向上させる可能性があります。AMDは今回の買収により、メモリ最適化の専門知識を持つチームを獲得し、AIソリューションの提供力を強化したいと考えています。これにより、今後のAIハードウェア市場における競争力が高まることが期待されます。</p>
+<p><a class="link" href="https://gigazine.net/news/20260616-amd-acquires-mext-ai-memory/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="amdがaiのメモリ不足を解決するべくmextを買収フラッシュメモリをdramとして扱う技術">AMDがAIのメモリ不足を解決するべく「MEXT」を買収、フラッシュメモリをDRAMとして扱う技術
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c28ed9d8874bf61c02a585019a653381.png"></p>
+<p>AMDがメモリ関連の技術を開発する「MEXT」を買収したことを2026年6月15日に発表しました。MEXTは安価なフラッシュメモリを高速なDRAMとして扱う技術を開発しており、AIのメモリ不足解消につながることが期待されています。</p>
+<p><strong>AMD Acquires MEXT to Advance Memory Optimization</strong></p>
+<p><a class="link" href="https://www.amd.com/en/blogs/2026/amd-acquires-mext-for-memory-optimization.html"  target="_blank" rel="noopener"
+    >https://www.amd.com/en/blogs/2026/amd-acquires-mext-for-memory-optimization.html</a></p>
+<p><strong>MEXT Predictive Memory</strong></p>
+<p><a class="link" href="https://www.mext.ai/"  target="_blank" rel="noopener"
+    >https://www.mext.ai/</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9586d36637e2b4120e0e0558f68a8922.png"></p>
+<p>AIの開発およびサービス展開には高性能なGPUや高速かつ大容量な揮発性メモリが必要不可欠です。AIブームに伴って揮発性メモリの需要が拡大したことにより、2025年後半からVRAMやDRAMの価格高騰が発生。2026年5月にはAI処理チップのコストの63％をメモリが占める事態にまで至っています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260525-ai-chip-memory-cost/"  target="_blank" rel="noopener"
+    >AIチップのコストの63％がメモリに、GPUよりメモリの方が高い時代へ - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/cba05d5a0cc815c3b1b682f822672c92.jpg"></p>
+<p>MEXTは比較的安価な不揮発性メモリであるフラッシュメモリをDRAMとして扱う技術を開発しています。フラッシュメモリはDRAMと比べて低速ですが、MEXTは「アプリケーションより低レイヤーで動作する予測AI」を用いることでフラッシュメモリをDRAMと同等の速度で動作させられるとアピール。MEXTの技術をAIサーバーに導入することでOSから認識できるDRAMの容量を2～4倍に増加させつつコストを50％削減できるそうです。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c87d426ae8292127caeedd670682cf72.png"></p>
+<p>MEXTのシステムは5分で導入可能であり、ハードウェア側に変更を加える必要はありません。以下の動画ではコマンド1行でメモリ容量を倍増させるデモが示されています。</p>
+<p><a class="link" href="https://www.youtube.com/watch?v=-oBOI2SG-iI"  target="_blank" rel="noopener"
+    >2X More Memory in 2 Seconds - YouTube</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/43b3022e7554dee6e88964c962e448ac.jpg"></p>
+<p>AMDはMEXTを買収することでAIソリューションの提供能力を強化するとのこと。また、メモリシステムとAIインフラストラクチャーに関する専門知識を持つ優秀なチームを迎え入れられることもメリットの1つとしてアピールしています。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
