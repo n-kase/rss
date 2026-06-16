@@ -1,0 +1,249 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>コンパイラ on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9/</link>
+    <description>Recent content in コンパイラ on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 13:03:25 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？</title>
+      <link>https://n-kase.github.io/rss/posts/post-735/</link>
+      <pubDate>Tue, 16 Jun 2026 13:03:25 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-735/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>この記事は、四則演算を含む文字列をコンピュータで正しく計算する方法を、yacc（またはその互換ツールであるbison）を使って説明しています。まず、人間が式を解く際にかっこの優先順位や演算子の優先順位を意識していることを指摘し、コンピュータがそのままの式を処理すると「どこから計算を始めればよいか」がわからなくなる問題があることを示します。そこで、逆ポーランド記法（後置記法）に変換すれば演算の順序が明確になり、スタックというデータ構造を使って機械的に計算できることを説明します。スタックは数値を積み上げ、演算子が来たら上から二つ取り出して計算し、その結果をまた積むという単純なルールで動作します。次に、この変換と計算を自動で行うために文法を定義し、yaccに教える方法を示します。文法では演算子の優先順位を宣言し、再帰的な規則で「式とは式＋式であり、式×式であり、(式)であり、ただの数字でもある」と記述します。yaccはこの文法に従って入力式を解析し、各規則に付けたアクション（計算結果をスタックに積むなど）によって最終的な答えを得ます。さらに、エラー検出も文法定義だけで自動的に行われ、閉じかっこが足りない不正な式は構文解析時点でエラーとなります。最後に、計算そのものではなく逆ポーランド記法を出力するようにアクションを変更すれば、同じ文法定義で異なる出力も簡単に得られることを示しています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>コンピュータは元々「電子計算機」として計算を行うために生まれたため、四則演算のような基本的な計算処理はその根幹にあります。しかし、人間が自然に扱う中置記法は機械にとって解釈が難しく、優先順位やかっこの対応を明示するための中間表現が必要です。この記事では、その解決策としてスタックマシンと逆ポーランド記法、そして文法を駆使したパーサージェネレータ（yacc）の仕組みをわかりやすく紹介しています。これにより、プログラミング初心者でも「式を解く」ということがどのように機械的に実現できるかを具体的に理解でき、さらにエラー処理や出力形式の変更も柔軟に行えることがわかります。結論として、式の評価という一見単純な問題にも、言語処理系の基礎理論が深く関わっており、それを道具を使って実装することで複雑さを大幅に軽減できるということが示されています。</p>
+<p><a class="link" href="https://zenn.dev/aldagram_tech/articles/124d14d59bc595"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><a class="link" href="/p/aldagram_tech" >アルダグラム Tech Blog</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b538ab2a838640ed1c833a0353815ffc.jpeg"></p>
+<p><a class="link" href="/faq/what-is-publication" >Publicationへの投稿</a></p>
+<h1 id="ねえパパほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント">ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？
+</h1><p><a class="link" href="/topics/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9" >コンパイラ</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/228d6d93dcf2cc6123d11780fe4e4aaa.png"></p>
+<p><a class="link" href="/topics/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2" >エンジニア</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/228d6d93dcf2cc6123d11780fe4e4aaa.png"></p>
+<p><a class="link" href="/topics/yacc" >yacc</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/228d6d93dcf2cc6123d11780fe4e4aaa.png"></p>
+<p><a class="link" href="/topics/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E8%82%B2" >プログラミング教育</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/228d6d93dcf2cc6123d11780fe4e4aaa.png"></p>
+<p><a class="link" href="/topics/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9" >コンパイラコンパイラ</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/228d6d93dcf2cc6123d11780fe4e4aaa.png"></p>
+<p><a class="link" href="/tech-or-idea" >tech</a></p>
+<h1 id="">
+</h1><p>どうも。「<strong>エクセルファイル読んでますか？</strong>」でおなじみの（？）アルダグラム テクニカルフェローの蓬莱です。お元気ですか？</p>
+<p>え？そんなことより気になる事がある？あ、このタイトルの事ですか。</p>
+<p><strong>「四則演算ぐらいできるわ！バカにするな！！」</strong></p>
+<p>って<strong>青筋がピキ</strong>ってる読者の気配は<strong>ひしひし</strong>と感じてますよ。</p>
+<p><strong>「安心してください、感じてますよ！」</strong></p>
+<p>まあまあ、一旦落ち着いて<strong>この問題を考えて</strong>みてください。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ea531f25ac8765d99ec78fd0358361c7.png"></p>
+<p><strong>どうですか？できそうですか？</strong></p>
+<p>(もちろん javascript の eval 関数みたいなものを使うのは無しです。<strong>自作</strong>してください。)</p>
+<p>この問題ができるアナタ、<strong>すばらしい</strong>です。もうこの記事の続きを読む必要はないです。</p>
+<p>どうしたらいいのか全然わからないよーっ、ひーん。。てアナタも<strong>大丈夫</strong>です。</p>
+<p><strong>「安心してください。問題が難しいんですよ！」</strong></p>
+<p>では、この問題がなぜ難しいのか、一緒に考えてみましょう。</p>
+<p>例として</p>
+<pre tabindex="0"><code>4 + (10 - 2 * 3) / (4 / (5 - 3))
+</code></pre><p>を計算することを考えます。</p>
+<p>普通に<strong>手で計算</strong>するとしたら、どうしますか？</p>
+<ul>
+<li>えーっと、まず<strong>かっこ</strong>の中を計算しないといけないから・・</li>
+<li>10 - 2 * 3 をまずやろっか・・</li>
+<li></li>
+</ul>
+<p><strong>掛け算</strong>のほうが先にしないといけないから 2 * 3 = 6 を 10 からひいて・・4か</p>
+<ul>
+<li>で、次はえーっと ( 4 / (5 - 3) ) を計算しないといけなくて・・</li>
+<li>てことは 4 / 2 になるから 2 かな</li>
+<li>で、<strong>さっきの</strong>4 から この 2 を割るから、 2 がでてきて・・</li>
+<li>で最初の4に足せば <strong>6だ</strong>！<strong>できた</strong>！</li>
+</ul>
+<p>みたいな感じになるんじゃないでしょうか。</p>
+<p>というわけで・・</p>
+<p><strong>それをそのままコンピューターにやらせればいいのです。</strong></p>
+<p><strong>「いやいや・・そうは言っても難しいんじゃないの？」</strong></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/040eadd5b3cfb9e157a16f7164e1c152.jpg"></p>
+<p><em>使えるものは再利用していくスタイル。SDGsです。</em></p>
+<p>でも、問題が難しいという事だけでも気づいてもらえれば、記事を書いた意味があるってもんです。ここまで読んでくれて<strong>ありがとうございます。</strong></p>
+<p>(この記事は結構長いので<strong>挫折しそうになったら</strong>、スクロールして<strong>最後に</strong>の部分だけでも読んでくれると嬉しいです）</p>
+<p>いきなり話は変わりますが、<strong>コンピューター</strong>って日本語だとなんて言うかわかります？</p>
+<p>答えは「<strong>電子計算機</strong>」です。</p>
+<p>そう、コンピューターはもともと<strong>計算をするために作られた</strong>ので、このような問題を解くために発展してきたのです。</p>
+<p><strong>文字</strong>で計算式を打ち込んで、それを実行すると<strong>答え</strong>が出てくる・・なんか馴染みないですか？？</p>
+<p>そう。それは、まさに<strong>プログラミング言語</strong>の原型なのです。（大体どんなプログラミング言語でも四則演算はありますよね）</p>
+<h2 id="">
+</h2><p>ところで、みなさん<strong>コンパイラ</strong>という言葉は耳にしたことはあるでしょうか？なんなら日々使っている人もたくさんいるでしょう。</p>
+<p>じゃあ、コンパイラを<strong>作った</strong>ことがある人はどれくらいいますか？</p>
+<p>大学などでコンピューターサイエンス（計算機科学って日本語にするとダサいですよね）を履修した人はやった事あるんじゃないでしょうか？</p>
+<p>（<strong>やったけど全く記憶がない</strong>という人も大勢いそうですが・・）</p>
+<p>で、さっきの問題、<strong>コンパイラを作れる人ならできちゃいます</strong>。</p>
+<p>「<strong>で、コンパイラって何なのよ？</strong>」</p>
+<p>と思われるでしょうが、コンパイラとは<strong>大雑把</strong>に言うならば、</p>
+<p><strong>「プログラムをコンピューターが処理しやすい形式に変換するプログラム」</strong></p>
+<p>と言うことになります。</p>
+<p><strong>「抽象的なことばっかり言ってるんじゃねえぞ！プログラムを変換するプログラムだと？！わけわかんねえよ！」</strong></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/271637c312ece06dcc3f5f6cd6d43005.png"></p>
+<p><em>大丈夫です。まだ慌てないでください。</em></p>
+<p>むしろ<strong>慌てるのはこれから</strong>です。だって、これから<strong>コンパイラを作るためのコンパイラ</strong>も紹介するんですから..</p>
+<p><strong>「ファッ！？」</strong></p>
+<p>ってなってます？<strong>アナタ今いい顔してます</strong>よ！</p>
+<h2 id="">
+</h2><p>さっきの四則演算ですが、コンピューターが理解しにくいのはなぜでしょうか？</p>
+<p><strong>「どこから計算を始めたらいいのかわからない」</strong></p>
+<p>ってのが原因じゃないでしょうか？人間は</p>
+<ul>
+<li>掛け算・割り算は、足し算・引き算より先に計算する</li>
+<li>かっこはひとまとまりとして計算する</li>
+<li>かっこは開きかっこと対応する閉じかっこが必要</li>
+</ul>
+<p>みたいな<strong>ルール</strong>を知っていてそれを踏まえて計算するから<strong>正しい順序</strong>で計算できるわけですね。</p>
+<p>さっきの式の一部 <code>10 - 2 * 3</code>をコンピューターが理解しやすい形式に直すとしたら<strong>こんな感じ</strong>になります</p>
+<pre tabindex="0"><code>10  2  3 * -
+</code></pre><p><strong>「何だこれ？」</strong></p>
+<p>って人もいるでしょうし、</p>
+<p>「あ、知ってる！<strong>逆ポーランド記法</strong>だ！」</p>
+<p>って人もいるでしょう。</p>
+<p>実はこの形式、<strong>コンピューターにとってはめちゃくちゃ読みやすい</strong>んですよ。</p>
+<p>実は、この形式には<strong>計算順序がもう埋め込まれている</strong>ので、掛け算と引き算の<strong>どっちを先に</strong>計算するかなんて<strong>考える必要もない</strong>んです。</p>
+<p><strong>嘘みたいだろ・・？本当なんだぜ・・？</strong></p>
+<h2 id="">
+</h2><p>じゃあ実際にそれをどうやって計算するのか説明しましょう。</p>
+<p>さきほど、手で計算をするときに、<strong>途中の計算結果</strong>を<strong>メモ</strong>って後から使ったりしましたよね？</p>
+<p>2 と 3 をかけて 6 だから、それを 10 から引いて・・・みたいに。</p>
+<p>コンピューターが計算するときにも同様に<strong>計算の途中結果をメモしておく仕組み</strong>が必要です。</p>
+<p>これには<strong>スタック</strong>を使うのが一般的です。有名なデータ構造なので知っている人も多いでしょう。</p>
+<p><strong>「知ってる知ってる。スタックオーバーフローとかのあれやろ？理解。理解。」</strong></p>
+<p>って人のために説明すると・・・</p>
+<p>どんなデータがメモされているかは気にせず、上にポンポンとデータを<strong>積んでいく</strong>感じです。データを取り出すときも<strong>一番上からしか</strong>取り出せません。書類の山みたいなイメージですね。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/059e3be997329c6cf056c505ba293851.png"></p>
+<p><em>コレがスタックだ！完全に理解した！</em></p>
+<p>スタックさえ用意してしまえば、あとはむちゃくちゃ<strong>簡単なルール</strong>で計算できます。</p>
+<p>式を左から順番に一つ読んでいって</p>
+<ul>
+<li></li>
+</ul>
+<h2 id="数字が来たらそれをスタックに積みます"><strong>数字</strong>が来たらそれをスタックに<strong>積みます</strong>
+</h2><p><strong>演算子</strong>(* とか - ) が来たらスタックから<strong>２つ値を取り出して計算し</strong>、<strong>結果</strong>をスタックに<strong>積みます</strong></p>
+<ul>
+<li>最後まできたら、<strong>スタックに残っている値</strong>を見ます。<strong>それが答え</strong>です。</li>
+</ul>
+<p><strong>以上。</strong></p>
+<p><strong>「まじかよ・・」</strong></p>
+<p>マジです。コレだけでどんな<strong>複雑な計算式も順序を気にする必要なく</strong>計算できます。</p>
+<p>先程の例を計算してみましょう。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4edeb622e389fc51d2176db1ad4187af.png"></p>
+<p><em>これがスタックマシンだ！Virtual Machine = VM と呼ぶこともあります</em></p>
+<p>先ほどの例なら、こうするだけで機械的に計算できちゃいます。上の図を見ながら読んでみてください。</p>
+<pre tabindex="0"><code>10 が来た → 数字なので積もう
+2 が来た → 数字なので積もう
+3 が来た → 数字なので積もう
+* が来た → ２個取り出して計算して積もう
+- が来た → ２個取り出して計算して積もう
+最後に残ったのが答え
+</code></pre><p><strong>答えの4ができてますね！</strong></p>
+<p>こういうスタックを使って計算を実行するプログラムを<strong>スタックマシン</strong>と呼びます。(こんなプログラムだと簡単にかけそうですよね？）</p>
+<p>ちなみに <strong>JVM</strong> や <strong>WebAssembly</strong> みたいな“<strong>仮想マシン</strong>”の多くも、まさにこの方式で動いていますよ。</p>
+<p>（普段アナタが触っている x86 や ARM の実CPUはレジスタ方式が主流ですが、「命令を一つずつ読んで処理する」という骨格は同じです）</p>
+<h2 id="">
+</h2><p>やっとここまでたどり着きましたか・・</p>
+<p><strong>元の式を別の形式に変換する</strong>、つまり・・<strong>コンパイラの作り方を知りたい</strong>、そうおっしゃりたいわけですね？</p>
+<p><strong>「いや・・べ、別に・・オレそんなつもりじゃ・・」</strong></p>
+<p>もうー、照れないでください！ちゃんと教えてあげますから！</p>
+<p>確かに何も使わずに徒手空拳でコンパイラを作るのは難しいです。けど、世の中には<strong>コンパイラを作るためのツール</strong>があるんですよ。</p>
+<p><strong>パーサージェネレーター</strong>とか<strong>コンパイラコンパイラ</strong>とか言われてるんですけどね。（コンパイラを作るためのコンパイラ！です）</p>
+<p>Unix で古代から使われている有名なものに <strong>yacc</strong> というものがあります。</p>
+<p>ちなみに <strong>yacc</strong> は <strong>Y</strong>et <strong>A</strong>nother <strong>C</strong>ompiler <strong>C</strong>ompiler の略です。有名なC言語の初期の処理系とかもyaccを使って作られたそうです。</p>
+<p><strong>「ツールを使うなんてずるいじゃないか！完全自作しろよ！」</strong></p>
+<p>なんて過激派の人がいたらすいません。先に謝っておきます。（きっとそういう人は普段のプログラムはアセンブラ言語を手書きしてから16進数に手で変換しているのでしょう）</p>
+<p>yacc は現在はその後継の bison が広く使われています。 yacc の他にはANTLR というツールもあります。是非色々調べてみてください。</p>
+<p>なおツールを使わずにコンパイラを作る方法もあります。再帰降下パーサーでググると幸せになれるかも知れません</p>
+<h2 id="">
+</h2><p>というわけで（？）お待たせしました。いよいよ <strong>yacc</strong> の出番です。</p>
+<h3 id="">
+</h3><p>yacc に何をさせるかというと、まず<strong>文法</strong>を教えてあげます。「文法」とか言うと身構えちゃいますが、要は<strong>式ってこういうものだよ</strong>という定義を書くだけです。</p>
+<p>こんな感じ。</p>
+<pre tabindex="0"><code>%left &#39;+&#39; &#39;-&#39;      /* 足し算・引き算はあとまわし（優先度ひくい） */
+%left &#39;*&#39; &#39;/&#39;      /* 掛け算・割り算が優先（こっちが下=強い） */
+%%
+expr : expr &#39;+&#39; expr      /* 式とは「式 ＋ 式」である */
+| expr &#39;-&#39; expr      /* または「式 − 式」である */
+| expr &#39;*&#39; expr      /* または「式 × 式」である */
+| expr &#39;/&#39; expr      /* または「式 ÷ 式」である */
+| &#39;(&#39; expr &#39;)&#39;       /* または「( 式 )」である */
+| NUM                /* または ただの数字である */
+;
+</code></pre><p><strong>「なんかいきなり出てきた。怖い！」</strong></p>
+<p>気持ちはわかりますが、 <strong>expr</strong> がいっぱい出てくる辺りを眺めてみてください。</p>
+<p><strong>「式とは、式＋式であり、式×式であり、(式)であり、ただの数字でもある」</strong></p>
+<p>なんか禅問答みたいですが、これが<strong>式の正体</strong>です。</p>
+<p><strong>式の中に式が出てくる</strong>、この<strong>入れ子構造</strong>こそがカッコや優先順位を表現できる秘訣なのです。</p>
+<p>次に注目すべきは一番上の ** %left** から始まる2行。</p>
+<p>これ、<strong>「掛け算・割り算の方が、足し算・引き算 よりも優先度が高い」って宣言してる</strong>んです。</p>
+<p>(ちなみに %left は演算子が左結合するという意味だけど今は気にしなくてもいいよ)</p>
+<p><strong>「え、それだけ？」</strong></p>
+<p>それだけです。さっき手計算で<strong>掛け算のほうを先にしないとダメだし</strong>とかウンウン悩んだあの順序、<strong>たった2行で書けちゃいました</strong>。</p>
+<p>で、そのルールに基づいた構文解析を yacc がやってくれるのです。</p>
+<p>（ちなみに yacc は実際にはこれを<strong>逆向き</strong>にたどります。入力の式 <code>10 - ( 2 * 3)</code> の方から部品を<strong>まとめ上げて</strong> expr にたどり着く＝<strong>ボトムアップ</strong>です。この「下から組み立てる」動きが後で重要になってきます。）</p>
+<h2 id="">
+</h2><p>ここで<strong>嬉しいお知らせ</strong>です。</p>
+<p>冒頭の問題、こんなのありましたよね。</p>
+<pre tabindex="0"><code>&#34; 7 - 32 * 4 + 3 / ( 21 + 3 - ( 4 ) &#34;  → ERROR
+</code></pre><p>カッコが閉じてない<strong>不正な式</strong>です。「カッコの対応をチェックするコードを自分で書かなきゃ…」と思いました？</p>
+<p><strong>書かなくていいんです。</strong></p>
+<p>さっきの文法、よく見てください。<code>'(' expr ')'</code> ——<strong>開きカッコには必ず閉じカッコがセット</strong>、としか定義していません。</p>
+<p>だから閉じカッコの足りない式は<strong>文法的にこの世に存在しえない式</strong>になり、yacc が生成したパーサーは「<strong>そんな式知らんがな</strong>」とエラーを出してくれるんです。</p>
+<p>（ルールを適用しても答えにたどり着けないイメージ）</p>
+<p>エラーが起きたとき yacc は <code>yyerror</code> という関数を呼んでくれるので、そこで <code>ERROR</code> と出力すれば仕様どおり。</p>
+<p><strong>「文法を定義しただけで、エラー検出までタダでついてくる」</strong></p>
+<p>yacc さんサマサマですね。</p>
+<p><strong>「もうたまらんっ！（謎）」</strong></p>
+<h2 id="">
+</h2><h3 id="">
+</h3><p>文法を定義したらパーサー（構文解析器）はできました。</p>
+<p>でも今のままだと<strong>式として正しいか判定する</strong>だけ。せっかくなので計算もさせましょう。</p>
+<p>yacc では各ルールの後ろに <code>{ }</code> で「<strong>アクション</strong>」(＝<strong>やってほしい処理</strong>)を書けます。</p>
+<pre tabindex="0"><code>expr : expr &#39;+&#39; expr   { $$ = $1 + $3; }   /* 結果 = 左 + 右 */
+| expr &#39;-&#39; expr   { $$ = $1 - $3; }
+| expr &#39;*&#39; expr   { $$ = $1 * $3; }
+| expr &#39;/&#39; expr   { $$ = $1 / $3; }
+| &#39;(&#39; expr &#39;)&#39;    { $$ = $2;      }   /* カッコの中身がそのまま結果 */
+| NUM             { $$ = $1;      }   /* 数字はその値そのもの */
+;
+</code></pre><p>呪文みたいな <code>$$</code> とか <code>$1</code> は何かというと、</p>
+<ul>
+<li></li>
+</ul>
+<h2 id="131個目3個目の部品の値expr--exprなら1は左のexpr2は--3は右のexpr"><code>$1``$3</code><strong>1個目・3個目の部品の値</strong>（<code>expr '+' expr</code>なら<code>$1</code>は左のexpr、<code>$2</code>は + 、<code>$3</code>は右のexpr）
+</h2><p><code>$$</code><strong>このルール自身の計算結果</strong></p>
+<p>つまり <code>expr '+' expr { $$ = $1 + $3; }</code> は</p>
+<p><strong>「左の式と右の式が出そろったら、足してそれを自分の値にして」</strong></p>
+<p>という意味です。</p>
+<p>…はい、<strong>これで電卓の完成です。</strong></p>
+<p><strong>「ファッ！？　これだけ！？」</strong></p>
+<p>これだけです。</p>
+<p>アナタの与えた式は、式の組み合わせでできていますが、それら式の値を<strong>芋づる式に計算して結果を出してくれる</strong>感じになります。</p>
+<p>優先順位もカッコも yacc がよしなにやってくれるので、<strong>「どこから計算するか」をこちらは1ミリも気にしていません</strong>。さっきあれだけ悩んだ計算順序、<strong>完全に yacc に丸投げ</strong>できちゃいました。</p>
+<p>冒頭の問題を解くだけなら、<strong>実はここで完成</strong>です。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dcc7c8803e53d276d6084612510c2f3a.png"></p>
+<p><em>実際に作って実行してみるとこんな感じになります</em></p>
+<h2 id="">
+</h2><h3 id="">
+</h3><p>さて、さっきは<strong>構文解析のその場で計算</strong>しちゃいました。が、ここで<strong>ちょっとだけ意地悪</strong>をします。</p>
+<p>計算そのものをする代わりに、<strong>逆ポーランド記法を出力</strong>させてみましょう。</p>
+<p>そう、記事の前半</p>
+<p>&hellip;（長文のため省略されました）</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
