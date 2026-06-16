@@ -1,0 +1,78 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>国際的議論 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E5%9B%BD%E9%9A%9B%E7%9A%84%E8%AD%B0%E8%AB%96/</link>
+    <description>Recent content in 国際的議論 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 09:07:17 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E5%9B%BD%E9%9A%9B%E7%9A%84%E8%AD%B0%E8%AB%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【怖すぎ】政府、AnthropicにAIモデル削除を90分以内に要求か　→開発側から「胃がキリキリする」との声</title>
+      <link>https://n-kase.github.io/rss/posts/post-175/</link>
+      <pubDate>Tue, 16 Jun 2026 09:07:17 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-175/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>政府はAnthropicが提供しているFable/MythosというAIモデルに対して、突然の使用停止を求める要請を行いました。この動きは、AmazonのCEOであるジャシー氏が政権からの意見要請に応じ、ジェイルブレイクの問題を報告したことがきっかけとなりました。その後、ホワイトハウス内で最高レベルの問題として扱われ、ベッセント長官ら政権幹部が会合を開き、Anthropic側の担当者であるアモデイに直接連絡を取りました。アモデイは誤解を解こうとしましたが、政府側は受け入れず、さらに時間が必要だと訴えるアモデイに対して、ベッセント長官は「悪い決定をしている」と断言しました。この電話会談の直後に輸出規制が発動され、Anthropic関係者によると、削除の根拠を示さずに90分以内にモデルを削除するよう要請されたとのことです。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>ツイッター上では、この一連の流れに対して様々な反応が見られました。一部のユーザーは、政府の介入が過剰であり、AI企業への不当な圧力だと批判しています。また、Amazonが株主であるにもかかわらず報告を行った点に疑問を呈し、利益と倫理のバランスについて議論が起きました。一方で、AIの危険性を核爆弾に例え、経営者に資格制度が必要だと指摘する意見もありました。さらに、当初「規制が必要」と主張していたAnthropic側が、後に「そんな規制はおかしい」と立場を変えたことに対する不思議さや、大企業が自分たちに対して行ってきた「いきなりBAN」を国家権力に対して受ける側になったという皮肉も飛び交いました。これらの意見は時間とともに変化し、政府の権限行使への懸念と、AIの安全性確保への必要性が交錯する状況が浮き彫りになりました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回の騒動は、AI技術の急速な発展と、それに伴う安全保障や経済的影響への懸念が背景にあります。政府は国家の安全を守るために強硬な姿勢を示し、一方でAI企業は革新の自由と規制の過剰さを訴えています。この対立は、技術の進歩が社会のルールを超えることは難しいという現実を示しており、今後は技術者や経営者に対する適切なガイドラインや資格制度の検討が求められるでしょう。また、国際的な経済格差がAIの利用可否によってさらに広がるリスクも指摘されており、グローバルな協力と公平なルール作りが重要になります。このように、技術革新と統治のバランスをどう取るかが、今後の社会の方向性を左右する鍵となります。</p>
+<details>
+<summary>元スレッド・記事本文</summary>
+<p><img alt="sss" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5cc3e440b5ec63b14db62ffd048cb51b.png"></p>
+<p>政府によるAnthropicのFable/Mythos停止騒動は、単体ではこの記事がおそらく一番詳しそう</p>
+<p>— 今井翔太 / Shota Imai@えるエル (@ImAI_Eruel)</p>
+<p>（あまりにも生々しいのと、自分も一応開発側なので、見ていて胃がキリキリする）</p>
+<p>・まずAmazon CEOのジャシーが、政権の意見要請に応じてジェイルブレイクの問題を伝えた<a class="link" href="https://twitter.com/ImAI_Eruel/status/2066052388507549972"  target="_blank" rel="noopener"
+    >June 14, 2026</a></p>
+<p>政府によるAnthropicのFable/Mythos停止騒動は、単体ではこの記事がおそらく一番詳しそう</p>
+<p>（あまりにも生々しいのと、自分も一応開発側なので、見ていて胃がキリキリする）</p>
+<p>・まずAmazon CEOのジャシーが、政権の意見要請に応じてジェイルブレイクの問題を伝えた</p>
+<p>・金曜日の朝の時点までに、ホワイトハウスの中で最高レベルの問題扱いになった</p>
+<p>・ベッセント長官等の政権幹部で会合があり、アモデイに直接連絡。アモデイは誤解を解こうとしたが受け入れられず</p>
+<p>・アモデイはもう少し時間が惜しいと訴えたが、Fable/Mythosの削除の約束はせず、ベッセントが「悪い決定をしている」と断言</p>
+<p>・この電話会談の直後に輸出規制発動</p>
+<p>・Anthropicの関係者曰く「削除の根拠を一切示さず、90分以内にモデル削除をするよう要請された」</p>
+<p>（怖すぎる・・・）</p>
+<p>@ImAI_Eruel それぞれ立場が違うので、単純に言える話ではないのでしょうが、</p>
+<p>— moch_lab (@msya3n)</p>
+<p>Anthropic → 「規制が必要」</p>
+<p>政権 → 「規制は邪魔」</p>
+<p>という立場だったのに、</p>
+<p>政権：「危険だから止めろ」</p>
+<p>Anthropic：「そんな規制はおかしい」</p>
+<p>に変わっているのは、なんか不思議ですね。<a class="link" href="https://twitter.com/msya3n/status/2066072802969686125"  target="_blank" rel="noopener"
+    >June 14, 2026</a></p>
+<p>@ImAI_Eruel AIは核爆弾を持つに等しい。こういう企業のCEOに成るには資格制度が必要なのではと考えます。</p>
+<p>— Prasite (@Prasite1)</p>
+<p>アモディやマスクにはその資格が欠如していると感じますね。</p>
+<p>AmazonはAnthopicの株主でもあるのに損を承知で報告した。この違いは何なのかをちゃんと検証すべきです。技術があり資金があればいいではない。<a class="link" href="https://twitter.com/Prasite1/status/2066074470734012450"  target="_blank" rel="noopener"
+    >June 14, 2026</a></p>
+<p>@ImAI_Eruel googleなどの大企業がユーザーに対してさんざんやってきた「いきなりBAN」を、大企業自身が国家権力によってやられてしまったようにも見える。</p>
+<p>— うんにゃ (@anya_hanya)</p>
+<p>どれだけ生成AIの発展が急激でも、世界が国家権力によるルールによって動いているという外枠を超えることはできない。<a class="link" href="https://twitter.com/anya_hanya/status/2066057986892763339"  target="_blank" rel="noopener"
+    >June 14, 2026</a></p>
+<p>@ImAI_Eruel Fable5は軽くしか触れなかったけど</p>
+<p>— くじら (@dsmS7l55vx26189)</p>
+<p>Opusとは明らかに挙動が良い意味で違いました。</p>
+<p>安全保障上とか適当な理由はつけてるけど外国人の利用禁止はやってること横暴に見えますね</p>
+<p>他国が使える使えないで国家での莫大な経済格差が生まるはずだから自分がアメリカ政府の同じ立場でも同じことしてる気が…<a class="link" href="https://twitter.com/dsmS7l55vx26189/status/2066136393248919838"  target="_blank" rel="noopener"
+    >June 14, 2026</a></p>
+<p>@ImAI_Eruel こりゃ政府を舐めすぎてます。「政権はアモデイへの連絡を試みたが、彼はウェルネス・リトリートに参加中で対応不可と返答」</p>
+<p>— 信濃まつもと4bit (@shina_matsu)<a class="link" href="https://twitter.com/shina_matsu/status/2066069803404816546"  target="_blank" rel="noopener"
+    >June 14, 2026</a></p>
+<p>@ImAI_Eruel こりゃ他社のモデルでも言えるのだよな。mythos以上のAI使って、穴を告げ口すれば他社もリリースが破綻するんやろ？</p>
+<p>— ぱりぴちきん (@tzk3M8y8xukX5tk)<a class="link" href="https://twitter.com/tzk3M8y8xukX5tk/status/2066088677022064846"  target="_blank" rel="noopener"
+    >June 14, 2026</a></p>
+<p>@ImAI_Eruel 本社を日本に移したら？Anthropic😇</p>
+<p>— にゃぱねっと♂ (@288os)<a class="link" href="https://twitter.com/288os/status/2066144884181078056"  target="_blank" rel="noopener"
+    >June 14, 2026</a></p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
