@@ -1,0 +1,32 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ID連携 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/id%E9%80%A3%E6%90%BA/</link>
+    <description>Recent content in ID連携 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 23:20:48 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/id%E9%80%A3%E6%90%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PayPay、「Vポイント」連携方法を6月29日に変更　再連携しないと一部機能が使用不可に</title>
+      <link>https://n-kase.github.io/rss/posts/post-20/</link>
+      <pubDate>Mon, 15 Jun 2026 23:20:48 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-20/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>PayPayは6月29日22時から、VポイントとのID連携方法を変更し、これまでの同意だけでは不十分となり、Vポイントへのログインも必要になる。すでにモバイルVカードを連携済みのユーザーも、再度連携手続きを行わなければならず、未完了の場合はモバイルVカードの表示や一部機能が利用できなくなる。</p>
+<p>この変更により、手順が増えることでユーザーの中には混乱や手間を感じる人が出てきそうだ。特にアプリを最新バージョンに更新していない人や、再連携の案内に気付かない人は、ポイント利用や決済ができなくなるリスクがあり、SNS上で不満の声が上がる可能性がある。また、頻繁な仕様変更はサービスへの信頼感を低下させる要因にもなり得る。</p>
+<p>したがって、ユーザーは速やかにPayPayアプリをバージョン5.42.0以上にアップデートし、外部サービス連携画面の指示に従って再連携を完了させるべきである。一方、PayPay側は変更の目的と手順を分かりやすく周知し、サポート体制を充実させることで、利用者の不便を最小限に抑える教訓が得られる。</p>
+<p><a class="link" href="https://japan.cnet.com/article/35248930/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>PayPayは6月29日22時から、PayPayアプリでの「Vポイント」とのID連携方法を変更する。これまでは同意のみでID連携ができたが、今後は同意に加えてVポイントへのログインが必要になる。</p>
+<p>これに伴い、すでにモバイルVカードをPayPayに連携済みのユーザーも、改めて連携手続きが必要になる。再連携が完了していない場合、モバイルVカードの表示や一部機能が利用できなくなる。</p>
+<p>再連携が必要なのは、外部サービス連携画面で「モバイルVカード」に「再連携する」と表示されているユーザー。また、VポイントとのID連携を利用するには、PayPayアプリをバージョン5.42.0以上にアップデートする必要がある。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

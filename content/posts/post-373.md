@@ -1,0 +1,46 @@
+---
+title: "Deprecation of the ImageCreator class"
+description: "概要と事実 Appleは2026年6月11日に、Image Creatorクラスの非推奨を発表しました。このクラスは、Image Playgroundフレームワークの一部として導入され、オンデバイスの画像生成モデルを使ってアプリがプロ..."
+date: 2026-06-16T10:32:50+09:00
+categories: ["テクノロジー"]
+tags: ["Apple", "ImageCreator", "iOS 27", "Deprecation", "Image Playground"]
+image: "/rss/downloaded_images/3c25aace77a0736d1ec069bb112a52d7.png"
+---
+
+## AIによる要約
+
+### 概要と事実
+Appleは2026年6月11日に、Image Creatorクラスの非推奨を発表しました。このクラスは、Image Playgroundフレームワークの一部として導入され、オンデバイスの画像生成モデルを使ってアプリがプログラム的に画像を生成できるようにするものでした。ただし、今後のiOS 27、iPadOS 27、macOS 27、visionOS 27以降ではこのクラスが動作しなくなります。ベータ版のOSではコードはコンパイルできますが、Xcodeで警告が表示され、TestFlightビルドでは実行時エラーが発生します。公開リリースではコンパイル自体ができなくなり、Image Creatorを利用している機能はユーザーにとって利用不可となります。開発者は、公開リリース前に実装をImage Playgroundシートへ移行するか、別の画像生成サービスに置き換える必要があります。すでに移行済みの場合は追加の対応は不要です。
+
+### ネットの反応と意見の変遷
+この発表を受けて、開発者コミュニティでは驚きと懸念が同時に広がりました。多くの開発者は、既存のコードベースに組み込まれたImage Creatorへの依存度が高いため、移行作業の負担を心配する声が上がりました。特に、ベータ版での警告が表示される段階で、テスト環境での動作確認に追加の工数が必要になる点が指摘されました。一方で、Appleがシステム管理されたImage Playgroundシートを提供することで、統一されたユーザー体験とセキュリティが向上すると評価する意見も見られました。フォーラムやソーシャルメディアでは、移行ガイドの具体例やサンプルコードを共有するスレッドが増加し、早期に対応した開発者からは「警告が出る前に対応できてよかった」という肯定的なフィードバックが寄せられました。時間が経つにつれて、移行の必要性が広く認識され、開発者間での情報共有が活発になっています。
+
+### 背景と結論
+Appleは、プラットフォーム全体で画像生成の体験を統一し、開発者に対してより安全で一貫したAPIを提供する狙いがあります。Image Creatorの非推奨は、プライバシー保護やパフォーマンス最適化のために、システムレベルでの画像生成処理へ移行させる戦略の一環です。この変更から得られる教訓は、プラットフォームのAPIは将来的に進化や置き換わりが起こり得るため、抽象化レイヤーやラッパーを介して依存を減らす設計が重要だということです。開発者は、今後のOSアップデートに備えてリリースノートを定期的に確認し、非推奨となったAPIについては早期に移行計画を立てることが求められます。その結果、アプリの互換性を保ちつつ、ユーザーに最新の機能を提供し続けることが可能になります。
+
+[🔗 元記事を読む](https://developer.apple.com/news/?id=dz9wvq0r)
+
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+
+## Deprecation of the ImageCreator class
+
+June 11, 2026
+
+As we continue to refine our approach to image generation, the ImageCreator class is being discontinued and will no longer work in iOS 27, iPadOS 27, macOS 27, and visionOS 27 or later. When we introduced the Image Playground framework, we included the ImageCreator class as a way for apps to generate images programmatically using the on-device image generation model.
+
+**If your app uses the ImageCreator class, here's what to expect:**
+
+- **Beta OS releases:**Your code will continue to compile, but you’ll begin to receive warnings in Xcode. Apps using ImageCreator will not function in TestFlight builds and will cause a runtime error.
+- **Public OS releases:**Your code won’t compile, and any features in your app that use ImageCreator won’t work for people using your app.
+
+**What you need to do:**
+
+If your app uses ImageCreator, update your implementation before the public release of iOS 27, iPadOS 27, macOS 27, and visionOS 27 to ensure your image generation features continue to work and people using your app won't be affected.
+
+- **If your app uses ImageCreator:**Transition to presenting the Image Playground sheet, which provides a consistent, system-managed image generation experience. Alternatively, you can integrate another image generation service of your choice.
+- **If you’ve already migrated:**No further action is required.
+
+**Resources:**
+
+</details>

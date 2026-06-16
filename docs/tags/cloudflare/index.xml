@@ -1,0 +1,210 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudflare on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/cloudflare/</link>
+    <description>Recent content in Cloudflare on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 09:53:58 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIエージェントはCloudflareに賭けろ</title>
+      <link>https://n-kase.github.io/rss/posts/post-284/</link>
+      <pubDate>Tue, 16 Jun 2026 09:53:58 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-284/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>この記事は、AIエージェントを開発する際にCloudflareが適している理由を説明しています。著者はCloudflareの社員であり、まずAIエージェントが必要とする三つの要素――推論モデル、サンドボックス、実行環境――を挙げ、それぞれがCloudflareの提供するサービスでどう実現できるかを示しています。具体的には、Workers AIによるモデルへの簡単なアクセス、SandboxesやBrowser Run、Dynamic Workersといったサンドボックス機能、そしてWorkersやDurable Objects、Workflowsといった実行環境について、コード例を交えて紹介しています。また、従来のコンテナベースのクラウドではAIエージェントの「1対1」の処理に向いていない点を指摘し、Cloudflare Workersの高速起動とメモリ効率の良さを強調しています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>記事自体は技術ブログとして公開され、読者からはCloudflareの新機能への期待や興味を示すコメントが多く見られました。特に、Workers AIの使いやすさや、サンドボックスとしてのDynamic Workersの独自性について称賛の声が上がり、実際に試してみたいという意見が散見されました。一方で、自社の立場からの偏りを指摘する声も一部あり、客観的な評価を求めるコメントもありました。全体としては、技術者コミュニティにおいて話題となり、今後のAIエージェント開発プラットフォームとしてCloudflareへの関心が高まった様子がうかがえます。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>AIエージェントの普及に伴い、従来のクラウドインフラでは個々のエージェントに専用の実行環境を提供するのが難しくなってきました。Cloudflareは、エッジネットワーク上で高速に起動し、隔離されたサンドボックスを柔軟に提供できる点で、こうしたニーズに合致していると考えられます。本記事は、推論モデルへの簡単なアクセス、多様なサンドボックス選択肢、そして統合された実行環境という三本柱を挙げ、開発者がAIエージェントを効率的に構築できる基盤としてCloudflareを推奨しています。これにより、AIエージェントの開発ハードルが下がり、より多くの革新的なサービスが生まれる可能性が高まると結論づけられます。</p>
+<p><a class="link" href="https://zenn.dev/yusukebe/articles/ccb1f953e48ee1"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="aiエージェントはcloudflareに賭けろ">AIエージェントはCloudflareに賭けろ
+</h1><p><a class="link" href="/topics/ai" >AI</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6f82b8955baa1b36f4b730afc1419538.png"></p>
+<p><a class="link" href="/topics/cloudflare" >Cloudflare</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6f6a44854eb9a7537fd52a0dba0a95c9.jpeg"></p>
+<p><a class="link" href="/topics/agent" >Agent</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/228d6d93dcf2cc6123d11780fe4e4aaa.png"></p>
+<p><a class="link" href="/tech-or-idea" >tech</a></p>
+<p>最初に表明しておくと、自分はCloudflareの社員である。</p>
+<p>AIエージェント時代にCloudflareは最適なプラットフォームである！今回はCloudflareがなぜAIエージェントに向いているかを紹介する。</p>
+<h1 id="">
+</h1><p>AIエージェントを構築するためのアーキテクチャについて考えてみる。</p>
+<h2 id="">
+</h2><p>Cloudflareは今年の4月に出したブログ記事で強く言っていてる。</p>
+<p><a class="link" href="https://blog.cloudflare.com/ja-jp/welcome-to-agents-week/"  target="_blank" rel="noopener"
+    >https://blog.cloudflare.com/ja-jp/welcome-to-agents-week/</a></p>
+<p>インターネットは元々、AI時代を想定してつくられていません。クラウドも同様です。</p>
+<p>スマートフォンの登場で端末が大量に増えた。一つのアプリケーションをたくさんのクライアントに配信しなくてはいけない。そこでコンテナの技術を使ってアプリケーションをスケールさせた。1対多だ。これがいわゆる「クラウド」である。</p>
+<p>AI時代では1対1になる。それぞれのエージェントが一人のユーザーを担当する。LLMが処理の流れを決め、整理し、ツールを実行して動き続けるための独立した環境が必要となる。</p>
+<p>コンテナをベースとした旧来のクラウドはAIには向いていない。一方でCloudflareにはCloudflare Workersがある。</p>
+<h2 id="">
+</h2><p>Cloudflare WorkersはV8 Isolateで動いている。V8はGoogle Chromeで使われてるJavaScriptエンジンである。イメージしてほしい。WebブラウザがWebページを開くとV8がページ内のJavaScriptを実行する。元々ブラウザで使われいてた技術をサーバーサイドに持ってきたのが、Workersの発明だ。</p>
+<p>コンテナと比べて、パフォーマンスがよい。とびきり速く立ち上がって、メモリ効率がよくて、無限にスケールする。そして、環境は隔離されている。</p>
+<p><img alt="V8" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5194e55a371acd3239f06598095d5150.png"></p>
+<p>このWorkersがAIエージェント構築にぴったりだ。ユーザーのタスクごとに全く別のアプリケーションを大量に素早く立ち上げることができる。</p>
+<p><img alt="クラウドとV8" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a7ea302a23cff133e8690d1019c9bf63.png"></p>
+<h1 id="">
+</h1><p>自分はAIエージェントを作るためには3つの要素が必要だと思っている。</p>
+<ul>
+<li>推論モデル - エージェントが考える</li>
+<li>サンドボックス - エージェントが（コードetc.を）実行する</li>
+<li>実行環境 - エージェントを置く環境</li>
+</ul>
+<p><img alt="3つの要素" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/47ae4372c920150994b0068d43ad5810.png"></p>
+<p>CloudflareだとWorkersとはじめとした技術が揃っている。</p>
+<ul>
+<li>推論モデル - Workers AI / AIモデル</li>
+<li>サンドボックス - Sandboxes / Dynamic Workers / Browser Run</li>
+<li>実行環境 - Workers / Durable Objects / Workflows</li>
+</ul>
+<p>一つずつ解説ししょう。</p>
+<h2 id="">
+</h2><p>推論モデルはAIエージェントが考えるために必要である。CloudflareはWorkers AIを提供している。これは推論モデルがCloudflareネットワーク上で動くという代物。オープンなモデルを使うことができて、LLMから画像生成、スピーチtoテキストまで80個ほどある。</p>
+<p>また、最近では、外部のAIプロバイダーのモデルもAI Gatewayをプロキシして共通のインターフェースで使うことができるようになった。つまり、Cloudflareで使えるモデルは180個以上になる。</p>
+<p><img alt="SS" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/23f51088771038505e1d31eb28c72483.png"></p>
+<p>モデルにアクセスするだけなら、OpenAIやAnthropicのAPIを叩けばいいんじゃないの？それはそうだが、Workers AIの使い心地は非常に強力だ。</p>
+<p>BindingというAIモデルに方法でアクセスできる。JavaScriptのメソッド呼び出しをするだけでLLMの推論結果を得ることができる。外部APIを叩くとなると、SDKをインポートして、IDとパスワード相当を入力して⋯云々としなくてはいけないのが、これだけだ。</p>
+<pre tabindex="0"><code>const result = env.AI.run(&#39;@cf/meta/llama-3.3-70b-instruct-fp8-fast&#39;, {
+messages: [
+{
+role: &#39;user&#39;,
+content: &#39;What is the origin of the phrase Hello World&#39;
+}
+]
+})
+</code></pre><p>この書き心地の良さは人間だけのものではない。キーを直接書く必要がないので、AIに書かせる時も安心である。</p>
+<p>他にもCloudflareには、Workers AIや外部モデルへのゲートウェイになってログをとったり、キャッシュができたり、制限ができたるするAI Gatewayがあったり、ベクターデーターベースのVectorizeや、ドキュメントと入れると自動でRAGを作ってくれるAI Searchなどがある。</p>
+<h2 id="">
+</h2><p>AIエージェントはコードやコマンドを実行する。その際にサンドボックスが必要だ！それがないと人間のパソコンの重要なデータを消してしまうかもしれないし、サーバーをクラッシュさせてしまうかもしれない。</p>
+<p>Cloudflareでは3つのサンドボックスを提案している。</p>
+<ul>
+<li>Sandboxes</li>
+<li>Browser Run</li>
+<li>Dynamic Workers</li>
+</ul>
+<p>紹介しよう。</p>
+<h3 id="">
+</h3><p>CloudflareではWorkersだけではなくコンテナが動くContainersというプロダクトがある。Dockerイメージが動く。SandboxesはContainersを利用した隠蔽されたサンドボックス環境である。</p>
+<p>これはPythonを実行するコード例。Workersから呼び出し、結果をレスポンスで返している。</p>
+<pre tabindex="0"><code>import { getSandbox } from &#39;@cloudflare/sandbox&#39;
+export { Sandbox } from &#39;@cloudflare/sandbox&#39;
+export default {
+async fetch(request: Request, env: Env): Promise&lt;Response&gt; {
+const sandbox = getSandbox(env.Sandbox, &#39;user-123&#39;)
+const result = await sandbox.exec(&#39;python --version&#39;)
+return Response.json({
+output: result.stdout,
+exitCode: result.exitCode,
+success: result.success
+})
+}
+</code></pre><p>Gitのレポジトリを取ってきて、テストを実行するなんてことも簡単に書ける。</p>
+<pre tabindex="0"><code>import { getSandbox } from &#39;@cloudflare/sandbox&#39;
+export { Sandbox } from &#39;@cloudflare/sandbox&#39;
+export default {
+async fetch(request: Request, env: Env) {
+const sandbox = getSandbox(env.Sandbox, &#39;agent-session-47&#39;)
+await sandbox.gitCheckout(&#39;https://github.com/org/repo&#39;, {
+targetDir: &#39;/workspace&#39;,
+depth: 1
+})
+return sandbox.exec(&#39;npm&#39;, [&#39;test&#39;], { stream: true })
+}
+</code></pre><p>面白いのはプレビュー機能で、サンドボックス内で立ち上げたHTTPサーバーのポートを外部から参照可能なURLにアタッチして他の人間やAIがアクセスできるようにできる。</p>
+<pre tabindex="0"><code>import { getSandbox } from &#39;@cloudflare/sandbox&#39;
+export { Sandbox } from &#39;@cloudflare/sandbox&#39;
+export default {
+async fetch(request: Request, env: Env) {
+const { hostname } = new URL(request.url)
+const sandbox = getSandbox(env.Sandbox, &#39;agent-session-47&#39;)
+await sandbox.startProcess(&#39;python -m http.server 8000&#39;)
+const exposed = await sandbox.exposePort(8000, { hostname })
+console.log(exposed.url)
+// ...
+}
+</code></pre><p>Sandboxesはコンテナなので、AIがやりたいことが全部できる。</p>
+<h3 id="">
+</h3><p>Browser Renderingと呼ばれていたものがAIエージェント向けにパワーアップしてBroser Runになった。これはCloudflareのネットワーク上でヘッドレスブラウザが動くというもの。Browser SessionsとQuick Actionsという2つの使い方がある。</p>
+<h4 id="">
+</h4><p>Browser SessionsではPuppeteerもしくはPlaywrightをWorkers（もしくはCDP=Chrome DevTools Protocol）から操作する。例えば、APIの用意されていないWebサイトを操作することができる。AIエージェントが空港券の予約をしたり、競合サイトの情報収集をするかもしれない。</p>
+<h4 id="">
+</h4><p>Quick Actionsは簡単なインターフェースでステートレスなブラウザタスクを実行することができる。スクリーンショット、PDF生成、スクレイピング等々。</p>
+<p>エンドポイントを叩くだけでコードが必要ない。</p>
+<pre tabindex="0"><code>curl -X POST &#39;https://api.cloudflare.com/client/v4/accounts/&lt;accountId&gt;/browser-rendering/screenshot&#39; \
+-H &#39;Authorization: Bearer &lt;apiToken&gt;&#39; \
+-H &#39;Content-Type: application/json&#39; \
+-d &#39;{
+&#34;url&#34;: &#34;https://example.com&#34;
+}&#39; \
+--output &#34;screenshot.png&#34;
+</code></pre><p>また、WorkersからBindingでアクセスもできる。</p>
+<pre tabindex="0"><code>const response = await env.BROWSER.quickAction(&#39;screenshot&#39;, {
+url: &#39;https://example.com&#39;
+})
+</code></pre><p>AIエージェントとは違う文脈だが、Browser RunとHonoのJSXを使うとWokrersで簡単にスタイル付き画像を作れる。</p>
+<p><a class="link" href="https://x.com/yusukebe/status/2065941599251747034?s=20"  target="_blank" rel="noopener"
+    >https://x.com/yusukebe/status/2065941599251747034?s=20</a></p>
+<h4 id="">
+</h4><p>AIエージェントがBrowser Runを使えばいい。悪意のある、もしくは危険なサイトから隔離させられるし、クッキーやキャッシュ、セッション情報が残らなず使い捨てができる。</p>
+<h3 id="">
+</h3><p>サンドボックスの最後に紹介するのがDynamic Workersだ。</p>
+<p>簡単に言うとWorkersからWorkersを立ち上げることができて、立ち上げられたWorkersをDynamic Workersと呼ぶ、という感じ。これができるようになった。</p>
+<p>Workersと同じV8 Isolateなので、立ち上がりが速く、メモリが効率がよい。Cloudflareではブログで「コンテナより100倍速い」と言ってるが決して煽りだけではないと思う。</p>
+<p><a class="link" href="https://blog.cloudflare.com/dynamic-workers/"  target="_blank" rel="noopener"
+    >https://blog.cloudflare.com/dynamic-workers/</a></p>
+<p>使い方が面白い。文字列でWorkersのコードをWorkers内に書く。</p>
+<pre tabindex="0"><code>export default {
+async fetch(request: Request, env: Env): Promise&lt;Response&gt; {
+const worker = env.LOADER.load({
+compatibilityDate: &#39;2026-05-23&#39;,
+mainModule: &#39;src/index.js&#39;,
+modules: {
+&#39;src/index.js&#39;: `
+export default {
+fetch(request) {
+return new Response(&#34;Hello from a dynamic Worker&#34;);
+},
+};
+`,
+},
+globalOutbound: null
+})
+const entrypoint = worker.getEntrypoint()
+return entrypoint.fetch(request)
+}
+</code></pre><p>だいぶ気持ち悪いコードだが、変数を渡すことができるのでユーザーが送ってきたコードをそのまま実行すると、POSTのボディにコードを書いて実行結果をそのまま出すというマジックみたいなことができる。</p>
+<p><a class="link" href="https://x.com/yusukebe/status/2061635761389396156?s=20"  target="_blank" rel="noopener"
+    >https://x.com/yusukebe/status/2061635761389396156?s=20</a></p>
+<p>Dynamic Workersのより具体的な話は以下にまとめている。</p>
+<p><a class="link" href="https://speakerdeck.com/yusukebe/dynamic-workersnituite"  target="_blank" rel="noopener"
+    >https://speakerdeck.com/yusukebe/dynamic-workersnituite</a></p>
+<p>で、このDynamic Workersをサンドボックスに使うのである。WorkersはJavaScriptの実行環境なので、JavaScriptでできる範囲の計算リソースとして使えるし、D1やR2といったプロダクトと連携させることができる。</p>
+<h3 id="">
+</h3><p>Dynamic Workersの面白い使い方をやった。先日6月6日の<a class="link" href="https://frontend-php-con.hokkaido.jp/"  target="_blank" rel="noopener"
+    >フロントエンド・PHPカンファレンス北海道2026</a>で「AI時代のUIはどこに行く？その2！」という発表内で紹介した。</p>
+<p><a class="link" href="https://speakerdeck.com/yusukebe/aishi-dai-nouihadokohexing-ku-sono2"  target="_blank" rel="noopener"
+    >https://speakerdeck.com/yusukebe/aishi-dai-nouihadokohexing-ku-sono2</a></p>
+<p>Generative UIには一般的には3つのアプローチがあるのだが、その新しい4番目として「Dynamic」を提案して、それで使っている。</p>
+<p>肝はAIがReactのJSXを書いて、Dynamic Workers上で実行、SSRして、その結果をiframeで読み込むというものだ。ユーザーのチャット画面に表示することを想定しているのだが、ReactのSSRなので、Suspenseなんかが使えて面白い。</p>
+<p><img alt="Dynamic" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dcdf510f53faf1e641e42b64690356a6.png"></p>
+<p>デモでは本当にLLMがReactのコンポーネントを書いてレンダリングした結果を我々は見ることが出来た。</p>
+<p><img alt="Demo" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/580766774b86c569590c940ee5bcff47.png"></p>
+<p>AIがコードを書いて、Dynamic Workers上で実行する良い例である。</p>
+<h3 id="">
+</h3><p>以上、3つのサンドボックスを紹介した。コンテナだけじゃないのがミソだ。そしてこの3つのAIに段階的に使わせることができる。</p>
+<p><img alt="実行ラダー" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3a58358f8875cd4d0ab8440b97a57f93.png"></p>
+<p>つまり、JavaScriptの実行など簡単なことは立ち上がりの速いDynamic Workersにやらせる。ブラウザの操作ならBrowser Run。コンテナを立ち上げるまでもない。特殊なコマンドの実行やコンパイルが必要になった場</p>
+<p>&hellip;（長文のため省略されました）</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

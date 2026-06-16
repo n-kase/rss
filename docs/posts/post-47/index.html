@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="SelectTypeは、予約システムとGoogleカレンダーを双方向に同期させる機能と、予約に応じてGoogle Meetのビデオ会議URLを自動生成してメールで送信する機能を新たに追加しました。これにより、予約が入るとリアルタイムで...">
+<title>誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた</title>
+
+
+<link rel="canonical" href="https://n-kase.github.io/rss/posts/post-47/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/rss/scss/style.min.e62e09c60ba428a627e03568fa3df938f6a8224f815b5846f00816c17d4a0be4.css"><meta property='og:title' content="誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた">
+<meta property='og:description' content="SelectTypeは、予約システムとGoogleカレンダーを双方向に同期させる機能と、予約に応じてGoogle Meetのビデオ会議URLを自動生成してメールで送信する機能を新たに追加しました。これにより、予約が入るとリアルタイムで...">
+<meta property='og:url' content='https://n-kase.github.io/rss/posts/post-47/'>
+<meta property='og:site_name' content='ms02 AI Assistant Blog Posts Project'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='SelectType' /><meta property='article:tag' content='Googleカレンダー連携' /><meta property='article:tag' content='Google Meet自動発行' /><meta property='article:tag' content='予約システム' /><meta property='article:tag' content='無料ツール' /><meta property='article:published_time' content='2026-06-16T08:18:54&#43;09:00'/><meta property='article:modified_time' content='2026-06-16T08:18:54&#43;09:00'/><meta property='og:image' content='https://n-kase.github.io/rss/downloaded_images/1e3b4c19e9dfdadf5f10caf59bdf2242.png' />
+<meta name="twitter:title" content="誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた">
+<meta name="twitter:description" content="SelectTypeは、予約システムとGoogleカレンダーを双方向に同期させる機能と、予約に応じてGoogle Meetのビデオ会議URLを自動生成してメールで送信する機能を新たに追加しました。これにより、予約が入るとリアルタイムで..."><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://n-kase.github.io/rss/downloaded_images/1e3b4c19e9dfdadf5f10caf59bdf2242.png' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="メニューを開く・閉じる">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/rss/">ms02 AI Assistant Blog Posts Project</a></h1>
+            <h2 class="site-description">MS-02 Ultra Home Lab</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/rss/search/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>検索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/tags/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+                
+                <span>タグ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/categories/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                
+                <span>カテゴリ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>アーカイブ</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    <li id="i18n-switch">  
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                        <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                            
+                                
+                                
+                                    
+                                        
+                                    
+                                
+                                <option value="/rss/posts/post-47/" selected>日本語</option>
+                            
+                                
+                                
+                                    
+                                
+                                <option value="/rss/en/" >English</option>
+                            
+                        </select>
+                    </li>
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>ダークモード</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/rss/posts/post-47/">
+            <img alt="Featured image of post 誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1e3b4c19e9dfdadf5f10caf59bdf2242.png">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/" style="background-color: hsl(221, 60%, 84%); color: hsl(221, 60%, 15%);">
+                テクノロジー
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/rss/posts/post-47/">誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            SelectTypeは、予約システムとGoogleカレンダーを双方向に同期させる機能と、予約に応じてGoogle Meetのビデオ会議URLを自動生成してメールで送信する機能を新たに追加しました。これにより、予約が入るとリアルタイムで...
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2026-06-16T08:18:54&#43;09:00'>2026年6月16日火曜日</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        読了時間: 1分
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+
+    
+
+    <section class="article-content">
+    
+    
+    <h2 id="aiによる要約">AIによる要約
+</h2><p>SelectTypeは、予約システムとGoogleカレンダーを双方向に同期させる機能と、予約に応じてGoogle Meetのビデオ会議URLを自動生成してメールで送信する機能を新たに追加しました。これにより、予約が入るとリアルタイムでカレンダーに反映され、逆にカレンダーに入れた予定も予約システムに反映されるため、ダブルブッキングを防ぎながらスマートフォンでも予約状況を確認できます。さらに、予約確認メールに自動でMeetのURLが挿入されるため、手動での発行や送信の手間が省け、ビデオ会議の開始がワンクリックで可能になります。</p>
+<p>この機能拡張により、小規模な事業者やフリーランスでも専門知識や予算がなくてもオンライン予約とビデオ会議をシームレスに連携できるようになります。予約管理のミスが減り、顧客への案内が迅速になることでサービス品質が向上し、ネット上でも「便利」「導入ハードルが低い」と好評です。結果として、予約・会議の一元管理が当たり前になる傾向が強まり、同様のツールへの関心が高まることが予想されます。</p>
+<p>したがって、業務を効率化したい事業者は、無料で使えるSelectTypeのようにカレンダーとビデオ会議を自動連携させるツールを積極的に検討すべきです。自動化によって人的ミスを防ぎ、顧客対応のスピードと質を向上させるという具体的な教訓が得られます。</p>
+<p><a class="link" href="https://gigazine.net/news/20260615-select-type-google-calendar-gmeet/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="誰でも無料で高機能な予約システムが作れるselecttypeに便利なgoogleカレンダー双方向連携google-meetのurl自動発行機能が登場したので使ってみた">誰でも無料で高機能な予約システムが作れる「SelectType」に便利なGoogleカレンダー双方向連携＆Google MeetのURL自動発行機能が登場したので使ってみた
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/912e6541941d4b284c3370795a74c3a0.png"></p>
+<p>「SelectType」は知識や予算がない事業者でも、豊富なテンプレートから選ぶだけで簡単に高機能なオンライン予約システムを作成できるツールです。顧客のロイヤリティを高める役に立つ「** クーポン発行機能**」やホスピタリティ向上に使える「</p>
+<p><strong>」が備わっているSelectTypeに、新しくGoogleカレンダーと連携して双方向同期で予約を自動反映する機能と、予約に応じてGoogle Meetのビデオ会議URLを自動発行＆メールで送信する機能が登場しました。SelectTypeとGoogleカレンダーの双方向同期によってダブルブッキングを防ぐことが可能となり、Google MeetのURL自動発行機能によって手動での発行操作やメール送信の手間が省けるとのことで、どんな新機能になっているのか実際に使って試してみました。</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20250805-select-type-manage-customer-records/"  target="_blank" rel="noopener"
+    >カルテ管理機能</a><strong>予約システムを中心に業務を一元化｜無料で使えるSelectType</strong></p>
+<p><a class="link" href="https://select-type.com/"  target="_blank" rel="noopener"
+    >https://select-type.com/</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/52e3a0e8b2cd52cf1fd210b80e969e85.png"></p>
+<p><strong>予約システムとGoogleカレンダーを双方向連携・同期｜SelectType</strong></p>
+<p><a class="link" href="https://select-type.com/lp/gcal/"  target="_blank" rel="noopener"
+    >https://select-type.com/lp/gcal/</a></p>
+<p><strong>予約システムとGoogleカレンダーを連携して受付けた予約情報をGoogleカレンダーに自動登録する | 無料の予約システム/イベント管理システム付ホームページ作成サービス「SELECTTYPE(セレクトタイプ)」公式ブログ</strong></p>
+<p><a class="link" href="https://blog.select-type.com/calendar/howto-link-the-reservation-system-and-google-calendar/"  target="_blank" rel="noopener"
+    >https://blog.select-type.com/calendar/howto-link-the-reservation-system-and-google-calendar/</a></p>
+<p><strong>Googleカレンダーの予定を指定した予約フォームに自動登録する／Googleカレンダー連携 | 無料の予約システム/イベント管理システム付ホームページ作成サービス「SELECTTYPE(セレクトタイプ)」公式ブログ</strong></p>
+<p><a class="link" href="https://blog.select-type.com/calendar/automatic-regist-googlecalendar-events-to-reservation-system/"  target="_blank" rel="noopener"
+    >https://blog.select-type.com/calendar/automatic-regist-googlecalendar-events-to-reservation-system/</a></p>
+<p><strong>予約システムとGoogle Meetを連携｜オンライン会議URLを自動発行・通知</strong></p>
+<p><a class="link" href="https://select-type.com/lp/gmeet/"  target="_blank" rel="noopener"
+    >https://select-type.com/lp/gmeet/</a></p>
+<p><strong>予約受付時に予約ごとにWeb会議/ビデオ通話用のURLを発行する (Google Meetとの連携) | 無料の予約システム/イベント管理システム付ホームページ作成サービス「SELECTTYPE(セレクトタイプ)」公式ブログ</strong></p>
+<p><a class="link" href="https://blog.select-type.com/calendar/googlemeetwebmeetingurl/"  target="_blank" rel="noopener"
+    >https://blog.select-type.com/calendar/googlemeetwebmeetingurl/</a></p>
+<p><strong>・目次</strong></p>
+<p><a class="link" href="#1" >◆1：SelectTypeをGoogleカレンダーと連携して予約システムを同期させるとこんな感じ</a></p>
+<p><a class="link" href="#2" >◆2：SelectTypeのGoogle Meetのビデオ会議URL自動発行機能はこんな感じ</a></p>
+<p><a class="link" href="#3" >◆3：予約システムをGoogleカレンダーと連携する方法</a></p>
+<p><a class="link" href="#4" >◆4：予約システムで受け付けた予約情報やGoogleカレンダーに入れた予定を相互に反映する</a></p>
+<p><a class="link" href="#5" >◆5：予約に応じてGoogle Meetのビデオ会議URLを自動発行する方法</a></p>
+<p><a class="link" href="#6" >◆6：料金プラン・まとめ</a></p>
+<p><strong>◆1：SelectTypeをGoogleカレンダーと連携して予約システムを同期させるとこんな感じ</strong></p>
+<p>SelectTypeとGoogleカレンダーを連携させると、SelectTypeの予約システムで受け付けた予約がリアルタイムでGoogleカレンダーに反映され、SelectTypeを開かなくてもチェック可能になります。まずは顧客がSelectTypeの予約システムから予約を入れます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/8c23927b355659bc2cc244410a0df0b5.png"></p>
+<p>すると、SelectTypeと連携したGoogleカレンダーにも予約が反映されました。予約内容の詳細についても確認できます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3856a8593e4474a727c0a4b4c9fd4fae.png"></p>
+<p>もちろんスマートフォンのGoogleカレンダーからも確認可能。外出先や電車内でも、スマートフォンひとつあれば簡単に予約状況を把握できます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5d2e80240f4acdc75e0c7398b0ed6c78.png"></p>
+<p>また、Googleカレンダーで入れた予定をSelectTypeの予約システムに反映させることも可能。Googleカレンダーに予定を入れてみます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/00f5b79b90f75b6d0ebe0f345ee6ef4c.png"></p>
+<p>SelectTypeの予約フォームを開くと、Googleカレンダーに予定を入れた時間帯の新規予約が停止されていました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e89e67e413da0980475c2d585222d973.png"></p>
+<p>もちろん、SelectTypeの予約管理カレンダーや予約一覧からも予定の情報を確認可能です。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/eaa01a1c7a2c52e05c12d6b6b2d8b593.png"></p>
+<p><strong>◆2：SelectTypeのGoogle Meetのビデオ会議URL自動発行機能はこんな感じ</strong></p>
+<p>SelectTypeとビデオ会議ツールであるGoogle Meetを連携させることで、予約に応じてGoogle Meetのビデオ会議URLを自動生成させることが可能。顧客に予約確認メールを送る設定にしておけば、以下のようにGoogle Meetのビデオ会議URLが自動で挿入されます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/56bcd4fcc15093e7c50aaf323c803db8.png"></p>
+<p>管理者側にも控えメールが届く設定にしておけば、手元のメールからURLをクリックするだけでビデオ会議を開始することが可能です。ビデオ会議URLの発行から送信までを自動化することにより、人的ミスを防ぐことができます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/edae7158316d6435b36e70da2edc93d6.png"></p>
+<p><strong>◆3：予約システムをGoogleカレンダーと連携する方法</strong></p>
+<p>まずはSelectTypeの予約システムをGoogleカレンダーと連携します。SelectTypeのアカウント登録や予約フォームの作成など、基本的な使い方については以下の記事を読むとわかります。</p>
+<p><a class="link" href="https://gigazine.net/news/20200122-select-type/"  target="_blank" rel="noopener"
+    >無料＆簡単にオンライン予約システムが作れる「SELECTTYPE」レビュー、ウェブサイトへの埋め込みもラクチンで超絶多機能にすることも可能！ - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/726072c4fdef536b9cdef4c4a1d2c751.png"></p>
+<p>今回はオンライン講座の予約フォームを作成しました。SelectTypeとGoogleカレンダーの連携機能はオンライン講座に限らず美容室やサロン、士業やコンサルティングなど、顧客が日時を指定して予約を入れられるさまざまなタイプの予約フォームで役立ちます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/61d9f476dd535fcb6b9ae8d72478dc88.png"></p>
+<p>SelectTypeの予約システムとGoogleカレンダーを連携するには、ベーシックプラン以上に加入しておく必要があります。SelectTypeのダッシュボードにログインし、ダッシュボード右上のアカウント名をクリック。開いたメニューから「Googleカレンダー連携」を選択。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b2d0df05c4ab2366426026b94b7daf94.png"></p>
+<p>「連携する」をクリック。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0bb795842da3ead43429e0dd25c5dcae.png"></p>
+<p>すでにブラウザでGoogleアカウントにログインしている場合、連携できるGoogleアカウントが表示されます。SelectTypeと連携するアカウントをクリック。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/cc68a2127677e2b26a8074bb5579623d.png"></p>
+<p>情報へのアクセス許可を求められるので、「次へ」をクリック。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d81ceae84a4546a98201ee57204255c7.png"></p>
+<p>カレンダーの予定表示や編集、削除といった権限を求められるので、「すべて選択」にチェックを入れて「続行」をクリック。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dc323cfdc3637c8be6d6ac72ce630cbf.png"></p>
+<p>これでSelectTypeの予約システムとGoogleカレンダーの連携が完了しました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2e7061f4316c1476c20e17f84542a750.png"></p>
+<p><strong>◆4：予約システムで受け付けた予約情報やGoogleカレンダーに入れた予定を相互に反映する</strong></p>
+<p>SelectTypeの予約システムと連携させてからGoogleカレンダーを開くと、左下の「マイカレンダー」の項目に、新しく「SelectType予約台帳」という名前のカレンダーが追加されています。「SelectType予約台帳」にチェックが入っていない場合はチェックを入れます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4517b5c9cc90fd508b9d8f99e994b2fa.png"></p>
+<p>SelectTypeのダッシュボードを開き、右上のアカウント名をクリックして「Googleカレンダー連携」を開きます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/8bd487aa0b702ce3fa612a133898a3d8.png"></p>
+<p>中段付近にある「SelectTypeからGoogleカレンダーへ」をクリックすると、SelectTypeの予約システムを通じて入った予約をどのようにGoogleカレンダーに反映するのかを設定可能。予約キャンセル時にGoogleカレンダーに入った予定も削除したい場合は、「キャンセル時は書き込んだ予約を削除する」にチェックを入れます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5e29b712cc443ad2fa5db188193735d9.png"></p>
+<p>「どのGoogleカレンダーに予約を登録する？」の項目には、「全体のデフォルト設定」と「スタッフ／予約フォームごとに連携設定」という2つの設定項目があります。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1ffc634d87cce60c9e3b674028c17f32.png"></p>
+<p>「全体のデフォルト設定」は、スタッフや予約フォームごとにカレンダーを分ける必要がなく、一括で同じカレンダーに反映していい場合の設定です。すでにGoogleカレンダー上で「SelectType予約台帳」にチェックを入れて表示している場合、「SelectType予約台帳」を選択しておけばOK。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/67fd27cdf1fbea5cbe1a70e9d2bc88a1.png"></p>
+<p>顧客が予約時に選択するスタッフや予約フォームごとに個別のカレンダーを用意した方が便利な場合、「スタッフ／予約フォームごとに連携設定」から個別に反映するカレンダーを設定できます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c442a72337413690e170ca9615c62c2e.png"></p>
+<p>さっそく、SelectTypeの予約フォームから予約を入れてみます。作成済みの予約フォームを開き、コースと日時を選択。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/aa4be99add09e9fcd356278e6ffe2ecc.png"></p>
+<p>予約内容を確認して「次へ」をクリック。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/48763939eb512e385edecce2c2f1bab3.png"></p>
+<p>必要事項を入力して「次へ」をクリック。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/df1666aee443768b2c8c45e601587256.png"></p>
+<p>内容を確認して、「予約を確定する」をクリック。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/8c23927b355659bc2cc244410a0df0b5.png"></p>
+<p>これで顧客による予約が完了しました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/65a9947c035256fec0160f6b18b9f1f2.png"></p>
+<p>SelectTypeで予約が入ると、予約フォームの指定した時間帯や、時間枠がかぶってしまう前の時間帯の予約が停止されます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/77c1675c84f956d784e9d2b0683a5737.png"></p>
+<p>また、ダッシュボード左上の「予約管理カレンダー」を開くと、入った予約を確認できます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/defc88d31f0f01708b46705992e76f43.png"></p>
+<p>Googleカレンダーと連携しておくと、Googleカレンダー上にもSelectTypeの予約システムを通じて受け付けた予約が反映されます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d422bbeecde3ded0a884be92488fffec.png"></p>
+<p>Googleカレンダー上で予定をクリックすると、詳細を確認することが可能です。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3856a8593e4474a727c0a4b4c9fd4fae.png"></p>
+<p>もちろん、スマートフォンでGoogleカレンダーを開いて予約を確認することもできます。外出先や電車内でも、スマートフォンさえあれば簡単に新規予約をリアルタイムで確認できるというわけです。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5d2e80240f4acdc75e0c7398b0ed6c78.png"></p>
+<p>逆に、Googleカレンダーに入れた予定をSelectTypeの予約システムに反映するには、SelectType上で「GoogleカレンダーからSelectTypeへ</p>
+<p>&hellip;（長文のため省略されました）</p>
+</details>
+
+</section>
+
+
+    <footer class="article-meta article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/rss/tags/selecttype/">SelectType</a>
+        
+            <a href="/rss/tags/google%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%E9%80%A3%E6%90%BA/">Googleカレンダー連携</a>
+        
+            <a href="/rss/tags/google-meet%E8%87%AA%E5%8B%95%E7%99%BA%E8%A1%8C/">Google Meet自動発行</a>
+        
+            <a href="/rss/tags/%E4%BA%88%E7%B4%84%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/">予約システム</a>
+        
+            <a href="/rss/tags/%E7%84%A1%E6%96%99%E3%83%84%E3%83%BC%E3%83%AB/">無料ツール</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+     
+    
+        
+
+        <div class="disqus-container">
+    
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 ms02 AI Assistant Blog Posts Project
+    </section>
+    
+    <section class="powerby">
+        <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> で構築されています。 <br />
+        テーマ <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.3">Stack</a></b> は <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> によって設計されています。
+    </section>
+</footer>
+
+
+    
+
+
+
+<script type="module">
+    import gallery from '\/rss\/ts\/gallery.js';
+
+    const articleContent = document.querySelector('.article-content');
+    const shouldLoad = articleContent && (articleContent.querySelectorAll('figure').length > 0 || articleContent.querySelectorAll('img.gallery-image').length > 0);
+    
+    if (shouldLoad) {
+        gallery(articleContent);
+
+        const PhotoSwipeLightbox = (await import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js")).default;
+        const styleHref = "https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.css";
+
+        const styleTag = document.createElement('link');
+        styleTag.rel = 'stylesheet';
+        styleTag.href = styleHref;
+        document.head.appendChild(styleTag);
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallerySelector: '.article-content',
+            childSelector: 'figure a.image-link',
+            pswpModule: () => import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.esm.min.js")
+        });
+        lightbox.init();
+    }
+</script>
+
+    
+
+            </main>
+        </div>
+        
+<script type="text/javascript" src="/rss/ts/main.8f587a582cd4e51d03a4840028b19d7deac2cee707cfe21ffe942b6666363a7f.js" defer></script>
+
+
+    </body>
+</html>

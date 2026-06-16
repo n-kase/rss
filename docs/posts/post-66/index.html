@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="中国のAI企業Moonshot AIが、コーディングに特化したオープンモデル「Kimi K2.7 Code」を公開した。このモデルは前世代よりもコーディング性能が大幅に向上し、同じ作業を行う際に必要な思考トークン数を約30％削減できる...">
+<title>中国製AIモデル「Kimi K2.7 Code」がオープンモデルとして公開される、Kimiシリーズ最高のコーディング性能でトークン消費も少なめ</title>
+
+
+<link rel="canonical" href="https://n-kase.github.io/rss/posts/post-66/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/rss/scss/style.min.e62e09c60ba428a627e03568fa3df938f6a8224f815b5846f00816c17d4a0be4.css"><meta property='og:title' content="中国製AIモデル「Kimi K2.7 Code」がオープンモデルとして公開される、Kimiシリーズ最高のコーディング性能でトークン消費も少なめ">
+<meta property='og:description' content="中国のAI企業Moonshot AIが、コーディングに特化したオープンモデル「Kimi K2.7 Code」を公開した。このモデルは前世代よりもコーディング性能が大幅に向上し、同じ作業を行う際に必要な思考トークン数を約30％削減できる...">
+<meta property='og:url' content='https://n-kase.github.io/rss/posts/post-66/'>
+<meta property='og:site_name' content='ms02 AI Assistant Blog Posts Project'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='AI' /><meta property='article:tag' content='オープンソース' /><meta property='article:tag' content='コーディング' /><meta property='article:tag' content='Kimi' /><meta property='article:tag' content='Moonshot AI' /><meta property='article:published_time' content='2026-06-16T08:24:47&#43;09:00'/><meta property='article:modified_time' content='2026-06-16T08:24:47&#43;09:00'/><meta property='og:image' content='https://n-kase.github.io/rss/downloaded_images/e97ceb4f47f9eb4a8db7d48f0797797f.png' />
+<meta name="twitter:title" content="中国製AIモデル「Kimi K2.7 Code」がオープンモデルとして公開される、Kimiシリーズ最高のコーディング性能でトークン消費も少なめ">
+<meta name="twitter:description" content="中国のAI企業Moonshot AIが、コーディングに特化したオープンモデル「Kimi K2.7 Code」を公開した。このモデルは前世代よりもコーディング性能が大幅に向上し、同じ作業を行う際に必要な思考トークン数を約30％削減できる..."><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://n-kase.github.io/rss/downloaded_images/e97ceb4f47f9eb4a8db7d48f0797797f.png' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="メニューを開く・閉じる">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/rss/">ms02 AI Assistant Blog Posts Project</a></h1>
+            <h2 class="site-description">MS-02 Ultra Home Lab</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/rss/search/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>検索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/tags/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+                
+                <span>タグ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/categories/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                
+                <span>カテゴリ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>アーカイブ</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    <li id="i18n-switch">  
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                        <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                            
+                                
+                                
+                                    
+                                        
+                                    
+                                
+                                <option value="/rss/posts/post-66/" selected>日本語</option>
+                            
+                                
+                                
+                                    
+                                
+                                <option value="/rss/en/" >English</option>
+                            
+                        </select>
+                    </li>
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>ダークモード</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/rss/posts/post-66/">
+            <img alt="Featured image of post 中国製AIモデル「Kimi K2.7 Code」がオープンモデルとして公開される、Kimiシリーズ最高のコーディング性能でトークン消費も少なめ" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e97ceb4f47f9eb4a8db7d48f0797797f.png">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/" style="background-color: hsl(221, 60%, 84%); color: hsl(221, 60%, 15%);">
+                テクノロジー
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/rss/posts/post-66/">中国製AIモデル「Kimi K2.7 Code」がオープンモデルとして公開される、Kimiシリーズ最高のコーディング性能でトークン消費も少なめ</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            中国のAI企業Moonshot AIが、コーディングに特化したオープンモデル「Kimi K2.7 Code」を公開した。このモデルは前世代よりもコーディング性能が大幅に向上し、同じ作業を行う際に必要な思考トークン数を約30％削減できる...
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2026-06-16T08:24:47&#43;09:00'>2026年6月16日火曜日</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        読了時間: 1分
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+
+    
+
+    <section class="article-content">
+    
+    
+    <h2 id="aiによる要約">AIによる要約
+</h2><p>中国のAI企業Moonshot AIが、コーディングに特化したオープンモデル「Kimi K2.7 Code」を公開した。このモデルは前世代よりもコーディング性能が大幅に向上し、同じ作業を行う際に必要な思考トークン数を約30％削減できるため、効率的にプログラムを生成できる。オープンソースとして誰でもダウンロードできるため、開発者や研究者が自由に利用・改良できる環境が整った。</p>
+<p>この発表により、AIを活用したコーディング支援ツールの普及がさらに進むことが予想され、ソフトウェア開発のスピードや品質が向上する可能性がある。一方で、高性能なモデルが容易に手に入ることで、不正なコード生成やセキュリティリスクへの懸念も高まるかもしれない。ネット上では、技術の進化への期待とともに、使い方のルールや倫理的なガイドラインの必要性が議論される傾向が見られる。</p>
+<p>したがって、開発者はこのような効率的なオープンモデルを積極的に活用しつつ、生成されたコードの品質や安全性をしっかりと確認する姿勢が求められる。また、提供側は利用者が誤用しないよう、適切な利用ポリシーや監視仕組みを整えることが重要である。</p>
+<p><a class="link" href="https://gigazine.net/news/20260615-kimi-k2-7-code/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="中国製aiモデルkimi-k27-codeがオープンモデルとして公開されるkimiシリーズ最高のコーディング性能でトークン消費も少なめ">中国製AIモデル「Kimi K2.7 Code」がオープンモデルとして公開される、Kimiシリーズ最高のコーディング性能でトークン消費も少なめ
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/513b007cc8270062d0be808a8a17a938.png"></p>
+<p>中国企業の** Moonshot AI**がAIモデル「</p>
+<p><strong>Kimi K2.7 Code</strong>」を2026年6月12日に公開しました。Kimi K2.7 Codeはコーディングエージェントに特化したAIモデルで、誰でもダウンロード可能なオープンモデルとして公開されています。</p>
+<p><strong>Kimi K2.7 Code: Open-Source Agentic Coding Model</strong></p>
+<p><a class="link" href="https://www.kimi.com/resources/kimi-k2-7-code"  target="_blank" rel="noopener"
+    >https://www.kimi.com/resources/kimi-k2-7-code</a>🌘 Kimi-K2.7-Code, our latest coding model, is now released and open-sourced!</p>
+<p>— Kimi.ai (@Kimi_Moonshot)</p>
+<p>🔷 Improved coding &amp; agent performance over K2.6: +21.8% on Kimi Code Bench v2, +11.0% on Program Bench, and +31.5% on MLS Bench Lite.</p>
+<p>🔷 Reasoning efficiency: Less overthinking, with 30% lower…<a class="link" href="https://t.co/jFS7I40avs"  target="_blank" rel="noopener"
+    >pic.twitter.com/jFS7I40avs</a><a class="link" href="https://x.com/Kimi_Moonshot/status/2065377579130142937?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >June 12, 2026</a></p>
+<p>Kimi K2.7 Codeは総パラメーター数1兆、アクティブパラメーター数320億のMoEモデルで、最大コンテキスト長は26万2144(256K)トークンです。</p>
+<p>「Kimi K2.7 Code」「Kimi K2.6」「GPT-5.5(xhigh)」「Claude Opus 4.8(xhigh)」のベンチマーク結果が以下。Kimi K2.7 Codeは前世代モデルの** Kimi K2.6**と比べてコーディングタスクにおける性能が大きく向上しています。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ec550339b68461651125fbfc3d325223.png"></p>
+<p>AIエージェントは1つのタスクを実行するために無駄なトークン消費を積み重ねてしまうことがあります。Kimi K2.7 Codeは推論効率が向上しており、Kimi K2.6と比べて約30％少ない思考トークンでタスクを実行できます。以下のグラフは横軸が消費トークン数、縦軸が性能を示しており、Kimi K2.7 CodeがKimi K2.6と比べて高性能かつ高効率であることが分かります。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9d3d610cdc32d5d65a0ef896c27ca874.png"></p>
+<p>Kimi K2.7 Codeは以下のリンク先でオープンモデルとして公開されています。</p>
+<p><strong>moonshotai/Kimi-K2.7-Code · Hugging Face</strong></p>
+<p><a class="link" href="https://huggingface.co/moonshotai/Kimi-K2.7-Code"  target="_blank" rel="noopener"
+    >https://huggingface.co/moonshotai/Kimi-K2.7-Code</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f143a9a3825d36bf6c61b55852d9b0d3.png"></p>
+</details>
+
+</section>
+
+
+    <footer class="article-meta article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/rss/tags/ai/">AI</a>
+        
+            <a href="/rss/tags/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9/">オープンソース</a>
+        
+            <a href="/rss/tags/%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0/">コーディング</a>
+        
+            <a href="/rss/tags/kimi/">Kimi</a>
+        
+            <a href="/rss/tags/moonshot-ai/">Moonshot AI</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside>
+    <h2 class="section-title">関連するコンテンツ</h2>
+    <div class="subsection-list">
+        <div class="article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-57/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 日本語対応の音声クローンAI「ZONOS2」が登場、トランプ大統領の声でエヴァンゲリオンについて語らせるデモもあり" loading="lazy" src="/rss/downloaded_images/148ed3f1b191fc889ad9c549656eb173.png">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">日本語対応の音声クローンAI「ZONOS2」が登場、トランプ大統領の声でエヴァンゲリオンについて語らせるデモもあり</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-53/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Claude Fableのサービス停止を受けて中国企業が最先端モデル「GLM-5.2」を急遽発表、2026年6月中に無料公開へ" loading="lazy" src="/rss/downloaded_images/16a7174bae87e3f22e7e95b41d61be16.png">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Claude Fableのサービス停止を受けて中国企業が最先端モデル「GLM-5.2」を急遽発表、2026年6月中に無料公開へ</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-64/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 公営企業の「独自開発AI」が既存モデル2つを混ぜただけと判明、重み解析で発覚" loading="lazy" src="/rss/downloaded_images/ac36dc7e3cfb1a494fe7ed8fcce1f99d.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">公営企業の「独自開発AI」が既存モデル2つを混ぜただけと判明、重み解析で発覚</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-50/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post AIが社会を変革する「今」と「AGIの未来」の中間にある真の問題「混沌とした中間期」とは？" loading="lazy" src="/rss/downloaded_images/2eb6248c1131a99f5621f89bb174c6a2.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">AIが社会を変革する「今」と「AGIの未来」の中間にある真の問題「混沌とした中間期」とは？</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-36/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Claude、日本の金融中枢へ\u3000三井住友FG・明治安田など8社がAnthropicおよびNECと共創" loading="lazy" src="/rss/downloaded_images/09d15275607c5ff181c5c85984ae9c4f.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Claude、日本の金融中枢へ　三井住友FG・明治安田など8社がAnthropicおよびNECと共創</h2>
+        </div>
+    </a>
+</article>
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+
+        <div class="disqus-container">
+    
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 ms02 AI Assistant Blog Posts Project
+    </section>
+    
+    <section class="powerby">
+        <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> で構築されています。 <br />
+        テーマ <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.3">Stack</a></b> は <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> によって設計されています。
+    </section>
+</footer>
+
+
+    
+
+
+
+<script type="module">
+    import gallery from '\/rss\/ts\/gallery.js';
+
+    const articleContent = document.querySelector('.article-content');
+    const shouldLoad = articleContent && (articleContent.querySelectorAll('figure').length > 0 || articleContent.querySelectorAll('img.gallery-image').length > 0);
+    
+    if (shouldLoad) {
+        gallery(articleContent);
+
+        const PhotoSwipeLightbox = (await import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js")).default;
+        const styleHref = "https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.css";
+
+        const styleTag = document.createElement('link');
+        styleTag.rel = 'stylesheet';
+        styleTag.href = styleHref;
+        document.head.appendChild(styleTag);
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallerySelector: '.article-content',
+            childSelector: 'figure a.image-link',
+            pswpModule: () => import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.esm.min.js")
+        });
+        lightbox.init();
+    }
+</script>
+
+    
+
+            </main>
+        </div>
+        
+<script type="text/javascript" src="/rss/ts/main.8f587a582cd4e51d03a4840028b19d7deac2cee707cfe21ffe942b6666363a7f.js" defer></script>
+
+
+    </body>
+</html>

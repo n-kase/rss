@@ -1,0 +1,44 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GENIAC on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/geniac/</link>
+    <description>Recent content in GENIAC on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 09:00:12 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/geniac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>テキストを介さない音声特化型AIモデル開発のDubGuild、ジャフコをリードに21億</title>
+      <link>https://n-kase.github.io/rss/posts/post-157/</link>
+      <pubDate>Tue, 16 Jun 2026 09:00:12 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-157/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>DubGuildは、テキストを介さない音声特化型基盤モデルの研究開発を行うスタートアップで、2026年6月5日にシードラウンドの資金調達を完了したことを発表しました。このラウンドではジャフコグループがリード投資家を務め、Coreline VenturesおよびCyberAgent Capitalも出資に参加しています。さらに、経済産業省／NEDOの生成AI支援プロジェクト「GENIAC」第4期にも採択され、今回の調達と合わせて累計で約21億円の資金を確保したと明らかにしています。同社が開発を進めているのはLarge Spoken Language Model（LSLM）またはSpoken Language Model（SLM）と呼ばれる音声特化型の基盤モデルで、従来の音声対話システムが音声認識（ASR）、大規模言語モデル（LLM）、音声合成（TTS）を組み合わせるパイプライン構成とは異なり、テキストを経由せずに音声だけで処理を行うアプローチです。Neural Audio Codecを用いて音声を離散トークン化し、LLMベースで処理することで、感情理解や割り込みを含むリアルタイムの自然な対話を目指しています。研究ブログによれば、1Bモデルでは約5万時間、3Bモデルでは約50万時間の日本語音声データを用いた段階的スケーリング実験を行い、3Bモデルでは表現幅や話者切替などで改善が確認されたと報告しています。調達された資金はエンジニア採用の強化に充てられ、最終的に30B規模の音声言語基盤モデルの開発と社会実装を加速させる計画です。GENIACの支援を受けながら、計算資源やデータセットの蓄積、ナレッジ共有を進めていくとしています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表後、技術系の掲示板やSNSでは「音声だけで完結するAIは画期的だ」と期待する声が多く見られました。特に、現在のパイプライン方式では認識誤訳や合成の遅延が課題となっているため、それを根本から解決できる可能性に注目が集まっています。一方で、音声データのプライバシーや倫理面への懸念も同時に表明され、「大量の音声を収集することによる個人情報漏洩のリスクはないのか」といった質問が散見されました。さらに、大手テクノロジー企業が同様の分野に参入している中で、スタートアップが本当に競争力を持てるのかという疑問も提起されました。時間が経つにつれて、実証実験の詳細やスケールアップの進捗が公開されるにつれ、期待と懸念のバランスが少しずつ変化し、技術的な可行性が示されれば期待が高まる一方で、実装コストや規制対応の難しさが指摘されると慎重な意見が増えるという傾向が観察されました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>近年、音声アシスタントやコールセンター、車載システムなどでの音声対話需要が急速に拡大しており、より自然で遅延の少ないインタラクションが求められています。従来の方式では音声をテキストに変換し、言語モデルで処理した後、再び音声に戻すという複数の工程を経るため、処理遅延やエラーの累積が避けられませんでした。DubGuildのアプローチは、この工程を省き、音声そのものを直接処理対象とすることで、遅延削減と文脈や感情の細やかな理解を同時に実現しようとしています。もしこの技術が実用レベルに達すれば、障がい者向けのコミュニケーション支援や、リアルタイム通訳、エンタメ分野でのインタラクティブなコンテンツなど、さまざまな場面で革新がもたらされる可能性があります。一方で、音声データの取り扱いにはプライバシー保護やバイアスの排除といった倫理的課題が伴うため、開発段階から適切なガバナンスを構築することが重要となります。総じて、今回の資金調達と技術開発は、音声AIの次なるステージを切り開く有望な取り組みであり、今後の進展に注目が集まると考えられます。</p>
+<p><a class="link" href="https://thebridge.jp/2026/06/dubguild-completes-seed-round-and-selected-for-geniac"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="テキストを介さない音声特化型aiモデル開発のdubguildジャフコをリードに21億">テキストを介さない音声特化型AIモデル開発のDubGuild、ジャフコをリードに21億
+</h1><p>テキストを介さない音声特化型基盤モデル（音声対話 AI 基盤モデル）を研究開発する DubGuild は5日、シードラウンドの資金調達を完了したことを公表した。本ラウンドはジャフコ グループをリード投資家とし、Corel […]</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6e9b80564d7d8e49420bd39810e026ba.png"></p>
+<p>テキストを介さない音声特化型基盤モデル（音声対話 AI 基盤モデル）を研究開発する DubGuild は5日、シードラウンドの資金調達を完了したことを<a class="link" href="https://prtimes.jp/main/html/rd/p/000000007.000176906.html"  target="_blank" rel="noopener"
+    >公表した</a>。本ラウンドはジャフコ グループをリード投資家とし、Coreline Ventures、CyberAgent Capital が出資に参加した。</p>
+<p>また同社は経済産業省／NEDO の生成 AI 支援プロジェクト「GENIAC」第4期にも採択されたことを明らかにしている。今回の出資と合わせ、調達した資金の累計は最大約21億円とした。それぞれの調達額の明細は非公開。</p>
+<p>同社が開発を進めるのは、Large Spoken Language Model（LSLM）／Spoken Language Model（SLM）と呼ばれる音声特化型の基盤モデルだ。従来の音声対話システムが音声認識（ASR）、大規模言語モデル（LLM）、音声合成（TTS）を組み合わせるパイプライン構成を採るのに対し、同社のアプローチはテキストを介さない音声特化型の処理を行う。</p>
+<p>Neural Audio Codec を用いて音声を離散トークン化し、LLM ベースで処理することで、感情理解や割り込みを含むリアルタイムの自然な対話を目指している。<a class="link" href="https://blog.dubguild.com/melte/llm-tts-scaling/"  target="_blank" rel="noopener"
+    >同社の研究ブログ</a>によると、1Bモデルで約5万時間、3Bモデルで約50万時間の日本語音声データを用いた段階的スケーリング実験を実施しており、3Bモデルでは表現幅や話者切替などで改善が確認されたという。</p>
+<p>今回の資金はエンジニア採用の強化に充当し、30B規模の音声言語基盤モデル開発と社会実装を加速させる。GENIAC の支援下では計算資源やデータセットの蓄積、ナレッジ共有などを受けながら研究開発を推進する計画だ。</p>
+<p>via <a class="link" href="https://prtimes.jp/main/html/rd/p/000000007.000176906.html"  target="_blank" rel="noopener"
+    >PR TIMES</a></p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

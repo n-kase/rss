@@ -1,0 +1,60 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ハルシネーション on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%8F%E3%83%AB%E3%82%B7%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+    <description>Recent content in ハルシネーション on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 15 Jun 2026 23:19:27 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%8F%E3%83%AB%E3%82%B7%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIが生んだ「架空の判例」を双方が掲げて裁判、弁護士4人が処分される事態に</title>
+      <link>https://n-kase.github.io/rss/posts/post-18/</link>
+      <pubDate>Mon, 15 Jun 2026 23:19:27 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-18/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>法律関係者の間で、法律文書の作成補助にAIツールを利用する動きが広がっているが、ミシシッピ州の連邦裁判所で行われた訴訟では、弁護士がAIを使って提出書類を作成した際に架空の判例を引用したとして、関与した4人の弁護士に懲戒処分が下された。この事例はメディアやSNSで大きく取り上げられ、AIの「ハルシネーション」による誤りが法廷で実際に問題となったことを示している。</p>
+<p>この出来事は、AIの出力を鵜呑みにするリスクが法曹界にも及んでいることを浮き彫りにし、弁護士がAI生成コンテンツの事実確認を怠ると職業倫理に反するだけでなく、裁判所からの制裁や信頼失墜につながる可能性があることを示唆している。さらに、ニューヨーク州では生成AIの利用に関する新たな規則が導入され、米国弁護士協会もAIの利点とリスクを理解し、適切な監視を行うよう会員に指導するガイドラインやタスクフォース報告を発表している。</p>
+<p>したがって、弁護士はAIを業務に取り入れる際には、出力の正確性を必ず人間が確認し、技術の利点とリスクを十分に理解した上で使用すべきであり、AIツールへの過度な依存を避けて専門家としての責任を果たすことが求められる。</p>
+<p><a class="link" href="https://japan.cnet.com/article/35248862/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>法律関係者の間で、法律文書の一部を作成するためにAIツールを利用する動きが広がっている。しかし、その使い方を誤れば大きな代償を払うことになりかねない。<a class="link" href="https://www.courtlistener.com/docket/69485760/123/withers-v-city-of-aberdeen/"  target="_blank" rel="noopener"
+    >ミシシッピ州の連邦裁判所で最近行われた訴訟</a>では、太陽光発電プロジェクトの報酬をめぐって争う双方の弁護士が書類作成にAIソフトウェアを使い、架空の判例を引用したとして懲戒処分を受けた。</p>
+<p>この訴訟「Withers v. City of Aberdeen」は、弁護士のTom Withers III氏とミシシッピ州アバディーン市との間の争いだ。Withers氏は、太陽光発電開発プロジェクトに関する報酬を同市が支払う義務があると主張していた。Withers氏本人は戒告の対象ではなかったが、同氏の弁護団は対象となった。市側の弁護士も同様だった。判事は、双方2人ずつ、計4人の弁護士が、人間の弁護士による適切な確認を経ないままAIを使って提出書面を作成したと判断した。</p>
+<p>この結果は<a class="link" href="https://www.nytimes.com/2026/06/09/us/ai-lawyers-sanctioned-mississippi.html"  target="_blank" rel="noopener"
+    >The New York Timesなどのメディアの関心を集め</a>、法曹界にとっての教訓となりそうだ。<a class="link" href="https://x.com/RobertFreundLaw/status/2064189738781900911"  target="_blank" rel="noopener"
+    >この問題を最初に見つけたのは</a>、マーケティングおよび商取引を専門とする弁護士のRob Freund氏で、同氏はこれを「AIによるエラーの喜劇」として「X」に投稿した。</p>
+<p>Comedy of AI errors: Lawyers on both sides of a case misuse AI, cite fake hallucinated cases.</p>
+<p>— Rob Freund (@RobertFreundLaw)</p>
+<p>At the show-cause hearing, &ldquo;each of the attorneys expressed embarrassment and apologized to the Court.&rdquo;</p>
+<p>&ldquo;Neither of them verified the legal authority output by AI before filing their…<a class="link" href="https://t.co/8iogjshrep"  target="_blank" rel="noopener"
+    >pic.twitter.com/8iogjshrep</a><a class="link" href="https://x.com/RobertFreundLaw/status/2064189738781900911?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >June 9, 2026</a></p>
+<p>ウェブサイトの404 Mediaが<a class="link" href="https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/"  target="_blank" rel="noopener"
+    >Freund氏の投稿について報じた</a>ことで、この訴訟は全米で注目されることになった。</p>
+<p>米連邦地裁のSharion Aycock判事は、AIに起因する誤りなどを理由に、4人の弁護士に罰金を科し、この訴訟を打ち切った。</p>
+<p>「裁判所は、4人の弁護士全員が自ら認めている通り、それぞれの提出書面で引用した法的根拠を確認せず、規則第11条に違反したと判断した」と同氏は述べた。</p>
+<p><a class="link" href="https://www.uscourts.gov/sites/default/files/federal_rules_of_civil_procedure_december_1_2022_0.pdf"  target="_blank" rel="noopener"
+    >連邦民事訴訟規則</a>第11条は、弁護士が提出する法的文書に署名しなければならないと定めており、これは基本的に提出内容が真実であることを裁判官に約束するものだ。</p>
+<p>「すべての弁護士は資格を持っており、おそらく法律の訓練を十分に受けているはずだ」とAycock氏は記している。「テクノロジーをうのみにした結果、それぞれの提出書類にハルシネーションに基づく引用が含まれる事態を招いた」</p>
+<p>AIのハルシネーションとは、大規模言語モデルが言葉をつなぎ合わせて、もっともらしい文章を作成する際に日常的に生成する誤りや虚偽情報のことだ。</p>
+<p>AIのミスによって弁護士が窮地に陥ったケースは、ミシシッピ州の訴訟だけではない。最近起きた法的な混乱をきっかけに、ニューヨーク州は生成AIに関する新たな規則を導入した。例えば6月1日以降、「ChatGPT」のようなツールを使って生成された結果は、<a class="link" href="https://www.bakerlaw.com/insights/ai-is-not-your-lawyer-federal-court-rules-ai-generated-documents-are-not-privileged/"  target="_blank" rel="noopener"
+    >弁護士・依頼者間の秘匿特権によって保護されなくなる</a>。</p>
+<p>米国最大の弁護士団体である<a class="link" href="https://www.americanbar.org/"  target="_blank" rel="noopener"
+    >米国法曹協会（ABA）</a>は米CNETへの声明の中で、弁護士が業務でAIを使用する際、複雑な新たな課題に直面していると述べた。</p>
+<p>「弁護士は、生成AIの出力には精査と監視が必要であることを理解している」と、ABA会長のMichelle A Behnke氏は述べた。「ABAは、会員が新しい法律、新しいテクノロジー、新しい実務ツールに対応できるよう支援していく」</p>
+<p>同団体はAIに関するタスクフォースを設けており、12月には、弁護士のAI導入状況、ベストプラクティス、AIポリシーをまとめた<a class="link" href="https://www.americanbar.org/news/abanews/aba-news-archives/2025/12/aba-ai-task-force-report-examines-opportunities-challenges/"  target="_blank" rel="noopener"
+    >レポートを発表した</a>。また、<a class="link" href="https://www.americanbar.org/news/abanews/aba-news-archives/2024/07/aba-issues-first-ethics-guidance-ai-tools/"  target="_blank" rel="noopener"
+    >AIを使用する弁護士向けの倫理的ガイドライン</a>も発行している。</p>
+<p>その助言の1つは、「弁護士は、クライアントに法的サービスを提供するために使うテクノロジーに伴う『利点とリスク』を理解すべきだ」というものだ。</p>
+<p>この記事は海外Ziff Davis発の<a class="link" href="https://www.cnet.com/tech/services-and-software/lawyers-using-ai-pitfalls-sanctions-aba-guidance/"  target="_blank" rel="noopener"
+    >記事</a>を4Xが日本向けに編集したものです。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

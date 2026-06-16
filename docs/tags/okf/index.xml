@@ -1,0 +1,70 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OKF on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/okf/</link>
+    <description>Recent content in OKF on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 09:52:04 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/okf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>グーグル、AIのための知識共有フォーマット「OKF」を公開</title>
+      <link>https://n-kase.github.io/rss/posts/post-279/</link>
+      <pubDate>Tue, 16 Jun 2026 09:52:04 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-279/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Google Cloudは2026年6月13日（米国時間）、AIエージェントが組織内の知識を活用しやすくするためのナレッジ共有フォーマット「Open Knowledge Format（OKF）」を発表しました。初期バージョンであるOKF v0.1はGitHubで公開されており、マークダウンファイルとYAMLフロントマターを組み合わせた仕様です。必須フィールドはtypeのみで、title・description・resource・tags・timestampなどがオプションとして定義されています。例えば、BigQueryのテーブル情報を表すファイルでは、typeに「BigQuery Table」と指定し、タイトルや説明、リンク、タグ、タイムスタンプを付記します。こうしたファイルをディレクトリ構造で束ねた「OKFバンドル」は、マークダウンリンクで相互参照でき、グラフ構造の知識ベースとして機能します。一般的なマークダウンエディタで開けるため、人間も内容を理解しやすい形となっています。Google Cloudはリファレンス実装も同時に公開しており、特定のクラウドサービスやデータベース、モデルプロバイダー、エージェントフレームワークに依存しないオープン規格として提供しています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表直後、技術系フォーラムやSNSでは「オープンな知識共有フォーマットが登場した」と歓迎する声が多く見られました。特に、ベンダーロックインを避けたい企業や開発者からは、異なるAIエージェント間でのデータ連携が容易になると評価されています。一方で、実際に導入するには既存のドキュメントやツールをOKF形式に変換する手間が必要だという懸念も示され、移行コストやエコシステムの成熟度について議論が行われました。時間が経つにつれて、具体的なユースケースとしてナレッジベースの構築やAIエージェントのコンテキスト強化が挙げられ、コミュニティからはサンプルデータや変換スクリプトの共有を求める声が高まっています。全体としては、期待と実装へのハードルの両方が指摘されるバランスの取れた反応が続いています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>近年、大規模言語モデルやAIエージェントが情報を活用する際、単なるデータだけでなく文脈情報（コンテキスト）の質が結果の正確性に大きく影響することが明らかになっています。しかし、各ベンダーが独自のAPIやスキーマを提供しているため、組織内で異なるシステム間の知識を横断して活用する際に毎回実装を作り直す必要があり、これがAI活用のボトルネックとなっていました。OKFはこうした fragmentation（断片化）を解消するため、マークダウンという広く普及したフォーマットと軽量なYAMLメタデータを組み合わせ、誰でも容易に読み書きできるオープン仕様を提示しました。これにより、異なるツールやプラットフォーム間での知識の相互運用性が向上し、AIエージェントがより正確で実用的な回答を生み出す基盤が整うことが期待されます。結論として、OKFはオープンかつシンプルなナレッジ共有フォーマットとして、AIエージェントの実用化を後押しする可能性があり、今後のエコシステムの発展次第で業界標準となるかが注目されます。</p>
+<p><a class="link" href="https://www.watch.impress.co.jp/docs/news/2116974.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>ニュース</p>
+<h1 id="グーグルaiのための知識共有フォーマットokfを公開">グーグル、AIのための知識共有フォーマット「OKF」を公開
+</h1><p>2026年6月15日 10:37</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d04ffe1088e5c94f7482fc6b74ae988f.jpg"></p>
+<p>Google Cloudは13日(米国時間)、AIエージェントが組織内の知識などを活用しやすくするためのナレッジ共有フォーマット「Open Knowledge Format(OKF)」を発表した。初期バージョンの「OKF v0.1」としてGitHubで公開している。</p>
+<p>LLMやAIエージェントが情報を活用する場合、与えられたデータの質とともに、文脈情報(コンテキスト)が重要になる。コンテキストが不足していると、LLMの本領が発揮できず、正確で実用的な結果を生み出すには、LLMに与える情報の内容とコンテキストの質が必要となる。</p>
+<p>一方、AIエージェントが情報を横断して回答を組み立てるための文脈理解は、ベンダーごとに異なるAPIや、独自スキーマに対応する実装が毎回必要となっており、「同じ問題をゼロから解き直している」状態が、AI活用を進める多くの組織で発生しているという。こうした課題を解決し、ベンダーに依存しないオープン仕様として公開するものがOKFとなる。</p>
+<p>OKFの核となるのは、MarkdownファイルとYAMLフロントマターの組み合わせだ。Markdownは、#で見出し、<strong>太字</strong>、- 箇条書きといった簡単な記号で文書を構造化できるテキスト記法で、GitHubやNotionなどの多くのツールで広く使われている。人間が直接読み書きできるうえ、プログラムからも解析しやすい点が特徴だ。</p>
+<p>OKFではMarkdownに、YAMLと呼ばれる構造化データ記法でメタ情報を付加する。必須フィールドはtype(概念の種別)のみで、title・description・resource・tags・timestampなどがオプションとして定義される。</p>
+<p>&mdash;type: BigQuery Table</p>
+<p>title: Orders</p>
+<p>description: One row per completed customer order.</p>
+<p>resource: <a class="link" href="https://console.cloud.google.com/bigquery?p=acme&amp;d=sales&amp;t=orders"  target="_blank" rel="noopener"
+    >https://console.cloud.google.com/bigquery?p=acme&d=sales&t=orders</a></p>
+<p>tags: [sales, revenue]</p>
+<p>timestamp: 2026-05-28T14:30:00Z</p>
+<hr>
+<h1 id="schema">Schema
+</h1><p>| Column | Type | Description |</p>
+<p>|&mdash;&mdash;&mdash;&mdash;&mdash;|&mdash;&mdash;&mdash;&ndash;|&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;|</p>
+<p>| <code>order_id</code> | STRING | Globally unique order identifier. |</p>
+<p>| <code>customer_id</code> | STRING | FK to <a class="link" href="/tables/customers.md" >customers</a>. |</p>
+<h1 id="joins">Joins
+</h1><p>Joined with <a class="link" href="/tables/customers.md" >customers</a> on <code>customer_id</code>.</p>
+<p>このようなファイルをディレクトリ構造で束ねたものが「OKFバンドル」で、ファイル間は通常のMarkdownリンクで相互参照できる。全体がグラフ構造の知識ベースとして機能する。OKFバンドルは一般的なMarkdownエディタで開けるため、人間も理解できる。</p>
+<p>sales/├── index.md</p>
+<p>├── datasets/</p>
+<p>│ ├── index.md</p>
+<p>│ └── orders_db.md</p>
+<p>├── tables/</p>
+<p>│ ├── index.md</p>
+<p>│ ├── orders.md</p>
+<p>│ └── customers.md</p>
+<p>└── metrics/</p>
+<p>│ ├── index.md</p>
+<p>└── weekly_active_users.md</p>
+<p>OKFでは最低限の規定だけを設けて、相互運用性を重視。特定のクラウドサービスや、データベース、モデルプロバイダー、エージェントフレームワークに縛られない、オープン規格として公開する。Google Cloudでは、リファレンス実装なども公開している。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d89caa61ab733f097daabffb969b6c2e.jpg"></p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

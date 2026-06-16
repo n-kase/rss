@@ -1,0 +1,33 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>情報 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E6%83%85%E5%A0%B1/</link>
+    <description>Recent content in 情報 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 08:52:57 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E6%83%85%E5%A0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebookに障害発生。メッセンジャーも見られず</title>
+      <link>https://n-kase.github.io/rss/posts/post-140/</link>
+      <pubDate>Tue, 16 Jun 2026 08:52:57 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-140/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>抽出されたテキストには「ニュース」という単語のみが含まれています。これにより、出典がニュース記事であることは確認できますが、具体的な出来事やテーマについては記載されていません。したがって、この情報だけでは誰が、何を、いつ、どこで行ったのかといった詳細は不明です。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>抜粋には本文や議論の内容が一切含まれていないため、ネットユーザーの反応や意見の対立、時間経過による変化を把握することはできません。実際の記事やスレッドを見なければ、賛否の傾向や議論の流れを推測する根拠はありません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>情報が極めて限られているため、このニュースが社会に与えた影響や得られる教訓を結論付けることは困難です。まずは記事の本文や関連する背景情報を取得し、その上で具体的な影響や意義を検討する必要があります。現状では推測に過ぎないため、さらなる詳細が明らかになるまで判断を保留するのが適切です。</p>
+<p><a class="link" href="https://pc.watch.impress.co.jp/docs/news/2116924.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>ニュース</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

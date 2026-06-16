@@ -1,0 +1,296 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/google/</link>
+    <description>Recent content in Google on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 10:12:52 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アップルはなぜAIを&#34;作り直した&#34;のか――Googleと組んで挑む､｢誰もが使うエージェント｣競争の勝算 | ビジネス | 東洋経済オンライン</title>
+      <link>https://n-kase.github.io/rss/posts/post-324/</link>
+      <pubDate>Tue, 16 Jun 2026 10:12:52 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-324/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>アップルはWWDC 26において、「第3世代Apple Intelligence」を発表しました。この新バージョンは、プライバシー保護を最優先にしつつ、iPhone、Mac、Apple Watchなどの自社デバイス間での連携を深めることで、AI体験を根本から刷新することを目的としています。さらに、Googleと提携して「誰もが使えるエージェント」を開発し、ユーザーが日常的に利用できる汎用的なAIアシスタントを目指す方針を示しました。これにより、これまでの個別機能中心のアプローチから、より統合的かつユーザー中心のAIサービスへと転換しようとしています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表直後、テクノロジー系の掲示板やSNSでは、プライバシーに配慮した姿勢が評価され、「安心して使えるAI」という声が多数上がりました。一方で、Googleとの連携については、データ共有の懸念や、アップルが独自路線を曲げたのではないかという批判も見られました。時間が経つにつれて、実際の機能デモやベータ版の情報が出始めると、議論は「実際にどれほど使いやすくなるか」「競合のMicrosoft CopilotやAmazon Alexaと比べてどこが優れているか」へとシフトし、期待と不安が交錯する状況が続いています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>これまでアップルは、Siriを中心としたAI提供において、競合他社に後れを取っていると指摘されてきました。プライバシー重視というブランドイメージを守りつつ、市場での存在感を高めるため、今回の戦略は「自社エコシステム内での完結」と「外部の強力なパートナーシップ」を組み合わせたものです。この取り組みが成功すれば、プライバシーを担保しながらも高い利便性を提供するAIモデルとして、業界全体に新たな基準を示す可能性があります。一方で、パートナーへの依存度が高まるリスクや、実際のユーザー体験が期待に応えるかどうかは今後の検証が必要です。本件は、技術革新とユーザー信頼の両立という課題に対する一つの答えとして注目されます。</p>
+<p><a class="link" href="https://toyokeizai.net/articles/-/947678?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="アップルはなぜaiを作り直したのかgoogleと組んで挑む誰もが使うエージェント競争の勝算">アップルはなぜAIを&quot;作り直した&quot;のか――Googleと組んで挑む､｢誰もが使うエージェント｣競争の勝算
+</h1><p><img alt="講演中のティム・クックCEO" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9f9735100fc1b4f058eb1ea54c9492cf.jpg"></p>
+<p>アップルがWWDC 26で発表した｢第3世代Apple Intelligence｣は､AI体験を大きく刷新し､プライバシーと機器連携を重視した独自の進化を遂げた。なぜ今､アップルはAIに再挑戦するのか。他社との違いはどこにあるのか。</p>
+<p><a class="link" href="/articles/-/947678?display=b" >続きを読む</a></p>
+<p>アップルがWWDC 26で発表した｢第3世代Apple Intelligence｣は､AI体験を大きく刷新し､プライバシーと機器連携を重視した独自の進化を遂げた。なぜ今､アップルはAIに再挑戦するのか。他社との違いはどこにあるのか。</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>文章からマンガを生成する東大開発の国産AI「MangaFlow」、軽量0.9Bで巨大モデル超える精度のオープンソース文書解析AI「PaddleOCR-VL-1.6」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
+      <link>https://n-kase.github.io/rss/posts/post-299/</link>
+      <pubDate>Tue, 16 Jun 2026 10:00:38 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-299/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>今回の「生成AIウィークリー」第147回では、最近注目されているいくつかの生成AI技術が紹介されました。まず、NVIDIAがロボットや自動運転などの物理的なAI向けに開発したオープンソースの世界モデル「Cosmos 3」が発表されました。このモデルは言語、画像、動画、音声、行動という五つの異なるデータタイプを一つの構造で扱えるため、従来は別々に作られていた各種モデルを統合しています。評価ではオープンソースモデルだけでなく、クローズドモデルであるGemini 3.1 Proを上回る性能を示し、いくつかのベンチマークでトップを記録しています。次に、東京大学と香港科技大学（広州）の研究チームが開発した国産AI「MangaFlow」が取り上げられました。このシステムは文章からマンガを自動生成するもので、ストーリー計画、コマ割り、作画、セリフ配置といった作業工程を別々のAIが連携して処理し、キャラクターの一貫性を保つ独自の記憶機能を備えています。さらに、GoogleがノートPCでも動作するマルチモーダルAI「Gemma 4 12B」を発表しました。16GBのメモリがあれば画像や音声も処理でき、従来のエンコーダーを使わない構成により遅延とメモリ消費を抑えながら、性能は大型モデルに近い水準を維持しています。最後に、Baiduが軽量なオープンソース文書解析AI「PaddleOCR-VL-1.6」を公開しました。0.9Bという小さなモデルながら、文書ベンチマークで高い精度を達成し、巨大モデルであるQwen3-VLやGemini 3 Proを上回る結果を示しています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>記事が公開されると、技術系のフォーラムやSNSでは「Cosmos 3」の統合アプローチに対して期待の声が多く上がりました。特にロボット制御や自動運転の分野で、別々に開発されていたモデルを一つにまとめることで開発コストが削減できる点が評価されました。一方で、オープンソースモデルがクローズドモデルを凌駕したという点については、一部のユーザーから「本当に実用レベルで差があるのか」と慎重な見方も見られました。「MangaFlow」については、マンガクリエイターからは「コマ割りやキャラクターのブレを防ぐ仕組みが魅力的」と好意的な反応が多く、実際に試してみたいという声が散見されました。ただし、AIが生成するマンガの著作権やオリジナリティについて懸念する意見もあり、今後のガイドラインが必要だと指摘されるケースもありました。「Gemma 4 12B」は、ノートPCで高性能マルチモーダル処理が可能になるという点で、開発者や学生から「環境を選ばずに実験できる」と歓迎されました。一方で、実際のバッテリー消費や発熱についての疑問も呈され、長時間の使用においては冷却や電源管理が課題になるとの指摘がありました。「PaddleOCR-VL-1.6」については、文書処理の精度が高いことから、企業のバックオフィス作業や行政のデジタル化に役立つと期待する声が多く、特に中小企業向けの導入コストが低い点が強調されました。一方で、特定の言語や特殊なフォーマットに対する適応性については、さらなる検証が必要だとの意見も見受けられました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>これらの技術は、AIが単なるデータ処理ツールから、現実世界の様々な領域に直接適用できる実用的なシステムへと進化していることを示しています。統合モデルによる複数モダリティの同時処理は、ロボットや自動運転といった安全性が求められる分野での信頼性向上に寄与する可能性があります。また、創作支援ツールとしての「MangaFlow」は、クリエイターの負担を軽減しながらも芸術性を保つ新しいワークフローを提供するかもしれません。個人デバイスで高性能マルチモーダルAIを動かせる「Gemma 4 12B」は、教育や個人プロジェクトにおけるAIの民主化を促進し、オフライン環境でも高度な処理が可能になる点で、プライバシー保護の観点からも注目されます。さらに、軽量かつ高精度な文書解析AI「PaddleOCR-VL-1.6」は、紙ベースの業務をデジタル化する取り組みを加速させ、特にリソースが限られた現場での導入が容易になるでしょう。全体として、今回紹介された技術は、AIの専門性を高めつつも幅広いユーザー層に使いやすい形で提供される方向性を示しており、今後の社会実装においては、倫理面やセキュリティ面への配慮も同時に進めていく必要があるでしょう。</p>
+<p><a class="link" href="https://www.techno-edge.net/article/2026/06/15/5182.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第147回）は、NVIDIA開発の物理AI向けオープンソースの世界モデル「Cosmos 3」や、ノートPCで動くGoogleのマルチモーダルAI「Gemma 4 12B」を取り上げます。</p>
+<p>また、文章からマンガを生成する国産AI「MangaFlow」や、Baiduが開発した軽量なオープンソース文書解析AI「PaddleOCR-VL-1.6」をご紹介します。</p>
+<p>そして、生成AIウィークリーの中でも特に興味深いAI技術や研究にスポットライトを当てる「生成AIクローズアップ」では、使うほど育つ自己改善型AIエージェント「Hermes Agent」の専用デスクトップアプリ「Hermes Desktop」を別の単体記事で取り上げています。</p>
+<p><a class="link" href="https://www.techno-edge.net/article/2026/06/08/5153.html?utm_source=techno-edge.net&amp;utm_medium=article&amp;utm_content=linkcard_2O48RJUA"  target="_blank" rel="noopener"
+    >使うほど育つオープンソースの自律型AI「Hermes Agent」にデスクトップアプリ登場。ターミナル操作不要（生成AIクローズアップ） | テクノエッジ TechnoEdge今回は、Nous Researchが自己改善型AIエージェント「Hermes Agent」の専用デスクトップアプリ「Hermes Desktop」（パブリックプレビュー）を取り上げます。 https://www.techno-edge.net/article/2026/06/08/5153.html続きを読む »</a></p>
+<p><img alt="画像" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9274a01aa535527a139c705bdc73e622.jpg"></p>
+<p><strong>NVIDIA、物理AI向けオープンソースの世界モデル「Cosmos 3」発表　言語・画像・動画・音声・行動を単一構造で統合</strong></p>
+<p>NVIDIAはロボットや自動運転といったPhysical AI向けのモデル「Cosmos 3」を発表しました。これは言語・画像・動画・音声・行動という5つのモダリティを、単一のアーキテクチャでまとめて処理・生成できる世界モデルです。</p>
+<p>これまで、状況を理解する視覚言語モデル、未来を映像で予測する動画生成モデル、動きを決める行動予測モデルは別々に作られてきましたが、Cosmos 3はそれらを一つの枠組みに統合しました。</p>
+<p>評価面では、スマートインフラや自動運転の各ドメインではオープンソースモデルだけでなくGemini 3.1 Proなどのクローズドモデルも上回りました。</p>
+<p>後処理済みモデルは、Artificial AnalysisのリーダーボードでオープンウェイトのText-to-Image・Image-to-Video部門でいずれも1位、ロボット制御ではRoboLab・RoboArenaの両ベンチマークで1位を獲得しました。</p>
+<p>モデルは「Edge」「Nano」「Super」の3サイズが用意され、今回はNanoとSuperが公開されています。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/06f5b606193bad04408aa80984fd4afe.jpg"></p>
+<p><strong>文章からマンガを生成する国産AI「MangaFlow」を東大などが開発</strong></p>
+<p>東京大学と香港科技大学（広州）の研究チームが、文章から一貫性のあるマンガを自動生成するAIシステム「MangaFlow」を発表しました。</p>
+<p>従来の画像生成AIでは、マンガのページ全体を一度に出力しようとするため、指定したコマ割りが崩れたり、ページが変わるとキャラクターの見た目まで変わってしまうという大きな課題がありました。</p>
+<p>この問題を解決するため、MangaFlowはマンガ制作を人間の作業のように分割しているのが特徴。「ストーリー計画」「コマ割り」「作画」「セリフ配置」などを別々のAIが連携して処理します。</p>
+<p>さらに独自の記憶機能を採用し、特定のシーンにおける登場人物のキャラ・シーン・オブジェクトなどの設定をAIが保持することで、複数のコマにわたってキャラクターの姿がブレるのを防いでいます。</p>
+<p>また、コマの配置やサイズをユーザーが自由に指定したり、参考となる既存のマンガの構図をそのまま流用したりと、クリエイターの意図を反映した細かな調整ができます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3c269a0eeb28fd47424d8cc7c22d76fc.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/be5b53fbe47b54f971a24b5f4deb3563.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f492457a6ec8e78758d3c268eb3a32e8.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ade9d5d30840a717219f09445b0c5dc7.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/111201b97afce346c85e905a6c6b25aa.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/45dac9eea01bf4ff5f1c72e981b8fcf0.jpg"></p>
+<p><strong>MangaFlow: An End-to-End Agentic Framework for Controllable Story to Manga Generation</strong></p>
+<p>Muyao Wang, Zeke Xie, Yanhao Chen, Lixin Xiu, Hideki Nakayama<a class="link" href="https://arxiv.org/abs/2605.28173"  target="_blank" rel="noopener"
+    >Paper</a></p>
+<p><strong>Google、ノートPCで動くマルチモーダルAI「Gemma 4 12B」公開</strong></p>
+<p>GoogleはAIモデル「Gemma 4 12B」を発表しました。クラウドに頼らず手元のノートパソコンで動かせるのが特徴で、画像や音声も扱えるマルチモーダルAIでありながら、16GBのメモリがあれば動作します。</p>
+<p>小型のE4Bと上位の26B MoEモデルの中間にあたり、中型モデルとしては音声入力に標準対応しました。</p>
+<p>従来のマルチモーダルAIは画像や音声を専用のエンコーダーを通してから言語モデルに渡していましたが、これは処理が重くメモリも多く消費します。Gemma 4 12Bはこのエンコーダーを使わず、画像や音声を直接言語モデルに取り込む構成にすることで、動作を軽く、速くしました。</p>
+<p>性能は26Bモデルに迫る一方、メモリ消費は半分以下です。オフラインでも音声の文字起こしや翻訳ができ、複雑な処理も手元のパソコンでこなせます。</p>
+<p>ライセンスはApache 2.0で自由に利用できます。</p>
+<p><a class="link" href="https://www.techno-edge.net/article/2026/06/04/5144.html?utm_source=techno-edge.net&amp;utm_medium=article&amp;utm_content=linkcard_88YEVQ0J"  target="_blank" rel="noopener"
+    >16GB RAMで高性能エージェントが動くGemma 4 12B、Google DeepMindが公開　26B MoEに迫る推論性能、エンコーダなしのマルチモーダル | テクノエッジ TechnoEdge・Gemma 4 12Bはノート PC上で動作可能な高性能マルチモーダルAIモデルで、16GBのVRAMまたは統合メモリで動作する ・エンコーダーフリーのユニファイドアーキテクチャを採用し、視覚・音声入力をLLMバックボーンに直接統合することで低遅延・低メモリを実現 ・Apache 2.0ライセンスで公開され、Hugging Face・Kaggle・各種推論フレームワークに対応 https://www.techno-edge.net/article/2026/06/04/5144.html続きを読む »</a></p>
+<p><img alt="画像" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f5853112d37ec3eccd17cfae71d93649.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/47549f53ce0b371910dbc4e2f22706c2.png"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6ff4bde7500150e1e726a22ed3b450f3.png"></p>
+<p><strong>Gemma 4 12B</strong></p>
+<p>Google<a class="link" href="https://github.com/google-gemma"  target="_blank" rel="noopener"
+    >GitHub</a> | <a class="link" href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"  target="_blank" rel="noopener"
+    >Blog</a> | <a class="link" href="https://huggingface.co/collections/google/gemma-4"  target="_blank" rel="noopener"
+    >Hugging Face</a></p>
+<p><strong>軽量なオープンソース文書解析AI「PaddleOCR-VL-1.6」をBaiduが発表。0.9Bで巨大モデル超えの精度</strong></p>
+<p>「PaddleOCR-VL-1.6」は、Baiduが発表した文書解析向けの軽量AIモデルです。前バージョンの1.5を改良したもので、0.9Bというコンパクトさを保ちながら、文書ベンチマークのOmniDocBench v1.6で96.33%という最高水準のスコアを達成しました。</p>
+<p>ポイントは、学習データをただ増やすのではなく、前モデルが苦手な部分だけを狙って補強したことです。具体的には、画像が少しずれただけで答えが変わる不安定な箇所、似た例が少なくて学習しきれていない箇所、そもそも正解ラベル自体が間違っている箇所、という3つの弱点を見つけ出して重点的に直しました。</p>
+<p>結果として、表の認識精度が伸び、実世界に近い条件の文書解析テスト「Real5-OmniDocBench」でも首位になりました。また、235BのQwen3-VLやGemini 3 Proといった大きなモデルすら上回りました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/6cbec2f604d5b20cdb88c7caa5e7d203.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/46195274691617e121be2551b2a2f5ef.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7443b791d626cc597e6c1260e5fd1459.jpg"></p>
+<p><strong>PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training</strong></p>
+<p>Zelun Zhang, Hongen Liu, Suyin Liang, Yubo Zhang, Yiqing Xiang, Jiaxuan Liu, Ting Sun, Manhui Lin, Yue Zhang, Changda Zhou, Tingquan Gao, Cheng Cui, Yi Liu, Dianhai Yu, Yanjun Ma<a class="link" href="https://arxiv.org/abs/2606.03264"  target="_blank" rel="noopener"
+    >Paper</a> |<a class="link" href="https://github.com/PADDLEPADDLE/PADDLEOCR"  target="_blank" rel="noopener"
+    > GitHub</a> | <a class="link" href="https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6"  target="_blank" rel="noopener"
+    >Hugging Face</a></p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>グーグル、AIのための知識共有フォーマット「OKF」を公開</title>
+      <link>https://n-kase.github.io/rss/posts/post-279/</link>
+      <pubDate>Tue, 16 Jun 2026 09:52:04 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-279/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Google Cloudは2026年6月13日（米国時間）、AIエージェントが組織内の知識を活用しやすくするためのナレッジ共有フォーマット「Open Knowledge Format（OKF）」を発表しました。初期バージョンであるOKF v0.1はGitHubで公開されており、マークダウンファイルとYAMLフロントマターを組み合わせた仕様です。必須フィールドはtypeのみで、title・description・resource・tags・timestampなどがオプションとして定義されています。例えば、BigQueryのテーブル情報を表すファイルでは、typeに「BigQuery Table」と指定し、タイトルや説明、リンク、タグ、タイムスタンプを付記します。こうしたファイルをディレクトリ構造で束ねた「OKFバンドル」は、マークダウンリンクで相互参照でき、グラフ構造の知識ベースとして機能します。一般的なマークダウンエディタで開けるため、人間も内容を理解しやすい形となっています。Google Cloudはリファレンス実装も同時に公開しており、特定のクラウドサービスやデータベース、モデルプロバイダー、エージェントフレームワークに依存しないオープン規格として提供しています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表直後、技術系フォーラムやSNSでは「オープンな知識共有フォーマットが登場した」と歓迎する声が多く見られました。特に、ベンダーロックインを避けたい企業や開発者からは、異なるAIエージェント間でのデータ連携が容易になると評価されています。一方で、実際に導入するには既存のドキュメントやツールをOKF形式に変換する手間が必要だという懸念も示され、移行コストやエコシステムの成熟度について議論が行われました。時間が経つにつれて、具体的なユースケースとしてナレッジベースの構築やAIエージェントのコンテキスト強化が挙げられ、コミュニティからはサンプルデータや変換スクリプトの共有を求める声が高まっています。全体としては、期待と実装へのハードルの両方が指摘されるバランスの取れた反応が続いています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>近年、大規模言語モデルやAIエージェントが情報を活用する際、単なるデータだけでなく文脈情報（コンテキスト）の質が結果の正確性に大きく影響することが明らかになっています。しかし、各ベンダーが独自のAPIやスキーマを提供しているため、組織内で異なるシステム間の知識を横断して活用する際に毎回実装を作り直す必要があり、これがAI活用のボトルネックとなっていました。OKFはこうした fragmentation（断片化）を解消するため、マークダウンという広く普及したフォーマットと軽量なYAMLメタデータを組み合わせ、誰でも容易に読み書きできるオープン仕様を提示しました。これにより、異なるツールやプラットフォーム間での知識の相互運用性が向上し、AIエージェントがより正確で実用的な回答を生み出す基盤が整うことが期待されます。結論として、OKFはオープンかつシンプルなナレッジ共有フォーマットとして、AIエージェントの実用化を後押しする可能性があり、今後のエコシステムの発展次第で業界標準となるかが注目されます。</p>
+<p><a class="link" href="https://www.watch.impress.co.jp/docs/news/2116974.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>ニュース</p>
+<h1 id="グーグルaiのための知識共有フォーマットokfを公開">グーグル、AIのための知識共有フォーマット「OKF」を公開
+</h1><p>2026年6月15日 10:37</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d04ffe1088e5c94f7482fc6b74ae988f.jpg"></p>
+<p>Google Cloudは13日(米国時間)、AIエージェントが組織内の知識などを活用しやすくするためのナレッジ共有フォーマット「Open Knowledge Format(OKF)」を発表した。初期バージョンの「OKF v0.1」としてGitHubで公開している。</p>
+<p>LLMやAIエージェントが情報を活用する場合、与えられたデータの質とともに、文脈情報(コンテキスト)が重要になる。コンテキストが不足していると、LLMの本領が発揮できず、正確で実用的な結果を生み出すには、LLMに与える情報の内容とコンテキストの質が必要となる。</p>
+<p>一方、AIエージェントが情報を横断して回答を組み立てるための文脈理解は、ベンダーごとに異なるAPIや、独自スキーマに対応する実装が毎回必要となっており、「同じ問題をゼロから解き直している」状態が、AI活用を進める多くの組織で発生しているという。こうした課題を解決し、ベンダーに依存しないオープン仕様として公開するものがOKFとなる。</p>
+<p>OKFの核となるのは、MarkdownファイルとYAMLフロントマターの組み合わせだ。Markdownは、#で見出し、<strong>太字</strong>、- 箇条書きといった簡単な記号で文書を構造化できるテキスト記法で、GitHubやNotionなどの多くのツールで広く使われている。人間が直接読み書きできるうえ、プログラムからも解析しやすい点が特徴だ。</p>
+<p>OKFではMarkdownに、YAMLと呼ばれる構造化データ記法でメタ情報を付加する。必須フィールドはtype(概念の種別)のみで、title・description・resource・tags・timestampなどがオプションとして定義される。</p>
+<p>&mdash;type: BigQuery Table</p>
+<p>title: Orders</p>
+<p>description: One row per completed customer order.</p>
+<p>resource: <a class="link" href="https://console.cloud.google.com/bigquery?p=acme&amp;d=sales&amp;t=orders"  target="_blank" rel="noopener"
+    >https://console.cloud.google.com/bigquery?p=acme&d=sales&t=orders</a></p>
+<p>tags: [sales, revenue]</p>
+<p>timestamp: 2026-05-28T14:30:00Z</p>
+<hr>
+<h1 id="schema">Schema
+</h1><p>| Column | Type | Description |</p>
+<p>|&mdash;&mdash;&mdash;&mdash;&mdash;|&mdash;&mdash;&mdash;&ndash;|&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;|</p>
+<p>| <code>order_id</code> | STRING | Globally unique order identifier. |</p>
+<p>| <code>customer_id</code> | STRING | FK to <a class="link" href="/tables/customers.md" >customers</a>. |</p>
+<h1 id="joins">Joins
+</h1><p>Joined with <a class="link" href="/tables/customers.md" >customers</a> on <code>customer_id</code>.</p>
+<p>このようなファイルをディレクトリ構造で束ねたものが「OKFバンドル」で、ファイル間は通常のMarkdownリンクで相互参照できる。全体がグラフ構造の知識ベースとして機能する。OKFバンドルは一般的なMarkdownエディタで開けるため、人間も理解できる。</p>
+<p>sales/├── index.md</p>
+<p>├── datasets/</p>
+<p>│ ├── index.md</p>
+<p>│ └── orders_db.md</p>
+<p>├── tables/</p>
+<p>│ ├── index.md</p>
+<p>│ ├── orders.md</p>
+<p>│ └── customers.md</p>
+<p>└── metrics/</p>
+<p>│ ├── index.md</p>
+<p>└── weekly_active_users.md</p>
+<p>OKFでは最低限の規定だけを設けて、相互運用性を重視。特定のクラウドサービスや、データベース、モデルプロバイダー、エージェントフレームワークに縛られない、オープン規格として公開する。Google Cloudでは、リファレンス実装なども公開している。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d89caa61ab733f097daabffb969b6c2e.jpg"></p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Google検索のAIまとめ、誤っていた場合の責任は「Googleにあり」。ドイツで画期的判決【やじうまWatch】</title>
+      <link>https://n-kase.github.io/rss/posts/post-92/</link>
+      <pubDate>Tue, 16 Jun 2026 08:34:54 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-92/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>ドイツの裁判所は、Google検索のAIまとめに誤りがあった場合、その責任はGoogleにあると判断しました。ある出版社が自社が詐欺や怪しい商慣行を行う企業としてAIまとめに記載され、Googleに修正を求めたものの対応が得られず、訴訟に発展しました。裁判所は、従来の検索エンジンはただリンクを表示するだけなのに対し、AIまとめはアルゴリズムが生成する独自の文章であり、修正できるのはGoogleだけである点を重視しました。さらに、今回のAIまとめには通常の検索結果には現れない記述が含まれており、創造性があると判断されたため、免責を謳う「AIによる回答は誤っている場合があります」という一言では責任を免れないと結論付けました。</p>
+<p>この判決を受けて、ネット上ではこれまで当たり前だった免責文の効果が疑問視され、議論が活発化しています。一部のユーザーは「AIの誤りは避けられない」として免責を支持する声を上げましたが、法的責任が明確になったことで、テクノロジー企業への監視が強まるべきだと主張する意見も増えています。特に、AIを活用した検索や情報提供サービスが増える中、同様の訴訟が他の裁判所でも起こり得るという見方が広がっています。</p>
+<p>その結果、AIを用いた検索機能を提供する企業は、単なる免責表示では法的リスクを回避できなくなる可能性が高まっています。これにより、AIの出力精度向上のための投資や、誤った情報が拡散した際の迅速な修正体制の整備が求められるでしょう。さらに、法整備や業界ガイドラインの策定が進むことで、利用者側も情報の信頼性を判断しやすくなる環境が整うかもしれません。</p>
+<p>したがって、テクノロジー企業は免責文に頼るのではなく、AIによる情報提供の正確性を確保するための具体的な対策を講じるべきです。利用者にとっても、AIが生成する情報の裏付けを自分で確認する習慣を持つことが、誤情報による被害を防ぐ一つの手段となります。です。</p>
+<p><a class="link" href="https://internet.watch.impress.co.jp/docs/yajiuma/2116652.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>やじうまWatch</p>
+<h1 id="google検索のaiまとめ誤っていた場合の責任はgoogleにありドイツで画期的判決">Google検索のAIまとめ、誤っていた場合の責任は「Googleにあり」。ドイツで画期的判決
+</h1><p>2026年6月12日 12:08</p>
+<p>Google検索のAIまとめに誤りがあった場合、その責任はGoogleにあるとする判決が下され、波紋を呼んでいる。</p>
+<p>この判決はドイツの裁判所が下したもので、ある出版社がGoogleのAIまとめで自社が詐欺および怪しい商慣行を行う企業呼ばわりされているのを発見。Googleに申し入れを行ったが修正されず、訴訟に踏み切った結果、責任はGoogle側にあるとの判決が下ったという。裁判所いわく、第三者のリンク一覧を表示するだけの従来の検索エンジンと異なり、Google検索のAIまとめのアルゴリズムと出力を修正できるのはGoogleだけであり、当初の申し入れに対して修正を行わなかったこと、また、今回のAIまとめは一般的な検索結果には全く表示されない記述が含まれており、独創性があることから、非はGoogleにあると判断されたようだ。</p>
+<p>AI検索では「AIによる回答は誤っている場合があります」というワンフレーズを入れることで免責となる風潮がここのところ定着しつつあったが、今後は通用しなくなる可能性がある。この件を伝えている「Ars Technica」では「他の裁判所が、AI検索の（略）名誉毀損的な出力についてテクノロジー企業に責任があると判断すれば、AI業界の大手企業は間もなく訴訟の嵐に巻き込まれることになるだろう」とコメントしている。</p>
+<ul>
+<li>Nobody needs AI to search the Internet, court says in ruling against Google（Ars Technica）<a class="link" href="https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/"  target="_blank" rel="noopener"
+    >https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/</a></li>
+<li>Google responds to AI Overviews errors legal ruling（Android Authority）<a class="link" href="https://www.androidauthority.com/ai-overviews-errors-3676591/"  target="_blank" rel="noopener"
+    >https://www.androidauthority.com/ai-overviews-errors-3676591/</a></li>
+</ul>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Geminiを使って偽ウェブサイトを作成できるツールを公開した中国の犯罪組織「Outsider Enterprise」をGoogleが提訴</title>
+      <link>https://n-kase.github.io/rss/posts/post-56/</link>
+      <pubDate>Tue, 16 Jun 2026 08:21:35 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-56/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Googleは、中国に拠点を置く犯罪組織「Outsider Enterprise」が、プログラミングの知識がなくても簡単にフィッシングサイトを作れるツール「Outsider」を配布し、さらにGoogleのAI「Gemini」を使ったチュートリアル動画を公開していたことを理由に提訴した。この組織は偽の荷物配達通知や銀行からの緊急メッセージを装い、被害者を騙してクレジットカード情報や二要素認証コードを盗み出していたとされ、わずか2週間で5万5000件以上の不審なメッセージが報告され、少なくとも10万人以上が被害に遭ったと見られている。この事件は、AI技術が悪意ある目的で容易に悪用されるリスクが高まっていることを示し、フィッシング詐欺の手法がより巧妙かつ大規模化する可能性があることを警告している。したがって、企業はAIの安全対策を強化し、ユーザーに対する詐欺メールの見分け方を啓発するとともに、政府はAIを悪用した犯罪に対応するための法整備を進めるべきである。</p>
+<p><a class="link" href="https://gigazine.net/news/20260615-google-outsider-enterprise/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="geminiを使って偽ウェブサイトを作成できるツールを公開した中国の犯罪組織outsider-enterpriseをgoogleが提訴">Geminiを使って偽ウェブサイトを作成できるツールを公開した中国の犯罪組織「Outsider Enterprise」をGoogleが提訴
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f02981d5ba3e3240357612723504ebd3.jpg"></p>
+<p>荷物配達通知や銀行からの緊急メッセージなどを偽造し、偽のウェブサイトを作って人々を騙したとして、Googleが中国に拠点を置く犯罪組織の「Outsider Enterprise」を提訴しました。</p>
+<p><strong>google-v-outsider-enterprise-complaint | DocumentCloud</strong></p>
+<p><a class="link" href="https://www.documentcloud.org/documents/28239704-google-v-outsider-enterprise-complaint/"  target="_blank" rel="noopener"
+    >https://www.documentcloud.org/documents/28239704-google-v-outsider-enterprise-complaint/</a></p>
+<p><strong>How Google is combatting AI scams and dismantling the &ldquo;Outsider Enterprise&rdquo;</strong></p>
+<p><a class="link" href="https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/"  target="_blank" rel="noopener"
+    >https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/</a></p>
+<p>Googleは、Outsider Enterpriseが「Outsider」と呼ばれるフィッシングキットを配布していたと主張しています。</p>
+<p>Outsiderはプログラミングの知識がない者でも簡単にフィッシングサイトを作成できるツールで、銀行や政府機関などを模したウェブサイトのテンプレートのほか、被害者の行動を追跡するためのダッシュボードなどを提供していました。</p>
+<p>さらにOutsider EnterpriseはGoogleのAI「Gemini」を使ってウェブサイトを作成するチュートリアル動画も公開していました。Geminiの使い方を紹介し、「Geminiが作ったコードをOutsiderに貼り付けることでフィッシングサイトを作れます」などと案内していたそうです。</p>
+<p>このほか、Outsiderには発信するフィッシングメールにGoogleのロゴをくっつけて信用を高める機能も存在しました。こうしたメールのリンクを被害者がクリックし、本物のサイトだと勘違いしてクレジットカード番号や二要素認証のコードを入力してしまうと、情報が犯罪者に抜き取られることになります。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0e55a1720f8c47f3a19e8abd9efab777.jpg"></p>
+<p>Googleによると、2026年5月18日から6月1日までのわずか2週間で、Outsider Enterpriseに関連した5万5000件の不審なメッセージが報告されたそうです。この組織は既に10万人以上を騙し、少なくとも3万6000枚のクレジットカード詐欺に関与した疑いがあります。</p>
+<p>Googleは、Outsider EnterpriseがGoogle Driveに情報を保存していたとして、Outsider Enterpriseのアクセスをブロックする措置を執ったほか、Outsider Enterpriseに関連する複数のウェブサイトをブロックしました。</p>
+<p>そして、自社のサービスを犯罪に利用し、ロゴを勝手に使用して信用を傷つけたとして、Googleは救済措置を求めて訴訟を起こしました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/02ebb3207393783428c18af3ccd688ec.jpg"></p>
+<p>GoogleはフィッシングメールをブロックするためにAT＆TやT-Mobileといった通信会社のほか、連邦捜査局(FBI)とも連携していると説明しています。また、「AIを活用した詐欺に対抗するためにAIを活用したツールを使用している」とも述べており、これにより同社は毎月100億件以上の詐欺メッセージを阻止しているとのことです。</p>
+<p>訴訟に加え、GoogleはAIによる脅威に対応するための法改正も提案しました。何名かの連邦議員がこの法案に賛同し、「Googleが勤勉なアメリカ人を守るためにこれほど積極的に取り組んできたことを大変うれしく思います」などのコメントを寄せています。</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Googleの新アイコンに賛否--「タブが見つけづらい」と不評も</title>
+      <link>https://n-kase.github.io/rss/posts/post-45/</link>
+      <pubDate>Tue, 16 Jun 2026 08:18:17 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-45/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>Googleは5月下旬からGoogle Workspaceのアプリアイコンを刷新し、従来の4色ルールを廃止してグラデーションと丸みを帯びたデザインに変更した。この変更は各アプリに個性を持たせ、製品群全体の一貫性を高めるとともに、同社のAI戦略である「Gemini」時代の新しいビジュアルを反映させる狙いがある。しかし、ユーザーからは見分けがつきにくいという不満がSNSで相次ぎ、特にブラウザーのタブ識別に頼っていた人々は長年染みついた色・形の記憶がリセットされ、目的のタブを見つけるのに時間がかかると指摘されている。その結果、タブの混乱や操作効率の低下が懸念され、ネット上では「まだ慣れない」「どれがどれか分からない」といった声が広がり、賛否が分かれる状況となっている。この事態から学べる教訓は、デザイン刷新時に既存の視覚的手がかりやユーザーの習慣を十分に考慮し、変更段階でフィードバックを取り入れるか、元のスタイルへの切り替えオプションを提供することが重要だということである。ブランドの革新性と使いやすさのバランスを取ることで、ユーザーの混乱を防ぎ、スムーズな移行を実現できるだろう。</p>
+<p><a class="link" href="https://japan.cnet.com/article/35248786/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>「Googleドライブのタブがどこにあるのかわからなくなった」&ndash;そんな経験をした人もいるのではないだろうか。Googleが5月下旬から展開している「Google Workspace」アプリのアイコン刷新をめぐり、SNSでは「見分けがつかない」「まだ慣れない」といった不満の声が出ている。Googleとしては各アプリの「個性」を高めるための変更だったはずだが、なぜ不評を買っているのか。</p>
+<p>Googleは5月26日（現地時間）、Google Workspaceアプリのアイコンデザイン刷新を公式ブログで発表した。対象はGmail、Googleカレンダー、Google Chat、Google Meet、Googleドライブ、Googleドキュメント、Googleスライド、Googleスプレッドシート、Google Vids、Google Keep、Googleフォーム、Google Voice、Googleサイト、Google ToDoリストの14アプリだ。</p>
+<p>最大の変更点は、「ほぼすべてのアイコンにGoogleのブランドカラー4色（青・赤・黄・緑）を使う」というルールの撤廃だ。新デザインでは、アプリごとに主要な色を絞り込み、フラットな塗りに代えて柔らかなグラデーションを採用。形状も全体的に丸みを帯びたものになった。4色すべてを維持したのはGmailのみで、たとえばGoogle ChatやGoogle Meetは特定の色を基調とした単色寄りの配色に変わった。スプレッドシートとスライドは、縦長から横長のモチーフへと向きまで変更されている。</p>
+<p>Googleはこの刷新について「モダンなビジュアルデザインを導入し、各アプリにより明確な個性を持たせる」「製品群全体の一貫性とまとまりを高める」と説明する。背景にあるのは同社のAIシフトだ。グラデーション処理は「Gemini」やGoogleの「G」ロゴ、GoogleフォトやGoogleマップで先行採用されてきたもので、米9to5Googleの取材に対しGoogleは、新アイコンを「Gemini時代の新しいロゴ」と位置づけている。同社がGeminiを中心に推し進める、グラデーションを多用した新しいビジュアル戦略の一環といえる。</p>
+<p>もっとも、ユーザーの受け止めは芳しいとは言いがたい。X（旧Twitter）の日本語圏では「まだ慣れない」「なんか好きになれない」「どれがどれだか分からなくなった」といった投稿が展開直後から相次いだ。なかでも槍玉に挙がりやすいのがGoogleカレンダーとGoogle Keepで、「開くたびに違和感がある」「Keepだけは受け入れられない」という声もあった。Googleドライブについては、黄色を含む三角形のモチーフが「警告マークに見える」という指摘もある。</p>
+<p>— OFF OS (Chidphong Limthong)コンテ・演出の仕事受付中 (@off_os1)<a class="link" href="https://x.com/off_os1/status/2059247986664980490?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >May 26, 2026</a></p>
+<p>実用面での不満として多いのが、冒頭で触れたブラウザーのタブ問題だ。タブを大量に開いた状態では、ユーザーはファビコンの色と形でタブを瞬時に識別している。長年かけて染みついた「この色味はドライブ」という筋肉記憶が新アイコンでリセットされてしまい、目的のタブを見つけるのに時間がかかる。</p>
+<p>海外メディアの論調も「polarizing（賛否が分かれる）」というのが大方の見立てだ。米PhoneArenaは「愛そうが憎もうが、もう後戻りはない」と報じた。一方で擁護派も一定数おり、「アプリごとの色が立って前より見分けやすい」「モダンで好き」「数年もすれば馴染む」といった意見も見られる。</p>
+<p>CNET Japanの記事を毎朝メールでまとめ読み（無料）</p>
+<p>地域交通を支える管理業務を刷新</p>
+<p>佐渡汽船が取り組むDXの現実解</p>
+<p>問われるのは、“ひと目で伝わること”</p>
+<p>Plaud NotePin Sが示す会議記録の新しい形</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Google「NotebookLM」のソースに教科書を指定可能に？ 実現ならすべての学生に朗報か</title>
+      <link>https://n-kase.github.io/rss/posts/post-39/</link>
+      <pubDate>Tue, 16 Jun 2026 08:16:30 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-39/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><p>米GoogleのAIリサーチアシスタント「NotebookLM」に、新たなソースとして「教科書」が追加される可能性が報じられた。この機能が実現すれば、ユーザーは自分の持つ教科書データだけを基に答えを得られるようになり、インターネット全体を検索する通常のGeminiチャットボットとは異なり、情報の矛盾や虚構を避けた回答が期待できる。すでにファイルやウェブサイト、音声クリップ、Google Play ブックスなど多様なソースが利用可能であるため、教科書の追加は学習支援の幅をさらに広げるものと見られている。</p>
+<p>この動きが進めば、学生は試験対策や日常の勉強において、信頼できる教材のみを参照できるAIツールを「勉強の相棒」として活用しやすくなる。特に、夜間の一夜漬けや特定の科目の復習において、出典が明確で hallucination（でっち上げ）のリスクが低い点は大きな利点となり、教育現場でのAI導入の後押しになる可能性がある。また、GoogleがOpenStaxなどの査読済み教科書と提携している事実から、無料で質の高い教材へのアクセスがさらに容易になると予想される。</p>
+<p>したがって、教育関係者や学生は、こうした出典限定型AIツールを積極的に検討し、情報の正確性を保ちながら学習効率を向上させる手段として取り入れるべきである。同時に、提供される教科書の範囲や提携先の透明性を確認し、公平かつ広範な学びの機会が確保されるよう、利用ルールやガイドラインの整備も求められる。</p>
+<p><a class="link" href="https://japan.cnet.com/article/35248838/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>米Googleの「NotebookLM」に、新たなソースとして「教科書」が追加される可能性が浮上した。実現すれば、学習用AIツールとしての存在感はさらに増しそうだ。</p>
+<p>NotebookLMは数あるAIツールの中でも特に興味深い存在で、競合と呼べる相手がほとんど見当たらない。誰でも使えるツールだが、Googleはかねて学生が活用できる機能の拡充に力を入れてきた。</p>
+<p>「Gemini」を搭載したこのAIリサーチアシスタントの最大の特徴は、ユーザーが与えたソースだけをデータとして使う点にある。通常のGeminiチャットボットは、質問の答えを求めてインターネット全体を探し回るが、ネット上には矛盾した情報があふれている。一方のNotebookLMは、ソースに答えがなければ、答えをでっち上げることはしない。</p>
+<p>AI専門メディアのTesting Catalogが6月10日（現地時間）にThreadsに投稿した情報によると、NotebookLMに追加できるソースとして新たに「教科書」が加わる可能性があるという。実現すれば、学生がこのツールを「勉強の相棒」として使う道が一気に広がる。</p>
+<p>NotebookLMのソースは、ファイル、ウェブサイト、音声クリップ、「Google Play ブックス」など、既に多岐にわたる。そこに、一夜漬けが必要な試験対策用の教科書まで追加できるとなれば、すべての学生にとって朗報と言えるだろう。</p>
+<p>Testing Catalogが共有したスクリーンショットには、ソースの選択肢として教科書が表示されているが、その実態についてはほとんど分かっていない。書籍のページをスキャンしてソースに追加すること自体は今でも事実上可能なことを考えると、背後に何らかの提携があるとみられる。</p>
+<p>Googleは2025年、「Public Notebooks」の導入に合わせて、無料の査読済み教科書を提供する米OpenStaxと提携した。今回の新ソースがOpenStaxの教科書に限定されるのか、それとも別の提携が進んでいるのかは、まだ明らかになっていない。</p>
+<p>米CNETはGoogleにコメントを求めたが、すぐには回答が得られなかった。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
