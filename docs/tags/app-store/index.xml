@@ -6,7 +6,34 @@
     <description>Recent content in App Store on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:05:42 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/app-store/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 11:08:47 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/app-store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New requirement for apps on the App Store in the European Union</title>
+      <link>https://n-kase.github.io/rss/posts/post-462/</link>
+      <pubDate>Tue, 16 Jun 2026 11:08:47 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-462/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2025年2月18日から、欧州連合（EU）域内のApp Storeにおいて、トレーダー ステータスを持っていないアプリは一時的に削除されました。この措置は、Appleがデジタルサービス法（Digital Services Act）への対応として導入したものです。アプリの提供者または管理者は、Apple Developer Programのアカウントホルダーまたは管理者として、App Store Connect内でトレーダー ステータスを入力し、Appleによる確認を受ける必要があります。ステータスが提供され、確認が完了するまで、該当するアプリはストアから表示されません。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネットの反応は含まれていません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>欧州連合はデジタルサービス法を施行し、オンラインプラットフォームにおける透明性と責任の強化を求めています。Appleはこの法令に従うため、App Store内のアプリ提供者にトレーダー ステータスの登録を義務付けました。これにより、EU内のユーザーは、責任の所在が明確なアプリのみを利用できるようになり、不正または不明瞭な事業者によるアプリの流通を抑制する狙いがあります。今後は、トレーダー ステータスを取得したアプリのみがストアに残り、プラットフォーム全体の信頼性向上が期待されます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=6agg0lja"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="New requirement for apps on the App\u00a0Store in the European\u00a0Union" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="new-requirement-for-apps-on-the-app-store-in-the-european-union">New requirement for apps on the App Store in the European Union
+</h2><p>February 18, 2025</p>
+<p><strong>As of today</strong>, apps without trader status have been removed from the App Store in the European Union (EU) until trader status is provided and verified by Apple.</p>
+<p>Account Holders or Admins in the Apple Developer Program will need to enter this status in App Store Connect to comply with the <a class="link" href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en"  target="_blank" rel="noopener"
+    >Digital Services Act</a>.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Updated guidelines now available</title>
       <link>https://n-kase.github.io/rss/posts/post-454/</link>

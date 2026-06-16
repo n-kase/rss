@@ -1,0 +1,66 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Macリリース on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/mac%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</link>
+    <description>Recent content in Macリリース on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:07:28 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/mac%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assassin’s Creed Shadows comes to Mac</title>
+      <link>https://n-kase.github.io/rss/posts/post-458/</link>
+      <pubDate>Tue, 16 Jun 2026 11:07:28 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-458/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2025年3月4日に、Ubisoft Quebecが開発した『Assassin’s Creed Shadows』がMac向けにリリースされることが発表されました。この作品はシリーズ第14作で、16世紀の日本を舞台とし、アフリカ出身の武士ヤスケと忍びのナオエという二人の主人公をプレイヤーが切り替えて操作できます。ゲームはPCおよびコンソールと同日にMacでも提供され、Metal 3やAppleシリコン、HDRおよびレイトレーシングなどの最新Mac技術を活用しています。開発チームは歴史的正確性を重視し、実際に日本を訪れて建築や衣装、光の表現などを調査しました。さらに、季節や天候、風や湿度のシミュレーションなど、環境がリアルタイムで変化する仕組みが導入されており、プレイヤーは四季折々の風景を楽しむことができます。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表直後からMacユーザーの間では期待の声が高まり、特にこれまでMacでの高品質なAAAタイトルが少なかったことから「ついに本格的なゲームがプレイできる」と喜ぶコメントが多く見られました。一方で、Macのハードウェア性能に対する懸念も一部で示され、過去に最適化が不十分だった例を挙げて「本当に快適に動くのか」と疑問を呈する声もありました。開発陣がWWDC24で実際のプレイ映像を披露し、Metal 3とAppleシリコンの組み合わせによる滑らかな動作を強調したことで、懸念は次第に和らぎ、技術的な信頼感が高まっていきました。また、歴史的背景や二人の主人公の対比に関する議論も活発で、ヤスケの力強さとナオエの忍びらしい潜入プレイスタイルについて、プレイヤーそれぞれの好みが分かれる様子が見受けられました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>本作のMacリリースは、Appleが近年力を入れているゲーム向けプラットフォーム戦略と、Ubisoftが最新技術を駆使してクロスプラットフォーム体験を提供しようとする意図が一致した結果です。歴史的ディテールへのこだわりや、環境のダイナミックシミュレーションなど、技術面と創造面の両方を追求した姿勢は、今後のゲーム開発における一つのモデルとなる可能性があります。Macユーザーにとっては、高性能なAppleシリコン搭載機種で最新のAAAタイトルをネイティブに楽しめる機会が増え、プラットフォームの選択肢が広がるという点で意義があります。総じて、『Assassin’s Creed Shadows』のMac向け提供は、技術的進歩とファンの期待が結びついた前向きな動きであり、今後同様のマルチプラットフォーム展開がさらに進むことが予想されます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=q2zte70j"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="assassins-creed-shadows-comes-to-mac">Assassin’s Creed Shadows comes to Mac
+</h2><p>March 4, 2025</p>
+<p><img alt="In this screenshot from Assassin’s Creed Shadows, a masked character crouches on the roof of a Japanese temple, preparing to throw a knife at an opponent who is standing on a red bridge in the background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d23bd41acb70bc6f4f6face25083c775.jpeg"></p>
+<p>It’s an ice-cold late winter’s morning in Canada, but the offices of Ubisoft Quebec are ablaze with excitement.</p>
+<p>The Ubisoft team is preparing the release of <em>Assassin’s Creed Shadows</em>, the 14th main entry in the series and an evolution for the franchise in nearly every detail. It’s set in feudal 16th-century Japan, a rich and elegant period that’s been long sought-after by fans and Ubisoft team members alike. It introduces a pair of fierce protagonists: Yasuke, a powerful warrior of African origin, and Naoe, an agile Shinobi assassin, both brought to life with attention to historical accuracy. Its world feels alive with an ever-changing dynamism that’s apparent in everything from the shifting weather to the rotating seasons to the magical interplay of light and shadow.</p>
+<p>And what’s more, it’s set to release on Mac the same day it arrives on PCs and consoles.</p>
+<p>“It’s been a longtime dream to bring the game to Mac,” says Ubisoft executive producer Marc-Alexis Côté, who debuted the game on Mac during the WWDC24 Keynote. “It’s incredible that I can now open a MacBook Pro and get this level of immersion.” <em>Shadows</em> will also be coming later to iPad with M-series chips.</p>
+<p><img alt="In this screenshot from Assassin’s Creed Shadows, the character Naoe is seen in close-up. She is wearing a hood, carrying a sword on her back, and standing outdoors." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/884cd7c56053765e538f80b4809df830.jpeg"></p>
+<p>Naoe, one of the game’s two protagonists, is an agile assassin who’s at her best when striking from the shadows.</p>
+<p>Today marks one of the first times that the gaming community will get its hands on <em>Shadows</em>, and to celebrate the occasion, the Ubisoft offices — a mix of cozy chalet-worthy reclaimed wood and wide-open windows that afford a view of snowy Quebec City rooftops — have been reskinned with an <em>Assassin’s Creed</em> theme, including a display that emphasizes the heft of Yasuke’s weapons, especially an imposing-looking 13-pound model of the character’s sword. (On this day, the display is hosted by associate game director Simon Lemay-Comtois, who appears quite capable of wielding it.)</p>
+<p><a class="link" href="https://apps.apple.com/us/app/assassins-creed-shadows/id6497794841?mt=12"  target="_blank" rel="noopener"
+    >Download Assassin&rsquo;s Creed Shadows from the Mac App Store</a></p>
+<p>Côté calls <em>Shadows</em> his team’s “most ambitious” game. In crafting the game’s expansive world, Ubisoft’s development team took advantage of an array of advanced Mac technologies: Metal 3 (working in concert with Ubisoft’s next-generation Anvil engine), Apple silicon, and a mix of HDR support and real-time ray tracing on Macs with M3 and M4 that Côté says was “transformative” in creating the game’s immersion.</p>
+<p>It’s been a longtime dream to bring the game to Mac.</p>
+<p>Marc-Alexis Côté, Ubisoft executive producer</p>
+<p>“Seeing those millions of lines of code work natively on a Mac was a feeling that’s hard to describe,” Côté says. “When you look at the game’s performance, the curve Apple is on with successive improvements to the M-series chips year after year, and the way the game looks on an HDR screen, you’re like, ‘Is this real?’”</p>
+<p><em>Assassin’s Creed Shadows</em> is a balance of the technical and creative. For the former, associate technical director Mathieu Belanger says the capabilities of Mac laid the groundwork for technical success. “The architecture of the hardware is so well done, thanks in part to the unified memory between the GPU and CPU. That made us think the future is bright for gaming on the platform. So many things about doing this on Mac were great right out of the box.”</p>
+<p><img alt="In this screenshot from Assassin’s Creed Shadows, the fearsome warrior Yasuke battles an opponent with a large club in the courtyard of a snowy Japanese temple." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d667af9e1e6962d7ccc765f3fce524f5.jpeg"></p>
+<p>Naoe’s counterpart, Yasuke, prefers the use of brute force.</p>
+<p>On the creative side, Ubisoft creative director Jonathan Dumont focused on a different opportunity. “The important thing was: Does this feel right? Is it what we want to send to players? And the answer was yes.”</p>
+<p>The creative team’s goal was nothing short of “making this world feel alive,” says Martin Bedard, a 20-year Ubisoft veteran who served as the game’s technology director (and is very good at playing as Naoe). “You’re put into a moment that really existed,” he says. “This story is your playground.”</p>
+<p>There are also fluffy kittens. We’ll get to those.</p>
+<p><img alt="In this screenshot from Assassin’s Creed Shadows, an outdoor garden scene is shown broken into four equal sections that represent the four seasons." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/cda46554564d561c7f3a8d80f53b1ae6.jpeg"></p>
+<p>The ever-changing seasons lend an incredible variety to the game’s environments.</p>
+<p>And there’s tremendous power behind the beauty, because the game’s biomes, seasons, weather, and lighting are all dynamic creations. The sunset hour bathes the mountains in soft purple light; the sun’s rays float in through leaves and temple roofs. Pretty much every room has a candle in it, which means the light is always changing. “Look at the clouds here,” says Bedard, pointing at the screen. “That’s not a rendering. These are all fluid-based cloud simulations.”</p>
+<p>“Japan feels like it’s 80 percent trees and mountains,” says Dumont. “If you’re building this world without the rain, and the winds, and the mountains, it doesn’t feel right.”</p>
+<p>Wherever you are, wherever you go, everything is beautiful and alive.</p>
+<p>Mathieu Belanger, associate technical director</p>
+<p>And those winds? “We developed a lot of features that were barely possible before, and one of them was a full simulation of the wind, not just an animation,” says Belanger. “We even built a humidity simulation that gathers clouds together.” For the in-game seasons, Ubisoft developed an engine that depicted houses, markets, and temples, in ever-changing conditions. “This was all done along the way over the past four years,” he says.</p>
+<p>To pursue historical accuracy, Dumont and the creative team visited Japan to study every detail, including big-picture details (like town maps) to very specific ones (like the varnish that would have been applied to 16th-century wood). It wasn’t always a slam dunk, says Côté: In one visit, their Japanese hosts recommended a revision to the light splashing against the mountains. “We want to get all those little details right,” he says. (A “full-immersion version,” entirely in Japanese with English subtitles, is available.)</p>
+<p><img alt="In this screenshot from Assassin’s Creed Shadows, a Japanese temple is seen in afternoon light. In the background is a misty forest." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fbc115a68ca7a49563c5aa055870c626.jpeg"></p>
+<p>To recreate the world of 16th-century Japan, the Ubisoft creative visited Japan to study every detail.</p>
+<p>Ubisoft’s decision to split the protagonist into two distinct characters with different identities, skill sets, origin stories, and class backgrounds came early in the process. (“That was a fun day,” laughs Belanger.) Ubisoft team members emphasize that choosing between Naoe and Yasuke is a matter of personal preference — lethal subtlety vs. brute force. Players can switch between characters at any time, and, as you might suspect, the pair grows stronger together as the story goes on. Much of Naoe’s advantage comes from her ability to linger in the game’s shadows — not just behind big buildings, but wherever the scene creates a space for her to hide. “The masterclass is clearing out a board withou</p>
+<p>&hellip;（長文のため省略されました）</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
