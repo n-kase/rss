@@ -1,0 +1,84 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>暗号化 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E6%9A%97%E5%8F%B7%E5%8C%96/</link>
+    <description>Recent content in 暗号化 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:52:32 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E6%9A%97%E5%8F%B7%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【Mac Info】Mac紛失時のデータ漏洩を防ぐ「FileVault」はオンにすべき？</title>
+      <link>https://n-kase.github.io/rss/posts/post-566/</link>
+      <pubDate>Tue, 16 Jun 2026 11:52:32 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-566/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Macのストレージを暗号化する機能「FileVault」について解説しています。FileVaultはデータを強力に暗号化し、起動時にログインパスワードで認証されたユーザだけがデータにアクセスできるようにする仕組みです。これにより、Macを紛失や盗難に遭った場合でも、第三者によるデータの不正な読み取りを防ぎ、情報漏洩のリスクを低減できます。初期セットアップ時やシステム設定から後からでも有効化でき、2003年のMac OS X Pantherから始まり、2011年のFileVault 2でストレージ全体の暗号化が可能になりました。その後、APFSへの移行やAES-XTS暗号化の採用により保護が強化されています。ただし、AppleシリコンやT2チップ搭載Macではハードウェアベースの暗号化が標準で行われるため、FileVaultをオンにしなくてもストレージ自体は暗号化されますが、データへのアクセスにユーザ認証が必要になる点でFileVaultは追加のセキュリティ層となります。また、復旧キーの管理や複数ユーザでの共有時の設定の煩雑さ、自動ログインの無効化などの注意点も挙げられています。最近のmacOS Tahoeでは復旧キーが自動生成され、iCloudアカウントを使ったロック解除方法はなくなり、復旧キーの管理が重要になっています。外付けストレージはFileVaultの対象外であり、別途ディスクユーティリティやFinderで暗号化設定が必要です。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>FileVaultはMacのデータ保護において基本的かつ重要な機能であり、特にデバイスの紛失や盗難が考えられる場面では有効にしておくことが推奨されます。ハードウェアベースの暗号化だけではデバイスごとに結びついた鍵が盗まれればデータが読まれる可能性があるため、ユーザ認証を追加するFileVaultはセキュリティをさらに高めます。一方で、復旧キーの紛失や複数ユーザ環境での設定の手間、自動ログインの利用不可といった実務上の留意点もありますが、これらは大きなデメリットとは言い難く、特別な理由がない限りは有効にしておくのが現実的です。また、近年のMacではパフォーマンスへの影響はほとんどなく、日常使いにおいて速度低下を気にする必要はありません。外付けドライブやTime Machineのバックアップも別途暗号化設定を行うことで、同様の保護レベルを確保できます。総じて、FileVaultはMacユーザーがデータ漏洩リスクを減らすために積極的に活用すべきセキュリティ機能です。</p>
+<p><a class="link" href="https://pc.watch.impress.co.jp/docs/column/macinfo/2117346.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>Mac Info</p>
+<h1 id="mac紛失時のデータ漏洩を防ぐfilevaultはオンにすべき">Mac紛失時のデータ漏洩を防ぐ「FileVault」はオンにすべき？
+</h1><p>2026年6月16日 06:00</p>
+<p>Macの設定の中でも、初心者から中級者にとって分かりにくい機能の1つがストレージ暗号化機能「FileVault」です。何のための機能なのか、またオフのまま使うと何が変わるのかを十分に理解しないまま利用している人も少なくないでしょう。本記事では、FileVaultの基本的な仕組みや有効化による効果、注意点について解説します。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c4932d0ae7cfe2129df4e5f5dac0662e.png"></p>
+<h2 id="macのデータを保護するfilevault">Macのデータを保護するFileVault
+</h2><p>FileVaultは、ユーザが意識しなくても、Mac内のデータを強力な暗号化で保護するセキュリティ機能です。</p>
+<p>「暗号化」と聞くと難しく感じられるかもしれませんが、Macのストレージに保存されたデータを第三者が勝手に読み取れないよう保護する仕組みと考えると分かりやすいでしょう。</p>
+<p>FileVaultを有効にするとMac内のデータは暗号化され、起動時にログインパスワードで認証されたユーザだけがデータにアクセスできるようになります。</p>
+<p>これにより、万が一Macを紛失したり盗難に遭ったりした場合でも、第三者によるデータの不正な読み取りを防ぎ、情報漏洩のリスクを低減できます。</p>
+<p>FileVaultは初期セットアップ時に有効化できるほか、あとからでも「システム設定」を開き、[プライバシーとセキュリティ]から[FileVault]の項目をオンにすることで利用できます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ac11c4b7f795f9bb1d03f9fc55546a64.png"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fcf55a805429be045c51981cad966287.png"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d2d95611388299119f6b4964c4ae0515.png"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b01def64a8781825ad5b053b716828b9.png"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4bfa6343a25ef26230de9d4a03ec604e.png"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/630f0b1ce7af36a6e8292592273c79f3.png"></p>
+<h2 id="filevaultを有効化する理由とは">FileVaultを有効化する理由とは？
+</h2><p>FileVaultの歴史は意外と古く、初めて搭載されたのは2003年にリリースされたMac OS X Pantherです。当初はユーザの[ホーム]フォルダだけを保護する機能でしたが、2011年のMac OS X Lionで「FileVault 2」へと進化し、ストレージ全体を暗号化できるようになりました。</p>
+<p>その後、2017年にリリースされたmacOS High SierraでファイルシステムがAPFS(Apple File System)へ移行し、AES-XTSによる強力な暗号化が採用されたことでデータ保護の仕組みはさらに強化されています。</p>
+<p>しかし、現在のMacではFileVault以外のセキュリティ機能も大きく進化しています。</p>
+<p>たとえば、Appleシリコン搭載MacやApple T2セキュリティチップを搭載したIntel Macでは、FileVaultの設定に関わらず内蔵ストレージのデータは標準で暗号化されます。</p>
+<p>そのため、「FileVaultはオンにしなくても平気なのでは？」と疑問に思う人もいるでしょう。</p>
+<p>しかし、この仕組みはMacごとに割り当てられたハードウェアUID(ユニーク識別子)と、「Secure Enclave」と呼ばれるセキュリティ専用の領域を利用したハードウェアベースの暗号化です。</p>
+<p>つまり、Mac本体が盗難に遭った場合は、ハードウェアと一体化した暗号化データもそのまま攻撃者の手に渡ることになり、保護効果は限定的なものになります。</p>
+<p>一方、FileVaultを有効にすると、データへのアクセス条件にユーザ認証が追加されます。ハードウェアによる暗号化に加えて「正しいユーザによる認証」が必要になるため、セキュリティはさらに強化されます。</p>
+<p>たとえるなら、データの入った「金庫」を開けるために、「その鍵」に加えて、「正しいユーザがパスワードを入力すること」が必要になるイメージです。</p>
+<p>ただし、Macがすでにログイン済みでロックされていない状態だったり、ログインパスワードが第三者に知られていたりすると、FileVaultによる保護は十分に機能しませんので注意しましょう。</p>
+<p>なお、FileVaultを有効にしている場合、Mac同士を直接接続してデータをやり取りする「ターゲットディスクモード」やmacOS復旧の「ディスク共有」を利用する際にも、管理者権限を持つユーザのログインパスワードによる認証が必要となり、認証がない場合はデータへアクセスできません。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/b71de2acf3e5a3d6f361f9a2d01be40b.png"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7f31fe7fdd4736681050828f51afa5be.png"></p>
+<h2 id="filevaultを有効にするデメリットは">FileVaultを有効にするデメリットは？
+</h2><p>FileVaultはMacのセキュリティを強化するうえで重要な機能ですが、有効化にあたってはいくつか留意しておきたい点もあります。</p>
+<p>たとえば、復旧キーを紛失するとデータの復旧が困難になることや、複数のユーザで1台のMacを共有する場合に設定がやや煩雑になること、自動ログイン機能が利用できなくなることなどが挙げられます。</p>
+<p>もっとも、これらは実用上大きなデメリットとまでは言い切れないため、特別な理由がない限りはFileVaultを有効にしておくのが現実的でしょう。</p>
+<p>「FileVaultをオンにするとMacの動作が遅くなる」といった指摘もありますが、これは現在では大きな誤解です。</p>
+<p>確かにApple T2セキュリティチップが搭載されるよりも前のIntel Macでは、暗号化に時間がかかる場合がありました。</p>
+<p>しかし、APFSの導入以降は仕組みが最適化されており、Appleシリコン搭載MacおよびApple T2セキュリティチップ搭載Macでは暗号化処理は短時間で完了し、日常利用において体感速度への影響はほとんどありません。</p>
+<h2 id="macos-tahoeで変わった復旧方法">macOS Tahoeで変わった復旧方法
+</h2><p>FileVaultをオンにした状態でログインパスワードを忘れてしまった場合は、データにアクセスできなくなる可能性がありますが、復旧のための仕組みはAppleによって用意されています。</p>
+<p>ただし、その設定方法はmacOSのバージョンによって変化しているため注意が必要です。</p>
+<p>2024年9月にリリースされたmacOS Sequoia以前は、セットアップ時や「システム設定」からFileVaultを有効にする際に、起動ディスクのロック解除方法としてiCloudアカウントを利用する方法と、復旧キーを作成して利用する方法を選択できました。</p>
+<p>一方、現行のmacOS Tahoe以降では、FileVaultを有効にすると復旧キーが自動的に作成され、その復旧キーを使ってパスワードをリセットする仕組みが基本となります。</p>
+<p>従来のように複数の選択肢からロック解除方法を選ぶ流れではなくなっているため、復旧キーの管理がより重要になります。</p>
+<p>なお、復旧キーは「パスワード」アプリにも自動的に保存され、同じApple AccountでサインインしているiPhoneやiPadから確認することも可能です。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/29cf12cc3d367861d0172cb12c61ce13.png"></p>
+<h2 id="外付けストレージのデータを守るには">外付けストレージのデータを守るには？
+</h2><p>ここまでFileVaultの仕組みや利用方法、注意点について解説してきましたが、最後に「FileVaultがどこまでを保護する機能なのか」についても知っておきましょう。</p>
+<p>FileVaultが対象とするのは基本的にMacの内蔵ストレージであり、外付けSSDやHDDなどの外付けストレージは自動的には暗号化されません。</p>
+<p>もし外付けストレージのデータを保護したい場合は、「ディスクユーティリティ」でAPFS形式にフォーマットしたうえで、Finderから副ボタンクリックして[暗号化]を選び、独自のパスワードを設定しましょう。</p>
+<p>なお、Time Machineでバックアップ先として使用している外付けストレージは、初期設定時に「バックアップを暗号化」を有効にすることでバックアップデータを保護できます。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/fad9d58e3ca8f2a411ee5336704ee88e.png"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e301b52e750c911a5565d2ed9e5f1988.png"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d8b61edf099a46cf11442ac6220f0951.png"></p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

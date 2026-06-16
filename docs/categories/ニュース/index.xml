@@ -6,7 +6,43 @@
     <description>Recent content in ニュース on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:50:45 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 11:52:59 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MCP連携でOpus 4.8超えのオープンウェイトLLM最強クラス「Kimi K2.7 Code」に6倍速の新モード</title>
+      <link>https://n-kase.github.io/rss/posts/post-567/</link>
+      <pubDate>Tue, 16 Jun 2026 11:52:59 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-567/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Moonshot AIは2026年6月15日に、オープンウェイトのコーディング特化AIモデル「Kimi K2.7 Code」に高速モード「Kimi K2.7 Code HighSpeed」を追加したことを発表しました。このHighSpeedは別のモデルではなく、同じKimi K2.7 Codeの重みを用いたまま、サービング基盤（推論インフラ）を最適化することで推論速度を最大6倍に引き上げたものです。具体的には、通常のコンテキストでは毎秒180トークン、短いコンテキストでは毎秒260トークンの生成速度を達成しています。</p>
+<p>モデル自体はHugging Face上でModified MITライセンスのもと無償公開されており、オープンウェイトとして同じ重みが利用可能です。APIから利用する際のモデルIDは「kimi-k2.7-code-highspeed」で、コンテキストウィンドウは通常版と同じ256Kトークンです。提供対象はKimi Code Beta Program参加者、Kimi API開発者、Kimi Businessユーザーで、当初はキャパシティ制限によりアクセスが制限されます。料金は入力100万トークンあたり1.9ドル（HighSpeed）/0.95ドル（通常）、出力100万トークンあたり8ドル（HighSpeed）/4ドル（通常）、キャッシュヒット時は0.38ドル（HighSpeed）/0.19ドル（通常）となっています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Kimi K2.7 Code本体は6月12日に公開されたばかりで、総パラメータ数1兆、アクティブパラメータ数320億のMoE（混合専門家）アーキテクチャを採用しています。さらに4億パラメータのビジョンエンコーダ「MoonViT」を搭載し、画像や動画入力にも対応するマルチモーダルモデルです。前世代のKimi K2.6と比較してコーディング性能が大幅に向上し、推論時のトークン使用量を約30%削減することで「考えすぎ」の抑制とコスト削減を両立しています。ベンチマーク「MCP Mark Verified」では81.1%を達成し、Claude Opus 4.8（76.4%）を上回る結果を示しています。</p>
+<p>このように、モデルそのものを変更せずにインフラ最適化のみで速度を大きく向上させた取り組みは、オープンウェイトモデルの活用においてサービング技術の重要性を改めて示しています。今後、同様の最適化手法が他のオープンモデルにも適用されれば、ローカル環境でも高速なAI利用がさらに広がる可能性があります。です。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。ます。</p>
+<p><a class="link" href="https://pc.watch.impress.co.jp/docs/news/2117343.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>ニュース</p>
+<h1 id="最大6倍速オープンウェイトllm最強クラスkimi-k27-codeに新モード">最大6倍速、オープンウェイトLLM最強クラス「Kimi K2.7 Code」に新モード
+</h1><p>2026年6月15日 22:41</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/df97b8daca3237a4fb7b887e0a162596.png"></p>
+<p>コーディングタスクで毎秒180トークン、短いコンテキストなら毎秒260トークン——。Moonshot AIは6月15日、オープンウェイトのコーディング特化AIモデル「Kimi K2.7 Code」に、推論速度を最大6倍に引き上げる高速モード「Kimi K2.7 Code HighSpeed」を追加した。</p>
+<p>注目すべきは、HighSpeedが別のモデルではないという点だ。同社の公式ドキュメントでは「Kimi K2.7 Codeと同一のモデル」と明記されている。つまりモデルそのものを変えたのではなく、サービング基盤(推論インフラ)の最適化によって同じ1兆パラメータのMoEモデルから6倍の速度を引き出した格好だ。</p>
+<p>Kimi K2.7 Codeの重みは、Hugging FaceでModified MITライセンスのもと無償公開されている。オープンウェイトとして公開済みの同一モデルであるため、サービング技術の再現次第ではローカル環境での高速化にもつながる可能性がある。</p>
+<p>APIからの利用時のモデルIDは「kimi-k2.7-code-highspeed」で、コンテキストウィンドウは通常版と同じ256Kトークン。提供対象はKimi Code Beta Programの参加者、Kimi APIの開発者、およびKimi Businessユーザーで、キャパシティの制約から当面はアクセスが制限される。Beta Programへの参加に招待は不要で、参加登録すればアクセス権を得られる可能性がある。APIの高速版/通常版の料金は、入力100万トークンあたり1.9ドル/0.95ドル、出力100万トークンあたり8ドル/4ドル、キャッシュヒット時は0.38ドル/0.19ドル。</p>
+<p>Kimi K2.7 Code自体は6月12日に公開されたばかりのモデルで、総パラメータ数1兆、アクティブパラメータ数320億のMoEアーキテクチャを採用する。4億パラメータのビジョンエンコーダ「MoonViT」を搭載し、マルチモーダルモデルとして画像や動画の入力にも対応する。前世代のKimi K2.6に比べてコーディング性能が大幅に向上したほか、推論時のトークン使用量を約30%削減しており、「考えすぎ」の抑制とコスト削減を両立した。MCPサーバーとの連携を評価するベンチマーク「MCP Mark Verified」は81.1%で、Claude Opus 4.8(76.4%)を上回る結果を出している。</p>
+<p>🌘 Kimi-K2.7-Code, our latest coding model, is now released and open-sourced!</p>
+<p>— Kimi.ai (@Kimi_Moonshot)</p>
+<p>🔷 Improved coding &amp; agent performance over K2.6: +21.8% on Kimi Code Bench v2, +11.0% on Program Bench, and +31.5% on MLS Bench Lite.</p>
+<p>🔷 Reasoning efficiency: Less overthinking, with 30% lower…<a class="link" href="https://t.co/jFS7I40avs"  target="_blank" rel="noopener"
+    >pic.twitter.com/jFS7I40avs</a><a class="link" href="https://x.com/Kimi_Moonshot/status/2065377579130142937?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >June 12, 2026</a></p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>天皇陛下 公式訪問先のオランダで17世紀建造の宮殿を視察</title>
       <link>https://n-kase.github.io/rss/posts/post-562/</link>
