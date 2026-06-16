@@ -6,7 +6,46 @@
     <description>Recent content in Swift on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:10:40 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 11:11:30 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apply for the Swift Student Challenge now through February 23</title>
+      <link>https://n-kase.github.io/rss/posts/post-469/</link>
+      <pubDate>Tue, 16 Jun 2026 11:11:30 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-469/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2025年2月3日に発表された情報によると、Swift Student Challenge 2025の応募受付が開始されました。応募期間は2025年2月23日までで、残り約3週間です。参加者はiPadまたはMacにSwift PlaygroundまたはXcodeがインストールされている環境があれば、無料で応募できます。プログラミング経験がなくても学生であれば誰でも応募可能で、提出するアプリプレイグラウンドは3分以内で体験できるシンプルなもので構いません。優れた作品は個人の情熱が反映されたものであることが求められ、入賞者は350名に選ばれます。応募の始め方として、ツールやチュートリアルを探るページおよび昨年の Distinguished Winners の事例紹介ページへのリンクが提示されています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネットの反応やコメントは含まれていませんので、推測による記述は避けます。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Swift Student Challengeは、若い世代にプログラミングへの興味を喚起し、創造的なアプリ開発の機会を提供することを目的としています。無料で参加でき、経験不問というハードルの低さは、多様なバックグラウンドの学生が挑戦しやすい環境を作り出しています。入賞者にはApple Parkでの体験や受賞作品の公開など、実際の開発現場に近い経験が得られるため、技術スキルだけでなく、プロジェクト遂行能力やプレゼンテーション力の向上にもつながると考えられます。このように、教育とテクノロジーの結びつきを強める取り組みとして、今後の若手開発者の育成に寄与することが期待されます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=8xllorfy"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="apply-for-the-swift-student-challenge-now-through-february-23">Apply for the Swift Student Challenge now through February 23
+</h2><p>February 3, 2025</p>
+<p><img alt="Swift bird logo on a colorful background with decorative code." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/171d9126ac605a60df7696af4da64793.jpeg"></p>
+<p>Submissions for the Swift Student Challenge 2025 are now open through February 23. You have three more weeks to design, test, refine, and submit your app playground for consideration to be named one of 350 winners.</p>
+<p><strong>What to know:</strong></p>
+<ul>
+<li>The Challenge is free to enter — you just need access to an iPad or Mac with Swift Playground or Xcode.</li>
+<li>The best app ideas are personal — let your passion shine through your work.</li>
+<li>No formal coding experience required — the Challenge is open to students of all levels.</li>
+<li>Your app playground doesn’t need to be intricate — it should be experienced within 3 minutes or less.</li>
+</ul>
+<p><strong>Where to start:</strong></p>
+<ul>
+<li><a class="link" href="https://developer.apple.com/swift-student-challenge/get-ready/"  target="_blank" rel="noopener"
+    >Explore tools and tutorials</a>to build an incredible app playground.</li>
+<li><a class="link" href="https://developer.apple.com/swift-student-challenge/distinguished-winners/"  target="_blank" rel="noopener"
+    >Get inspired by last year’s Distinguished Winners</a>, learn about their winning apps, and read about their experiences at Apple Park.</li>
+</ul>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Hello Developer: February 2025</title>
       <link>https://n-kase.github.io/rss/posts/post-467/</link>
