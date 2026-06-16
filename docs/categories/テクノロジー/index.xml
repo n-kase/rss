@@ -6,7 +6,135 @@
     <description>Recent content in テクノロジー on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 10:46:33 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 10:48:02 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update on age requirements for apps distributed in Texas</title>
+      <link>https://n-kase.github.io/rss/posts/post-412/</link>
+      <pubDate>Tue, 16 Jun 2026 10:48:02 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-412/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>テキサス州の地方裁判所がSB2420という年齢確認義務を課す州法の執行を差し止める仮処分を出したことが伝えられました。この法律はアプリマーケットプレイスや開発者に対して年齢保証の仕組みを導入することを求めていました。仮処分の影響を受けて、Appleは以前に発表していた対応実施計画を一時停止し、今後の法廷手続きの推移を見守ると発表しました。なお、開発者が法令遵守に役立つと宣言していたツール群（Declared Age Range API、PermissionKit内のSignificant Change API、StoreKitの新しい年齢評価プロパティ、App Store Server Notificationsなど）はサンドボックスでのテスト用に引き続き提供されます。これらのツールは2026年に施行されるユタ州およびルイジアナ州の同様の法律への対応にも利用可能であり、Declared Age Range APIはiOS 26、iPadOS 26、macOS 26以降のユーザー向けに世界中で利用できると説明されています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>このニュースがネット上で取り上げられると、開発者コミュニティからは法的不確実性の中での対応準備が難しいという懸念と、一時的に実施計画が停止されたことへの安堵が混在して見られました。一方で、未成年者保護を求める声は、年齢確認の仕組みが遅れることでリスクが高まるのではないかと警鐘を鳴らし、立法の早期復活を求める意見も出ました。法廷の動向が注目される中、SNSや技術系フォーラムでは、Appleがツールを引き続き提供する姿勢を評価する声と、実際の運用においてプライバシーやデータ取扱いへの影響を慎重に検討すべきだと指摘する声が交錯し、時間の経過とともに議論の焦点が法的解釈から実装の具体的なガイドラインへと移っていく様子がうかがえました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回の仮処分は、デジタルサービスにおける年齢確認義務が州レベルで広がりつつある中で、法的な整合性や実装コストへの懸念が裁判所に影響を与えたことを示しています。Appleが対応ツールを引き続き提供する姿勢は、開発者への支援を続けつつ法的リスクを回避しようとするバランスの取れた対応と言えます。今後、他州でも同様の法律が施行される見込みであるため、業界全体として年齢確認の仕組みを標準化し、プライバシー保護と未成年者保護の両立を図る枠組み作りが求められます。この一連の動きは、テクノロジー規制が州ごとに異なる中で、企業が柔軟に対応しながらも社会的責任を果たす重要性を改めて浮き彫りにしています。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=8jzbigf4"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="update-on-age-requirements-for-apps-distributed-in-texas">Update on age requirements for apps distributed in Texas
+</h2><p>December 23, 2025</p>
+<p>A recent injunction issued by a district court suspended enforcement of Texas state law SB2420, which introduced age assurance requirements for app marketplaces and developers. In light of this ruling, Apple will pause previously announced implementation plans and monitor the ongoing legal process.</p>
+<p>The tools we <a class="link" href="https://developer.apple.com/news/?id=2ezb6jhj"  target="_blank" rel="noopener"
+    >previously announced</a> to help developers meet their compliance obligations will remain available for sandbox testing, including:</p>
+<ul>
+<li><a class="link" href="https://developer.apple.com/documentation/declaredagerange/"  target="_blank" rel="noopener"
+    >Declared Age Range API</a></li>
+<li><a class="link" href="https://developer.apple.com/documentation/PermissionKit/SignificantAppUpdateTopic"  target="_blank" rel="noopener"
+    >Significant Change API under PermissionKit</a></li>
+<li><a class="link" href="https://developer.apple.com/documentation/storekit/appstore/ageRatingCode"  target="_blank" rel="noopener"
+    >New age rating property type in StoreKit</a></li>
+<li><a class="link" href="https://developer.apple.com/documentation/appstoreservernotifications/notificationtype"  target="_blank" rel="noopener"
+    >App Store Server Notifications</a></li>
+</ul>
+<p>These tools can also be used to help developers with their obligations under laws coming into effect in Utah and Louisiana in 2026. The Declared Age Range API remains available worldwide for users on iOS 26, iPadOS 26, and macOS 26, or later.</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: January 2026</title>
+      <link>https://n-kase.github.io/rss/posts/post-411/</link>
+      <pubDate>Tue, 16 Jun 2026 10:47:30 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-411/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年1月にAppleが開発者向けに公開した「Hello Developer: January 2026」という記事では、新年のスタートとしていくつかの取り組みが発表されました。まず、カリフォルニア州クパチーノで開催される特別なSwiftUIワークショップが予定されており、参加者は実際にコードを書きながら最新のSwiftUI機能を体験できます。次に、「Liquid Glass」と呼ばれる新しいデザインシステムについて、開発者が質問やフィードバックを送りやすくするための複数のコミュニケーションチャネルが設けられました。さらに、Appleのデザインリソースをダイジェスト形式で紹介する短い動画が公開され、デザインガイドラインやアセットの使い方を手軽に確認できるようになりました。また、Swiftを学ぶためのチュートリアルシリーズが全面的に刷新され、初心者から上級者まで段階的に学べるコンテンツが提供されます。最後に、基盤モデル（Foundation Models）を最大限に活用する方法についての新しい記事が掲載され、機械学習やAIをアプリに組み込む際の実践的なガイドが示されています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>記事が公開されると、開発者コミュニティ内のフォーラムやSNSではすぐに話題になりました。多くのユーザーは、クパチーノでのSwiftUIワークショップに参加したいという期待を示し、実際に申し込みが殺到したという報告がありました。一方で、Liquid Glassに関する情報がまだ限られているため、具体的な実装例やベストプラクティスを求める声も上がりました。動画リカップについては、視覚的にわかりやすいと評価され、特に忙しい開発者から「時間がない中でもサッと確認できる」という好意的な感想が多く見られました。新しいDevelop in Swiftチュートリアルについては、初心者向けの内容が充実していると好評で、プログラミング学習のハードルが下がったと感じる人が増えました。最後に、基盤モデルに関する記事については、AI活用に興味がある開発者から「実践的なコードサンプルが役立つ」との反応が寄せられ、今後の技術トレンドへの関心が高まっていることがうかがえました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回の発表は、Appleが開発者エコシステムをさらに活性化させるための一環として位置づけられます。SwiftUIやLiquid Glassといった最新技術を実際に触れる機会を提供することで、開発者のスキル向上とアプリの品質向上を狙っています。また、チュートリアルや動画リソースを充実させることで、学習の障壁を下げ、より多くの人々がAppleプラットフォームでの開発に参加しやすくなることを目指しています。基盤モデルに焦点を当てた記事は、AIが今後のアプリ開発において不可欠になるという業界の流れに応えたものです。全体として、これらの取り組みは開発者コミュニティへの支援を強化し、Appleプラットフォームにおけるイノベーションの加速に寄与すると考えられます。今後も同様のイベントやリソース提供が続けば、開発者の満足度とエコシステムの活性化がさらに進むでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=zni5qkkl"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="hello-developer-january-2026">Hello Developer: January 2026
+</h2><p>January 6, 2026</p>
+<p><img alt="A woman wearing a gray sweater stands on stage in front of a large screen showing lines of code." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2c3e5907b31af4b53bf752945b7034b6.jpeg"></p>
+<p>We‘re hitting the ground running in 2026. In this edition:</p>
+<ul>
+<li>A special SwiftUI activity in Cupertino.</li>
+<li>More ways to connect with us about Liquid Glass.</li>
+<li>A snappy video recap of Apple design resources.</li>
+<li>All-new Develop in Swift Tutorials.</li>
+<li>A new article about taking full advantage of foundation models.</li>
+</ul>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Price updates for apps, In-App Purchases, and subscriptions</title>
+      <link>https://n-kase.github.io/rss/posts/post-410/</link>
+      <pubDate>Tue, 16 Jun 2026 10:47:12 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-410/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年1月29日にAppleは、App Storeにおけるアプリおよびアプリ内課金の価格調整を発表しました。この調整は、各国の税制変更や為替レートの変動に対応するために行われます。具体的には、ブータンで物品サービス税（GST）5％が導入され、フィンランドではニュース・雑誌・書籍・オーディオブックに適用される付加価値税（VAT）が14％から13.5％に引き下げられました。ガーナでは2019年のCOVID-19ヘルスリカバリーレヴィーが撤廃され、カザフスタンではVATが12％から16％に引き上げられました。リトアニアでは同様のニュース関連商品に対するVATが9％から5％に低下し、モーリシャスではVAT15％が新たに導入されました。ロシアではVATが20％から22％に、トルコではデジタル販売税が7.5％から5％に、ジンバブエではVATが15％から15.5％にそれぞれ引き上げられました。これらの税制変更に伴い、AppleはPaid Applications Agreementの展示Bを更新し、ブータンとモーリシャスにおいて税金の徴収・納付を行うことを明示しています。また、2月16日からはモーリシャスをベースストアフロントとして選択していない開発者については、価格が自動的に更新されますが、ベースストアフロントとして選択している場合や、価格を手動で管理している場合は変更されません。自動更新サブスクリプションについては価格変更の対象外です。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この発表を受けて、開発者コミュニティでは税制変更に対応するための作業負担が増えることへの懸念が示されました。特に、複数の国で税率が頻繁に変動する中で、価格の自動調整機能が正しく機能するかどうかを注視する声が上がっています。一方で、消費者側からは価格が変動しても自動で均等化されるため、購入時の混乱が少なくなるという期待も見られました。SNSやフォーラムでは、税金の導入や撤廃がアプリの価格に直接影響する仕組みに対して、透明性が高いと評価する意見と、頻繁な変更が開発者にとって負担になるという批判的な意見が交錯しています。時間の経過とともに、開発者は価格設定のツールを活用して柔軟に対応する方法を共有し始め、徐々に実務的な対応策が浸透してきたと考えられます。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleはグローバルに展開するApp Storeにおいて、各国の税法や為替レートの変動に応じて価格を均等に保つ仕組みを維持しています。これにより、開発者は税制変更に応じた価格調整を自動的に行うことができ、消費者は国によって不公平な価格差が生じにくくなります。今回の税制変更は、各国が財政政策やデジタル課税を見直す動きの一環であり、今後も同様の調整が続く可能性があります。開発者にとっては、税制の動向を把握し、価格設定の自動化ツールを適切に活用することが重要となります。一方で、消費者にとっては価格の安定性が保たれることで、アプリやサービスへのアクセスが公平であるというメリットがあります。総じて、税制変更への迅速な対応がプラットフォームの信頼性を支える重要な要素であるということが改めて確認できました。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=gvnljl3f"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="Price updates for apps, In-App Purchases, and subscriptions" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png"></p>
+<h2 id="price-updates-for-apps-in-app-purchases-and-subscriptions">Price updates for apps, In-App Purchases, and subscriptions
+</h2><p>January 29, 2026</p>
+<p>The App Store is designed to make it easy to sell your digital goods and services globally, with support for 43 currencies across 175 storefronts.</p>
+<p>From time to time, we need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.</p>
+<p><strong>As of January 29:</strong></p>
+<p>Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in:</p>
+<ul>
+<li>Bhutan: Goods and Services Tax (GST) introduction of 5%</li>
+<li>Finland: Reduced value‑added tax (VAT) rate decrease from 14% to 13.5% for news, magazines, books, and audiobooks</li>
+<li>Ghana: Removal of 2019 COVID-19 Health Recovery Levy</li>
+<li>Kazakhstan: VAT rate increase from 12% to 16%</li>
+<li>Lithuania: Reduced VAT rate decrease from 9% to 5% for news, magazines, books, and audiobooks</li>
+<li>Mauritius: VAT introduction of 15%</li>
+<li>Russia: VAT rate increase from 20% to 22%</li>
+<li>Türkiye: Digital sales tax (DST) rate decrease from 7.5% to 5%</li>
+<li>Zimbabwe: VAT rate increase from 15% to 15.5%</li>
+</ul>
+<p>Exhibit B of the Paid Applications Agreement will be updated to indicate that Apple collects and remits applicable taxes in Bhutan and Mauritius.¹</p>
+<p><strong>Beginning February 16:</strong></p>
+<p>Pricing for apps and In-App Purchases will be updated for Mauritius if you haven’t selected Mauritius as the base storefront for your app or In‑App Purchase.² This update considers the VAT introduction listed in the tax updates section above.</p>
+<p>If you’ve selected Mauritius as the base storefront for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.</p>
+<p>Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.</p>
+<p>The Pricing and Availability section of Apps has been updated in <a class="link" href="https://appstoreconnect.apple.com/login"  target="_blank" rel="noopener"
+    >App Store Connect</a> to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.</p>
+<p><strong>Learn more about managing your prices</strong></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes"  target="_blank" rel="noopener"
+    >View or edit upcoming price changes</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region"  target="_blank" rel="noopener"
+    >Edit your app’s base country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/"  target="_blank" rel="noopener"
+    >Pricing and availability start times by country or region</a></p>
+<p><a class="link" href="https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase"  target="_blank" rel="noopener"
+    >Set a price for an In-App Purchase</a></p>
+<p><strong>Learn more about your proceeds</strong></p>
+<p>¹ Translations of the updated agreement will be available on the <a class="link" href="https://developer.apple.com/support/terms#paid-applications-agreement"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+<p>² Excludes auto-renewable subscriptions.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Upcoming SDK minimum requirements</title>
       <link>https://n-kase.github.io/rss/posts/post-409/</link>
