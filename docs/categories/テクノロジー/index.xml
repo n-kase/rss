@@ -6,7 +6,75 @@
     <description>Recent content in テクノロジー on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 12:42:09 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 12:43:04 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>異なるデバイス間で3D CGを遠隔共有、キヤノンが製造業向けXRソフトを提供へ</title>
+      <link>https://n-kase.github.io/rss/posts/post-689/</link>
+      <pubDate>Tue, 16 Jun 2026 12:43:04 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-689/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>キヤノンは、2026年7月上旬にXRコラボレーションソフトウェア「MREAL Collaborator」の提供を開始すると発表しました。このソフトウェアは、OpenXRに対応したさまざまなXRデバイスを使って、3次元コンピュータグラフィック（3D CG）をリアルタイムで共有できる仕組みです。製造業での設計検討や部門間のイメージ共有を想定しており、遠隔地にいる担当者でもオンラインで同じ3Dモデルを見ながら話し合いができます。提供開始当初は無償で利用できますが、CADファイルを直接読み込む場合は、NXやCATIA V5に対応した有償オプションが必要になります。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>XR技術は製造現場での活用が期待されていますが、デバイスの操作が複雑だったり、データの準備に手間がかかったりして、実際の業務への導入が進みにくい状況がありました。さらに、作業者の間で熟練度に差があると、作業時間や画面の質にばらつきが生じ、全体の稼働率が低下したり、特定の人に依存しがちになる課題もありました。MREAL Collaboratorは、シンプルなユーザーインタフェースを採用し、3D CGの専門知識がなくても直感的に操作できるように設計されています。これにより、設計者だけでなく現場作業者や営業担当者も同じツールで情報を共有しやすくなり、チーム内の理解を深め、連携を強化することが期待されます。導入のハードルが下がることで、XR技術の実用的な普及が促進され、製造業の設計プロセスがよりスムーズかつ効率的になる可能性があります。</p>
+<p><a class="link" href="https://monoist.itmedia.co.jp/mn/articles/2606/16/news026.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>キヤノンは、OpenXR対応デバイスを用いて3D CGを共有できるXRコラボレーションソフトウェア「MREAL Collaborator」を2026年7月上旬に提供開始する。異なるXRデバイス間で3D CGをリアルタイムに共有でき、製造業における設計検討やレビュー、部門間のイメージ共有などを支援する。</p>
+<p>キヤノンは2026年6月15日、XRコラボレーションソフトウェア「<strong>MREAL Collaborator</strong>」を同年7月上旬に提供開始すると発表した。「OpenXR」に対応したデバイスを用いて、3D CGを共有できる。</p>
+<p>XR市場の拡大に伴い、製造業でもXR活用への期待が高まっている。一方で、デバイスやソフトウェアの操作が煩雑であることや、データ準備に手間が掛かることなどから、運用負荷が大きく、業務への本格導入が進みにくい課題がある。また、導入後も作業者の習熟度の違いにより、作業時間や映像の質に差が生じ、稼働率の低下や熟練者への依存につながるケースも見られる。</p>
+<p>MREAL Collaboratorは、3D CGを実寸大で立体視できるXRコラボレーションソフトウェアだ。シンプルなユーザーインタフェース（以下、UI）により、3D CGの専門知識を持たないユーザーでも直感的に操作できる。OpenXRに準拠した異なるXRデバイスを用いて、遠隔地間で3D CGを共有することも可能だ。</p>
+<p>同ソフトウェアは、現実映像に3D CGを表示する既存ソフトウェア「MREAL Visualizer」から機能を絞り込み、UIを刷新した。ソフトウェア内の表示をシンプルにすることで、3D CG設計者だけでなく、製造現場の作業者や営業担当者など、専門知識を持たないユーザーでも扱いやすくした。</p>
+<p>OpenXRは、Khronos Groupが策定したXRデバイスとソフトウェア間の仕様を標準化する規格だ。同規格に準拠することで、さまざまなアプリケーションを多くのXRデバイスで使用できる他、共通のインタフェースでアプリケーションを開発できる。</p>
+<p>MREAL Collaboratorは、キヤノンのMR（Mixed Reality／複合現実）システム「MREAL」に加え、OpenXR対応の他社製デバイスでも使用できる。そのため、既存デバイスを活用しながらXR環境を構築することが可能だ。異なるデバイスを使う遠隔地の参加者同士がオンラインで接続し、3D CGをリアルタイムに共有しながら議論、検討を進められる。</p>
+<p>製造業での主な用途として、開発初期段階における3D CGを用いた設計検討やレビュー、部門間でのイメージ共有などを想定する。3D CGを共有しながらコミュニケーションを図ることで、チーム内の相互理解や連携強化を支援する。</p>
+<p>提供開始当初は無償で展開する。ただし、今後の仕様や提供条件は変更となる場合がある。CADファイル形式を使用する場合は、提供開始当初から有償オプション（NXおよびCATIA V5に対応）の購入が必要となる。</p>
+<p>Copyright © ITmedia, Inc. All Rights Reserved.</p>
+<p>メカ設計の記事ランキング</p>
+<p>コーナーリンク</p>
+<p>よく読まれている編集記者コラム</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>サーバー機器ごと冷却液にどっぷり浸して冷やす、液浸冷却装置「ICEraQ Nano Japan Edition」【Interop Tokyo 2026】</title>
+      <link>https://n-kase.github.io/rss/posts/post-688/</link>
+      <pubDate>Tue, 16 Jun 2026 12:42:53 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-688/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年6月10日から12日にかけて開催された「Interop Tokyo 2026」において、日本フォームサービス株式会社（FORVICE）のブースでは液浸冷却装置「ICEraQ Nano Japan Edition」が展示されました。液浸冷却は、チップに取り付けたコールドプレートを冷却水で冷やす通常の水冷とは異なり、サーバーや通信機器などを絶縁性の液体に完全に浸して熱を奪う方式です。ブースでは、エネオスの液浸冷却液「ENEOS IX」にサーバーを浸した状態を実際に示しており、訪問者は機器が液体の中に沈んでいる様子を確認できました。さらに、FORVICEはデータセンター向けの周辺機器も同時に展示しており、ラック周りの暖気を閉じ込めて排出する「アイルコンテインメント -HOT-」、床に穴を開けずに減振スライダーを備えたラック「クリーン・アンカーレスラック」、工具不要でネジを回せる「ツールレスマウント棚」や「ツールレスブランクパネル」なども並んでいました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>近年、データセンターの消費電力が増大し、特にAIやクラウドサービスの拡大に伴う発熱が課題となっています。液浸冷却は従来の空冷や水冷に比べて冷却効率が高く、エネルギー消費を削減できる点で注目されています。FORVICEが今回の展示で実際の浸漬状態を示したことは、この技術が実用段階に近づいていることを示唆しています。また、併せて展示されたラック周辺の補助機器は、液浸冷却環境でも設置やメンテナンスのしやすさを考慮した設計であり、導入のハードルを下げる狙いがあります。今後、より多くのデータセンターが液浸冷却を採用すれば、運用コストの削減や環境負荷の低減が期待され、特に高密度コンピューティングが求められる分野での普及が進むと考えられます。</p>
+<p><a class="link" href="https://internet.watch.impress.co.jp/docs/event/2117218.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>イベントレポート</p>
+<p>Interop Tokyo 2026</p>
+<h1 id="サーバー機器ごと冷却液にどっぷり浸して冷やす液浸冷却装置iceraq-nano-japan-edition">サーバー機器ごと冷却液にどっぷり浸して冷やす、液浸冷却装置「ICEraQ Nano Japan Edition」
+</h1><p>2026年6月16日 09:28</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2b69f8ca058656bfcebb92ea9930f497.jpg"></p>
+<p>6月10日～12日に開催された「Interop Tokyo 2026」の<a class="link" href="https://www.forvice.co.jp/"  target="_blank" rel="noopener"
+    >日本フォームサービス株式会社（FORVICE）</a>のブースでは、液浸冷却装置「ICEraQ Nano Japan Edition」を展示していた。</p>
+<p>液浸冷却は、通常の液冷（水冷）のようにチップに取り付けたコールドプレートを冷却水で冷やすのではなく、サーバーや通信機器などを、どっぷりと絶縁性の液体に浸して冷却する方式だ。</p>
+<p>ブースでは、エネオスの液浸冷却液「ENEOS IX」にサーバーを浸した状態を展示していた。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c7ec762477cb1d6d33b187769476b546.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bc0dbd7620e1a19ff779698014ed6910.jpg"></p>
+<p>同社はデータセンター向けのさまざまな設備も販売しており、ブースでは、ラックまわりの暖気を閉じ込めて排出する「アイルコンテインメント -HOT-」や、床面への穴あけが不要でラック下に減振スライダーを備えたラック「クリーン・アンカーレスラック」、工具を使わず手でネジを回せる「ツールレスマウント棚」「ツールレスブランクパネル」などが並んでいた。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e55f166e8907d9a35614851036fc5832.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ad505ee37967f6ac1b5f9363708eddfc.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1fd7b5504d949e4932db64f6b15e3d48.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0f4d5d3de462d095c1e45435886f12c7.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2b754a519298121ec5de61035e13184e.jpg"></p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>緑色の10GbE対応ルーターに閉域網SIMを内蔵、「ZUNDA CONNECT ROUTER」は情シス支援の経験から生まれた【Interop Tokyo 2026】</title>
       <link>https://n-kase.github.io/rss/posts/post-687/</link>

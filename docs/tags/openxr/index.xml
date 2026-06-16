@@ -1,0 +1,43 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenXR on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/openxr/</link>
+    <description>Recent content in OpenXR on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 12:43:04 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/openxr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>異なるデバイス間で3D CGを遠隔共有、キヤノンが製造業向けXRソフトを提供へ</title>
+      <link>https://n-kase.github.io/rss/posts/post-689/</link>
+      <pubDate>Tue, 16 Jun 2026 12:43:04 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-689/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>キヤノンは、2026年7月上旬にXRコラボレーションソフトウェア「MREAL Collaborator」の提供を開始すると発表しました。このソフトウェアは、OpenXRに対応したさまざまなXRデバイスを使って、3次元コンピュータグラフィック（3D CG）をリアルタイムで共有できる仕組みです。製造業での設計検討や部門間のイメージ共有を想定しており、遠隔地にいる担当者でもオンラインで同じ3Dモデルを見ながら話し合いができます。提供開始当初は無償で利用できますが、CADファイルを直接読み込む場合は、NXやCATIA V5に対応した有償オプションが必要になります。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>XR技術は製造現場での活用が期待されていますが、デバイスの操作が複雑だったり、データの準備に手間がかかったりして、実際の業務への導入が進みにくい状況がありました。さらに、作業者の間で熟練度に差があると、作業時間や画面の質にばらつきが生じ、全体の稼働率が低下したり、特定の人に依存しがちになる課題もありました。MREAL Collaboratorは、シンプルなユーザーインタフェースを採用し、3D CGの専門知識がなくても直感的に操作できるように設計されています。これにより、設計者だけでなく現場作業者や営業担当者も同じツールで情報を共有しやすくなり、チーム内の理解を深め、連携を強化することが期待されます。導入のハードルが下がることで、XR技術の実用的な普及が促進され、製造業の設計プロセスがよりスムーズかつ効率的になる可能性があります。</p>
+<p><a class="link" href="https://monoist.itmedia.co.jp/mn/articles/2606/16/news026.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>キヤノンは、OpenXR対応デバイスを用いて3D CGを共有できるXRコラボレーションソフトウェア「MREAL Collaborator」を2026年7月上旬に提供開始する。異なるXRデバイス間で3D CGをリアルタイムに共有でき、製造業における設計検討やレビュー、部門間のイメージ共有などを支援する。</p>
+<p>キヤノンは2026年6月15日、XRコラボレーションソフトウェア「<strong>MREAL Collaborator</strong>」を同年7月上旬に提供開始すると発表した。「OpenXR」に対応したデバイスを用いて、3D CGを共有できる。</p>
+<p>XR市場の拡大に伴い、製造業でもXR活用への期待が高まっている。一方で、デバイスやソフトウェアの操作が煩雑であることや、データ準備に手間が掛かることなどから、運用負荷が大きく、業務への本格導入が進みにくい課題がある。また、導入後も作業者の習熟度の違いにより、作業時間や映像の質に差が生じ、稼働率の低下や熟練者への依存につながるケースも見られる。</p>
+<p>MREAL Collaboratorは、3D CGを実寸大で立体視できるXRコラボレーションソフトウェアだ。シンプルなユーザーインタフェース（以下、UI）により、3D CGの専門知識を持たないユーザーでも直感的に操作できる。OpenXRに準拠した異なるXRデバイスを用いて、遠隔地間で3D CGを共有することも可能だ。</p>
+<p>同ソフトウェアは、現実映像に3D CGを表示する既存ソフトウェア「MREAL Visualizer」から機能を絞り込み、UIを刷新した。ソフトウェア内の表示をシンプルにすることで、3D CG設計者だけでなく、製造現場の作業者や営業担当者など、専門知識を持たないユーザーでも扱いやすくした。</p>
+<p>OpenXRは、Khronos Groupが策定したXRデバイスとソフトウェア間の仕様を標準化する規格だ。同規格に準拠することで、さまざまなアプリケーションを多くのXRデバイスで使用できる他、共通のインタフェースでアプリケーションを開発できる。</p>
+<p>MREAL Collaboratorは、キヤノンのMR（Mixed Reality／複合現実）システム「MREAL」に加え、OpenXR対応の他社製デバイスでも使用できる。そのため、既存デバイスを活用しながらXR環境を構築することが可能だ。異なるデバイスを使う遠隔地の参加者同士がオンラインで接続し、3D CGをリアルタイムに共有しながら議論、検討を進められる。</p>
+<p>製造業での主な用途として、開発初期段階における3D CGを用いた設計検討やレビュー、部門間でのイメージ共有などを想定する。3D CGを共有しながらコミュニケーションを図ることで、チーム内の相互理解や連携強化を支援する。</p>
+<p>提供開始当初は無償で展開する。ただし、今後の仕様や提供条件は変更となる場合がある。CADファイル形式を使用する場合は、提供開始当初から有償オプション（NXおよびCATIA V5に対応）の購入が必要となる。</p>
+<p>Copyright © ITmedia, Inc. All Rights Reserved.</p>
+<p>メカ設計の記事ランキング</p>
+<p>コーナーリンク</p>
+<p>よく読まれている編集記者コラム</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

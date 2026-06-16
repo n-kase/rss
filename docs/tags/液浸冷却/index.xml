@@ -1,0 +1,47 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>液浸冷却 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E6%B6%B2%E6%B5%B8%E5%86%B7%E5%8D%B4/</link>
+    <description>Recent content in 液浸冷却 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 12:42:53 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E6%B6%B2%E6%B5%B8%E5%86%B7%E5%8D%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>サーバー機器ごと冷却液にどっぷり浸して冷やす、液浸冷却装置「ICEraQ Nano Japan Edition」【Interop Tokyo 2026】</title>
+      <link>https://n-kase.github.io/rss/posts/post-688/</link>
+      <pubDate>Tue, 16 Jun 2026 12:42:53 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-688/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年6月10日から12日にかけて開催された「Interop Tokyo 2026」において、日本フォームサービス株式会社（FORVICE）のブースでは液浸冷却装置「ICEraQ Nano Japan Edition」が展示されました。液浸冷却は、チップに取り付けたコールドプレートを冷却水で冷やす通常の水冷とは異なり、サーバーや通信機器などを絶縁性の液体に完全に浸して熱を奪う方式です。ブースでは、エネオスの液浸冷却液「ENEOS IX」にサーバーを浸した状態を実際に示しており、訪問者は機器が液体の中に沈んでいる様子を確認できました。さらに、FORVICEはデータセンター向けの周辺機器も同時に展示しており、ラック周りの暖気を閉じ込めて排出する「アイルコンテインメント -HOT-」、床に穴を開けずに減振スライダーを備えたラック「クリーン・アンカーレスラック」、工具不要でネジを回せる「ツールレスマウント棚」や「ツールレスブランクパネル」なども並んでいました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>近年、データセンターの消費電力が増大し、特にAIやクラウドサービスの拡大に伴う発熱が課題となっています。液浸冷却は従来の空冷や水冷に比べて冷却効率が高く、エネルギー消費を削減できる点で注目されています。FORVICEが今回の展示で実際の浸漬状態を示したことは、この技術が実用段階に近づいていることを示唆しています。また、併せて展示されたラック周辺の補助機器は、液浸冷却環境でも設置やメンテナンスのしやすさを考慮した設計であり、導入のハードルを下げる狙いがあります。今後、より多くのデータセンターが液浸冷却を採用すれば、運用コストの削減や環境負荷の低減が期待され、特に高密度コンピューティングが求められる分野での普及が進むと考えられます。</p>
+<p><a class="link" href="https://internet.watch.impress.co.jp/docs/event/2117218.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>イベントレポート</p>
+<p>Interop Tokyo 2026</p>
+<h1 id="サーバー機器ごと冷却液にどっぷり浸して冷やす液浸冷却装置iceraq-nano-japan-edition">サーバー機器ごと冷却液にどっぷり浸して冷やす、液浸冷却装置「ICEraQ Nano Japan Edition」
+</h1><p>2026年6月16日 09:28</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2b69f8ca058656bfcebb92ea9930f497.jpg"></p>
+<p>6月10日～12日に開催された「Interop Tokyo 2026」の<a class="link" href="https://www.forvice.co.jp/"  target="_blank" rel="noopener"
+    >日本フォームサービス株式会社（FORVICE）</a>のブースでは、液浸冷却装置「ICEraQ Nano Japan Edition」を展示していた。</p>
+<p>液浸冷却は、通常の液冷（水冷）のようにチップに取り付けたコールドプレートを冷却水で冷やすのではなく、サーバーや通信機器などを、どっぷりと絶縁性の液体に浸して冷却する方式だ。</p>
+<p>ブースでは、エネオスの液浸冷却液「ENEOS IX」にサーバーを浸した状態を展示していた。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c7ec762477cb1d6d33b187769476b546.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/bc0dbd7620e1a19ff779698014ed6910.jpg"></p>
+<p>同社はデータセンター向けのさまざまな設備も販売しており、ブースでは、ラックまわりの暖気を閉じ込めて排出する「アイルコンテインメント -HOT-」や、床面への穴あけが不要でラック下に減振スライダーを備えたラック「クリーン・アンカーレスラック」、工具を使わず手でネジを回せる「ツールレスマウント棚」「ツールレスブランクパネル」などが並んでいた。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e55f166e8907d9a35614851036fc5832.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ad505ee37967f6ac1b5f9363708eddfc.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1fd7b5504d949e4932db64f6b15e3d48.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/0f4d5d3de462d095c1e45435886f12c7.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/2b754a519298121ec5de61035e13184e.jpg"></p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
