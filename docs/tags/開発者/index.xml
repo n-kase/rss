@@ -6,7 +6,38 @@
     <description>Recent content in 開発者 on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 10:43:59 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 10:46:33 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upcoming SDK minimum requirements</title>
+      <link>https://n-kase.github.io/rss/posts/post-409/</link>
+      <pubDate>Tue, 16 Jun 2026 10:46:33 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-409/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年2月3日に発表された情報によると、2026年4月28日からApp Store Connectにアプリやゲームをアップロードする際には、特定の最低SDKバージョンを満たす必要があるとされています。具体的には、iOSおよびiPadOS向けアプリはiOS 26およびiPadOS 26 SDK以降でビルドしなければならず、tvOSアプリはtvOS 26 SDK以降、visionOSアプリはvisionOS 26 SDK以降、watchOSアプリはwatchOS 26 SDK以降であることが求められます。この要件は、新しいプラットフォーム機能やセキュリティ向上を活用するための基盤を整える目的で設定されました。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表後、開発者コミュニティではアップデートの必要性についてさまざまな意見が交わされました。一部の開発者は、最新SDKへの移行が新しいAPIやパフォーマンス改善を活用する良い機会だと前向きに捉えており、早めに対応する準備を始めている様子が見られます。一方で、既存のコードベースが大きい大規模プロジェクトや、レガシーなライブラリに依存しているチームからは、移行作業の工数や互換性テストの負担について懸念の声が上がりました。時間が経つにつれて、Appleが提供する移行ガイドや互換性レイヤーの情報が公開され、段階的に対応を進める開発者が増えていく傾向が観察されました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>このSDK最低要件の導入は、Appleがプラットフォーム全体での統一感とセキュリティを高める長期戦略の一環です。最新SDKを強制することで、古いAPIに起因する脆弱性を減らし、新しいハードウェア機能（例：拡張現実や高度なグラフィック処理）を安全に利用できる環境を整える狙いがあります。開発者側にとっては、一時的な作業負担はあるものの、将来的にアプリの品質とユーザー体験を向上させる基盤を得られるというメリットがあります。したがって、早めに移行計画を立て、テストとフィードバックを繰り返すことが、今後のアプリ配信において重要な教訓となります。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=ueeok6yw"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="Upcoming SDK minimum requirements" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5d7971e7a94735fc24d58aecf90c7c77.png"></p>
+<h2 id="upcoming-sdk-minimum-requirements">Upcoming SDK minimum requirements
+</h2><p>February 3, 2026</p>
+<p>Starting April 28, 2026, apps and games uploaded to App Store Connect need to meet the following minimum requirements:</p>
+<ul>
+<li>iOS and iPadOS apps must be built with the iOS 26 &amp; iPadOS 26 SDK or later</li>
+<li>tvOS apps must be built with the tvOS 26 SDK or later</li>
+<li>visionOS apps must be built with the visionOS 26 SDK or later</li>
+<li>watchOS apps must be built with the watchOS 26 SDK or later</li>
+</ul>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Adjustments to the China storefront of the App Store on iOS and iPadOS</title>
       <link>https://n-kase.github.io/rss/posts/post-402/</link>

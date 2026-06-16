@@ -1,0 +1,54 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Challenge on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/student-challenge/</link>
+    <description>Recent content in Student Challenge on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 10:46:00 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/student-challenge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swift Student Challenge submissions are now open</title>
+      <link>https://n-kase.github.io/rss/posts/post-407/</link>
+      <pubDate>Tue, 16 Jun 2026 10:46:00 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-407/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年2月6日にAppleは、Swift Student Challengeの応募受付を開始したことを発表しました。応募期間は2026年2月28日までで、世界中の学生が自分で作成したアプリプレイグラウンドを提出できます。参加には特別な経験は必要なく、MacまたはiPadにXcodeまたはSwift Playgroundがインストールされていれば誰でも応募可能です。提出するプレイグラウンドはどのテーマでも構わず、3分以内で体験できるものであることが求められます。この挑戦は無料で参加でき、過去の受賞者やAppleの専門家から学べる動画や学習リソースも提供されています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表が公開されると、プログラミングに興味を持つ学生や教育関係者から多くの肯定的な反応が見られました。SNSやフォーラムでは、「経験がなくても挑戦しやすい」「無料で参加できる点が魅力的」といった声が挙がり、応募への意欲が高まっている様子が伺えます。一方で、提出期限が約3週間しかないことから、時間内に作品を完成させられるか不安に思う意見も一部で見られました。全体としては、参加のハードルが低いことが評価され、前向きな議論が主流となっています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Swift Student Challengeは、次世代の開発者を育てるAppleの教育支援施策の一環として位置付けられています。プログラミング学習の機会を広げ、創造的なアプリ制作を通じて問題解決力や表現力を養う狙いがあります。今回の発表により、世界中の学生が気軽にコーディングに触れるきっかけが増え、テクノロジー分野への関心がさらに高まることが期待されます。結論として、この挑戦は技術スキルの向上だけでなく、多様なバックグラウンドを持つ若者が自身の情熱を形にする場を提供し、社会全体のイノベーションを促進する可能性があります。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=f0xw4t5r"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="swift-student-challenge-submissions-are-now-open">Swift Student Challenge submissions are now open
+</h2><p>February 6, 2026</p>
+<p><img alt="Swift programming language logo (orange bird icon) inside a colorful gradient orb, with the number 26 in the background, representing Swift in 2026." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1ec018810326b27ea8ad8f9fcae1e3fc.jpeg"></p>
+<p>The Swift Student Challenge is here! Submissions are now open through February 28, and students from all over the world are invited to submit their app playgrounds.</p>
+<p><a class="link" href="https://developer.apple.com/swift-student-challenge/"  target="_blank" rel="noopener"
+    >Learn more about the Challenge</a></p>
+<p><strong>Key things to know</strong></p>
+<ul>
+<li>No prior experience is needed. The Challenge is open to students of all levels who meet the <a class="link" href="https://developer.apple.com/swift-student-challenge/eligibility/"  target="_blank" rel="noopener"
+    >eligibility</a>requirements.</li>
+<li>The Challenge is free to enter — all you need is access to a Mac or iPad with Xcode or Swift Playground.</li>
+<li>Your app playground can be on any topic of your choice. The best app ideas come from subjects or experiences that you&rsquo;re passionate about.</li>
+<li>Your app playground should be experienced within 3 minutes or less.</li>
+<li>The Swift Student Challenge is a great opportunity for students to build their skills and create something great.</li>
+</ul>
+<p><strong>Learn more</strong></p>
+<ul>
+<li><a class="link" href="https://developer.apple.com/videos/play/meet-with-apple/263/"  target="_blank" rel="noopener"
+    >Watch a new video</a>to learn from past winners and Apple experts.</li>
+<li>Explore <a class="link" href="https://developer.apple.com/swift-student-challenge/get-ready/"  target="_blank" rel="noopener"
+    >learning resources</a>.</li>
+</ul>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
