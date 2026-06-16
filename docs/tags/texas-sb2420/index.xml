@@ -1,0 +1,83 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Texas SB2420 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/texas-sb2420/</link>
+    <description>Recent content in Texas SB2420 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 10:52:30 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/texas-sb2420/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next steps for apps distributed in Texas</title>
+      <link>https://n-kase.github.io/rss/posts/post-422/</link>
+      <pubDate>Tue, 16 Jun 2026 10:52:30 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-422/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは2025年11月4日に、テキサス州で施行されるSB2420という年齢確認法に対応するための開発者向けツールの詳細を発表しました。2026年1月1日からテキサス州で新規に作成されるAppleアカウントについては、18歳未満のユーザーがアプリをダウンロードしたり購入したり、重要な変更を行う際に年齢区分の取得と保護者または保護者による同意が必要になります。保護者は以前に与えた同意をいつでも取り消すことができ、取り消しが行われると該当アプリは起動できなくなります。開発者は、Declared Age Range API、Significant Change API、StoreKitの新しいageRatingCodeプロパティ、およびApp Storeサーバー通知を利用して、年齢区分の取得、重要な変更時の同意取得、同意取り消しの通知を実装することが求められます。これらのAPIはiOS 26.2およびiPadOS 26.2のベータ版でサンドボックステストが可能です。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>発表を受けて、開発者コミュニティでは新たな実装負荷への懸念が示されています。特に、年齢確認のための個人情報収集がプライバシーに与える影響について議論が活発になり、一部の開発者はユーザー体験の低下や追加コストの増加を危惧しています。一方で、未成年者の保護を目的とした法令への対応として、必要な措置だと支持する声もあり、法令遵守のためのツール提供を評価する意見が見られます。時間の経過とともに、サンドボックス環境でのテスト結果や実際の導入事例が共有されることで、実装のハードルが徐々に明らかになっていく様子がうかがえます。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>テキサス州のSB2420は、未成年者が不適切なコンテンツにアクセスしないよう年齢確認と保護者同意を義務付けるものであり、これによりプライバシー保護と未成年者保護のバランスが社会的議論の中心となっています。Appleは開発者に適切なツールを提供することで法令遵守を支援しつつ、過度な個人情報収集がユーザーのプライバシーを損なう可能性について懸念を表明しています。この動向は、他州や他国でも同様の年齢確認法が検討されていることを示唆しており、開発者は法的要件の変化に柔軟に対応できる基盤を整えることが重要です。結果として、プライバシーと安全の両立を目指す業界全体の取り組みが今後さらに進むことが期待されます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=2ezb6jhj"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="next-steps-for-apps-distributed-in-texas">Next steps for apps distributed in Texas
+</h2><p>November 4, 2025</p>
+<p>Today we’re releasing more details about the tools we’re making available for developers to help them meet their compliance obligations under upcoming U.S. state laws, including SB2420 in Texas. While we’re providing these tools to help developers navigate the evolving legal landscape, Apple remains concerned about the potential implications of laws like SB2420 in Texas. Specifically, we worry they could undermine the privacy of all users by requiring the collection of sensitive personal information just to download an app – even those that simply provide weather forecasts or sports scores.</p>
+<p>Starting January 1, 2026, new Apple Accounts in Texas will be subject to new requirements. This includes age assurance and parent or guardian consent on behalf of minors under the age of 18 for downloads, purchases, and significant changes associated with an app. Parents or guardians will also be able to revoke their consent for any app they previously approved.</p>
+<p>To meet their obligations under the law, developers may need to adopt new capabilities to receive age category information, trigger consent for a significant change, and learn when a parent or guardian revokes their approval for a child or teen to use their app. Developers can use the following APIs available in the beta versions of iOS 26.2 and iPadOS 26.2 to help them meet their obligations. Sandbox testing is also available to help test the user experience when implementing these APIs to comply with Texas state law.</p>
+<h3 id="age-category-information">Age category information
+</h3><p>Developers can use the updated <a class="link" href="https://developer.apple.com/documentation/declaredagerange/"  target="_blank" rel="noopener"
+    >Declared Age Range API</a> to obtain a user’s age category, which is defined by Texas state law as under 13, 13-15, 16-17, or over 18. Age categories for users with new Apple Accounts in Texas as of January 1, 2026, will be shared with a developer’s app when they request it. The API will also return a signal from the user’s device about the method of age assurance, such as credit card or government ID, and if consent is required when there’s a significant change to an app.</p>
+<h3 id="obtaining-consent-for-significant-changes">Obtaining consent for significant changes
+</h3><p>Certain types of changes to an app may be considered significant changes under age assurance laws, such as Texas SB2420. It’s the developer’s responsibility to determine when there’s a significant change to their app.</p>
+<p>When a developer determines they have made a significant change to their app, they’ll need to use the <a class="link" href="https://developer.apple.com/documentation/PermissionKit/SignificantAppUpdateTopic"  target="_blank" rel="noopener"
+    >Significant Change API</a> under the PermissionKit framework to ask the parent or guardian to provide consent for the child or teen to continue using the app or new feature within the app. When the API is called, the child or teen user will see a system dialog to request parental consent and developers can restrict access until consent is obtained.</p>
+<p>Texas state law considers a change in the age rating of an app to be a significant change, and developers should keep their age rating selections current in App Store Connect. When a developer updates their app’s age rating, the rating is updated on all user devices once the version is live. Developers can use a <a class="link" href="https://developer.apple.com/documentation/storekit/appstore/ageRatingCode"  target="_blank" rel="noopener"
+    >new property</a> type in StoreKit to automatically check when their app’s age rating has changed on a user’s device and then use the Significant Change API to request parental consent.</p>
+<h3 id="app-consent-revocation">App consent revocation
+</h3><p>A parent or guardian in Texas can withdraw consent for any app, which will block launching of the app on the child or teen’s device. The App Store will provide a server notification that developers can configure to <a class="link" href="https://developer.apple.com/documentation/appstoreservernotifications/notificationtype"  target="_blank" rel="noopener"
+    >receive notifications</a> that the parent or guardian has withdrawn consent for their app on a child or teen’s device.</p>
+<h3 id="sandbox-testing">Sandbox testing
+</h3><p><a class="link" href="https://developer.apple.com/documentation/storekit/testing-age-assurance-in-sandbox"  target="_blank" rel="noopener"
+    >Sandbox testing</a> is now available for the Declared Age Range API and Significant Change API in the beta versions of iOS 26.2 and iPadOS 26.2.</p>
+<h3 id="next-steps">Next steps
+</h3><ul>
+<li>
+<p>Review documentation and implement the following:</p>
+</li>
+<li>
+<p><a class="link" href="https://developer.apple.com/documentation/declaredagerange/"  target="_blank" rel="noopener"
+    >Declared Age Range API</a></p>
+</li>
+<li>
+<p><a class="link" href="https://developer.apple.com/documentation/PermissionKit/SignificantAppUpdateTopic"  target="_blank" rel="noopener"
+    >Significant Change API under PermissionKit</a></p>
+</li>
+<li>
+<p><a class="link" href="https://developer.apple.com/documentation/storekit/appstore/ageRatingCode"  target="_blank" rel="noopener"
+    >New age rating property type in StoreKit</a></p>
+</li>
+<li>
+<p><a class="link" href="https://developer.apple.com/documentation/appstoreservernotifications/notificationtype"  target="_blank" rel="noopener"
+    >App Store server notification</a></p>
+</li>
+<li>
+<p>Use Apple’s sandbox testing environment to validate that the APIs have been implemented correctly.</p>
+</li>
+<li>
+<p>When the Release Candidates of iOS 26.2 and iPadOS 26.2 become available, submit your apps to App Store Connect so users can update their devices with your updated apps with the customer releases.</p>
+</li>
+<li>
+<p>Stay tuned for additional communication about future tools to help developers meet upcoming legal obligations in Utah, Louisiana, and Brazil.</p>
+</li>
+</ul>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
