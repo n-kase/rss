@@ -1,0 +1,36 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学生リソース on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E5%AD%A6%E7%94%9F%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9/</link>
+    <description>Recent content in 学生リソース on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:21:08 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E5%AD%A6%E7%94%9F%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: October 2024</title>
+      <link>https://n-kase.github.io/rss/posts/post-493/</link>
+      <pubDate>Tue, 16 Jun 2026 11:21:08 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-493/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは2024年10月10日に「Hello Developer: October 2024」という記事を公開しました。記事には、グレーのTシャツと青いジーンズを着た人物がステージに立ち、スクリーンに「Quality products have great performance.」と書かれた画像が掲載されています。本文では、開発者に向けてアプリのパフォーマンスを向上させる方法を学び、『Lies of P』の開発チームと交流し、新たな学生向けリソースを探索するよう呼びかけています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>この記事は、Appleが定期的に行う開発者支援の一環として位置づけられます。アプリの速度向上や品質改善を促すことで、エコシステム全体の競争力を高めようとしています。また、インディーゲーム『Lies of P』のクリエイターを紹介することで、ゲーム開発への関心を喚起し、学生向けの学習リソースを提供することにより、次世代の開発者育成にも寄与しています。こうした情報発信は、開発者が最新の技術動向に追いつき、コミュニティ内での知識共有を促進する役割を果たしています。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=tdh8tuh0"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="hello-developer-october-2024">Hello Developer: October 2024
+</h2><p>October 10, 2024</p>
+<p><img alt="A person in a gray T-shirt and blue jeans stands on stage in front of a screen that reads “Quality products have great performance.”" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/92cd5e54e7a41d12f0148a33fc50833b.jpeg"></p>
+<p>Get your app up to speed, meet the team behind Lies of P, explore new student resources, and more.</p>
+<p>October 10, 2024</p>
+<p>Get your app up to speed, meet the team behind Lies of P, explore new student resources, and more.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>トレーダーステータス on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9/</link>
+    <description>Recent content in トレーダーステータス on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:20:19 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New requirement for app updates in the European Union</title>
+      <link>https://n-kase.github.io/rss/posts/post-491/</link>
+      <pubDate>Tue, 16 Jun 2026 11:20:19 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-491/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2024年10月17日から、欧州連合（EU）のApp Storeでアプリのアップデートを提出する際、Apple Developer Programのアカウントホルダーまたは管理者は、App Store Connectでトレーダーステータスを入力する必要があります。トレーダーである場合は、アプリの審査申請前にトレーダー情報を提供しなければなりません。さらに、2025年2月17日からは、トレーダーステータスが未提供または未確認のアプリは、EUのApp Storeから削除され、トレーダー情報が提出され確認されるまで復帰できません。この変更は、欧州委員会が策定したデジタルサービス法（Digital Services Act）への対応として行われます。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネットの反応は含まれていません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>デジタルサービス法は、オンラインプラットフォームの透明性と利用者保護を強化することを目的としており、アプリマーケットプレイスにも同様の規制が適用されます。今回の要件により、EU内でアプリを提供する開発者は、自らの事業者情報を開示し、プラットフォーム側がそれを確認できる体制を整える必要があります。これにより、不正なアプリや偽装された提供者によるリスクが低減されると期待されていますが、特に個人開発者や小規模チームにとっては情報提供の手続きが新たな負担となる可能性があります。長期的には、利用者がより信頼できるアプリ環境を得られる一方、開発者側は規制遵守のための内部体制整備が求められるでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=yfacfeal"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="New requirement for app updates in the European\u00a0Union" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a0c5138e2ba690e7f0014b3be0264826.png"></p>
+<h2 id="new-requirement-for-app-updates-in-the-european-union">New requirement for app updates in the European Union
+</h2><p>October 17, 2024</p>
+<p><strong>Starting today</strong>, in order to submit updates for apps on the App Store in the European Union (EU) Account Holders or Admins in the Apple Developer Program need to enter trader status in App Store Connect. If you’re a trader, you’ll need to provide your trader information before you can submit your app for review.</p>
+<p><strong>Starting February 17, 2025</strong>, apps without trader status will be removed from the App Store in the EU until trader status is provided and verified in order to comply with the <a class="link" href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en"  target="_blank" rel="noopener"
+    >Digital Services Act</a>.</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

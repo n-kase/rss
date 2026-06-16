@@ -6,7 +6,33 @@
     <description>Recent content in セキュリティ on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:09:22 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 11:20:53 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Push Notification service server certificate update</title>
+      <link>https://n-kase.github.io/rss/posts/post-492/</link>
+      <pubDate>Tue, 16 Jun 2026 11:20:53 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-492/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Apple Push Notification service（APNs）の認証局が変更になることが発表されました。サンドボックス環境では2025年1月20日に、本番環境では2025年2月24日にサーバー証明書が更新されます。開発者はアプリのTrust Storeに新しいサーバー証明書を含める必要があり、古い証明書と新しい証明書の両方を切り替え日までに入れておくことが求められます。現在のところ、Appleから発行されたAPNs SSLプロバイダー証明書の更新は不要です。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>証明書の更新は、セキュリティ基準の向上や認証局の変更に伴う定期的なメンテナンスです。開発者がTrust Storeを適切に更新しないと、プッシュ通知の配信が失敗する可能性があります。そのため、早めに証明書の追加作業を行い、移行期間中に両方の証明書を保持することが推奨されます。この対応により、サービスの中断を防ぎ、ユーザーへの通知が安定して届けられる見込みです。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=09za8wzy"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="Apple Push Notification service server certificate update" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e51ef68fa667a9c45d748408f4d4a7a8.png"></p>
+<h2 id="apple-push-notification-service-server-certificate-update">Apple Push Notification service server certificate update
+</h2><p>October 17, 2024</p>
+<p>The Certification Authority (CA) for Apple Push Notification service (APNs) is changing. APNs will update the server certificates in sandbox on January 20, 2025, and in production on February 24, 2025. All developers using APNs will need to update their application’s Trust Store to include the new server certificate: <a class="link" href="https://www.sectigo.com/knowledge-base/detail/Sectigo-Intermediate-Certificates/kA01N000000rfBO"  target="_blank" rel="noopener"
+    >SHA-2 Root : USERTrust RSA Certification Authority certificate</a>.</p>
+<p>To ensure a smooth transition and avoid push notification delivery failures, please make sure that both old and new server certificates are included in the Trust Store before the cut-off date for each of your application servers that connect to sandbox and production.</p>
+<p>At this time, you don’t need to update the APNs SSL provider certificates issued to you by Apple.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>New features for APNs token authentication are now available</title>
       <link>https://n-kase.github.io/rss/posts/post-463/</link>
