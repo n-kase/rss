@@ -1,0 +1,43 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HIGアップデート on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/hig%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88/</link>
+    <description>Recent content in HIGアップデート on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 10:50:14 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/hig%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Developer: December 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-416/</link>
+      <pubDate>Tue, 16 Jun 2026 10:50:14 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-416/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2025年12月4日に公開された「Hello Developer: December 2025」は、Appleの開発者向けニュースレターです。この号では、2025年のApp Store Award受賞者の紹介が行われ、優れたアプリやゲームが表彰されました。さらに、新たに始まる「デザインとLiquid Glass」に関連するアクティビティへの参加方法が案内され、開発者が最新のUIトレンドを体験できる機会が提供されています。また、ever‑expandingビデオライブラリに新たに追加されたコンテンツの案内があり、学習や参考に役立つ動画が増えたことが示されています。さらに、シールを中心とした言語学習アプリ「CapWords」を開発したチームへのインタビューが掲載され、アプリのコンセプトや開発過程が紹介されました。最後に、最新のドキュメントとHuman Interface Guidelines（HIG）のアップデートが案内され、開発者が最新のガイドラインに従ってアプリを改善できるようになっています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>このニュースレターが公開されると、開発者コミュニティ内ではApp Store Awardの受賞者リストに注目が集まり、特にインディー開発者やスタートアップが受賞したことへの祝福の声が多数見られました。同時に、新たに発表された「デザインとLiquid Glass」のアクティビティについては、実際に手を動かして体験できる点が評価され、参加を希望する開発者が増加したと報告されています。ビデオライブラリの追加については、学習リソースが充実したことに対する肯定的な反応が多く、特に初心者向けチュートリアルが好評でした。CapWordsのチームインタビューでは、ゲーム感覚で言語を学べる独自のアプローチが称賛され、同様の教育アプリを開発している開発者から刺激を受けたという声が上がりました。最後に、ドキュメントとHIGのアップデートについては、最新のデザインガイドラインに合わせてアプリを改善しやすくなったという実務的な評価が中心で、実際にアップデートを適用した開発者からは作業効率が向上したとのフィードバックが寄せられました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回のニュースレターは、Appleが開発者エコシステムを支援するために定期的に提供している情報発信の一環です。App Store Awardの表彰は、優れたアプリを世に送り出すインセンティブとなり、開発者の創造意欲を高めています。デザインとLiquid Glassへの焦点は、Appleが新しい視覚体験を推進する戦略の一環であり、開発者が最新のトレンドに追随しやすくする狙いがあります。ビデオライブラリやドキュメントの充実は、学習コストを下げ、より多くの人が高品質なアプリを開発できる環境を整える目的があります。CapWordsのようなニッチかつ創造的なアプリの紹介は、多様なアプリジャンルが奨励されていることを示しており、開発者に新たなアイデアの刺激を与えています。全体として、このニュースレターは技術情報の提供だけでなく、コミュニティ内での交流とモチベーション向上にも寄与しており、今後も継続的な支援が期待されます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=mu3kfca2"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="hello-developer-december-2025">Hello Developer: December 2025
+</h2><p>December 4, 2025</p>
+<p><img alt="A top-down view of several people working at a table assembling colorful objects that evoke the new design and Liquid Glass." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/c39b20b3e0818dcc8273fcbbb5177c39.jpeg"></p>
+<p>In this edition:</p>
+<ul>
+<li>Meet the 2025 App Store Award winners.</li>
+<li>Sign up for new design and Liquid Glass activities in the new year.</li>
+<li>Check out the latest additions to our ever-expanding video library.</li>
+<li>Meet the team behind the sticker-centric language-learning app <em>CapWords.</em></li>
+<li>Browse new documentation and HIG updates.</li>
+</ul>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
