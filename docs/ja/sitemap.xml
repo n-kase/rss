@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://n-kase.github.io/rss/tags/apple/</loc>
-    <lastmod>2026-06-16T10:57:54+09:00</lastmod>
+    <loc>https://n-kase.github.io/rss/tags/figma/</loc>
+    <lastmod>2026-06-16T10:59:05+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/figma/sketch/</loc>
-    <lastmod>2026-06-16T10:57:54+09:00</lastmod>
+    <loc>https://n-kase.github.io/rss/tags/ios/</loc>
+    <lastmod>2026-06-16T10:59:05+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/posts/post-436/</loc>
-    <lastmod>2026-06-16T10:57:54+09:00</lastmod>
+    <loc>https://n-kase.github.io/rss/posts/post-439/</loc>
+    <lastmod>2026-06-16T10:59:05+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/ipados/</loc>
+    <lastmod>2026-06-16T10:59:05+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/</loc>
-    <lastmod>2026-06-16T10:57:54+09:00</lastmod>
+    <lastmod>2026-06-16T10:59:05+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -25,16 +28,13 @@
                 />
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/</loc>
-    <lastmod>2026-06-16T10:57:54+09:00</lastmod>
+    <lastmod>2026-06-16T10:59:05+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/sunlitt/</loc>
-    <lastmod>2026-06-16T10:57:54+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/ui%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%AD%E3%83%83%E3%83%88/</loc>
-    <lastmod>2026-06-16T10:57:54+09:00</lastmod>
+    <loc>https://n-kase.github.io/rss/tags/sketch/</loc>
+    <lastmod>2026-06-16T10:59:05+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/categories/</loc>
-    <lastmod>2026-06-16T10:57:54+09:00</lastmod>
+    <lastmod>2026-06-16T10:59:05+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -47,7 +47,7 @@
                 />
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/</loc>
-    <lastmod>2026-06-16T10:57:54+09:00</lastmod>
+    <lastmod>2026-06-16T10:59:05+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -60,13 +60,61 @@
                 />
   </url><url>
     <loc>https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</loc>
+    <lastmod>2026-06-16T10:59:05+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%AD%E3%83%83%E3%83%88/</loc>
+    <lastmod>2026-06-16T10:59:05+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/64-bit%E5%AF%BE%E5%BF%9C/</loc>
+    <lastmod>2026-06-16T10:58:47+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/app-store-connect/</loc>
+    <lastmod>2026-06-16T10:58:47+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/apple/</loc>
+    <lastmod>2026-06-16T10:58:47+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-438/</loc>
+    <lastmod>2026-06-16T10:58:47+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/watchos/</loc>
+    <lastmod>2026-06-16T10:58:47+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/xcode/</loc>
+    <lastmod>2026-06-16T10:58:47+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/app-store/</loc>
+    <lastmod>2026-06-16T10:58:31+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-437/</loc>
+    <lastmod>2026-06-16T10:58:31+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88/</loc>
+    <lastmod>2026-06-16T10:58:31+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC/</loc>
+    <lastmod>2026-06-16T10:58:31+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E4%BF%9D%E8%AD%B7/</loc>
+    <lastmod>2026-06-16T10:58:31+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/%E5%B9%B4%E9%BD%A2%E5%88%B6%E9%99%90/</loc>
+    <lastmod>2026-06-16T10:58:31+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/figma/sketch/</loc>
+    <lastmod>2026-06-16T10:57:54+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/posts/post-436/</loc>
+    <lastmod>2026-06-16T10:57:54+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/sunlitt/</loc>
+    <lastmod>2026-06-16T10:57:54+09:00</lastmod>
+  </url><url>
+    <loc>https://n-kase.github.io/rss/tags/ui%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%AD%E3%83%83%E3%83%88/</loc>
     <lastmod>2026-06-16T10:57:54+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97/</loc>
     <lastmod>2026-06-16T10:57:54+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/app-store/</loc>
-    <lastmod>2026-06-16T10:57:38+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-435/</loc>
     <lastmod>2026-06-16T10:57:38+09:00</lastmod>
@@ -110,9 +158,6 @@
     <loc>https://n-kase.github.io/rss/tags/wwdc/</loc>
     <lastmod>2026-06-16T10:56:42+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC/</loc>
-    <lastmod>2026-06-16T10:56:42+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-432/</loc>
     <lastmod>2026-06-16T10:56:25+09:00</lastmod>
   </url><url>
@@ -131,16 +176,7 @@
     <loc>https://n-kase.github.io/rss/posts/post-431/</loc>
     <lastmod>2026-06-16T10:56:04+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/ios/</loc>
-    <lastmod>2026-06-16T10:56:04+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/ipados/</loc>
-    <lastmod>2026-06-16T10:56:04+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/tags/macos/</loc>
-    <lastmod>2026-06-16T10:56:04+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/xcode/</loc>
     <lastmod>2026-06-16T10:56:04+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E3%83%99%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9/</loc>
@@ -160,9 +196,6 @@
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85%E5%AF%BE%E5%BF%9C/</loc>
     <lastmod>2026-06-16T10:55:28+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/app-store-connect/</loc>
-    <lastmod>2026-06-16T10:55:09+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/foundation-models/</loc>
     <lastmod>2026-06-16T10:55:09+09:00</lastmod>
@@ -305,12 +338,6 @@
     <loc>https://n-kase.github.io/rss/tags/%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA/</loc>
     <lastmod>2026-06-16T10:51:39+09:00</lastmod>
   </url><url>
-    <loc>https://n-kase.github.io/rss/tags/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E4%BF%9D%E8%AD%B7/</loc>
-    <lastmod>2026-06-16T10:51:39+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/%E5%B9%B4%E9%BD%A2%E5%88%B6%E9%99%90/</loc>
-    <lastmod>2026-06-16T10:51:39+09:00</lastmod>
-  </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-419/</loc>
     <lastmod>2026-06-16T10:51:17+09:00</lastmod>
   </url><url>
@@ -447,9 +474,6 @@
     <lastmod>2026-06-16T10:46:33+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/posts/post-409/</loc>
-    <lastmod>2026-06-16T10:46:33+09:00</lastmod>
-  </url><url>
-    <loc>https://n-kase.github.io/rss/tags/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88/</loc>
     <lastmod>2026-06-16T10:46:33+09:00</lastmod>
   </url><url>
     <loc>https://n-kase.github.io/rss/tags/ai%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E6%94%AF%E6%8F%B4/</loc>
