@@ -1,0 +1,59 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zero Trust on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/zero-trust/</link>
+    <description>Recent content in Zero Trust on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:43:47 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/zero-trust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zscaler、AI時代に向けセキュリティ基盤「Zscaler Zero Trust SASE」を拡張、自律運用可能かつ広範囲対象に</title>
+      <link>https://n-kase.github.io/rss/posts/post-546/</link>
+      <pubDate>Tue, 16 Jun 2026 11:43:47 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-546/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>ゼットスケーラー株式会社は2026年6月11日に、ゼロトラストSASEである「Zscaler Zero Trust SASE」をAI時代に向けて再定義したと発表しました。SASEとは、広域ネットワーク機能とネットワークセキュリティ機能を統合し、組織内からインターネットや各種SaaS、閉域ネットワークなどへ安全なアクセスを提供する基盤です。ゼロトラストは、「信頼できる内部／危険な外部」という境界防御ではなく、すべてを無条件に信頼せず、常に安全性を検証する考え方です。今回の再定義では、エージェント型AIによる自律運用と、非管理対象デバイスやサプライチェーンへの保護対象の拡大という二つの柱が挙げられています。具体的には、ZAgent FrameworkやZDX Agentによる運用の自動化、ゼロトラストブラウザー拡張やエンタープライズブラウザー、ゼロトラストB2Bコネクティビティ、エンドポイントサンドボックス、GCP向けゼロトラストゲートウェイ、Kubernetes向けマイクロセグメンテーションなどの機能が発表されました。さらに、Zenith Liveイベントでの発表に基づき、エージェント型AIの保護とAI-Guardianの拡張も併せて示されました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>企業を取り巻く脅威は、AIを活用した攻撃のスピードがセキュリティチームの防御能力を上回るほどに進化しており、従来の対応では追いつきにくい状況です。また、業務は社内のIT部門が管理できないデバイスや従業員の私物であるBYOD、パートナーが持ち込む機器など、非管理対象デバイス上で行われることが増えており、サプライチェーン全体にわたってセキュリティが求められています。こうした環境では、ファイアウォールとVPNを前提とした従来型のSASEでは十分な保護が難しく、管理の複雑さと安全性の両立が課題となっています。ゼットスケーラーは、エージェント型AIによる自律化で攻撃の速さに対応し、ゼロトラストブラウザーやB2Bコネクティビティなどで保護範囲を広げることで、これらの課題に対応しようとしています。その結果、組織はより柔軟かつ安全に多様なデバイスやクラウド環境を利用できるようになり、セキュリティ運用の負荷軽減とリスク低減が期待されます。</p>
+<p><a class="link" href="https://internet.watch.impress.co.jp/docs/news/2117178.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>ニュース</p>
+<h1 id="zscalerai時代に向けセキュリティ基盤zscaler-zero-trust-saseを拡張自律運用可能かつ広範囲対象に">Zscaler、AI時代に向けセキュリティ基盤「Zscaler Zero Trust SASE」を拡張、自律運用可能かつ広範囲対象に
+</h1><p>2026年6月16日 06:00</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a3b445873ef936d7ef1f67d8f12b4e63.png"></p>
+<p><a class="link" href="https://www.zscaler.com/jp/products-and-solutions/secure-access-service-edge-sase"  target="_blank" rel="noopener"
+    >「Zscaler Zero Trust SASE」のウェブサイト</a>より</p>
+<p>ゼットスケーラー株式会社（Zscaler）は6月11日、同社のゼロトラストSASE「Zscaler Zero Trust SASE」を、AI時代に向けて再定義したと発表した。</p>
+<p>SASE（Secure Access Service Edge）とは、WAN機能とネットワークセキュリティ機能を統合し、組織内からインターネットや各種SaaS、閉領域ネットワークなどに対して安全なアクセスを提供するセキュリティ・ネットワーク基盤。同社サービスの基本的な概念である「ゼロトラスト」は、“信頼できる内部／危険な外部”を切り分ける「境界防御」に対し、全てを無条件に信頼することはせず、常に安全性を検証することで、複雑な構造のネットワークにおいても安全を保つようにする考え方。</p>
+<p>今回、「Zscaler Zero Trust SASE」の再定義として発表された内容は、高速かつ的確な運用を可能にするエージェント型AIによる自律化、および、非管理対象デバイス（社内のIT部門が管理できていないデバイス、従業員の私物であるBYODデバイスやパートナーが持ち込んだデバイスなど）やサプライチェーンを構成するパートナーなどへの保護対象の拡大、の2点が柱となっている。</p>
+<p>同社では、AI主導の攻撃のスピードが、セキュリティチームが防御できるスピードを上回るほどに進化していることと、企業の業務が非管理対象デバイス上で行われ、サプライチェーン全体に広がっていることを、現在の課題を挙げる。そのうえで、ファイアウォールとVPNを前提に構築された従来型のSASEは現在のような環境を想定されたものではなく、安全性と管理の複雑さにおいて問題があると指摘する。</p>
+<p>AI主導で行われる攻撃のスピードの進化に対しては、エージェント型AIによる自律化により対応する。具体的な機能として、次の2点が挙げられている。</p>
+<h3 id="zagent-framework">ZAgent Framework
+</h3><p>「Zscaler Zero Trust SASE」のプラットフォーム全体でエージェントをオーケストレーションし、運用を自動化・簡素化する。人間の管理者は、コンソール画面「Zscaler Experience Center」を通じて、自然言語のプロンプトにより操作できる。</p>
+<h3 id="zscaler-digital-experiencezdxagent">Zscaler Digital Experience（ZDX）Agent
+</h3><p>ZDXは、Wi-Fi、ISP、デバイスなどの監視プラットフォーム。エージェント型AIとの連携により、ユーザー環境に生じる問題のトラブルシューティングを自動化する。</p>
+<p>非管理対象デバイスやサプライチェーンなど、保護対象の拡大に関しては、次の5点が具体的な機能として挙げられている。</p>
+<h3 id="zero-trust-browser-extensionおよびenterprise-browser">Zero Trust Browser ExtensionおよびEnterprise Browser
+</h3><p>クロスブラウザー対応の拡張機能と、Chromiumベースのフルブラウザー。「Zscaler Zero Trust SASE」をネイティブ統合しており、非管理対象デバイスからでも安全なアクセス環境を提供し、従来の高コストなVDIやVPNを置き換える。</p>
+<h3 id="zero-trust-b2b-connectivity">Zero Trust B2B Connectivity
+</h3><p>サプライチェーン間の安全なアクセスを提供する「Zscaler B2B exchange」により、パートナー企業との間で特定のアプリケーション間を双方向で安全に接続し、従来のサイト間VPNやMPLSネットワークなどを置き換える。</p>
+<h3 id="endpoint-sandbox">Endpoint Sandbox
+</h3><p>フラッシュドライブなどの外部記憶デバイスを介して持ち込まれる悪意のあるファイルから、エンドポイントとなるデバイスを保護する。これは、従来のクラウドベースのデバイス保護機能「Zscaler Cloud Sandbox」の機能を拡張し、包括的なペイシェントゼロ保護（最初の感染者の隔離と侵入経路の特定による拡大防止）を実現する。</p>
+<h3 id="zero-trust-gateway-for-gcp">Zero Trust Gateway for GCP
+</h3><p>マルチクラウド・ワークロード間の保護機能。既存のAWS対応に加え、Google Cloud Platform（GCP） にもSASEによる保護を拡張し、ワークロード間通信およびワークロードとインターネット間のトラフィックに対して、統一されたポリシーによるセキュリティを提供する。</p>
+<h3 id="microsegmentation-for-kubernetes">Microsegmentation for Kubernetes
+</h3><p>こちらもマルチクラウド・ワークロード間の保護機能。Google Kubernetes EngineおよびKubernetes環境内を保護し、コードの変更や運用の負荷なく、仮想マシンとコンテナ全体において、脅威のネットワーク内移動（ラテラルムーブメント）を防止する。</p>
+<h2 id="zenith-liveにてそのほかにもai保護で複数の発表">Zenith Liveにて、そのほかにも「AI保護」で複数の発表
+</h2><p>Zscalerでは以上のほかに、米ラスベガスで6月8日～11日（現地時間）に実施したイベント「Zenith Live」における発表内容に基づき、エージェント型AIを保護するイノベーションと、エンタープライズAIを保護する「AI-Guardian」の拡張についても発表している。</p>
+<p>前者であるエージェント型AIの保護は、「Zscaler Zero Trust SASE」のコアにあたるネットワークプラットフォーム「Zscaler Zero Trust Exchange」を拡張し、エージェント型AIを前提とした接続機能や保護機能を実装する。後者である「AI-Guardian」の拡張では、AWS、Google Cloud、OpenAI、NTT DATAなど11社と連携し、エンタープライズAIにおける高度な保護機能と相互運用性を強化する。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

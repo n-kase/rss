@@ -6,7 +6,138 @@
     <description>Recent content in テクノロジー on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:42:25 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 11:43:47 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zscaler、AI時代に向けセキュリティ基盤「Zscaler Zero Trust SASE」を拡張、自律運用可能かつ広範囲対象に</title>
+      <link>https://n-kase.github.io/rss/posts/post-546/</link>
+      <pubDate>Tue, 16 Jun 2026 11:43:47 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-546/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>ゼットスケーラー株式会社は2026年6月11日に、ゼロトラストSASEである「Zscaler Zero Trust SASE」をAI時代に向けて再定義したと発表しました。SASEとは、広域ネットワーク機能とネットワークセキュリティ機能を統合し、組織内からインターネットや各種SaaS、閉域ネットワークなどへ安全なアクセスを提供する基盤です。ゼロトラストは、「信頼できる内部／危険な外部」という境界防御ではなく、すべてを無条件に信頼せず、常に安全性を検証する考え方です。今回の再定義では、エージェント型AIによる自律運用と、非管理対象デバイスやサプライチェーンへの保護対象の拡大という二つの柱が挙げられています。具体的には、ZAgent FrameworkやZDX Agentによる運用の自動化、ゼロトラストブラウザー拡張やエンタープライズブラウザー、ゼロトラストB2Bコネクティビティ、エンドポイントサンドボックス、GCP向けゼロトラストゲートウェイ、Kubernetes向けマイクロセグメンテーションなどの機能が発表されました。さらに、Zenith Liveイベントでの発表に基づき、エージェント型AIの保護とAI-Guardianの拡張も併せて示されました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>企業を取り巻く脅威は、AIを活用した攻撃のスピードがセキュリティチームの防御能力を上回るほどに進化しており、従来の対応では追いつきにくい状況です。また、業務は社内のIT部門が管理できないデバイスや従業員の私物であるBYOD、パートナーが持ち込む機器など、非管理対象デバイス上で行われることが増えており、サプライチェーン全体にわたってセキュリティが求められています。こうした環境では、ファイアウォールとVPNを前提とした従来型のSASEでは十分な保護が難しく、管理の複雑さと安全性の両立が課題となっています。ゼットスケーラーは、エージェント型AIによる自律化で攻撃の速さに対応し、ゼロトラストブラウザーやB2Bコネクティビティなどで保護範囲を広げることで、これらの課題に対応しようとしています。その結果、組織はより柔軟かつ安全に多様なデバイスやクラウド環境を利用できるようになり、セキュリティ運用の負荷軽減とリスク低減が期待されます。</p>
+<p><a class="link" href="https://internet.watch.impress.co.jp/docs/news/2117178.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>ニュース</p>
+<h1 id="zscalerai時代に向けセキュリティ基盤zscaler-zero-trust-saseを拡張自律運用可能かつ広範囲対象に">Zscaler、AI時代に向けセキュリティ基盤「Zscaler Zero Trust SASE」を拡張、自律運用可能かつ広範囲対象に
+</h1><p>2026年6月16日 06:00</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a3b445873ef936d7ef1f67d8f12b4e63.png"></p>
+<p><a class="link" href="https://www.zscaler.com/jp/products-and-solutions/secure-access-service-edge-sase"  target="_blank" rel="noopener"
+    >「Zscaler Zero Trust SASE」のウェブサイト</a>より</p>
+<p>ゼットスケーラー株式会社（Zscaler）は6月11日、同社のゼロトラストSASE「Zscaler Zero Trust SASE」を、AI時代に向けて再定義したと発表した。</p>
+<p>SASE（Secure Access Service Edge）とは、WAN機能とネットワークセキュリティ機能を統合し、組織内からインターネットや各種SaaS、閉領域ネットワークなどに対して安全なアクセスを提供するセキュリティ・ネットワーク基盤。同社サービスの基本的な概念である「ゼロトラスト」は、“信頼できる内部／危険な外部”を切り分ける「境界防御」に対し、全てを無条件に信頼することはせず、常に安全性を検証することで、複雑な構造のネットワークにおいても安全を保つようにする考え方。</p>
+<p>今回、「Zscaler Zero Trust SASE」の再定義として発表された内容は、高速かつ的確な運用を可能にするエージェント型AIによる自律化、および、非管理対象デバイス（社内のIT部門が管理できていないデバイス、従業員の私物であるBYODデバイスやパートナーが持ち込んだデバイスなど）やサプライチェーンを構成するパートナーなどへの保護対象の拡大、の2点が柱となっている。</p>
+<p>同社では、AI主導の攻撃のスピードが、セキュリティチームが防御できるスピードを上回るほどに進化していることと、企業の業務が非管理対象デバイス上で行われ、サプライチェーン全体に広がっていることを、現在の課題を挙げる。そのうえで、ファイアウォールとVPNを前提に構築された従来型のSASEは現在のような環境を想定されたものではなく、安全性と管理の複雑さにおいて問題があると指摘する。</p>
+<p>AI主導で行われる攻撃のスピードの進化に対しては、エージェント型AIによる自律化により対応する。具体的な機能として、次の2点が挙げられている。</p>
+<h3 id="zagent-framework">ZAgent Framework
+</h3><p>「Zscaler Zero Trust SASE」のプラットフォーム全体でエージェントをオーケストレーションし、運用を自動化・簡素化する。人間の管理者は、コンソール画面「Zscaler Experience Center」を通じて、自然言語のプロンプトにより操作できる。</p>
+<h3 id="zscaler-digital-experiencezdxagent">Zscaler Digital Experience（ZDX）Agent
+</h3><p>ZDXは、Wi-Fi、ISP、デバイスなどの監視プラットフォーム。エージェント型AIとの連携により、ユーザー環境に生じる問題のトラブルシューティングを自動化する。</p>
+<p>非管理対象デバイスやサプライチェーンなど、保護対象の拡大に関しては、次の5点が具体的な機能として挙げられている。</p>
+<h3 id="zero-trust-browser-extensionおよびenterprise-browser">Zero Trust Browser ExtensionおよびEnterprise Browser
+</h3><p>クロスブラウザー対応の拡張機能と、Chromiumベースのフルブラウザー。「Zscaler Zero Trust SASE」をネイティブ統合しており、非管理対象デバイスからでも安全なアクセス環境を提供し、従来の高コストなVDIやVPNを置き換える。</p>
+<h3 id="zero-trust-b2b-connectivity">Zero Trust B2B Connectivity
+</h3><p>サプライチェーン間の安全なアクセスを提供する「Zscaler B2B exchange」により、パートナー企業との間で特定のアプリケーション間を双方向で安全に接続し、従来のサイト間VPNやMPLSネットワークなどを置き換える。</p>
+<h3 id="endpoint-sandbox">Endpoint Sandbox
+</h3><p>フラッシュドライブなどの外部記憶デバイスを介して持ち込まれる悪意のあるファイルから、エンドポイントとなるデバイスを保護する。これは、従来のクラウドベースのデバイス保護機能「Zscaler Cloud Sandbox」の機能を拡張し、包括的なペイシェントゼロ保護（最初の感染者の隔離と侵入経路の特定による拡大防止）を実現する。</p>
+<h3 id="zero-trust-gateway-for-gcp">Zero Trust Gateway for GCP
+</h3><p>マルチクラウド・ワークロード間の保護機能。既存のAWS対応に加え、Google Cloud Platform（GCP） にもSASEによる保護を拡張し、ワークロード間通信およびワークロードとインターネット間のトラフィックに対して、統一されたポリシーによるセキュリティを提供する。</p>
+<h3 id="microsegmentation-for-kubernetes">Microsegmentation for Kubernetes
+</h3><p>こちらもマルチクラウド・ワークロード間の保護機能。Google Kubernetes EngineおよびKubernetes環境内を保護し、コードの変更や運用の負荷なく、仮想マシンとコンテナ全体において、脅威のネットワーク内移動（ラテラルムーブメント）を防止する。</p>
+<h2 id="zenith-liveにてそのほかにもai保護で複数の発表">Zenith Liveにて、そのほかにも「AI保護」で複数の発表
+</h2><p>Zscalerでは以上のほかに、米ラスベガスで6月8日～11日（現地時間）に実施したイベント「Zenith Live」における発表内容に基づき、エージェント型AIを保護するイノベーションと、エンタープライズAIを保護する「AI-Guardian」の拡張についても発表している。</p>
+<p>前者であるエージェント型AIの保護は、「Zscaler Zero Trust SASE」のコアにあたるネットワークプラットフォーム「Zscaler Zero Trust Exchange」を拡張し、エージェント型AIを前提とした接続機能や保護機能を実装する。後者である「AI-Guardian」の拡張では、AWS、Google Cloud、OpenAI、NTT DATAなど11社と連携し、エンタープライズAIにおける高度な保護機能と相互運用性を強化する。</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>古いWi-Fiルーターは本当に遅い？ Wi-Fiルーターの性能は5年でどれだけ進化した？ 徹底検証した様子を動画で紹介する記事に注目が集まる【アクセスランキング】</title>
+      <link>https://n-kase.github.io/rss/posts/post-544/</link>
+      <pubDate>Tue, 16 Jun 2026 11:43:17 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-544/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年6月16日に公開された記事では、古いWi-Fiルーターが本当に遅いのかという疑問に対して、5年間での性能進化を徹底検証した様子を動画で紹介しています。検証では複数の世代のルーターを実際に使い比べ、転送速度や安定性などの指標を測定し、その結果を視聴者にわかりやすく示しています。この記事はアクセスランキングのネットの話題部門で注目を集めており、多くの読者が動画を視聴し、コメントやシェアを行っている様子が伺えます。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>近年、インターネット利用の高速化が進む中で、家庭内ネットワークのボトルネックとなり得る古いルーターへの関心が高まっています。技術の進化により、新しいルーターはより高い周波数帯や多重伝送技術を採用し、実測速度において顕著な向上を見せています。したがって、消費者は自宅のネットワーク環境を定期的に見直し、必要に応じて機器の更新を検討することが推奨されます。このような啓発的なコンテンツは、ユーザーのリテラシー向上と快適なインターネット利用環境の維持に寄与すると考えられます。</p>
+<p><a class="link" href="https://internet.watch.impress.co.jp/docs/news/ranking/2117106.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>アクセスランキング</p>
+<h1 id="古いwi-fiルーターは本当に遅い-wi-fiルーターの性能は5年でどれだけ進化した-徹底検証した様子を動画で紹介する記事に注目が集まる">古いWi-Fiルーターは本当に遅い？ Wi-Fiルーターの性能は5年でどれだけ進化した？ 徹底検証した様子を動画で紹介する記事に注目が集まる
+</h1><p>2026年6月16日 06:55</p>
+<p>前週に閲覧数の多かった記事を、カテゴリーごとに上位5位までレポートします。</p>
+<h2 id="ニュース">ニュース
+</h2><ul>
+<li>1</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e5ea9c8a1aa346f07e4e8af515cea279.jpg"></p>
+<p>(2026-06-04 07:30)</p>
+<ul>
+<li>2</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/1a66e426d7b80e3de5e230e19e2aa969.jpg"></p>
+<p>(2026-06-12 16:30)</p>
+<ul>
+<li>3</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/57175e199588bba15113969d6c3b408d.jpg"></p>
+<p>(2026-06-09 07:30)</p>
+<ul>
+<li>4</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a012cd8e85cfb09b26ebe3632c0c743f.jpg"></p>
+<p>(2026-06-04 19:15)</p>
+<ul>
+<li>5</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/14390e5d66ab772b39e2ffc8ca382dd5.jpg"></p>
+<p>(2026-06-10 07:30)</p>
+<h2 id="連載特集レビューその他">連載、特集、レビュー、その他
+</h2><ul>
+<li>1</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7e3b7195d0db37872aaabe8bb2708d9b.jpg"></p>
+<p>(2026-06-08 18:00)</p>
+<ul>
+<li>2</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4d56746807559ed1b4c308ba8602e396.jpg"></p>
+<p>(2026-06-08 06:00)</p>
+<ul>
+<li>3</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a22e0c5f0c878854463ba391d38d3add.jpg"></p>
+<p>(2026-06-10 13:57) <a class="link" href="/docs/event/2115761.html" >幕張メッセが“世界最大級のネットワーク実験場”になっていた――「ShowNet」ブースに人だかり。ウォーキングツアーは大人気なので注意</a></p>
+<ul>
+<li>4</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/188dccb992fef6e8167e69ccd80fe1b4.jpg"></p>
+<p>(2026-06-12 06:00)</p>
+<ul>
+<li>5</li>
+</ul>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d514b6ec2b7323fffaf685aecc8d88ad.jpg"></p>
+<p>(2026-06-05 06:00)</p>
+<h2 id="ネットの話題やじうまwatch">ネットの話題（やじうまWatch）
+</h2><ul>
+<li>1(2026-06-10 12:23)</li>
+<li>2(2026-06-11 10:59)</li>
+<li>3(2026-06-12 12:09)</li>
+<li>4(2026-06-09 11:35)</li>
+<li>5(2026-06-10 12:28)</li>
+</ul>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>ZscalerのゼロトラストプラットフォームでIoTセキュリティ強化・運用の簡素化を実現する「Cellular SASE for IoT」、NTTドコモビジネスとTransatelが提供</title>
       <link>https://n-kase.github.io/rss/posts/post-542/</link>
