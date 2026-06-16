@@ -1,0 +1,47 @@
+---
+title: "App Store submissions now open for the latest OS releases"
+description: "概要と事実 Appleは2025年9月9日に、iOS 26、iPadOS 26、macOS Tahoe 26、tvOS 26、visionOS 26、watchOS 26の最新OSリリースに向けてApp Storeへのアプリ提出を開始..."
+date: 2026-06-16T10:56:25+09:00
+categories: ["テクノロジー"]
+tags: ["Apple", "iOS 26", "Xcode 26", "Liquid Glass", "SDK要件"]
+image: "/rss/downloaded_images/2e3c8cdfd16feaa86051d43969c9e929.jpg"
+---
+
+## AIによる要約
+
+### 概要と事実
+Appleは2025年9月9日に、iOS 26、iPadOS 26、macOS Tahoe 26、tvOS 26、visionOS 26、watchOS 26の最新OSリリースに向けてApp Storeへのアプリ提出を開始したことを発表しました。開発者はXcode 26リリース候補版と最新SDKを使ってアプリをビルドし、TestFlightでテストした後、App Store Connectを通じて審査に提出できます。新しいデザイン言語であるLiquid Glass、Foundation Modelsフレームワーク、新たに提供されるApple Gamesアプリなどを活用することで、より独自性の高い体験を提供できるとしています。さらに、2026年4月からはApp Store Connectにアップロードするすべてのアプリおよびゲームについて、iOSおよびiPadOSアプリはiOS 26／iPadOS 26 SDK以降、tvOSアプリはtvOS 26 SDK以降、visionOSアプリはvisionOS 26 SDK以降、watchOSアプリはwatchOS 26 SDK以降でビルドされていることが最低要件となります。
+
+### ネットの反応と意見の変遷
+本文には具体的なネット上の反応は記載されていませんが、同様の発表では開発者コミュニティから新しいSDKへの移行作業や、Liquid Glassなどのデザイン変更への適応について期待と不安が混ざった声が上がることが一般的です。当初は新機能への興味と、既存アプリの互換性確保に向けた作業負荷への懸念が同時に示されると考えられます。時間が経つにつれて、実際に新しいSDKを試した開発者からのフィードバックが増え、実装の難易度やメリットについての議論が具体的になっていくと予想されます。
+
+### 背景と結論
+Appleは毎年OSの大型アップデートを行い、デザイン統一や機能拡張を通じて開発者に新たな表現の場を提供してきました。今回のリリースでは、AIを活用したFoundation Modelsフレームワークやゲーム特化のApple Gamesアプリが追加され、プラットフォーム全体での体験の向上を狙っています。また、最低SDK要件を設けることで、すべてのアプリが最新のセキュリティとパフォーマンス基準を満たすことを確保し、エコシステムの健全性を維持しようとしています。結論として、開発者は2026年4月までにアプリを新しいSDKでビルドし直す必要があり、これによりAppleプラットフォームにおける革新的なアプリ提供がさらに促進されるでしょう。
+
+[🔗 元記事を読む](https://developer.apple.com/news/?id=6lxhtioi)
+
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+
+## App Store submissions now open for the latest OS releases
+
+September 9, 2025
+
+
+
+![A collage of icons of Apple apps — including Xcode, Apple Developer, Swift, and more — set diagonally against a light blue background.](/rss/downloaded_images/7ec0c870b64acd13fec43953841dfb65.jpeg)
+
+
+
+iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26 will soon be available to customers worldwide — which means you can now submit apps and games that take advantage of Apple’s broadest design update ever.
+
+Build your apps and games using the [Xcode 26 Release Candidate](https://developer.apple.com/download/) and latest SDKs, test with TestFlight, and submit for review to the App Store. By taking advantage of the [new design and Liquid Glass](https://developer.apple.com/design/), the [Foundation Models framework](https://developer.apple.com/documentation/FoundationModels), the new [Apple Games app](https://developer.apple.com/games-app/), and more, you can deliver even more unique experiences on Apple platforms.
+
+Starting April 2026, apps and games uploaded to App Store Connect need to meet the following minimum requirements.
+
+- iOS and iPadOS apps must be built with the iOS 26 & iPadOS 26 SDK or later
+- tvOS apps must be built with the tvOS 26 SDK or later
+- visionOS apps must be built with the visionOS 26 SDK or later
+- watchOS apps must be built with the watchOS 26 SDK or later
+
+</details>
