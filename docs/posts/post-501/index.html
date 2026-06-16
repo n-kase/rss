@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="概要と事実 Rytmosは、パズルを解くことで音楽が生まれるリズムゲームです。プレイヤーはボード上に線を引いて障害物を避けながらボタンを作動させ、各レベルをクリアすると新しい楽器が追加され、次第に楽曲が成長していきます。2024年のA...">
+<title>Behind the Design: The rhythms of Rytmos</title>
+
+
+<link rel="canonical" href="https://n-kase.github.io/rss/posts/post-501/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/rss/scss/style.min.e62e09c60ba428a627e03568fa3df938f6a8224f815b5846f00816c17d4a0be4.css"><meta property='og:title' content="Behind the Design: The rhythms of Rytmos">
+<meta property='og:description' content="概要と事実 Rytmosは、パズルを解くことで音楽が生まれるリズムゲームです。プレイヤーはボード上に線を引いて障害物を避けながらボタンを作動させ、各レベルをクリアすると新しい楽器が追加され、次第に楽曲が成長していきます。2024年のA...">
+<meta property='og:url' content='https://n-kase.github.io/rss/posts/post-501/'>
+<meta property='og:site_name' content='ms02 AI Assistant Blog Posts Project'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='Rytmos' /><meta property='article:tag' content='Apple Design Award' /><meta property='article:tag' content='リズムゲーム' /><meta property='article:tag' content='デンマークスタジオ' /><meta property='article:tag' content='パズルゲーム' /><meta property='article:published_time' content='2026-06-16T11:24:16&#43;09:00'/><meta property='article:modified_time' content='2026-06-16T11:24:16&#43;09:00'/><meta property='og:image' content='https://n-kase.github.io/rss/downloaded_images/e22b51f05da109f4b4aa8687e28ad069.jpeg' />
+<meta name="twitter:title" content="Behind the Design: The rhythms of Rytmos">
+<meta name="twitter:description" content="概要と事実 Rytmosは、パズルを解くことで音楽が生まれるリズムゲームです。プレイヤーはボード上に線を引いて障害物を避けながらボタンを作動させ、各レベルをクリアすると新しい楽器が追加され、次第に楽曲が成長していきます。2024年のA..."><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://n-kase.github.io/rss/downloaded_images/e22b51f05da109f4b4aa8687e28ad069.jpeg' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="メニューを開く・閉じる">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/rss/">ms02 AI Assistant Blog Posts Project</a></h1>
+            <h2 class="site-description">MS-02 Ultra Home Lab</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/rss/search/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>検索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/tags/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+                
+                <span>タグ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/categories/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                
+                <span>カテゴリ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>アーカイブ</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    <li id="i18n-switch">  
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                        <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                            
+                                
+                                
+                                    
+                                        
+                                    
+                                
+                                <option value="/rss/posts/post-501/" selected>日本語</option>
+                            
+                                
+                                
+                                    
+                                
+                                <option value="/rss/en/" >English</option>
+                            
+                        </select>
+                    </li>
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>ダークモード</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/rss/posts/post-501/">
+            <img alt="Featured image of post Behind the Design: The rhythms of Rytmos" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e22b51f05da109f4b4aa8687e28ad069.jpeg">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/rss/categories/%E3%82%B2%E3%83%BC%E3%83%A0/" style="background-color: hsl(10, 60%, 84%); color: hsl(10, 60%, 15%);">
+                ゲーム
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/rss/posts/post-501/">Behind the Design: The rhythms of Rytmos</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            概要と事実 Rytmosは、パズルを解くことで音楽が生まれるリズムゲームです。プレイヤーはボード上に線を引いて障害物を避けながらボタンを作動させ、各レベルをクリアすると新しい楽器が追加され、次第に楽曲が成長していきます。2024年のA...
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2026-06-16T11:24:16&#43;09:00'>2026年6月16日火曜日</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        読了時間: 6分
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+
+    
+
+    <section class="article-content">
+    
+    
+    <h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Rytmosは、パズルを解くことで音楽が生まれるリズムゲームです。プレイヤーはボード上に線を引いて障害物を避けながらボタンを作動させ、各レベルをクリアすると新しい楽器が追加され、次第に楽曲が成長していきます。2024年のApple Design Award（Interaction部門）を受賞し、デンマークのスタジオFloppy Clubが開発しました。対応機種はiPhoneとiPadで、開発チームは5人です。ゲームのサウンドトラックはエチオピアンジャズ、ハワイアンスラックキー、インドネシアのガメランなど、世界各地のジャンルから厳選されており、開発者自身の旅や音楽への興味が反映されています。パズルの設計は最初は非常に複雑でしたが、アートディレクターのニールス・ファyrstの助けで見やすさと明快さを向上させました。レベル作成と音楽制作は密接に結びついており、障害物の配置が直接音色やリズムに影響を与えるため、何度もテストを重ねて調整が行われました。レベルクリア後には「ジャムモード」が解放され、ルールフリーで自由に演奏を楽しむことができます。また、ロゴの各文字はパズルの解答を表しており、会社名の由来となった3.5インチフロッピーディスクへの homage も込められています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Floppy Clubの共同創設者であるアスガー・ストランドビーとニールス・ボッチャーは、デンマークのアールハウス出身のミュージシャンで、2000年代初頭にバンド「アナロジック」で出会いました。バンド活動を経て一時は別々のテクノロジー職に就きましたが、後に音楽とゲームを組み合わせようと再び協力することを決意しました。二人は音楽の構造やパターンとゲームデザインの共通点を見出し、リズムとパズルを融合させたプロトタイプを作り上げました。開発過程では、パズルが生み出す音が自然で人間味のあるものになるように意識し、あまりにも電子的になりすぎないよう調整を重ねました。その結果、プレイヤーの解法によって異なるサウンドが生まれ、創造性が促される仕組みとなりました。ゲームは単にレベルをクリアする達成感以上に、自分自身で何かを「創り出す」体験を提供することを目指しており、これが開発者たちが強く願う成功の形です。このように、Rytmosは音楽とゲームの境界を曖昧にし、世界の多様な音文化に触れるきっかけを与える作品として評価されています。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=34m9vbvv"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="behind-the-design-the-rhythms-of-rytmos">Behind the Design: The rhythms of Rytmos
+</h2><p>September 3, 2024</p>
+<p><img alt="A screenshot from the game Rytmos that depicts a floating cube-like shape with a puzzle covering its sides. The shape is set against a green and blue background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e22b51f05da109f4b4aa8687e28ad069.jpeg"></p>
+<p><em>Rytmos</em> is a game that sounds as good as it looks.</p>
+<p>With its global rhythms, sci-fi visuals, and clever puzzles, the 2024 Apple Design Award winner for Interaction is both a challenge and an artistic achievement. To solve each level, players must create linear pathways on increasingly complex boards, dodging obstacles and triggering buttons along the way. It’s all set to a world-music backdrop; different levels feature genres as diverse as Ethiopian jazz, Hawaiian slack key guitar, and Gamelan from Indonesia, just to name a few.</p>
+<p>And here’s the hook: Every time you clear a level, you add an instrument to an ever-growing song.</p>
+<p>“The idea is that instead of reacting to the music, you’re creating it,” says Asger Strandby, cofounder of Floppy Club, the Denmark-based studio behind <em>Rytmos</em>. “We do a lot to make sure it doesn’t sound too wild. But the music in <em>Rytmos</em> is entirely generated by the way you solve the puzzles.”</p>
+<p>ADA FACT SHEET</p>
+<h3 id="rytmos">Rytmos
+</h3><ul>
+<li>**Winner:**Interaction</li>
+<li>**Team:**Floppy Club</li>
+<li>**Available on:**iPhone, iPad</li>
+<li>**Team size:**5</li>
+</ul>
+<p><a class="link" href="https://apps.apple.com/us/app/rytmos/id1673697954"  target="_blank" rel="noopener"
+    >Download Rytmos from the App Store</a></p>
+<p>The artful game is the result of a partnership that dates back decades. In addition to being developers, Strandby and Floppy Club cofounder Niels Böttcher are both musicians who hail from the town of Aarhus in Denmark. “It’s a small enough place that if you work in music, you probably know everyone in the community,” laughs Böttcher.</p>
+<p>The music in</p>
+<p>Rytmoscomes mostly from traveling and being curious.Niels Böttcher, Floppy Club cofounder</p>
+<p>The pair connected back in the early 2000s, bonding over music more than games. “For me, games were this magical thing that you could never really make yourself,” says Strandby. “I was a geeky kid, so I made music and eventually web pages on computers, but I never really thought I could make games until I was in my twenties.” Instead, Strandby formed bands like Analogik, which married a wild variety of crate-digging samples — swing music, Eastern European folk, Eurovision-worthy pop — with hip-hop beats. Strandby was the frontman, while Böttcher handled the behind-the-scenes work. “I was the manager in everything but name,” he says.</p>
+<p>The band was a success: Analogik went on to release five studio albums and perform at Glastonbury, Roskilde, and other big European festivals. But when their music adventure ended, the pair moved back into separate tech jobs for several years — until the time came to join forces again. “We found ourselves brainstorming one day, thinking about, ‘Could we combine music and games in some way?’” says Böttcher. “There are fun similarities between the two in terms of structures and patterns. We thought, ‘Well, let’s give it a shot.’”</p>
+<p><img alt="A Rytmos screenshot showing a deconstructed series of dark floating puzzle pieces against a blue and green background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/061177016bc9ebcbdf4fff16f2fbf44b.jpeg"></p>
+<p>Puzzles in <em>Rytmos</em> — like the one set on the planet “Hateta” — come with a little history lesson about the music being played.</p>
+<p>The duo launched work on a rhythm game that was powered by their histories and travels. “I’ve collected CDs and tapes from all over the world, so the genres in <em>Rytmos</em> are very carefully chosen,” says Böttcher. “We really love Ethiopian jazz music, so we included that. Gamelan music (traditional Indonesian ensemble music that’s heavy on percussion) is pretty wild, but incredible. And sometimes, you just hear an instrument and say, ‘Oh, that tabla has a really nice sound.’ So the music in <em>Rytmos</em> comes mostly from traveling and being curious.”</p>
+<p>The game took shape early, but the mazes in its initial versions were much more intricate. To help bring them down to a more approachable level, the Floppy Club team brought on art director Niels Fyrst. “He was all about making things cleaner and clearer,” says Böttcher. “Once we saw what he was proposing — and how it made the game stronger — we realized, ‘OK, maybe we’re onto something.’”</p>
+<p>Success in</p>
+<p>Rytmosisn&rsquo;t just that you&rsquo;re beating a level. It&rsquo;s that you&rsquo;re creating something.Asger Strandby, Floppy Club cofounder</p>
+<p>Still, even with a more manageable set of puzzles, a great deal of design complexity remained. Building Rytmos levels was like stacking a puzzle on a puzzle; the team not only had to build out the levels, but also create the music to match. To do so, Strandby and his brother, Bo, would sketch out a level and then send it over to Böttcher, who would sync it to music — a process that proved even more difficult than it seems.</p>
+<p>“The sound is very dependent on the location of the obstacles in the puzzles,” says Strandby. “That’s what shapes the music that comes out of the game. So we’d test and test again to make sure the sound didn’t break the idea of the puzzle.”</p>
+<p><img alt="A Rytmos screenshot showing a puzzle set on a floating cube-like shape set against a light red background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/7cd67c48ece9579faa11976544fa598d.jpeg"></p>
+<p>Puzzles in <em>Rytmos</em> are all about getting from Point A to Point B — but things are never as simple as they seem.</p>
+<p>The process, he says, was “quite difficult” to get right. “Usually with something like this, you create a loop, and then maybe add another loop, and then add layers on top of it,” says Böttcher. “In <em>Rytmos</em>, hitting an emitter triggers a tone, percussion sound, or chord. One tone hits another tone, and then another, and then another. In essence, you’re creating a pattern while playing the game.”</p>
+<p>We’ve actually gone back to make some of the songs more imprecise, because we want them to sound human.</p>
+<p>Niels Böttcher, Floppy Club cofounder</p>
+<p>The unorthodox approach leaves room for creativity. “Two different people’s solutions can sound different,” says Strandby. And when players win a level, they unlock a “jam mode” where they can play and practice freely. &ldquo;It’s just something to do with no rules after all the puzzling,” laughs Strandby.</p>
+<p>Yet despite all the technical magic happening behind the scenes, the actual musical results had to have a human feel. “We’re dealing with genres that are analog and organic, so they couldn’t sound electronic at all,” says Böttcher. “We’ve actually gone back to make some of the songs more imprecise, because we want them to sound human.”</p>
+<p>Best of all, the game is shot through with creativity and cleverness — even offscreen. Each letter in the <em>Rytmos</em> logo represents the solution to a puzzle. The company’s logo is a 3.5-inch floppy disk, a little nod to their first software love. (“That’s all I wished for every birthday,” laughs Böttcher.) And both Böttcher and Strandby hope that the game serves as an introduction to both sounds and people they might not be familiar with. &ldquo;Learning about music is a great way to learn about a culture,” says Strandby.</p>
+<p>But mostly, <em>Rytmos</em> is an inspirational experience that meets its lofty goal. “Success in <em>Rytmos</em> isn’t just that you’re beating a level,” says Strandby. “It’s that you’re creating something.”</p>
+<p><a class="link" href="https://developer.apple.com/design/awards/"  target="_blank" rel="noopener"
+    >Meet the 2024 Apple Design Award winners</a></p>
+<p><em>Behind the Design is a series that explores design practices and philosophies from finalists and winners of the Apple Design Awards. In each story, we go behind the screens with the developers and designers of these award-winning apps and games to discover how they brought their remarkable creations to life.</em></p>
+</details>
+
+</section>
+
+
+    <footer class="article-meta article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/rss/tags/rytmos/">Rytmos</a>
+        
+            <a href="/rss/tags/apple-design-award/">Apple Design Award</a>
+        
+            <a href="/rss/tags/%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%B2%E3%83%BC%E3%83%A0/">リズムゲーム</a>
+        
+            <a href="/rss/tags/%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA/">デンマークスタジオ</a>
+        
+            <a href="/rss/tags/%E3%83%91%E3%82%BA%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%A0/">パズルゲーム</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside>
+    <h2 class="section-title">関連するコンテンツ</h2>
+    <div class="subsection-list">
+        <div class="article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-500/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Hello Developer: September 2024" loading="lazy" src="/rss/downloaded_images/75c2f94126bf156c2e73eea16d7c62dd.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Hello Developer: September 2024</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-494/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Masters of puppets: How ROUND8 Studio carved out a niche for Lies of P" loading="lazy" src="/rss/downloaded_images/b165ae15ecabb9c28db4e3c06e67416f.jpeg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Masters of puppets: How ROUND8 Studio carved out a niche for Lies of P</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-485/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Coding in the kitchen: How Devin Davies whipped up the tasty recipe app Crouton" loading="lazy" src="/rss/downloaded_images/f68c91097aa8468a5465305fe6c4cc31.jpeg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Coding in the kitchen: How Devin Davies whipped up the tasty recipe app Crouton</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-475/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Walk this way: How Oko leverages AI to make street crossings more accessible" loading="lazy" src="/rss/downloaded_images/0bd08ba3be2c34c09b13adc1e15431db.jpeg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Walk this way: How Oko leverages AI to make street crossings more accessible</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-468/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post The good news bears: Inside the adorably unorthodox design of Bears Gratitude" loading="lazy" src="/rss/downloaded_images/02bb4576d4a574b1b777bcb349032539.jpeg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">The good news bears: Inside the adorably unorthodox design of Bears Gratitude</h2>
+        </div>
+    </a>
+</article>
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+
+        <div class="disqus-container">
+    
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 ms02 AI Assistant Blog Posts Project
+    </section>
+    
+    <section class="powerby">
+        <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> で構築されています。 <br />
+        テーマ <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.3">Stack</a></b> は <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> によって設計されています。
+    </section>
+</footer>
+
+
+    
+
+
+
+<script type="module">
+    import gallery from '\/rss\/ts\/gallery.js';
+
+    const articleContent = document.querySelector('.article-content');
+    const shouldLoad = articleContent && (articleContent.querySelectorAll('figure').length > 0 || articleContent.querySelectorAll('img.gallery-image').length > 0);
+    
+    if (shouldLoad) {
+        gallery(articleContent);
+
+        const PhotoSwipeLightbox = (await import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js")).default;
+        const styleHref = "https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.css";
+
+        const styleTag = document.createElement('link');
+        styleTag.rel = 'stylesheet';
+        styleTag.href = styleHref;
+        document.head.appendChild(styleTag);
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallerySelector: '.article-content',
+            childSelector: 'figure a.image-link',
+            pswpModule: () => import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.esm.min.js")
+        });
+        lightbox.init();
+    }
+</script>
+
+    
+
+            </main>
+        </div>
+        
+<script type="text/javascript" src="/rss/ts/main.8f587a582cd4e51d03a4840028b19d7deac2cee707cfe21ffe942b6666363a7f.js" defer></script>
+
+
+    </body>
+</html>
