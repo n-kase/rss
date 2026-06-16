@@ -6,7 +6,98 @@
     <description>Recent content in テクノロジー on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:09:22 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 11:10:57 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The good news bears: Inside the adorably unorthodox design of Bears Gratitude</title>
+      <link>https://n-kase.github.io/rss/posts/post-468/</link>
+      <pubDate>Tue, 16 Jun 2026 11:10:57 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-468/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>この記事は、2025年2月4日に公開された「The good news bears: Inside the adorably unorthodox design of Bears Gratitude」というタイトルの記事を紹介しています。記事の中心は、オーストラリア出身の夫婦チーム、Isuru Wanasinghe（プログラマー）とNayomi Hettiarachchi（イラストレーター）が開発したジャーナリングアプリ「Bears Gratitude」が、Apple Design Awardの「Delight and Fun」部門で受賞したことです。このアプリは、手書き風のクマのキャラクターを使い、「Today isn’t over yet」や「Compliment someone」などのプロンプトカードを左右にスワイプして閲覧し、日々の小さな達成感や感謝の気持ちを記録することを促します。開発のきっかけは、Covid-19ロックダウン中にHettiarachchiが描きためたイラストでした。当初は「Bears Countdown」という誕生日や旅行などのカウントダウンアプリとしてリリースし、そこから感謝の習慣をサポートする「Bears Gratitude」へと発展させました。特筆すべきは、設計プロセスが非常に直線的で、ユーザーが実際に体験する順序と同じように画面を作ったこと、サインイン画面を設けずすぐにジャーナリングを開始できるようにしたこと、そしてプロンプトをユーザー自身の声で書くことで親しみやすさを演出した点です。受賞後のコメントでは、開発者は「アートがすべての中心」であり、このアプリを通じて人々の日常に意味のあるつながりを提供できたことに感謝しています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネット上の反応やコメントは含まれていません。したがって、ネットの反応や意見の変遷については事実のみを記載します。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Bears Gratitudeの成功は、開発者が自分たちの強みであるイラストを軸にし、従来のアプリ設計の常識を意図的に外した点にあります。ユーザー体験を第一に考え、サインインや複雑なメニューを省くことで、すぐに感謝の習慣を始められるシンプルさを実現しました。また、クマのキャラクターというビジュアルアイコンが、ジャーナリングという地味な活動に親しみと楽しさを与え、日常の中での小さな幸せに気づくきっかけとなっています。この事例は、デザインにおいて「自分たちが本当に伝えたいもの」を中心に据え、技術的な制約よりも感情的なつながりを優先することが、ユーザーに受け入れられる製品を生み出す一例であると言えます。今後も同様に、クリエイターの個性やストーリーテリングがアプリの核となるケースが増えることが期待されます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=i74v3f4r"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="the-good-news-bears-inside-the-adorably-unorthodox-design-of-bears-gratitude">The good news bears: Inside the adorably unorthodox design of Bears Gratitude
+</h2><p>February 4, 2025</p>
+<p><img alt="A drawing from Bears Gratitude, showing two cartoon bears wearing party hats in front of a frosted birthday cake against a beige background." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/02bb4576d4a574b1b777bcb349032539.jpeg"></p>
+<p>Here’s the story of how a few little bears led their creators right to an Apple Design Award.</p>
+<p><em>Bears Gratitude</em> is a warm and welcoming title developed by the Australian husband-and-wife team of Isuru Wanasinghe and Nayomi Hettiarachchi.</p>
+<p>Journaling apps just don’t get much cuter: Through prompts like “Today isn’t over yet,” “I’m literally a new me,” and “Compliment someone,” the Swift-built app and its simple hand-drawn mascots encourage people to get in the habit of celebrating accomplishments, fostering introspection, and building gratitude. “And gratitude doesn’t have to be about big moments like birthdays or anniversaries,” says Wanasinghe. “It can be as simple as having a hot cup of coffee in the morning.”</p>
+<p>ADA FACT SHEET</p>
+<p><img alt="A screenshot from Bears Gratitude that shows several prompt cards containing journaling prompts like “My Good Day,” “A Meal With Boo,” and “Finally On My Chores.”" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a675fe3240b9e58e712f716f65d7ac6a.jpeg"></p>
+<h3 id="bears-gratitude">Bears Gratitude
+</h3><ul>
+<li>**Winner:**Delight and Fun</li>
+<li>**Available on:**iOS, iPadOS, macOS</li>
+<li>**Team size:**2</li>
+</ul>
+<p><a class="link" href="https://apps.apple.com/us/app/bears-gratitude/id6443609622"  target="_blank" rel="noopener"
+    >Download Bears Gratitude from the App Store</a></p>
+<p>Wanasinghe is a longtime programmer who’s run an afterschool tutoring center in Sydney, Australia, for nearly a decade. But the true spark for <em>Bears Gratitude</em> and its predecessor, <em>Bears Countdown</em>, came from Hettiarachchi, a Sri Lankan-born illustrator who concentrated on her drawing hobby during the Covid-19 lockdown.</p>
+<p>Wanasinghe is more direct. “The art is the heart of everything we do,” he says.</p>
+<p><img alt="A photo of the Australian husband-and-wife team who developed Bears Gratitude, Isuru Wanasinghe and Nayomi Hettiarachchi, sitting at a table in front of a MacBook and iPad." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f8c1511f33c23073a214cff16d8d2244.jpeg"></p>
+<p><em>Bears Gratitude</em> was developed by the Australian husband-and-wife team of Isuru Wanasinghe and Nayomi Hettiarachchi.</p>
+<p>In fact, the art is the whole reason the app exists. As the pandemic months and drawings stacked up, Hettiarachchi and Wanasinghe found themselves increasingly attached to her cartoon creations, enough that they began to consider how to share them with the world. The usual social media routes beckoned, but given Wanasinghe’s background, the idea of an app offered a stronger pull.</p>
+<p>“In many cases, you get an idea, put together a design, and then do the actual development,” he says. “In our case, it’s the other way around. The art drives everything.”</p>
+<p>The art is the heart of everything we do.</p>
+<p>Isuru Wanasinghe,</p>
+<p>Bears Gratitudecofounder</p>
+<p>With hundreds of drawings at their disposal, the couple began thinking about the kinds of apps that could host them. Their first release was <em>Bears Countdown</em>, which employed the drawings to help people look ahead to birthdays, vacations, and other marquee moments. <em>Countdown</em> was never intended to be a mass-market app; the pair didn’t even check its launch stats on App Store Connect. “We’d have been excited to have 100 people enjoy what Nayomi had drawn,” says Wanasinghe. “That’s where our heads were at.”</p>
+<p>But <em>Countdown</em> caught on with a few influencers and become enough of a success that the pair began thinking of next steps. “We thought, well, we’ve given people a way to look forward,” says Wanasinghe. “What about reflecting on the day you just had?’”</p>
+<p><img alt="A photo in which a gray and white cat stands on a table looking at drawings from Bears Gratitude. An iPad and candle sit on the table near the cat." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/50f71305f854514868ec342e3373f1da.jpeg"></p>
+<p>Hettiarachchi’s art samples get a close inspection from one of her trusted associates.</p>
+<p><em>Gratitude</em> keeps the cuddly cast from <em>Countdown</em>, but otherwise the app is an entirely different beast. It was also designed in what Wanasinghe says was a deliberately unusual manner. “Our design approach was almost bizarrely linear,” says Wanasinghe. “We purposely didn’t map out the app. We designed it in the same order that users experience it.”</p>
+<p>Other unorthodox decisions followed, including the absence of a sign-in screen. “We wanted people to go straight into the experience and start writing,” he says. The home-screen journaling prompts are presented via cards that users flip through by tapping left and right. “It’s definitely a nonstandard UX,” says Wanasinghe, “but we found over and over again that the first thing users did was flip through the cards.”</p>
+<p>Our design approach was almost bizarrely linear. We purposely didn’t map out the app. We designed it in the same order that users experience it.</p>
+<p>Isuru Wanasinghe,</p>
+<p>Bears Gratitudecofounder</p>
+<p>Another twist: The app’s prompts are written in the voice of the user, which Wanasinghe says was done to emphasize the personal nature of the app. “We wrote the app as if we were the only ones using it, which made it more relatable,” he says.</p>
+<p>Then there are the bears, which serve not only as a distinguishing hook in a busy field, but also as a design anchor for its creators. “We’re always thinking: ‘Instead of trying to set our app apart, how do we make it ours?’ We use apps all the time, and we know how they behave. But here we tried to detach ourselves from all that, think of it as a blank canvas, and ask, ‘What do we want this experience to be?’”</p>
+<p><img alt="Early design sketches for Bears Gratitude, showing three cards with Bears Gratitude mascots on them, as well as placeholder copy." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f0e69e4879e5e4f62be22bf8ac4491fa.jpeg"></p>
+<p>Early design sketches for <em>Bears Gratitude</em> show the collection of swipe-able prompt cards.</p>
+<p><em>Bears Gratitude</em> isn’t a mindfulness app — Wanasinghe is careful to clarify that neither he nor Hettiarachchi are therapists or mental health professionals. “All we know about are the trials and tribulations of life,” he says.</p>
+<p>But those trials and tribulations have reached a greater world. “People have said, ‘This is just something I visit every day that brings me comfort,’” says Wanasinghe. “We’re so grateful this is the way we chose to share the art. We’re plugged into people’s lives in a meaningful way.”</p>
+<p><a class="link" href="https://developer.apple.com/design/awards/"  target="_blank" rel="noopener"
+    >Meet the 2024 Apple Design Award winners</a></p>
+<p><em>Behind the Design is a series that explores design practices and philosophies from finalists and winners of the Apple Design Awards. In each story, we go behind the screens with the developers and designers of these award-winning apps and games to discover how they brought their remarkable creations to life.</em></p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>Hello Developer: February 2025</title>
+      <link>https://n-kase.github.io/rss/posts/post-467/</link>
+      <pubDate>Tue, 16 Jun 2026 11:10:40 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-467/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2025年2月4日に公開された「Hello Developer: February 2025」というAppleの開発者向けニュースレターでは、最新の開発者活動について紹介されています。具体的には、Swift Student Challengeの最新情報や、<em>Bears Gratitude</em>というアプリを開発したチームのインタビューが掲載されています。また、その他の開発者向けイベントやリソースについても触れられており、開発者コミュニティへの支援が強調されています。記事は簡潔に構成されており、読者はすぐに関心のあるトピックにアクセスできるようになっています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネット上のコメントや反応が含まれていないため、ネットの反応については記載できません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleは定期的に開発者向けの情報を提供することで、特に若い開発者や学生をサポートし、エコシステムの活性化を図っています。Swift Student Challengeはプログラミング学習の機会を提供し、<em>Bears Gratitude</em>のような実際のアプリ開発事例は、開発者にとって具体的なロールモデルとなります。こうした取り組みは、技術スキルの向上だけでなく、多様なバックグラウンドを持つ人々がテクノロジー分野に参加するきっかけとなるため、社会的にもポジティブな影響を期待できます。今後も同様の情報発信が続けば、開発者コミュニティの成長とイノベーションの促進に寄与するでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=oo637fda"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="hello-developer-february-2025">Hello Developer: February 2025
+</h2><p>February 4, 2025</p>
+<p><img alt="A woman stands on stage at an Apple event in front of an audience of developers" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5008adc5e4ac4b08404794cf66fa1953.jpeg"></p>
+<p>In this edition: The latest on developer activities, the Swift Student Challenge, the team behind <em>Bears Gratitude</em>, and more.</p>
+<p>February 4, 2025</p>
+<p>In this edition: The latest on developer activities, the Swift Student Challenge, the team behind <em>Bears Gratitude</em>, and more.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>New features for APNs token authentication are now available</title>
       <link>https://n-kase.github.io/rss/posts/post-463/</link>
