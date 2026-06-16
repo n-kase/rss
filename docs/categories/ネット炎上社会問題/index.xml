@@ -6,7 +6,48 @@
     <description>Recent content in ネット炎上・社会問題 on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 14:04:55 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%8D%E3%83%83%E3%83%88%E7%82%8E%E4%B8%8A%E7%A4%BE%E4%BC%9A%E5%95%8F%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 14:07:48 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%8D%E3%83%83%E3%83%88%E7%82%8E%E4%B8%8A%E7%A4%BE%E4%BC%9A%E5%95%8F%E9%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「MetaがAI開発のためにポルノ動画を違法ダウンロードした」とする訴訟の却下申し立てが却下され審理継続</title>
+      <link>https://n-kase.github.io/rss/posts/post-821/</link>
+      <pubDate>Tue, 16 Jun 2026 14:07:48 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-821/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Metaは2025年夏にポルノ動画制作会社のStrike 3 Holdingsから、2018年以降にBitTorrentを通じて著作権で保護された成人向け映像を少なくとも2396本違法にダウンロードしたとして訴えられました。原告はこれらのファイルがMetaの人工知能モデルのトレーニングに使われたと主張しています。Metaはダウンロードは個人の従業員による私的利用であり、AIの学習目的ではないと反論し、訴えの却下を求めていました。しかし、連邦地方裁判所のユミ・K・リー判事は2026年6月11日に却下申し立てを棄却し、直接的、間接的および寄与的な著作権侵害の３つの主張すべてについて審理を続けることを認めました。判事は、BitTorrent経由でのコピー行為そのものが直接的侵害に該当するとし、ダウンロードパターンが特定のキーワードに基づくアルゴリズムによるものであると推測しました。さらに、最高裁判所がISPへの責任を限定した最近の判例があるものの、Metaが侵害を助長する特定のツールやサービスを提供したとの主張は依然として残っています。訴訟は現在、調整手続きを経て2028年2月に陪審裁判が予定されています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>この訴訟は、大手テクノロジー企業がAI開発のためにどのようにデータを収集しているかという点での社会的関心が高まっていることを示しています。著作権保護されたコンテンツを許可なく利用する行為が、AIモデルの性能向上に直接結びつく可能性があるため、知的財産権の保護と技術革新のバランスが改めて問われています。また、ダウンロード行為が組織的なのか個人的なのかという事実関係が争点となっていることから、企業内部の監視体制や従業員の利用規約の重要性が改めて浮き彫りになりました。今後の裁判結果次第では、AIトレーニングにおけるデータ取得の合法性について明確なガイドラインが示される可能性があり、それによって他のテクノロジー企業も同様の訴訟リスクを評価し、データ取得プロセスを見直すきっかけとなるでしょう。このように、知的財産権保護と技術発展の両立を図るための法的・倫理的枠組みの整備が求められています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260616-meta-adult-piracy-lawsuit/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="metaがai開発のためにポルノ動画を違法ダウンロードしたとする訴訟の却下申し立てが却下され審理継続">「MetaがAI開発のためにポルノ動画を違法ダウンロードした」とする訴訟の却下申し立てが却下され審理継続
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/79d7779549f19f884199da37ca5b3529.jpg"></p>
+<p>Metaは2025年夏にポルノ動画制作会社から違法に作品をダウンロードした疑いで提訴されました。Metaは訴訟の却下申し立てを提出していましたが、アメリカ連邦地方裁判所の判事は訴訟の却下を拒否し、直接的、代位的、および寄与的な著作権侵害の3つの訴えすべてについて審理を進めることが認められました。</p>
+<p><strong>Meta Must Face Adult Film Piracy Lawsuit as Court Denies Dismissal * TorrentFreak</strong></p>
+<p><a class="link" href="https://torrentfreak.com/meta-must-face-adult-film-piracy-lawsuit-as-court-denies-dismissal/"  target="_blank" rel="noopener"
+    >https://torrentfreak.com/meta-must-face-adult-film-piracy-lawsuit-as-court-denies-dismissal/</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/cd4006161d5ee7e448e9281d11062398.png"></p>
+<p>ポルノ動画制作会社のStrike 3 Holdingsは、「Metaが2018年以降BitTorrentプロトコルを通じて、著作権保護された映像を少なくとも2396本ダウンロードした」と主張し、2025年7月23日にアメリカ北カリフォルニア地方裁判所へ提訴しました。ダウンロードされた動画はAIのトレーニングに使われた疑いも指摘されています。一方でMetaは「Strike 3 Holdingsの主張はIPアドレスだけに基づいている」と指摘し、AIのトレーニング目的でコンテンツを取得したことを否定しつつ、記録されたダウンロードは自社のネットワークを使用した個人的な使用を示すものであるため二次的責任を負うことはないと主張しました。</p>
+<p><a class="link" href="https://gigazine.net/news/20251031-meta-adult-downloads/"  target="_blank" rel="noopener"
+    >Metaがエロ動画をAIのトレーニングに使ったとアダルトサイトから訴えられるも「個人利用」だとして反論 - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/45d5988a5d08b6b7eb9fe7666824793f.jpg"></p>
+<p>Metaが提出した訴訟の却下申し立てについて、2026年6月11日に命令書が公開されました。命令の中でアメリカ連邦地方裁判所のユミ・K・リー判事は、Metaの申し立てを却下し、Strike 3 Holdingsによる直接的、間接的、および寄与的な著作権侵害の3つの訴えすべてについて審理を進めることを認めています。</p>
+<p>Metaの主な主張の1つは、直接的な著作権侵害を証明するためには、Strike 3 Holdingsが「自社の動画が実際にAIのトレーニングに使用された」と示す必要があるというものでした。これに対しリー判事は、MetaがBitTorrent経由で動画をコピーしたという行為自体が認められるだけで直接的な侵害になり得ると説明しました。</p>
+<p>また、BitTorrent経由のダウンロード行為がMetaによるものなのか、それとも従業員が個人的な使用目的でコンテンツをダウンロードしたものなのか、という点が争点になっています。Strike 3 Holdingsは「ダウンロードはMetaによって組織的に行われた」と主張しており、47の企業IPアドレスと7つの非公開IPアドレス範囲にわたる類似したダウンロードパターンを指摘していました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/abe69c56aa41a6fbd7c169d28fa161fd.jpg"></p>
+<p>リー判事は、「ティーン」というキーワードが含まれる成人向け作品のほか、「** ティーンエイジ・ミュータント・ニンジャ・タートルズ**」のような同じキーワードが含まれる子ども向けアニメやシットコムも特定された複数のIPアドレスにわたってダウンロードが確認されていたことから、「ダウンロードはキーワードを用いたアルゴリズムによって行われたと合理的に推測できる」と判断しています。また、同じドラマシリーズのエピソードが複数のIPアドレスから順番をバラバラにダウンロードされた形跡も確認されており、Metaはこれを複数の人物による偶然のダウンロードと主張しましたが、リー判事は「偶然の一致というのは考えにくい」と命令書に記しています。</p>
+<p>また、アメリカの最高裁判所は2026年3月に「ISPは著作権侵害の疑いのある加入者にサービスを提供し続けたという理由だけで、著作権侵害の幇助(ほうじょ)責任を負うことはない」と判断しており、間接的な著作権侵害の要件を引き上げた判例として広い係争に影響を与えています。しかし、判例に基づくとMetaは著作権侵害者に自社のインフラを提供しただけであれば法的責任を問うには不十分であるものの、Strike 3 Holdingsは「Metaが著作権侵害のための特定のツールやサービスを提供することで著作権侵害を助長した」と主張していることから、間接的な著作権侵害についても却下申し立ては棄却されていません。</p>
+<p><a class="link" href="https://gigazine.net/news/20260327-music-piracy-cox/"  target="_blank" rel="noopener"
+    >著作権侵害の責任をISPにも求めた裁判で最高裁判所が「サービス提供だけでは幇助にならない」と判断 - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e6a80dc4a75970f771a93071168237c5.jpg"></p>
+<p>そのほかMetaの主張では、著作権侵害が記録されたのは2018年からですが、Metaがマルチモーダル・動画生成モデルの研究を開始したのは2022年であり、「AIモデルをトレーニングするためコンテンツを取得した」という主張は時期的に矛盾するとしています。訴訟の進行に伴い、実際にAIのトレーニングに用いて直接的な経済的利益を得たかどうかなどの論点が詳細に争われることになります。</p>
+<p>却下申し立てが却下されたことで、Metaは訴状に回答する必要があります。両当事者は8月上旬までに調停手続きを試みることになっているほか、陪審裁判は2028年2月に予定されています。</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>【動画】インドのピザ、めっちゃうまそうｗｗｗｗｗｗ</title>
       <link>https://n-kase.github.io/rss/posts/post-814/</link>

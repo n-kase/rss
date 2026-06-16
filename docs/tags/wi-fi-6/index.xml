@@ -1,0 +1,40 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wi-Fi 6 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/wi-fi-6/</link>
+    <description>Recent content in Wi-Fi 6 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 14:08:01 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/wi-fi-6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>バッファロー、セキュリティ評価制度「JC-STAR」★1適合のWi-Fi 6ルーターエントリーモデル「WSR-3000AX4L」発売</title>
+      <link>https://n-kase.github.io/rss/posts/post-822/</link>
+      <pubDate>Tue, 16 Jun 2026 14:08:01 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-822/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>株式会社バッファローは2026年6月16日に、セキュリティ評価制度「JC-STAR」の★1に適合したWi-Fi 6ルーター「WSR-3000AX4L」を発売しました。Amazon.co.jpでの販売価格は9080円です。このルーターは5GHz帯で最大2401Mbps、2.4GHz帯で最大573Mbpsの通信速度を持ち、Wi-Fi EasyMesh規格に対応しています。ファームウェアの自動更新やログインパスワードの初期値固有化などのセキュリティ機能が備わっており、有線ポートはギガビット対応のLANポート×3とWANポート×1を搭載しています。さらに、IPv6 IPoE接続やスマートフォン専用アプリによる簡単セットアップ、他社製ルーターからの設定移行機能も提供されています。本体サイズは約40×148×133mm、重量は約330gです。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>JC-STARは経済産業省と情報処理推進機構（IPA）が運用するIoT製品のセキュリティレベルを評価・可視化する制度で、★1適合は一般的な攻撃手口に対抗できる一定のセキュリティ機能を持つことを示します。これにより、バッファローは家庭や小規模オフィス向けにセキュリティ意識の高い製品を提供し、市場での差別化を図っています。Wi-Fi 6の普及とともにセキュリティ要件が高まる中、こうした認証取得製品は消費者の信頼を獲得しやすくなり、今後のネットワーク機器開発においてセキュリティ基準の遵守がさらに重要になるでしょう。</p>
+<p><a class="link" href="https://internet.watch.impress.co.jp/docs/news/2117471.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>ニュース</p>
+<h1 id="バッファローセキュリティ評価制度jc-star1適合のwi-fi-6ルーターエントリーモデルwsr-3000ax4l発売">バッファロー、セキュリティ評価制度「JC-STAR」★1適合のWi-Fi 6ルーターエントリーモデル「WSR-3000AX4L」発売
+</h1><p>2026年6月16日 13:10</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f043d6f39055c9b97e03cc11c3c4f4cf.jpg"></p>
+<p>株式会社バッファローは6月16日、「JC-STAR」の★1に適合したWi-Fi 6ルーター「WSR-3000AX4L」を発売した。Amazon.co.jpでの販売価格は9080円。</p>
+<p>Wi-Fi 6に対応し、最大通信速度は5GHz帯が2401Mbps、2.4GHz帯が573Mbps。メッシュ標準規格「Wi-Fi EasyMesh」に対応する。ファームウェア自動更新機能や、ログインパスワードの初期値の固有化などのセキュリティ対策が適合の条件になっている。</p>
+<p>有線ポートは、ギガビット対応のLANポート×3、WANポート×1を備える。OCNバーチャルコネクト、v6プラス、IPv6オプション、transix、クロスパス、v6 コネクトの、各種IPv6 IPoE接続に対応する。</p>
+<p>スマートフォンに「AirStationアプリ」をインストールすることで、画面の案内に沿って操作するだけで簡単にセットアップが可能。また、対応機種同士でプロバイダー接続情報を含む設定を一度に移行できる「スマート引っ越し」のほか、他社製ルーターからもSSIDや暗号化キーをコピーできる「無線引っ越し機能」にも対応する。</p>
+<p>IoT製品のセキュリティレベルを評価・可視化する「JC-STAR」の★1に適合している。JC-STARは、経済産業省および独立行政法人情報処理推進機構（IPA）が運用する、IoT製品のセキュリティレベルを評価・可視化する制度で、★1適合により、一定程度の（Wi-Fiルーターなどを狙った多くの事例がある一般的な攻撃の手口に対抗可能な）セキュリティ機能を持つ製品と判断できる。</p>
+<p>本体サイズは約40×148×133mm（幅×高さ×奥行）、重量は約330g。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
