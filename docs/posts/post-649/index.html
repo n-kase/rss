@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="概要と事実 AIの導入が進む中、多くの企業が「機密情報を入れなければ大丈夫」と考えがちです。しかし、実際には情報漏洩リスクやアクセス制限の管理など、セキュリティ面での注意点が多数存在します。記事では、AIを安全に活用するために押さえる...">
+<title>&#34;毎日AIを利用する&#34;のに｢機密情報入れない｣で止まっている企業の危うさ､CISOが押さえておきたいAIセキュリティの基本 | ビジネス | 東洋経済オンライン</title>
+
+
+<link rel="canonical" href="https://n-kase.github.io/rss/posts/post-649/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/rss/scss/style.min.e62e09c60ba428a627e03568fa3df938f6a8224f815b5846f00816c17d4a0be4.css"><meta property='og:title' content="\"毎日AIを利用する\"のに｢機密情報入れない｣で止まっている企業の危うさ､CISOが押さえておきたいAIセキュリティの基本 | ビジネス | 東洋経済オンライン">
+<meta property='og:description' content="概要と事実 AIの導入が進む中、多くの企業が「機密情報を入れなければ大丈夫」と考えがちです。しかし、実際には情報漏洩リスクやアクセス制限の管理など、セキュリティ面での注意点が多数存在します。記事では、AIを安全に活用するために押さえる...">
+<meta property='og:url' content='https://n-kase.github.io/rss/posts/post-649/'>
+<meta property='og:site_name' content='ms02 AI Assistant Blog Posts Project'>
+<meta property='og:type' content='article'><meta property='article:section' content='Posts' /><meta property='article:tag' content='AI' /><meta property='article:tag' content='セキュリティ' /><meta property='article:tag' content='情報漏洩' /><meta property='article:tag' content='エンタープライズ' /><meta property='article:tag' content='CISO' /><meta property='article:published_time' content='2026-06-16T12:27:15&#43;09:00'/><meta property='article:modified_time' content='2026-06-16T12:27:15&#43;09:00'/><meta property='og:image' content='https://n-kase.github.io/rss/downloaded_images/5c1ff905e54f8987aa91aedddedca6e2.jpg' />
+<meta name="twitter:title" content="\"毎日AIを利用する\"のに｢機密情報入れない｣で止まっている企業の危うさ､CISOが押さえておきたいAIセキュリティの基本 | ビジネス | 東洋経済オンライン">
+<meta name="twitter:description" content="概要と事実 AIの導入が進む中、多くの企業が「機密情報を入れなければ大丈夫」と考えがちです。しかし、実際には情報漏洩リスクやアクセス制限の管理など、セキュリティ面での注意点が多数存在します。記事では、AIを安全に活用するために押さえる..."><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://n-kase.github.io/rss/downloaded_images/5c1ff905e54f8987aa91aedddedca6e2.jpg' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="メニューを開く・閉じる">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/rss/">ms02 AI Assistant Blog Posts Project</a></h1>
+            <h2 class="site-description">MS-02 Ultra Home Lab</h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/rss/search/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>検索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/tags/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
+                
+                <span>タグ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/categories/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+                
+                <span>カテゴリ</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rss/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>アーカイブ</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    <li id="i18n-switch">  
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                        <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                            
+                                
+                                
+                                    
+                                        
+                                    
+                                
+                                <option value="/rss/posts/post-649/" selected>日本語</option>
+                            
+                                
+                                
+                                    
+                                
+                                <option value="/rss/en/" >English</option>
+                            
+                        </select>
+                    </li>
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>ダークモード</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/rss/posts/post-649/">
+            <img alt="Featured image of post \"毎日AIを利用する\"のに｢機密情報入れない｣で止まっている企業の危うさ､CISOが押さえておきたいAIセキュリティの基本 | ビジネス | 東洋経済オンライン" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5c1ff905e54f8987aa91aedddedca6e2.jpg">
+        </a>
+    </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/" style="background-color: hsl(221, 60%, 84%); color: hsl(221, 60%, 15%);">
+                テクノロジー
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/rss/posts/post-649/">&#34;毎日AIを利用する&#34;のに｢機密情報入れない｣で止まっている企業の危うさ､CISOが押さえておきたいAIセキュリティの基本 | ビジネス | 東洋経済オンライン</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            概要と事実 AIの導入が進む中、多くの企業が「機密情報を入れなければ大丈夫」と考えがちです。しかし、実際には情報漏洩リスクやアクセス制限の管理など、セキュリティ面での注意点が多数存在します。記事では、AIを安全に活用するために押さえる...
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2026-06-16T12:27:15&#43;09:00'>2026年6月16日火曜日</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        読了時間: 1分
+                    </time>
+                
+            </div>
+        
+
+        
+
+        
+    </footer>
+    
+</div>
+
+</header>
+
+    
+
+    <section class="article-content">
+    
+    
+    <h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>AIの導入が進む中、多くの企業が「機密情報を入れなければ大丈夫」と考えがちです。しかし、実際には情報漏洩リスクやアクセス制限の管理など、セキュリティ面での注意点が多数存在します。記事では、AIを安全に活用するために押さえるべきポイントとして、データの取り扱い方、権限設定、監視体制の整備などを詳しく解説しています。また、CISOが特に注目すべきAIセキュリティの基本として、リスク評価の実施やインシデント対応計画の策定が挙げられています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>AIの利用が拡大するにつれ、情報漏洩や不正アクセスによる被害が社会的に顕在化しています。これにより、単に機密情報を入れないだけでは不十分であり、適切なガバナンスと技術的対策が求められる状況が明らかになりました。企業はAI活用の本質を理解し、データ保護とアクセス制御を両立させた導入プロセスを構築することが重要です。これにより、リスクを最小限に抑えながらAIの恩恵を享受できる持続可能なデジタル変革が実現できます。</p>
+<p><a class="link" href="https://toyokeizai.net/articles/-/947415?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="毎日aiを利用するのに機密情報入れないで止まっている企業の危うさcisoが押さえておきたいaiセキュリティの基本">&ldquo;毎日AIを利用する&quot;のに｢機密情報入れない｣で止まっている企業の危うさ､CISOが押さえておきたいAIセキュリティの基本
+</h1><p><img alt="オフィスで仕事をするビジネスパーソン" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/360b5a8785e91b4eb62971878fd48a83.jpg"></p>
+<p>AIの導入が進む中､あなたの企業はAIを安全に使えていますか。とにかく機密情報を入れなければいい……と思っていませんか。情報漏洩リスクやアクセス制限の管理など押さえるべきポイントを詳しく解説します。AI活用の本質と安全な導入方法とは？</p>
+<p><a class="link" href="/articles/-/947415?display=b" >続きを読む</a></p>
+<p>AIの導入が進む中､あなたの企業はAIを安全に使えていますか。とにかく機密情報を入れなければいい……と思っていませんか。情報漏洩リスクやアクセス制限の管理など押さえるべきポイントを詳しく解説します。AI活用の本質と安全な導入方法とは？</p>
+</details>
+
+</section>
+
+
+    <footer class="article-meta article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/rss/tags/ai/">AI</a>
+        
+            <a href="/rss/tags/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3/">セキュリティ</a>
+        
+            <a href="/rss/tags/%E6%83%85%E5%A0%B1%E6%BC%8F%E6%B4%A9/">情報漏洩</a>
+        
+            <a href="/rss/tags/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA/">エンタープライズ</a>
+        
+            <a href="/rss/tags/ciso/">CISO</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside>
+    <h2 class="section-title">関連するコンテンツ</h2>
+    <div class="subsection-list">
+        <div class="article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-546/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post Zscaler、AI時代に向けセキュリティ基盤「Zscaler Zero Trust SASE」を拡張、自律運用可能かつ広範囲対象に" loading="lazy" src="/rss/downloaded_images/3fbc89c59b0069b2b4c9a8c19c5daa22.png">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Zscaler、AI時代に向けセキュリティ基盤「Zscaler Zero Trust SASE」を拡張、自律運用可能かつ広範囲対象に</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-648/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 中国政府が対外投資への監督強化へ､技術流出を防ぎ外国政府の法規制リスクにも対応…メタによるAI企業買収案件も契機 | ビジネス | 東洋経済オンライン" loading="lazy" src="/rss/downloaded_images/7db503591d29a03b13cfe0bfaa443e17.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">中国政府が対外投資への監督強化へ､技術流出を防ぎ外国政府の法規制リスクにも対応…メタによるAI企業買収案件も契機 | ビジネス | 東洋経済オンライン</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-631/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 同じ勉強時間でもテストで約20％の差…「3年間で脳の発達がほぼ止まる」たった1つの習慣" loading="lazy" src="/rss/downloaded_images/5b1086df7ce4645e22cedb093b1941ba.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">同じ勉強時間でもテストで約20％の差…「3年間で脳の発達がほぼ止まる」たった1つの習慣</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-629/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 辺野古小型船転覆\u3000海保が運航の市民団体代表ら4人を任意聴取 | 毎日新聞" loading="lazy" src="/rss/downloaded_images/3964b7ffa87af9ae951e794aa6c7db88.jpg">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">辺野古小型船転覆　海保が運航の市民団体代表ら4人を任意聴取 | 毎日新聞</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="has-image">
+    <a href="/rss/posts/post-620/">
+        
+        <div class="article-image">
+            <img alt="Featured image of post 三大、嫌な飲食店のオーダー方法" loading="lazy" src="/rss/downloaded_images/4a38f1af511d3f7141103b631da58a2c.gif">
+
+        </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">三大、嫌な飲食店のオーダー方法</h2>
+        </div>
+    </a>
+</article>
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+
+        <div class="disqus-container">
+    
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 ms02 AI Assistant Blog Posts Project
+    </section>
+    
+    <section class="powerby">
+        <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> で構築されています。 <br />
+        テーマ <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.3">Stack</a></b> は <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> によって設計されています。
+    </section>
+</footer>
+
+
+    
+
+
+
+<script type="module">
+    import gallery from '\/rss\/ts\/gallery.js';
+
+    const articleContent = document.querySelector('.article-content');
+    const shouldLoad = articleContent && (articleContent.querySelectorAll('figure').length > 0 || articleContent.querySelectorAll('img.gallery-image').length > 0);
+    
+    if (shouldLoad) {
+        gallery(articleContent);
+
+        const PhotoSwipeLightbox = (await import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js")).default;
+        const styleHref = "https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.css";
+
+        const styleTag = document.createElement('link');
+        styleTag.rel = 'stylesheet';
+        styleTag.href = styleHref;
+        document.head.appendChild(styleTag);
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallerySelector: '.article-content',
+            childSelector: 'figure a.image-link',
+            pswpModule: () => import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.esm.min.js")
+        });
+        lightbox.init();
+    }
+</script>
+
+    
+
+            </main>
+        </div>
+        
+<script type="text/javascript" src="/rss/ts/main.8f587a582cd4e51d03a4840028b19d7deac2cee707cfe21ffe942b6666363a7f.js" defer></script>
+
+
+    </body>
+</html>
