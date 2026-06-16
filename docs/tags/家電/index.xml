@@ -1,0 +1,41 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>家電 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E5%AE%B6%E9%9B%BB/</link>
+    <description>Recent content in 家電 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 13:01:07 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E5%AE%B6%E9%9B%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>三菱の家電にWi-Fi脆弱性、エアコンや冷蔵庫、炊飯器など広範囲　ユーザーに対応求める</title>
+      <link>https://n-kase.github.io/rss/posts/post-730/</link>
+      <pubDate>Tue, 16 Jun 2026 13:01:07 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-730/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>三菱電機は2024年6月11日、Wi-Fi対応の家電製品に広範囲にわたる脆弱性が見つかったと発表しました。対象となるのは「霧ヶ峰」エアコンシリーズをはじめ、冷蔵庫、給湯機、IHクッキングヒーター、炊飯器などです。これらの製品には、Wi-Fi機能に固定のSSIDとパスワードがハードコードされており、一度もルータに接続していないか、工場出荷時の状態に戻したまま放置していると、電波が届く範囲内の攻撃者が不正にアクセスできる状態になります。これにより、運転状態や室温データの盗取、エアコン設定の変更、Wi-Fi通信の停止（DoS攻撃）などが起こり得ると指摘されています。ただし、機器自体には個人情報や機密データは保持されていないため、それらの漏洩の恐れはないとのことです。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>対策としては、まず各端末を家庭のWi-Fiルータに接続し、製品が開いているアクセスポイントを閉じることが第一歩です。その上で、各家電の専用アプリからアダプタソフトウェアを更新すれば、脆弱性を修正できます。ルータを持っていない場合は、Wi-Fi機能を無効にすることでリスクを回避できます。三菱電機は日本向けエアコンの対策版ソフトウェアをすでに公開しており、その他の製品についても順次提供する予定ですが、一部の旧モデルについては対策バージョンの提供がなく、ルータ接続またはWi-Fi機能の無効化が必要です。今回の事例は、IoT機器におけるデフォルト認証情報のハードコードが依然としてリスクであることを改めて示しており、メーカー側はセキュアな初期設定の仕組みを導入し、ユーザー側は購入後に必ずネットワーク設定を行う習慣をつけることが重要です。</p>
+<p><a class="link" href="https://www.itmedia.co.jp/news/articles/2606/16/news066.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>三菱電機は6月11日、エアコン「霧ヶ峰」シリーズをはじめ、冷蔵庫、給湯機、IHクッキングヒーター、炊飯器など同社のWi-Fi対応家電製品の広範囲に脆弱性が見つかったとし、ユーザーに対処を求めている。</p>
+<p>Wi-Fi機能に固定のSSIDとパスワードがハードコード（直書き）されていたため、攻撃者が電波の届く範囲から不正にアクセスすれば、運転状態や室温データの窃取、エアコン設定の不正変更、Wi-Fi通信の停止（DoS）を引き起こす可能性があるという。</p>
+<p>影響を受けるのは、Wi-Fi機能を有効にしたまま、一度もWi-Fiルータに接続していないか、工場出荷時の状態に戻した後、再設定せずに放置している場合。この状態では固定のSSIDとパスワードで製品にアクセスできるため、近くにいる攻撃者が接続できてしまう。</p>
+<p>機器は個人情報など機密情報を保持していないため、これらの情報の漏えいの恐れはない</p>
+<p>各端末をWi-Fiルータに接続し、製品が開くアクセスポイントを閉じることが対策の第一歩。その上で、各家電の専用アプリからアダプタソフトを更新すれば、脆弱性を修正できる。</p>
+<p>ルータを持っていない場合は、Wi-Fi機能を無効にすることで回避できる。各機種の対策方法は、資料（<a class="link" href="https://www.mitsubishielectric.co.jp/psirt/vulnerability/pdf/2026-001.pdf"  target="_blank" rel="noopener"
+    >PDF</a>）を通じて対策方法を案内している。</p>
+<p>日本向けエアコンの対策版ソフトウェアはすでに公開済みだが、一部は今後公開する予定。一部の旧モデルは対策バージョンを公開する予定がないため、Wi-Fiルータに接続して使うか、Wi-Fi接続機能を無効化する必要がある。</p>
+<p>Copyright © ITmedia, Inc. All Rights Reserved.</p>
+<p>Special</p>
+<p>PRメールマガジンのお知らせ</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
