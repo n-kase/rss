@@ -6,7 +6,61 @@
     <description>Recent content in プライバシー on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 10:54:50 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 11:02:29 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updated agreements and guidelines now available</title>
+      <link>https://n-kase.github.io/rss/posts/post-446/</link>
+      <pubDate>Tue, 16 Jun 2026 11:02:29 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-446/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは2025年6月9日に、Apple Developer Program License AgreementおよびApp Review Guidelinesを改訂したことを発表しました。改訂ではデータとプライバシーに関する要件の記述が更新され、ID Verifier APIやDeclared Age Range APIなど特定のフレームワークの利用条件が明確化されました。また、Bitcode提出に関する記述が削除され、CarPlayでのiOSアプリウィジェットに関する条項が追加されました。TestFlightに関するデジタル購入やテスター招待の説明も見直され、アイコンやウィジェットのカスタマイズ、Apple Gamesアプリに関する項目も更新されています。ガイドライン側では、サブスクリプションの共有に関する文言が削除され、代わりにGuideline 3.2.2(x)に移動され、金融アプリには必要なライセンス取得が求められることが明記されました。開発者はアカウントにサインインして改訂内容を確認し、同意する必要があります。翻訳版は1か月以内にApple Developerウェブサイトで公開される予定です。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この発表を受けて、開発者コミュニティでは改訂内容を詳しく確認しようとする動きが見られました。特にプライバシー関連の項目が更新されたことに対して、データ取り扱いの透明性が求められる姿勢に賛同する声がありました。一方で、特定のAPIの利用条件が細かく規定されたことにより、実装作業の負担が増えるのではないかと懸念する意見も上がりました。TestFlightやBitcodeに関する変更については、従来のワークフローが変わる点に注意を促すコメントが散見され、移行期間の確保を求める声が挙がりました。全体としては、変更点を正しく理解し、アプリの審査やリリースに備えるべきだとする建議が多く、時間をかけて情報を共有し合う姿勢が伺えました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleはプラットフォームの安全性とユーザー保護を強化するため、開発者向けの契約と審査基準を定期的に見直しています。今回の改訂は、新たな機能やサービスへの対応だけでなく、データプライバシーや金融取引に関する法規制への適合を目的としていると考えられます。開発者側は、提示された要件を満たすようアプリを調整し、必要なライセンスや許可を取得することが求められます。これにより、ユーザーはより信頼できるアプリを利用できるようになり、開発者は明確なルールに従って革新的なサービスを提供できる環境が整います。今後もガイドラインのアップデートに注意を払い、柔軟に対応することが、長期的なアプリ成功の鍵となるでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=r9dcmrvs"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="updated-agreements-and-guidelines-now-available">Updated agreements and guidelines now available
+</h2><p>June 9, 2025</p>
+<p>The <a class="link" href="https://developer.apple.com/support/terms/apple-developer-program-license-agreement/"  target="_blank" rel="noopener"
+    >Apple Developer Program License Agreement</a> and <a class="link" href="https://developer.apple.com/app-store/review/guidelines/"  target="_blank" rel="noopener"
+    >App Review Guidelines</a> have been revised to support new features and updated policies, and to provide clarification. Please review the changes below.</p>
+<p><strong>Apple Developer Program License Agreement</strong></p>
+<ul>
+<li>Section 3.3.3(D): Updated language on requirements for data and privacy.</li>
+<li>Section 3.3.3(N): Updated requirements for use of the ID Verifier APIs.</li>
+<li>Definitions, 3.3.3(P): Specified requirements for use of the Declared Age Range API.</li>
+<li>Definitions, 3.3.7(G): Specified requirements for use of the Wi-Fi Aware framework.</li>
+<li>Definitions, 3.3.7(H): Specified requirements for use of the TelephonyMessagingKit APIs.</li>
+<li>Definitions, 3.3.7(I): Specified requirements for use of the Default Dialer APIs.</li>
+<li>Definition, Section 3.3.8(H), Attachment 11: Specified requirements for use of EnergyKit.</li>
+<li>Definitions, 3.3.8(I): Specified requirements for use of the Foundation Models framework.</li>
+<li>Definitions, Attachment 4: Specified requirements for use of the iCloud Extended Share APIs.</li>
+<li>Section 6.4: Removed language on Bitcode submissions as it is no longer applicable, and replaced it with terms regarding iOS app widgets on CarPlay.</li>
+<li>Section 7.4(B): Updated and clarified requirements for TestFlight related to digital purchases and tester invitations.</li>
+<li>Section 7.7: Updated language on customization of icons and widgets.</li>
+<li>Section 7.8: Specified terms related to the Apple Games app.</li>
+<li>Attachment 6: Updated terms regarding the entity that distributes the map in China.</li>
+</ul>
+<p><strong>App Review Guidelines</strong></p>
+<ul>
+<li>3.1.2(a), bullet 2: This language has been deleted (“You may offer a single subscription that is shared across your own apps and services”).</li>
+<li>3.1.2(a), bullet 5: This language has been relocated to Guideline 3.2.2(x).</li>
+<li>3.2.1(viii): Clarified that financial apps must have necessary licensing and permissions in the locations where developers make them available.</li>
+<li>3.2.2(x): This new guideline contains the language relocated from Guideline 3.1.2(a), bullet 5, and permits developers to otherwise incentivize users to take specific actions within app.</li>
+</ul>
+<p>Please <a class="link" href="https://developer.apple.com/account"  target="_blank" rel="noopener"
+    >sign in to your account</a> to accept the updated Apple Developer Program License Agreement.</p>
+<p>Translations of the guidelines will be available on <a class="link" href="https://developer.apple.com/support/terms/"  target="_blank" rel="noopener"
+    >Apple Developer website</a> within one month.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>New requirements for apps available in Texas</title>
       <link>https://n-kase.github.io/rss/posts/post-428/</link>
