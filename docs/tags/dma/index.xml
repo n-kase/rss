@@ -1,0 +1,37 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DMA on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/dma/</link>
+    <description>Recent content in DMA on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 11:29:36 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/dma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Changes for apps in the EU now available in iPadOS 18 beta 2</title>
+      <link>https://n-kase.github.io/rss/posts/post-515/</link>
+      <pubDate>Tue, 16 Jun 2026 11:29:36 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-515/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2024年6月24日にAppleは、欧州連合（EU）向けのアプリに変更を加える仕組みが、現在iOSユーザーに提供されている状態から、iPadOS 18ベータ2およびXcode 16ベータ2でもテストできるようになったと発表しました。この変更は、EUのデジタル市場法（DMA）に対応するためのもので、アプリの配信やブラウザーエンジンに関する特定の権限（エンタイトルメント）を扱う追加文書にもiPadOSが含まれるように更新されました。すでにこれらの追加文書に同意している開発者は、更新された利用規約に再署名する必要があります。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>EUはデジタル市場法を施行し、大手プラットフォーム企業に対してアプリストアやブラウザーの選択肢を提供するよう求めています。Appleはこの規制に従う形で、開発者が新しい仕組みを実際のデバイスで試せる環境を整備し、フィードバックを得やすくしました。これにより、EU内の開発者はアプリの配布方法やブラウザーエンジンの選択肢を柔軟に検討でき、市場の競争が促進されることが期待されます。結論として、Appleの今回の対応は規制遵守のための技術的調整であり、開発者にとっては新たなビジネス機会を探るきっかけとなるでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=vbmd38t5"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="Changes for apps in the EU now available in iPadOS\u00a018 beta\u00a02" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/d1bdbf4b0124c7a25021690401ccdda8.png"></p>
+<h2 id="changes-for-apps-in-the-eu-now-available-in-ipados-18-beta-2">Changes for apps in the EU now available in iPadOS 18 beta 2
+</h2><p>June 24, 2024</p>
+<p>The <a class="link" href="https://developer.apple.com/support/dma-and-apps-in-the-eu"  target="_blank" rel="noopener"
+    >changes for apps in the European Union (EU)</a>, currently available to iOS users in the 27 EU member countries, can now be tested in iPadOS 18 beta 2 with Xcode 16 beta 2.</p>
+<p>Also, the Web Browser Engine Entitlement Addendum for Apps in the EU and Embedded Browser Engine Entitlement Addendum for Apps in the EU now include iPadOS. If you’ve already entered into either of these addendums, be sure to sign the updated terms.</p>
+<p>Learn more about the recent changes:</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
