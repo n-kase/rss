@@ -1,0 +1,39 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>モバイルワークステーション on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+    <description>Recent content in モバイルワークステーション on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 14:36:10 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>デル、14型と16型のモバイルワークステーション</title>
+      <link>https://n-kase.github.io/rss/posts/post-838/</link>
+      <pubDate>Tue, 16 Jun 2026 14:36:10 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-838/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>デル・テクノロジーズは2026年6月16日に、モバイルワークステーションの新製品「Dell Pro Precision 5 14S」および「Dell Pro Precision 5 16S」を発売しました。14Sは14インチ、16Sは16インチのディスプレイを搭載し、解像度は1,920×1,200ドットまたは2,560×1,600ドットから選択可能です。タッチ機能の有無や日本語配列・英語配列のキーボードも選べます。筐体はアルミニウム製で、MIL-STD 810H規格の耐久テストをクリアしています。最上位構成では、Intel Core Ultra X9 388HプロセッサーにIntel Arc Pro B390 GPUと50TOPSのNPUを組み合わせ、Intel vProプラットフォームに対応します。また、最大64GBのメモリ、2TBのSSD、5Gモデムなどもオプションで選べます。価格は14Sが34万3,962円から、16Sが37万7,291円からとなっています。本体サイズと重量は、14Sが約315.5×226×10.8～19.1mmで約1.42kg、16Sが約358.6×253.4×10.88～19.95mmで約1.9kgです。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>近年、リモートワークや出張が増える中で、場所を問わず高い演算能力が求められる場面が増えています。デルの新製品は、プロフェッショナル向けの高性能CPUとGPU、さらにAI処理を補助するNPUを搭載することで、データ解析や3Dモデリング、ビデオ編集などの負荷の大きい作業を外出先でも快適に行えるように設計されています。堅牢なアルミニウム筐体と軍事規格相当の耐久性は、過酷な環境でも信頼性を高めるポイントです。これにより、クリエイターやエンジニアなど、従来はデスクトップに頼らざるを得なかったユーザー層にも、モバイルでの作業環境を提供することが期待されます。今後は、こうした高性能モバイルワークステーションの需要がさらに拡大し、ワークスタイルの柔軟性向上に寄与すると考えられます。</p>
+<p><a class="link" href="https://pc.watch.impress.co.jp/docs/news/2117484.html"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>ニュース</p>
+<h1 id="デル14型と16型のモバイルワークステーション">デル、14型と16型のモバイルワークステーション
+</h1><p>2026年6月16日 14:05</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9a372d5edb7366c9992eaeff984b8bf0.jpg"></p>
+<p>デル・テクノロジーズは、高性能CPUを採用したモバイルワークステーション「Dell Pro Precision 5 14S」と「Dell Pro Precision 5 16S」を発売した。価格は14Sが34万3,962円より、16Sが37万7,291円より。</p>
+<p>それぞれ最上位の構成では、50TOPSのNPUとIntel Arc Pro B390 GPUを内蔵し、Intel vProプラットフォームに対応するCore Ultra X9 388Hプロセッサーを搭載。そのほか、64GBのメモリや、2TBのSSD、5Gモデムなども搭載可能で、場所を問わず高い性能を発揮できる。</p>
+<p>ディスプレイサイズは、14Sが14型、16Sが16型で、解像度(1,920×1,200ドット/2,560×1,600ドット)やタッチの有無などを選択可能。キーボードも日本語配列と英語配列を選べる。筐体はアルミニウム製カバーを採用し、MIL-STD 810H規格のテストを実施済み。</p>
+<p>本体サイズと最小重量は14Sが315.5×226×10.8～19.1mm/約1.42kg、16Sが358.6×253.4×10.88～19.95mm/1.9kg。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/a384a4f3cfa04663cf2d402662f2e355.jpg"></p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
