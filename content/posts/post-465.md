@@ -1,0 +1,89 @@
+---
+title: "Tax and price updates for apps, In-App Purchases, and subscriptions"
+description: "概要と事実 2025年2月6日にAppleは、App Storeにおけるアプリおよびアプリ内課金（In‑App Purchase）の価格と開発者への収益に関する税金の更新を発表しました。この更新では、アゼルバイジャンとペルーで付加価値..."
+date: 2026-06-16T11:09:53+09:00
+categories: ["ビジネス"]
+tags: ["App Store", "税金更新", "VAT", "日本消費税", "価格調整"]
+image: "/rss/downloaded_images/cbbc31616b431a9282b1de88227a7793.png"
+---
+
+## AIによる要約
+
+### 概要と事実
+2025年2月6日にAppleは、App Storeにおけるアプリおよびアプリ内課金（In‑App Purchase）の価格と開発者への収益に関する税金の更新を発表しました。この更新では、アゼルバイジャンとペルーで付加価値税（VAT）が18％に導入され、スロバキアでは標準VATが20％から23％に引き上げられるとともに、電子書籍に対する減税VATが5％に設定されました。また、エストニアではニュース出版物や雑誌などの期間刊行物に対する減税VATが5％から9％に、フィンランドでは電子書籍に対する減税VATが10％から14％に引き上げられました。これらの変更は、Paid Applications AgreementのExhibit Bに反映され、Appleがアゼルバイジャンとペルーでの適用税金を徴収・納付することを示しています。さらに、2025年2月24日からアゼルバイジャンとペルーのストアフロントでは、開発者がベース価格として選択していない場合に価格が自動調整され、ベースとして選択しているストアフロントでは価格が変更されません。自動更新サブスクリプションについては価格変更が適用されず、開発者が手動で価格を管理している場合も同様です。2025年4月1日からは、日本の税制改正に基づき、日本国内で非日本開発者が販売する有料アプリおよびアプリ内課金（ゲーム内コインなども含む）に対して、AppleがSpecified Platform Operatorとして10％の日本消費税（JCT）を徴収・納付する仕組みが導入されます。これにより、開発者の収益が調整され、4月1日以前に販売された前払い式支払い手段（コインなど）については課税の対象外となります。
+
+### ネットの反応と意見の変遷
+この記事にはネットの反応は含まれていません。
+
+### 背景と結論
+今回の税金および価格の更新は、各国の税制変動や為替レートの変化に対応するために行われており、開発者がグローバルに一貫した価格設定を維持しやすくする狙いがあります。特に日本でのプラットフォーム課税の導入は、海外開発者が日本市場で得る収益に直接影響を与え、税務処理の負担がApple側に移る形となります。これにより、開発者は価格設定や収益予測をより容易に行える一方で、税金の変更に伴う価格変動に注意する必要があります。全体として、税制の国際的な調和とデジタル商取引の透明性を高める動きの一環として評価できます。
+
+[🔗 元記事を読む](https://developer.apple.com/news/?id=bdl07n0d)
+
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+
+
+
+![Tax and price updates for apps, In-App Purchases, and subscriptions](/rss/downloaded_images/d20649009dd819404ef35d58a59a66a6.png)
+
+
+
+## Tax and price updates for apps, In-App Purchases, and subscriptions
+
+February 6, 2025
+
+The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.
+
+From time to time, we may need to adjust prices or your proceeds due to changes in tax regulations or foreign exchange rates. These adjustments are made using publicly available exchange rate information from financial data providers to help make sure prices for apps and In-App Purchases stay consistent across all storefronts.
+
+### Tax and pricing updates for February
+
+**As of February 6:**
+
+Your proceeds from the sale of eligible apps and In‑App Purchases have been modified in:
+
+- Azerbaijan: value-added tax (VAT) introduction of 18%
+- Peru: VAT introduction of 18%
+- Slovakia: Standard VAT rate increase from 20% to 23%
+- Slovakia: Reduced VAT rate introduction of 5% for ebooks
+- Estonia: Reduced VAT rate increase from 5% to 9% for news publications, magazines, and other periodicals
+- Finland: Reduced VAT rate increase from 10% to 14% for ebooks
+
+Exhibit B of the Paid Applications Agreement has been updated to indicate that Apple collects and remits applicable taxes in Azerbaijan and Peru.¹
+
+**As of February 24:**
+
+Pricing for apps and In-App Purchases will be updated for the Azerbaijan and Peru storefronts if you haven’t selected one of these as the base for your app or In‑App Purchase.² These updates also consider VAT introductions listed in the tax updates section above.
+
+If you’ve selected the Azerbaijan or Peru storefront as the base for your app or In-App Purchase, prices won’t change. On other storefronts, prices will be updated to maintain equalization with your chosen base price.
+
+Prices won’t change in any region if your In‑App Purchase is an auto‑renewable subscription. Prices also won’t change on the storefronts where you manually manage prices instead of using the automated equalized prices.
+
+The Pricing and Availability section of Apps has been updated in [App Store Connect](https://appstoreconnect.apple.com/login) to display these upcoming price changes. As always, you can change the prices of your apps, In‑App Purchases, and auto‑renewable subscriptions at any time.
+
+**Learn more about managing your prices**
+
+[View or edit upcoming price changes](https://developer.apple.com/help/app-store-connect/manage-app-pricing/schedule-price-changes#view-or-edit-upcoming-price-changes)
+
+[Edit your app’s base country or region](https://developer.apple.com/help/app-store-connect/manage-app-pricing/set-a-price#edit-your-apps-base-country-or-region)
+
+[Pricing and availability start times by country or region](https://developer.apple.com/help/app-store-connect/reference/app-store-pricing-and-availability-start-times-by-country-or-region/)
+
+[Set a price for an In-App Purchase](https://developer.apple.com/help/app-store-connect/manage-in-app-purchases/set-a-price-for-an-in-app-purchase)
+
+**Beginning April 1:**
+
+As a result of last year’s [change in Japan’s tax regulations](https://www.nta.go.jp/english/taxes/consumption_tax/05.htm), Apple (through iTunes K.K. in Japan) is now designated as a Specified Platform Operator by the Japan tax authority. All paid apps and In-App Purchases, (including game items, such as coins) sold by non-Japan-based developers on the App Store in Japan will be subject to the platform tax regime. Apple will collect and remit a 10% Japanese consumption tax (JCT) to the National Tax Agency JAPAN on such transactions at the time of purchase. Your proceeds will be adjusted accordingly.
+
+Please note any prepaid payment instruments (such as coins) sold prior to April 1, 2025, will not be subject to platform taxation, and the relevant JCT compliance should continue to be managed by the developer.
+
+For specific information on how the JCT affects in-game items, see Question 7 in the Tax Agency of Japan’s [Q&A about Platform Taxation of Consumption Tax](https://www.nta.go.jp/english/taxes/consumption_tax/PFQA_en_foreign.pdf).
+
+**Learn more about your proceeds**
+
+*¹ Translations of the updated agreement are available on the Apple Developer website today.*
+
+*² Excludes auto-renewable subscriptions.*
+
+</details>

@@ -6,7 +6,37 @@
     <description>Recent content in テクノロジー on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:08:47 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 11:09:22 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New features for APNs token authentication are now available</title>
+      <link>https://n-kase.github.io/rss/posts/post-463/</link>
+      <pubDate>Tue, 16 Jun 2026 11:09:22 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-463/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2025年2月17日にAppleは、Apple Push Notification service（APNs）のトークン認証に新しい機能を追加したことを発表しました。チームスコープキーと呼ばれる機能により、トークン認証キーを開発環境または本番環境のいずれかに限定できるため、キーの使用環境を明確に分離し、セキュリティを強化できます。また、トピックスコープキーと呼ばれる機能により、各キーを特定のバンドルIDに関連付けることが可能になり、複数のアプリを管理する大規模な組織でもキー管理が整理しやすくなります。既存のキーは引き続きすべてのプッシュトピックと環境で機能し、新しい機能を利用したい場合のみキーの更新が必要です。詳細な手順については、Appleのドキュメント「Establishing a token‑based connection to APNs」を参照できます。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネットの反応は含まれていません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>APNsはiOSアプリにおけるプッシュ通知の基盤であり、トークンベースの認証は開発者にとって安全な通信チャネルを確保する重要な手段です。今回の追加機能は、環境ごとのキー分離やバンドルIDごとの細かい管理を可能にし、特に多数のアプリを抱える企業やチームにおいて運用のミスを減らし、セキュリティリスクを低減する効果が期待されます。既存のキーがそのまま使えるため、移行の負担が少なく、必要に応じて新しい機能を段階的に導入できる柔軟性があります。これにより、開発者はより安全かつ効率的にプッシュ通知の仕組みを維持・拡張できるでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=wy4tb0uo"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="New features for APNs token authentication are now available" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e51ef68fa667a9c45d748408f4d4a7a8.png"></p>
+<h2 id="new-features-for-apns-token-authentication-are-now-available">New features for APNs token authentication are now available
+</h2><p>February 17, 2025</p>
+<p>You can now take advantage of upgraded security options when creating new token authentication keys for the Apple Push Notification service (APNs).</p>
+<p><strong>Team-scoped keys</strong> enable you to restrict your token authentication keys to either development or production environments, providing an additional layer of security and ensuring that keys are used only in their intended environments.</p>
+<p><strong>Topic-specific keys</strong> provide more granular control by enabling you to associate each key with a specific bundle ID, allowing for more streamlined and organized key management. This is particularly beneficial for large organizations that manage multiple apps across different teams.</p>
+<p>Your existing keys will continue to work for all push topics and environments. At this time, you don’t have to update your keys unless you want to take advantage of the new capabilities.</p>
+<p>For detailed instructions on how to secure your communications with APNs, read <a class="link" href="https://developer.apple.com/documentation/usernotifications/establishing-a-token-based-connection-to-apns"  target="_blank" rel="noopener"
+    >Establishing a token-based connection to APNs</a>.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>New requirement for apps on the App Store in the European Union</title>
       <link>https://n-kase.github.io/rss/posts/post-462/</link>
