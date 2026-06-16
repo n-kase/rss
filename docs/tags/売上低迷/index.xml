@@ -1,0 +1,60 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>売上低迷 on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/%E5%A3%B2%E4%B8%8A%E4%BD%8E%E8%BF%B7/</link>
+    <description>Recent content in 売上低迷 on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 12:18:18 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E5%A3%B2%E4%B8%8A%E4%BD%8E%E8%BF%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steamの売上大苦戦ゲーム開発者が「開発に3年かけて売れたのは77本」と悲痛な報告。宣伝の手ごたえはあるのに“購入の壁”は厚く - AUTOMATON</title>
+      <link>https://n-kase.github.io/rss/posts/post-626/</link>
+      <pubDate>Tue, 16 Jun 2026 12:18:18 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-626/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Mystik’artは5月27日に滑空アドベンチャーゲーム『Mesoké』をリリースしました。開発には3年を費やしましたが、リリースから2週間以上が経過した時点では購入本数がわずか77本にとどまっています。Steamでのウィッシュリスト登録数は2800件で、そのうち800件はリリース後に追加されたものです。ゲームは幻想的な風景を滑空しながら探索するアドベンチャーで、プレイヤーは「Chi」と呼ばれる生命エネルギーを集めて内なる宮殿を成長させ、新たなエリアを開放していきます。定価は税込1900円で、PC（Steam）向けに配信中です。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>開発者の売上報告の投稿はSNSで拡散され、執筆時点では500件以上のリポスト、2500件以上のいいね、85万回以上のインプレッションを獲得しています。リプレイも500件以上あり、ゲームの美しい色彩や光の表現を称賛する声がある一方で、トレイラーからゲーム内容が伝わりにくいという指摘や、価格が高く感じられたという実際に購入したユーザーの感想も見られました。また、Redditのインディー開発者コミュニティでの紹介投稿は約200件のUpvoteを獲得し、肯定的なコメントが多かったことが報告されています。こうした反応は、開発への共感と同時に、購入に至らない要因についての議論を呼んでいます。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>ウィッシュリスト登録数が多くても実際の売上に結びつかない事例は過去にもあり、ウィッシュリストは購入意向の一つの指標に過ぎず、確実な予測数式は存在しないことが指摘されています。今回のケースでは、開発者の熱意やプロモーション活動が認められたものの、購入の「壁」が厚く、ゲームの魅力が十分に伝わらなかった可能性があります。これにより、インディーゲームにおけるマーケティングの難しさや、ユーザーにゲームの内容をわかりやすく示すことの重要性が改めて浮き彫りになりました。今後の売上推移やアップデートによる反応次第では、長期的に評価が高まる可能性も残されています。</p>
+<p><a class="link" href="https://automaton-media.com/articles/newsjp/20260615-449860/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p>Global Sites</p>
+<h1 id="steamの売上大苦戦ゲーム開発者が開発に3年かけて売れたのは77本と悲痛な報告宣伝の手ごたえはあるのに購入の壁は厚く">Steamの売上大苦戦ゲーム開発者が「開発に3年かけて売れたのは77本」と悲痛な報告。宣伝の手ごたえはあるのに“購入の壁”は厚く
+</h1><p>Mystik&rsquo;artは5月27日、滑空アドベンチャーゲーム『Mesoké』をリリースしたものの、本作の売上はこれまで77本にとどまるという。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/acaf6d7815bb1b59da094c5833489b74.jpg"></p>
+<p>デベロッパーのMystik’artは5月27日、滑空アドベンチャーゲーム**『<strong><strong>Mesoké</strong></strong>』**をリリースした。それから2週間あまり後にSNSに投稿された開発者のポストが話題となっている。本作の開発に3年かけたのに、売れたのは77本なのだという。</p>
+<p>『Mesoké』は、幻想的な風景の中を滑空して探索するアドベンチャーゲームである。プレイヤーはMesokéという女性として、心の内面に広がる幻想的な世界を旅することになる。凧のような乗り物で空を飛び、生命エネルギーである「Chi」を集めることで、内なる宮殿が成長して新たなエリアが解放されていく。特徴的なのは滑空する飛行システムで、地面や障害物ぎりぎりにあるChiを入手するためには危険を冒す必要があるが、ぶつかってしまうとそれまでの滑空で入手したChiを失ってしまう。集中し、リスクとリターンを秤にかけて、静かに自分を見つめ直すような時間を味わえる作品となっている。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/32e0fd9a343ca5e7d07c66546c602c39.jpg"></p>
+<p>今回、そんな本作が売れた本数を紹介する開発者の<a class="link" href="https://x.com/Mystikart_/status/2065775533619585225"  target="_blank" rel="noopener"
+    > ポスト</a>が話題だ。同ポストによれば、開発に3年かけたにも関わらず、リリースから2週間以上が経っても売れたのは77本。Steamのウィッシュリスト登録数は2800件あり、そのうち800件はリリース後に登録されたものだという。開発者のMystik’art氏は悲しみをあらわにしつつも、こうした状況を踏まえてどう思うのか率直な意見を求めている。</p>
+<p>Mystik’art氏も、本作のリリースまでに手をこまねいていたわけではなく、本作をアピールするためにさまざまな策を講じてきたようだ。YouTubeやTikTokへの動画投稿ではトレイラーだけでなくデモ版や正式版が紹介されており、地面すれすれを狙った滑空によるスリリングで浮遊感あるゲームプレイを<a class="link" href="https://www.youtube.com/watch?v=dIH0a0poZiU"  target="_blank" rel="noopener"
+    > 確認できる</a>。また、リリース直後には開発者の友人を名乗るユーザーが、海外掲示板Redditに本作を紹介する内容を</p>
+<p><a class="link" href="https://www.reddit.com/r/IndieDev/comments/1tqyq7g/my_friend_spent_years_making_a_dreamlike_flying/"  target="_blank" rel="noopener"
+    >し、約200件のUpvote（いいねに相当）を獲得している。同投稿に寄せられているコメントも肯定的なものが多く、色彩や光といった表現が特に好評を受けている様子だ。筆者としてはありがたいことに、報道機関向けの資料もしっかりとまとめられていた。しかし、そうした努力の結果が、77本という売り上げだったわけだ。</a></p>
+<p><strong>投稿</strong></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/22cb9963a4439c2c05bd97074916ab1b.jpg"></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/dc9c5bede3914e02a3e604bdccb567b3.jpg"></p>
+<p>その後、Mystik’art氏が売り上げ本数を紹介するポストは広く拡散されることとなり、本稿執筆時点で500件のリポスト、2500件以上のいいね、85万回以上のインプレッションを獲得している。リプライも500件以上あり、ゲーム自体を褒める声とともに多くの意見が寄せられている。今後長期的に売れる可能性を秘めた作品であるという励ましや、トレイラーを見てもどんなゲームなのか伝わりにくいという指摘、ゲーム内容に対して価格が高く感じたという実際に購入してプレイしてみた感想など、その内容はさまざまだ。</p>
+<p>なお、本作の2800件というウィッシュリスト登録数は一定の注目を集めたと言える数字だが、過去には開発に7年かけてウィッシュリスト登録数が3万5000件以上あったにも関わらず、初週の売り上げがその1％未満の300本に満たなかった例も存在する（<a class="link" href="https://automaton-media.com/articles/newsjp/20260414-437278/"  target="_blank" rel="noopener"
+    > 関連記事</a>）。多くのウィッシュリスト登録を獲得しても必ずしも売れるとは限らず、ウィッシュリスト登録数2800件に対して実際の売り上げが77本だったというのは、割合として低いとも言い切れないわけだ。Valveもウィッシュリストに関して、売り上げを正確に予測するための数式はないと案内しており（</p>
+<p><a class="link" href="https://partner.steamgames.com/doc/marketing/wishlist"  target="_blank" rel="noopener"
+    >Steamworksドキュメント</a>）、ウィッシュリスト登録数がどの程度売り上げに繋がるのかを示すコンバージョン率は長期にわたって分析されてきたものの、やはり売り上げ本数を推測することは難しいという見方がある。それでもウィッシュリスト登録数は根強く開発者間では一定の指標として用いられており、これまでにもコンバージョン率は、開発者たちにとって興味の的となってきた（</p>
+<p><a class="link" href="https://automaton-media.com/articles/newsjp/steam-20251024-362941/"  target="_blank" rel="noopener"
+    >）。</a></p>
+<p>__関連記事__本作もリリース直後の初動として、Mystik’art氏がウィッシュリスト登録数などから想定していたよりも厳しい経過を辿っているようだ。とはいえ、今回のポストによって本作に「苦労した開発者のエピソード」が加わり、開発者自身の存在がPRとして機能し始めている<a class="link" href="https://x.com/Mystikart_/status/2066375074970567016"  target="_blank" rel="noopener"
+    > 様子</a>だ。またウィッシュリストについては、発売日に購入する目的で登録する場合もあれば、セール開始やアップデート実施のタイミングの通知用など、ユーザーによって登録する目的はさまざま。売り上げの伸びも含め、本作がどのような展開を見せるのかMystik’art氏の今後の報告にも注目したい。</p>
+<p>『Mesoké』はPC（<a class="link" href="https://store.steampowered.com/app/3239940/Mesok/"  target="_blank" rel="noopener"
+    > Steam</a>）向けに、定価の税込1900円で配信中だ。</p>
+<p>この記事にはアフィリエイトリンクが含まれる場合があります。</p>
+</details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>

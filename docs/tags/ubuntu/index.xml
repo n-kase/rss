@@ -1,0 +1,214 @@
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on ms02 AI Assistant Blog Posts Project</title>
+    <link>https://n-kase.github.io/rss/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on ms02 AI Assistant Blog Posts Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 16 Jun 2026 12:18:34 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fable 5停止をきっかけにUbuntuでGemma 4 E2Bを動かした記録</title>
+      <link>https://n-kase.github.io/rss/posts/post-627/</link>
+      <pubDate>Tue, 16 Jun 2026 12:18:34 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-627/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Claude Fable 5という生成AIサービスが突然利用できなくなったことをきっかけに、著者はクラウドサービスに依存しないローカル環境を整えることを考えました。Ubuntu 22.04.5 LTS上にOllamaをインストールし、軽量なGemma 4 E2Bモデルを動作させる手順を記録しています。具体的には、curlでOllamaのインストールスクリプトを実行し、バージョンを確認した後、systemdサービスとして起動していることを確認しました。その後、<code>ollama run gemma4:e2b</code>コマンドでモデルを取得・実行し、日本語でディスク容量やメモリ使用量の確認方法を質問したところ、適切な回答が返ってきたことを報告しています。また、必要に応じてより大きなサイズのモデルへ切り替える方法や、API経由での呼び出し、不要になったモデルの削除方法も併せて説明しています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>クラウドベースの生成AIサービスが予期せず利用停止になるリスクに備え、手元のハードウェアでも最低限の作業が続けられる環境を作ることが目的でした。GTX 1650の4GB VRAMという制約がある中で、軽量かつ実行しやすいGemma 4 E2Bを選んだのは、導入のハードルを下げつつ基本的な質問応答やコマンド確認に十分な性能を見込めたからです。Ollamaを使うことでモデルの取得から実行、API呼び出しまでが比較的簡単に行えることを確認し、ローカルLLMを「避難先」として活用できる可能性を示しました。今後はこの環境をベースに、必要に応じてより大きなモデルや自作ツールへの組み込みを検討することが考えられます。</p>
+<p><a class="link" href="https://zenn.dev/yamadatt/articles/20260614-ubuntu-gemma4-ollama"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="fable-5停止をきっかけにubuntuでgemma-4-e2bを動かした記録">Fable 5停止をきっかけにUbuntuでGemma 4 E2Bを動かした記録
+</h1><p><a class="link" href="/topics/ubuntu" >Ubuntu</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/903f14aec7e11c26adbdb3b6261037e3.png"></p>
+<p><a class="link" href="/topics/ollama" >Ollama</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/691cdf6bb64a2eaa7b70fff2ac68ad85.png"></p>
+<p><a class="link" href="/topics/gemma" >Gemma</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4bbe8f03eeddc1c11c5bc40ef887cfe8.png"></p>
+<p><a class="link" href="/tech-or-idea" >tech</a></p>
+<h2 id="">
+</h2><p>先日、Claude Fable 5が突然使えなくなりました。</p>
+<p>使い始めたばかりのモデルが、こちらの設定ミスではなく外部要因で急に使えなくなる。これはなかなか衝撃でした。</p>
+<p>普段の作業ではクラウドの生成AIサービスにかなり頼っています。ただ、今回の件で「いつ生成AIのサービスが使えなくなるかわからない」という前提も持っておいた方がよさそうだと感じました。</p>
+<p>そこで、最低限ローカルでもなんとかできる環境を用意しておくため、Ubuntu上でGemma 4を動かしてみることにしました。</p>
+<p>今回は、モデル実行環境としてOllamaを使います。Ollamaのモデルライブラリに <code>gemma4:e2b</code> が用意されているため、Ubuntu側ではOllamaを入れて <code>ollama run gemma4:e2b</code> するだけで動かせます。</p>
+<p>この記事は、Fable 5の利用停止をきっかけに、UbuntuへGemma 4 E2Bを導入して簡単に動作確認するまでの作業ログです。</p>
+<h2 id="">
+</h2><p>今回の目的は、「最高性能のローカルLLM環境を作ること」ではありません。</p>
+<p>クラウドの生成AIサービスが突然使えなくなったときに、最低限ローカルでも作業を続けられる状態を作ることです。記事の下書き、コマンド確認、短い相談ぐらいができれば、完全な代替ではなくても退避先としては意味があります。</p>
+<p>その前提で、Gemma 4 E2Bを選びました。</p>
+<p>理由は次のとおりです。</p>
+<ul>
+<li>Ollamaで <code>gemma4:e2b</code>としてすぐ実行できる</li>
+<li>E2BはGemma 4の中でも軽量で、まず試す用途に向いている</li>
+<li>手元のGPUがGTX 1650の4GB VRAMなので、大きいモデルより小さいモデルから始めたかった</li>
+<li>Gemma 4は比較的新しい世代のモデルで、ローカル実行向けの選択肢として試す価値がある</li>
+</ul>
+<p>要するに、今回は「強いモデルを限界まで動かす」よりも、「手元のUbuntuで確実に動くローカルLLMの避難先を作る」ことを優先しました。</p>
+<h2 id="">
+</h2><ul>
+<li>OS: Ubuntu 22.04.5 LTS (jammy)</li>
+<li>実行環境: Ollama</li>
+<li>モデル: Gemma 4 E2B (<code>gemma4:e2b</code>)</li>
+<li>GPU: NVIDIA GeForce GTX 1650 (VRAM 4GB)</li>
+</ul>
+<p>Ubuntuのバージョンは、以下のコマンドで確認しました。</p>
+<pre tabindex="0"><code>lsb_release -a
+</code></pre><p>結果は次のとおりです。</p>
+<pre tabindex="0"><code>No LSB modules are available.
+Distributor ID: Ubuntu
+Description:    Ubuntu 22.04.5 LTS
+Release:        22.04
+Codename:       jammy
+</code></pre><p>GPUは <code>nvidia-smi</code> で確認しました。</p>
+<pre tabindex="0"><code>nvidia-smi
+</code></pre><p>実行結果です。</p>
+<pre tabindex="0"><code>+-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 575.57.08              Driver Version: 575.57.08      CUDA Version: 12.9     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA GeForce GTX 1650        On  |   00000000:01:00.0 Off |                  N/A |
+| 48%   49C    P8              5W /   75W |    1515MiB /   4096MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|    0   N/A  N/A            1003      G   /usr/lib/xorg/Xorg                       24MiB |
+|    0   N/A  N/A            1311      G   /usr/bin/gnome-shell                      7MiB |
+|    0   N/A  N/A            1762      G   /usr/libexec/gnome-initial-setup          2MiB |
+|    0   N/A  N/A          214663      C   ...local/lib/ollama/llama-server       1476MiB |
++-----------------------------------------------------------------------------------------+
+</code></pre><p><code>llama-server</code> が約1.5GBのGPUメモリを使っており、Gemma 4 E2BはGTX 1650の4GB VRAMでも動作しました。</p>
+<p>Gemma 4には複数のサイズがあります。Ollamaでは、軽めに試すなら <code>gemma4:e2b</code>、少し余裕がある環境なら <code>gemma4:e4b</code>、より大きいモデルを試すなら <code>gemma4:12b</code> / <code>gemma4:26b</code> / <code>gemma4:31b</code> という選び方ができます。</p>
+<p>今回は軽めに試したかったので、<code>gemma4:e2b</code> を使いました。</p>
+<h2 id="">
+</h2><p>Ollama公式のLinux向けインストールコマンドを実行します。</p>
+<pre tabindex="0"><code>curl -fsSL https://ollama.com/install.sh | sh
+</code></pre><p>インストール後、バージョンを確認します。</p>
+<pre tabindex="0"><code>ollama --version
+</code></pre><p>以下が出力です。</p>
+<pre tabindex="0"><code>ollama version is 0.30.8
+</code></pre><p>systemdのサービスとして起動しているかも確認しておきます。</p>
+<pre tabindex="0"><code>systemctl status ollama --no-pager
+</code></pre><p>出力は次のとおりです。</p>
+<pre tabindex="0"><code>● ollama.service - Ollama Service
+Loaded: loaded (/etc/systemd/system/ollama.service; enabled; vendor preset: enabled)
+Active: active (running) since Sat 2026-06-13 21:59:28 JST; 6min ago
+Main PID: 209276 (ollama)
+Tasks: 10 (limit: 18819)
+Memory: 147.7M
+CPU: 2.123s
+CGroup: /system.slice/ollama.service
+└─209276 /usr/local/bin/ollama serve
+Hint: Some lines were ellipsized, use -l to show in full.
+</code></pre><p><code>active (running)</code> になっていればOKです。</p>
+<p>もし起動していなければ、以下で起動します。</p>
+<pre tabindex="0"><code>sudo systemctl enable --now ollama
+</code></pre><h2 id="">
+</h2><p>OllamaでGemma 4 E2Bを実行します。</p>
+<pre tabindex="0"><code>ollama run gemma4:e2b
+</code></pre><p>初回実行時はモデルのダウンロードが走るため、しばらく待ちます。ダウンロードが終わると、そのまま対話できるようになります。</p>
+<p>試しに日本語で質問してみました。</p>
+<pre tabindex="0"><code>&gt;&gt;&gt; Ubuntuでディスク容量を確認するコマンドを教えて
+</code></pre><p><code>df -h</code> や <code>du -sh</code> を使う、という内容の回答が返ってきました。日本語で聞いて日本語で返ってくるので、ちょっとした作業メモやコマンド確認には普通に使えそうです。</p>
+<h2 id="">
+</h2><p>今回使った <code>gemma4:e2b</code> より少し大きいモデルを試すなら、<code>e4b</code> も候補です。</p>
+<pre tabindex="0"><code>ollama run gemma4:e4b
+</code></pre><p>さらに大きいモデルでは、<code>12b</code> や <code>26b</code>、<code>31b</code> も用意されています。</p>
+<pre tabindex="0"><code>ollama run gemma4:12b
+</code></pre><p>Ollama公式ライブラリ（<a class="link" href="https://ollama.com/library/gemma4"  target="_blank" rel="noopener"
+    >gemma4</a>）で確認できる主なサイズは以下のとおりです。</p>
+<table>
+	<thead>
+			<tr>
+					<th>タグ</th>
+					<th>サイズ</th>
+					<th>コンテキスト長</th>
+					<th>備考</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td><code>gemma4:e2b</code></td>
+					<td>7.2GB</td>
+					<td>128K</td>
+					<td>edge向け（Effective 2B）</td>
+			</tr>
+			<tr>
+					<td><code>gemma4:e4b</code></td>
+					<td>9.6GB</td>
+					<td>128K</td>
+					<td>edge向け（Effective 4B）</td>
+			</tr>
+			<tr>
+					<td><code>gemma4:12b</code></td>
+					<td>7.6GB</td>
+					<td>256K</td>
+					<td></td>
+			</tr>
+			<tr>
+					<td><code>gemma4:26b</code></td>
+					<td>18GB</td>
+					<td>256K</td>
+					<td>Mixture-of-Experts（active 4B）</td>
+			</tr>
+			<tr>
+					<td><code>gemma4:31b</code></td>
+					<td>20GB</td>
+					<td>256K</td>
+					<td>Dense</td>
+			</tr>
+	</tbody>
+</table>
+<p>手元のVRAMに合わせて選ぶとよいです。今回のGTX 1650（4GB）では <code>e2b</code> が無難でした。</p>
+<h2 id="">
+</h2><p>OllamaはローカルでAPIサーバーも起動します。デフォルトでは <code>localhost:11434</code> です。</p>
+<pre tabindex="0"><code>curl http://localhost:11434/api/chat \
+-d &#39;{
+&#34;model&#34;: &#34;gemma4:e2b&#34;,
+&#34;messages&#34;: [
+{
+&#34;role&#34;: &#34;user&#34;,
+&#34;content&#34;: &#34;Ubuntuで現在のメモリ使用量を確認するコマンドを教えて&#34;
+}
+]
+}&#39;
+</code></pre><p>CLIだけでなく、スクリプトや自作ツールから呼び出せるのは便利です。ローカルで閉じた簡単な補助ツールを作るときに使えそうです。</p>
+<h2 id="">
+</h2><p>試したあとにディスク容量を空けたい場合は、モデルを削除します。</p>
+<pre tabindex="0"><code>ollama rm gemma4:e2b
+</code></pre><p>ローカルLLMはモデルファイルが大きいので、試し終わったモデルを消せることも覚えておくと安心です。</p>
+<h2 id="">
+</h2><p>Fable 5の突然の利用停止をきっかけに、ローカルLLM環境としてUbuntu上でGemma 4 E2Bを試しました。</p>
+<p>UbuntuにGemma 4を導入するだけなら、Ollama経由がかなり簡単でした。</p>
+<p>やったことは以下です。</p>
+<ul>
+<li></li>
+</ul>
+<h2 id="curl--fssl-httpsollamacominstallsh--shでollamaをインストール"><code>curl -fsSL https://ollama.com/install.sh | sh</code>でOllamaをインストール
+</h2><p><code>ollama run gemma4:e2b</code>でGemma 4 E2Bを取得・実行</p>
+<ul>
+<li>必要に応じて <code>gemma4:e4b</code>や<code>gemma4:12b</code>など別サイズを指定</li>
+<li></li>
+</ul>
+<p><code>localhost:11434</code>のAPIからも呼び出し可能</p>
+<p>まずはCLIで試し、使いどころが見えてきたらAPI経由で既存のツールに組み込む、という流れが良さそうです。</p>
+<p><a class="link" href="https://github.com/yamadatt/zenn/blob/main/articles/20260614-ubuntu-gemma4-ollama.md"  target="_blank" rel="noopener"
+    >GitHubで編集を提案</a></p>
+<h2 id="discussion">Discussion
+</h2></details>
+]]></description>
+    </item>
+    
+  </channel>
+</rss>
