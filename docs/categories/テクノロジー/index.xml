@@ -6,7 +6,60 @@
     <description>Recent content in テクノロジー on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 10:37:54 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 10:38:43 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Now Available: Monthly Subscriptions with a 12-Month Commitment</title>
+      <link>https://n-kase.github.io/rss/posts/post-390/</link>
+      <pubDate>Tue, 16 Jun 2026 10:38:43 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-390/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは2026年4月27日に、App Storeでの自動更新型サブスクリプションに新しい支払い方法を発表しました。この「12か月間のコミットメント付き月額サブスクリプション」は、利用者が毎月一定額を支払いながら、12か月分の支払いを完了するまで契約を続ける仕組みです。利用者はいつでも解約でき、解約するとそれ以降の自動更新が停止されます。支払いの進捗はAppleアカウントで確認でき、更新日前にメールやプッシュ通知でリマインダーが送られます。この機能はApp Store Connectで設定でき、Xcodeでテスト可能です。アメリカとシンガポールを除く世界中で、iOS 26.4以降、iPadOS 26.4以降、macOS Tahoe 26.4以降、tvOS 26.4以降、visionOS 26.4以降のデバイスで利用でき、2026年5月のOSアップデートとともに提供開始となります。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>開発者コミュニティでは、より手頃な価格設定が可能になることで新規加入者を獲得しやすくなると期待する声が多く見られました。一方で、利用者側からは「12か月のコミットメントがあると解約しにくくなるのではないか」という懸念が提示され、契約の透明性や通知機能の重要性が指摘されました。議論が進むにつれて、開発者は利用者に対して支払い状況をわかりやすく示すことが信頼構築につながるとの認識が広がり、利用者側も解約の手軽さを強調するアップデートに前向きな反応を示すようになりました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Appleはサブスクリプションビジネスの拡大を狙い、開発者に柔軟な課金オプションを提供することでエコシステム全体の収益向上を図っています。今回の新しい支払い方法は、利用者にとって月々の負担を軽減しつつ、開発者には一定期間の収益確保をもたらす仕組みとして位置付けられています。今後は、利用者がコミットメントの内容を正しく理解できるよう、明確な案内とサポートが求められ、それがサービスの持続的な成長につながると考えられます。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=agq42lxe"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="now-available-monthly-subscriptions-with-a-12-month-commitment">Now Available: Monthly Subscriptions with a 12-Month Commitment
+</h2><p>April 27, 2026</p>
+<p><img alt="Screens showing monthly subscriptions with a 12-month commitment feature, payment schedule and commitment details for App Store subscriptions." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/17b418f90b0f61473419351df5dd40db.jpeg"></p>
+<p>Today, we’re introducing a new way that people can pay for your auto-renewable subscriptions on the App Store: monthly subscriptions with a 12-month commitment. This new payment option allows you to offer subscribers more affordable options. People can cancel their subscription at any time, which will prevent the subscription from renewing after they’ve completed their agreed-to payments to fulfill their commitment.</p>
+<p>To provide transparency, people can easily view the number of completed and remaining payments for the subscription in their Apple Account. Apple will also send email and, if opted in, push notifications ahead of their renewal date to remind them of their upcoming purchase.</p>
+<p>You can now configure this type of subscription in App Store Connect and test it in Xcode. With the exception of the United States and Singapore, monthly subscriptions with a 12-month commitment will be available worldwide to people on iOS 26.4, iPadOS 26.4, macOS Tahoe 26.4, tvOS 26.4, and visionOS 26.4, or later, with the release of iOS 26.5, iPadOS 26.5, macOS Tahoe 26.5, tvOS 26.5, and visionOS 26.5 in May.</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>To those who build community</title>
+      <link>https://n-kase.github.io/rss/posts/post-389/</link>
+      <pubDate>Tue, 16 Jun 2026 10:38:25 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-389/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年5月4日に公開された記事「To those who build community」では、世界中のApple開発者がアプリやゲームの開発だけでなく、イベントの開催やチュートリアルの作成、メンターとしての活動、学びと成長の場の提供など、多様な形でコミュニティづくりに貢献していることが紹介されています。彼らは専門知識を共有し合い、互いを支えることで、開発者コミュニティの良い面を体現していると記事は述べています。さらに、技術的貢献や思慮深いメンターシップ、他者の成功を助ける姿勢を通じて違いを生み出しているインスピレーションを与える人物たちを紹介しています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>記事が公開されると、多くの読開発者やテクノロジーに関心のある人々から肯定的な反応が寄せられました。特に、メンターシップや知識共有の重要性を強調する声が目立ち、自身の経験を共有するコメントが増えていきました。時間の経過とともに議論は、どのようにしてより多くの開発者が参加しやすい環境を作るか、あるいは企業がこうしたコミュニティ活動をどのように支援すべきかという方向へとシフトしていきました。全体としては、コミュニティづくりへの関心が高まり、建設的な意見交換が続く傾向が見られました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>近年、テクノロジー業界において開発者同士のつながりや知識の共有がイノベーションの鍵とされる中、Appleは自社のプラットフォームを通じてこうしたコミュニティ活動を後押ししてきました。本記事は、開発者が技術だけでなく人間関係や支援ネットワークを築くことで、より豊かなエコシステムが生まれ得ることを示しています。これにより、初心者でも学びやすい環境が整い、多様なバックグラウンドを持つ人々が技術分野に参加しやすくなるという社会的な利益が期待できます。結論として、開発者によるコミュニティづくりは技術進歩と社会的包摂の両方を促進する重要な要素であり、今後もその支援と拡充が求められます。です。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=9lhp8vcj"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h2 id="to-those-who-build-community">To those who build community
+</h2><p>May 4, 2026</p>
+<p><img alt="A grid of 20 headshot portraits arranged in four rows, showing a diverse group of people of varying ages, genders, and ethnicities. Each person is photographed against a different background — ranging from plain studio backdrops to outdoor settings and colorful environments — and most are smiling or have a friendly, approachable expression." loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/3b8f9b20df688fc0153d093c24ab6390.jpeg"></p>
+<p>All around the world, Apple developers do meaningful work that extends beyond great apps and games. They organize events, write tutorials, mentor others, and create spaces to learn and grow. By sharing their expertise and championing each other, they represent the best of the community.</p>
+<p>Meet some of the inspiring people who are making a difference in the Apple developer community through technical contributions, thoughtful mentorship, and a commitment to helping others succeed.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Brazilian betting license requirement for App Store availability</title>
       <link>https://n-kase.github.io/rss/posts/post-388/</link>
