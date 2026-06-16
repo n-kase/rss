@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/7f1eaf537963078dbbe279148385b4bb.jpg"
 [🔗 元記事を読む](https://weekly.ascii.jp/elem/000/004/410/4410619/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # ゲームも動画編集も1台でやりたい人へ！ RTX 5060搭載の15.6型GALLERIAノートが狙い目
 

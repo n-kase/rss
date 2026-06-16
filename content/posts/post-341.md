@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/1a310ef818bd744ea913a6c652e16a27.jpg"
 [🔗 元記事を読む](https://weekly.ascii.jp/elem/000/004/410/4410676/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # Switch 2だけでなくノートPCも出力OK！ 4K/60Hzの画面出力・100W給電・周辺機器の接続ができるコンパクトなTVドック
 

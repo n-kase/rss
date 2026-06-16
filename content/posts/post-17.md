@@ -14,10 +14,10 @@ image: "/rss/downloaded_images/66ed581d6e7dfd0f01b152698e7cf31f.jpg"
 
 したがって、子供のオンライン安全を確保するためには、政府が主導して明確な年齢制限ルールを設け、信頼できる年齢確認技術を普及させるとともに、プラットフォームと保護者が協力してバランスの取れた利用環境を整えることが重要である。これにより、次世代が健全に成長できるデジタル社会の基盤を築くことができるだろう。
 
----
+[🔗 元記事を読む](https://japan.cnet.com/article/35248942/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 英国政府は現地時間6月15日、16歳未満の子供によるソーシャルメディアの利用を禁止する方針を[発表](https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back)した。「子供時代を取り戻す」ための画期的な措置としており、関連法案を年内に議会へ提出し、2027年春の発効を目指す。
 

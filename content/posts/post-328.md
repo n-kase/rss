@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/abda6c1f44363d02dad0c8fe15c78aa3.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/947854?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # iPhoneはAIでここまで変わる──アップルがiOS 27で描く｢次のスマホ体験｣の全貌に迫る
 

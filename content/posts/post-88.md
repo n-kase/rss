@@ -17,10 +17,10 @@ image: "/rss/downloaded_images/8e331c1a918f4551b4c3cd64508a1330.jpg"
 
 したがって、メールを受け取った際はまず送信元を疑い、本文に記載されたURLや連絡手段を使わず、公式サイトから正規の情報を取得するという基本的な対策を徹底すべきです。注意力を過信せず、常に疑問を持って情報を確認する姿勢が、こうした巧妙なフィッシング被害を防ぐ最も有効な手段です。です。
 
----
+[🔗 元記事を読む](https://internet.watch.impress.co.jp/docs/news/2116742.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 ニュース
 

@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/9ae80327c8cc7ca505fa463ae6a10ff0.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/947543?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # ｢本当に破綻しかねない｣兵庫銀行が真夏の資金繰り危機､破綻回避に向けて｢白川課長｣動く
 

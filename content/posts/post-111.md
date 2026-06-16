@@ -20,10 +20,10 @@ image: "/rss/downloaded_images/4e30e04f4b26bf7eb97dd433523250ce.jpg"
 
 ---
 
----
+[🔗 元記事を読む](https://monoist.itmedia.co.jp/mn/articles/2606/15/news018.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 光通信の基礎から応用までを紹介する本連載。第3回は、赤外線発光ダイオードを使って光信号を送受信する実験を行う。
 

@@ -14,10 +14,10 @@ image: "/rss/downloaded_images/99856c757cfb57826c84558f4fe04780.jpg"
 
 したがって、AIを防衛分野に導入する前に、厳格なシミュレーションと倫理的ガイドラインの整備が不可欠です。AIの出力はあくまで物語であり、実際の軍事作戦にそのまま適用するのは危険であるという教訓を得て、開発者と政策立案者は協力してリスクを最小限に抑えるべきです。
 
----
+[🔗 元記事を読む](https://gigazine.net/news/20260615-chatgpt-claude-gemini-nuclear/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # ChatGPT・Claude・Geminiに「冷戦下の戦略会議」をさせたら核兵器を使用してしまったという研究結果
 

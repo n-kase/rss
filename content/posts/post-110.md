@@ -20,10 +20,10 @@ image: "/rss/downloaded_images/4576f9fd1640115870486c86cc05cf7d.jpg"
 
 ---
 
----
+[🔗 元記事を読む](https://www.itmedia.co.jp/news/articles/2606/15/news027.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「[Seamless](https://shiropen.com/)」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・[おね](https://shiropen.com/one/)氏が手掛けている。X：[＠shiropen2](https://x.com/shiropen2)
 

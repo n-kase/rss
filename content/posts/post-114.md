@@ -20,10 +20,10 @@ image: "/rss/downloaded_images/7670498be352e75b8a5331c600651760.jpg"
 
 ---
 
----
+[🔗 元記事を読む](https://www.itmedia.co.jp/business/articles/2606/15/news007.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 【開催期間】2026年7月8日（水）〜8月5日（水）
 

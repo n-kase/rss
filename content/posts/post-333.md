@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/e76667762be808a7c7905db093f091df.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/948069?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 政治・経済・投資 流血の総合格闘技をホワイトハウス南庭で開催…異例ずくめのトランプ大統領80歳誕生日 3分で読める 公開日時：2026/06/15 09:00 （写真：ブルームバーグ） ブルームバーグ フォロー トランプ前大統領が80歳の誕生日を祝い､ホワイトハウスにUFCを招き壮大な格闘技大会を開催。その背後には大統領選と支持基盤強化の策略も見え隠れしますが､批判や安全への懸念も相次ぎます。 続きを読む
 

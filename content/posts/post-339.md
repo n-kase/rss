@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/7495aad8d1909e27a9cbdc786f3cada9.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/946933?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # ｢和語しりとりが趣味｣の外国人夫が"どうしても許せない"ヘンな日本語…漫画『ダーリンは外国人 リマスター版』1話
 

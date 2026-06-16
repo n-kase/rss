@@ -15,8 +15,10 @@ Smart Craftはクラウド型の製造実行システム（MES）を提供する
 ### ネットの反応と意見の変遷
 本件に関するオンラインでの議論では、製造業
 
+[🔗 元記事を読む](https://thebridge.jp/2026/06/smart-craft-raises-funding-from-omron-ventures)
+
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # クラウド製造実行システムのSmart Craft、オムロンベンチャーズより資金調達を実施——事業連携で製造現場 DX を加速
 

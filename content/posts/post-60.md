@@ -14,10 +14,10 @@ image: "/rss/downloaded_images/5c60444a78d781182806fe55d5a5a042.jpg"
 
 したがって、原因不明の頻繁な失神がある場合はためらわずに心臓専門医の診察を受け、最新の治療オプションを検討すべきだという教訓が得られます。患者自身が症状を軽視せず、医療側も革新的なアプローチを積極的に取り入れることで、生活の質を大きく向上させることが可能です。
 
----
+[🔗 元記事を読む](https://gigazine.net/news/20260615-patients-hearts-stopped-innovative-procedure/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # 1日に何度も心臓が止まって失神してしまう女性の生活が革新的な治療法により劇的に改善
 

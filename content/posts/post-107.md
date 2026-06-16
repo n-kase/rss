@@ -20,10 +20,10 @@ image: "/rss/downloaded_images/436a4f847e98e264cc976ef47c5ebaa6.png"
 
 ---
 
----
+[🔗 元記事を読む](https://www.itmedia.co.jp/news/articles/2606/15/news058.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 スポーツ配信サービス「DAZN」（ダゾーン）は、サッカー専用プラン「DAZN Soccer」の料金表示について6月13日に謝罪したが、その後もXではDAZNへの批判がおさまらず、炎上状態が続いている。
 

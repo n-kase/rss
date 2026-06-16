@@ -14,10 +14,10 @@ image: "/rss/downloaded_images/d695ff70bb9e8728ef1a7617ecb745a8.jpg"
 
 したがって、大衆向けのデバイスに色空間を選ぶ際は、専門用途のためだけに最も広い gamut を追求するのではなく、一般的な利用シーンに合わせてバランスよく色を拡張する視点が重要だという教訓が得られます。ですます調で述べました。
 
----
+[🔗 元記事を読む](https://gigazine.net/news/20260615-apple-dci-p3-adobe-rgb/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # なぜAppleは広色域の色空間としてAdobe RGBではなくDCI-P3を採用したのか？
 

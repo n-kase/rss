@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/d9f74fe4f6d1ecdc069c14a5b645012f.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/946203?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # ｢住所非公開｣月会費3850円でも会員5000人超 『会員制パフェバー』の知られざる秘密 気鋭のパティシエの野望
 

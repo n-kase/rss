@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/a2b2c08b30d0c063076018247334db15.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/948101?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 政治・経済・投資 週明けの日経平均株価は6万9000円台に突入､｢イラン停戦｣｢ホルムズ開放｣｢スペースX上場｣がハリケーン級の追い風に 3分で読める 公開日時：2026/06/15 10:15 （画像：会社四季報オンライン） 東洋経済オンライン編集部 フォロー 週明けの東京株式市場は急騰。その要因とは？ 続きを読む
 

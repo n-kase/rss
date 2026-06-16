@@ -14,10 +14,10 @@ image: "/rss/downloaded_images/308a7a19e3b390f3102a6d00c3c6978a.jpg"
 
 つまり、最先端の自動運転技術でも、単純な物理的な trick によって簡単に回避されてしまうことがあり、技術への過信は危険だという教訓が得られます。メーカーは監視システムの耐性を高めるとともに、ドライバーには常に道路を見つめる責任があることを再認識させるべきです。
 
----
+[🔗 元記事を読む](https://gigazine.net/news/20260615-chinese-drivers-fool-tesla-autopilot/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # 「人形の頭」でテスラの監視機能をだましてよそ見しながら自動運転させる方法を中国のドライバーが編み出す
 

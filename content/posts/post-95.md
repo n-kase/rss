@@ -16,10 +16,10 @@ image: "/rss/downloaded_images/338157f7bcd2b27fdc2658e1eda1674f.jpg"
 
 したがって、セール品を購入する際は価格だけにとらわれず、使用目的に合った速度クラスや耐久性規格を必ず確認し、販売ページ上の最新情報をチェックすることが重要である。これにより、無駄な出費を防ぎ、目的のデバイスで安心して利用できる製品を選ぶことができる。です。
 
----
+[🔗 元記事を読む](https://internet.watch.impress.co.jp/docs/shopping/2116574.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 セール情報
 

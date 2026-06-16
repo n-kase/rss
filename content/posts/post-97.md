@@ -16,10 +16,10 @@ image: "/rss/downloaded_images/bfbdea2f96421657f776b0ae67e1998e.jpg"
 
 したがって、高性能かつ高価なPCパーツが増える中で、見た目の美しさだけでなく、給電コネクターの信頼性や火災リスクの低減といった安全面を重視した設計が重要だという教訓が得られます。ユーザーは購入時にこうしたポイントを確認し、トラブルを防ぐための製品を選ぶべきです。
 
----
+[🔗 元記事を読む](https://www.itmedia.co.jp/pcuser/articles/2606/15/news104.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 先週（6月7日週）、SAPPHIRE Technologyから自社規格「PhantomLink」に対応したマザーボードとグラフィックスカードが登場した。
 

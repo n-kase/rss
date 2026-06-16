@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/80a6543351d7d0ae6c44cf59c7b81fcd.jpg"
 [🔗 元記事を読む](https://weekly.ascii.jp/elem/000/004/410/4410387/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # 温泉旅館の看板娘がおもてなし。桜木美緒が5th DVDで「ドキドキした」衣装に初挑戦！
 

@@ -17,8 +17,10 @@ image: "/rss/downloaded_images/f6b63d6af46c8c15f67aa4a52c24bb69.jpg"
 
 ### 背景と結論
 
+[🔗 元記事を読む](https://jin115.com/archives/52452924.html)
+
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 
 

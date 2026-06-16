@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/76482b0db7c355b749f8771932a305f2.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/943683?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # 当たり前すぎて人に聞けない？ 50歳から資産を増やす｢株式投資｣の基本 ファイナンシャル･プランナーが解説
 

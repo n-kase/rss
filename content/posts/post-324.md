@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/2bc474332c8c986feac16c85b10e4373.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/947678?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # アップルはなぜAIを"作り直した"のか――Googleと組んで挑む､｢誰もが使うエージェント｣競争の勝算
 

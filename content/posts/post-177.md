@@ -5,12 +5,10 @@ date: 2026-06-16T09:08:03+09:00
 categories: ["ニュース"]
 tags: ["AI", "Summary"]
 image: "/rss/downloaded_images/85046070d7635aff26fb67d89eca66b6.jpg"
----
-
-
+[🔗 元記事を読む](https://alfalfalfa.com/articles/11050839.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 
 

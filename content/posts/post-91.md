@@ -17,10 +17,10 @@ image: "/rss/downloaded_images/8203d6d7b8d5d2f06f977d50abd7fb9c.png"
 
 したがって、AIは補助的な手段として活用できるものの、その出力を鵜呑みにせず、必ず人間が事実確認を行うという姿勢が法律家には必須であるという教訓が得られる。この基本姿勢を守ることで、司法の公正さと信頼性を守りつつ、技術の恩恵を適切に享受できるだろう。
 
----
+[🔗 元記事を読む](https://internet.watch.impress.co.jp/docs/yajiuma/2116657.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 やじうまWatch
 

@@ -14,10 +14,10 @@ AppleはiOS 27のベータ版に、SiriからAnthropicのClaudeやGoogleのGemin
 
 したがって、利用者は新しい選択肢が登場する際にプライバシー設定を確認し、自分に最適なAIサービスを選ぶ判断材料とするべきです。一方で、Appleは機能の提供時期やプライバシー保護の仕組みについて透明性を高め、規制とユーザー信頼の両立を図る必要があるでしょう。
 
----
+[🔗 元記事を読む](https://gigazine.net/news/20260615-apple-siri-extensions/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # AppleがSiriでClaudeやGeminiを選べる機能をiOS 27ベータ版に実装か、WWDCでは発表せず
 

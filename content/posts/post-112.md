@@ -20,10 +20,10 @@ image: "/rss/downloaded_images/e2373bd4a0d78da273ee6cd32d62d2b0.jpg"
 
 ---
 
----
+[🔗 元記事を読む](https://www.itmedia.co.jp/business/articles/2606/15/news039.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 「Apple税」からの解放か、それとも国際決済ブランドによる“締め出し”か──。今、日本のゲーム・エンタメ産業の「決済」の領域で、大きな地殻変動が起きている。
 

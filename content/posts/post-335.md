@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/affd2f9a659791948438690708e8238f.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/948076?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 政治・経済・投資 アメリカとイランの和平合意が成立､ホルムズ海峡は開放へ…トランプ米大統領と仲介国が発表 2分で読める 公開日時：2026/06/15 08:33 ブルームバーグ フォロー 米国とイランがついに和平合意に達し､世界経済を揺るがせたホルムズ海峡の封鎖も解除される見通しです。 続きを読む
 

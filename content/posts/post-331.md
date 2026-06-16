@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/0f7d603fb1142352de1b3107df69fd07.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/946260?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # たった1人でAI駆使し｢3カ月で5億円｣ "普通の会社員"はもう時代遅れ？ AI時代に知っておくべき"新しい働き方"
 

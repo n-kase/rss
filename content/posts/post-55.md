@@ -14,10 +14,10 @@ image: "/rss/downloaded_images/18f5b984d5d85b4a2f92279f43de227c.jpg"
 
 したがって、未開封の状態で保存されたクラシックゲームは、適切な保管と鑑定を行うことで将来的に大きな資産価値を持つことが示唆され、コレクターや投資家はこうしたアイテムを資産ポートフォリオの一部として考えるべきであるという教訓が得られます。
 
----
+[🔗 元記事を読む](https://gigazine.net/news/20260615-super-mario-bros-sells-3-million-auction/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # 4.8億円で未開封の「スーパーマリオブラザーズ」が落札される、ゲームソフトの史上最高落札額を大幅に更新
 

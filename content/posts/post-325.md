@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/3041c02ad39beb3f02d70e0cc58f06ee.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/945512?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # ｢気象は好きでもなんでもなかった｣わかりやすい"森田さんのお天気"は､自らの知識がゼロだったからこそ実現できた
 

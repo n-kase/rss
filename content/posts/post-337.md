@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/d6ec1ff47f529ccd74c7b51e7cfd5a34.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/947586?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # 住友商事が不採算プロジェクト撤退で株価急騰 時価総額で丸紅を一時逆転しても5大商社｢最低｣のPERは適正か
 

@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/902463bf2f46dc1b32ad7745b0028894.jpg"
 [🔗 元記事を読む](https://weekly.ascii.jp/elem/000/004/410/4410674/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # MacBook Air、15インチで使うならメモリ24GB＋SSD 1TBの“盛りAir”が間違いなし！
 

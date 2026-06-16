@@ -17,10 +17,10 @@ image: "/rss/downloaded_images/cbc6e980c048565acb359c49eabf98ab.jpg"
 
 したがって、健康診断で警告を受けた後でも、自分に合った運動を見つけて具体的な目標を設定し、継続的に練習を重ねることで体調改善と自己成果を達成できるという教訓が得られる。無理をせず自分のペースで楽しみながら、少しずつ目標を高めていく姿勢が、長期的な健康維持と生活の質向上につながると言える。
 
----
+[🔗 元記事を読む](https://internet.watch.impress.co.jp/docs/column/hobbytime/2116552.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 テレワーク、空いた時間でなにしてる？
 

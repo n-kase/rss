@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/1096b656e9045215bff860bde67c19a8.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/948013?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # ｢好きな人と来たい｣との30代の言葉に｢私は妹と…｣ 50代が20歳差女子4人旅で気づいた"歳の差"と"変わらないこと"
 

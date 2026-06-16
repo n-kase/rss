@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/1f90242a0c12d43f5af1ae9b28d420cb.jpg"
 [🔗 元記事を読む](https://weekly.ascii.jp/elem/000/004/410/4410678/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # いまからXBOXワイヤレスコントローラーを買うなら、充電式バッテリー＆USB Type-Cケーブルのセット品が超おすすめ！
 

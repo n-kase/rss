@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/f8a61574c82750113735415bae1d16b0.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/947501?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # 中国･レアアース独り勝ちへの布石､レアアース･トリウムによる原子力発電･EVへの充電をセットに開発してきた歴史
 

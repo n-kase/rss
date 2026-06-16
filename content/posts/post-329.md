@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/c613729e6b3aec36f8bba4c50f8aa729.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/945349?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # とどのつまりは《息を吸っている｡吐いている｡その事実だけを観る》こと 脳の専門家が説く､負の感情の乗りこなし方
 

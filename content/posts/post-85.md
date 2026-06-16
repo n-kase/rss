@@ -14,10 +14,10 @@ image: "/rss/downloaded_images/1eacac7463ac0de95f19380ebc19bc86.jpg"
 
 これらの議論と社会的反応から、今後いくつかの傾向が予測できる。まず、著作権法の国際基準への合わせ込みは、創作者の権利保護とユーザーの利用自由の両立を図る法整備の必要性を高め、デジタルコンテンツの利用
 
----
+[🔗 元記事を読む](https://internet.watch.impress.co.jp/docs/special/30th/2104852.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 INTERNET Watch 30周年
 

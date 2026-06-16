@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/93efcb767ea9a88a3b4cf671d010f499.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/948212?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 ### コンテンツブロックが有効であることを検知しました。
 

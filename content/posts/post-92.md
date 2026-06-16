@@ -17,10 +17,10 @@ image: "/rss/downloaded_images/3af33a820431a39dd9b12c90885cec72.png"
 
 したがって、テクノロジー企業は免責文に頼るのではなく、AIによる情報提供の正確性を確保するための具体的な対策を講じるべきです。利用者にとっても、AIが生成する情報の裏付けを自分で確認する習慣を持つことが、誤情報による被害を防ぐ一つの手段となります。です。
 
----
+[🔗 元記事を読む](https://internet.watch.impress.co.jp/docs/yajiuma/2116652.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 やじうまWatch
 

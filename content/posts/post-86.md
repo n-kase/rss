@@ -17,10 +17,10 @@ image: "/rss/downloaded_images/523474043aa173787eb336622c5f6848.jpg"
 
 したがって、最新技術の驚異的な進歩に目を奪われがちだが、購入や導入の際には自分の利用目的と予算に合った製品を見極めることが肝要です。ハイエンド製品は魅力的ですが、実生活でのメリットを冷静に判断し、必要以上のスペックに惑わされない選択が求められます。です。
 
----
+[🔗 元記事を読む](https://internet.watch.impress.co.jp/docs/column/shimizumovie/2116873.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 清水理史の「イニシャルB」チャンネル
 

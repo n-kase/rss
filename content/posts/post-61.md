@@ -14,10 +14,10 @@ AnthropicのAIモデル「Claude Mythos 5」および「Claude Fable 5」が2026
 
 この事態から、先進的AIモデルをリリースする際には、安全対策の実効性を第三者が検証できる仕組みを事前に整え、政府や主要パートナーとの情報共有を透明に行うことが重要であるという教訓が得られる。つまり、技術革新とリスク管理を両立させるためには、開発段階から外部の専門家による評価と協調的なガバナンスが不可欠だ。
 
----
+[🔗 元記事を読む](https://gigazine.net/news/20260615-amazon-ceo-andy-jassy-anthropic-mythos-fable/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # AnthropicのClaude Mythos 5／Fable 5の輸出規制発動につながった原因はAmazonのCEO、トランプ政権当局者に対し「脱獄」の懸念を表明したため
 

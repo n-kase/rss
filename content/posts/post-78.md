@@ -17,10 +17,10 @@ image: "/rss/downloaded_images/50a198f0ccf51d2e1f8fcf9401ad1045.png"
 
 したがって、Dokokaのようなシンプルで目的を秘密にした散歩アプリは、日常の運動に新たな楽しみを提供し、健康志向の高まりとマッチしていると言えます。利用者はその novelty を楽しみつつ、安全に配慮した歩き方を心がけるべきであり、開発者はユーザーからのフィードバックをもとに機能改善や安全対策を進めることが重要です。このバランスが取れれば、散歩という身近な活動がより豊かで魅力的な体験へと変わっていくでしょう。
 
----
+[🔗 元記事を読む](https://internet.watch.impress.co.jp/docs/yajiuma/2117043.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 やじうまWatch
 

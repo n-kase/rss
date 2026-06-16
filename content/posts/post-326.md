@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/6ba273a35d108ff4e34b34c18c4fd94b.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/947730?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # 圏央道｢高速道路なのに道の駅｣がある理由とは？ SA／PAを補完する道の駅の新しいあり方
 

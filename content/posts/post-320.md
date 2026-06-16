@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/61e40b287563a15e71ee5014e83846f8.jpg"
 [🔗 元記事を読む](https://hamusoku.com/archives/11011294.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 
 

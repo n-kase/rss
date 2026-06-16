@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/9dfdea94e90fd8b82252b33612255895.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/947900?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # 日本から魚が消えていくのは当然だった…｢外国のせい｣でも｢漁業者のせい｣でもない"本当の理由"＜再配信＞
 

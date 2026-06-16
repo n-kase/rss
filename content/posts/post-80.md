@@ -17,10 +17,10 @@ image: "/rss/downloaded_images/7859c8162d50931eecbec4c4c2ad00a0.png"
 
 したがって、「うますぎる話は必ず裏がある」という教訓を心に留め、契約や借り入れを考える際は慎重に判断し、少しでも疑問があればすぐに専門機関に相談することが重要である。消費者庁の注意喚起を参考に、冷静な対応を心がけることで、同様の被害を未然に防ぐことができるだろう。
 
----
+[🔗 元記事を読む](https://internet.watch.impress.co.jp/docs/news/2117035.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 ニュース
 

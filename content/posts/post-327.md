@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/d31ea2b02d036495dc41f0d3ff46f4be.jpg"
 [🔗 元記事を読む](https://toyokeizai.net/articles/-/947282?utm_source=rss&utm_medium=http&utm_campaign=link_back)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # 発火事故と航空規制で揺れるモバイルバッテリー市場──首位アンカーが選んだ次の一手
 

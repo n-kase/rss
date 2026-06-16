@@ -30,8 +30,10 @@ image: "/rss/downloaded_images/1c05d99fd1ec8213eefddba5595eb218.png"
 
 得られる教訓として、AI技術を実務に組み込む際には、既存のデータベースやCRM/SFAとの連携を確実にし、横断的に情報を参照できる基盤を整えることが重要であるということが挙げられます。これにより、自動化の精度と実用性を両立させやすくなります。
 
+[🔗 元記事を読む](https://thebridge.jp/2026/06/hiway-raises-series-a-funding-for-ai-native-crm)
+
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # 代理店営業の実務をAIエージェントで自動化「Hiway」がシリーズAで3億円調達
 

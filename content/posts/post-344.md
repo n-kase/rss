@@ -21,7 +21,7 @@ image: "/rss/downloaded_images/79cbe4071f304f188f17f41619891869.jpg"
 [🔗 元記事を読む](https://weekly.ascii.jp/elem/000/004/410/4410594/)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 # メタリックカラーがカッコ良すぎなXBOXコントローラー！ しかも3WAY接続が可能！
 

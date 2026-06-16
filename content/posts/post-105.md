@@ -17,10 +17,10 @@ image: "/rss/downloaded_images/860f1173a5066477dec7fed04fc93f66.jpg"
 
 したがって、今回のCOMPUTEXでの発表は、AIの利用をクラウドからエッジへとシフトさせる転換点であり、技術革新とともにアクセシビリティとコストへの配慮が求められるということです。今後は、メーカーが価格透明性を高め、幅広いユーザー層に恩恵が届くよう製品戦略を練ることが、健全な市場成長のために不可欠です。
 
----
+[🔗 元記事を読む](https://www.itmedia.co.jp/pcuser/articles/2606/15/news050.html)
 
 <details>
-<summary>元スレッド・記事本文</summary>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
 
 「AI Together」をテーマに掲げ、6月2日から5日まで台北で開かれた「[COMPUTEX TAIPEI 2026](https://www.itmedia.co.jp/pcuser/articles/2606/01/news093.html)」は、来場者11万人超、3会場で33カ国／地域から1500社／6000ブースと[過去最大規模で閉幕](https://www.itmedia.co.jp/pcuser/articles/2606/06/news028.html)した。
 
