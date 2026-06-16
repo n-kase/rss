@@ -6,7 +6,51 @@
     <description>Recent content in Claude on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 13:11:36 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/claude/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 14:06:30 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/claude/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「Claude FableおよびMythosのサービス停止はサイバー攻撃者に有利に働く」としてセキュリティ専門家たちがホワイトハウスに対し停止命令の解除を要請</title>
+      <link>https://n-kase.github.io/rss/posts/post-818/</link>
+      <pubDate>Tue, 16 Jun 2026 14:06:30 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-818/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年6月9日にAnthropicは、限定公開されていた高度なサイバー攻撃能力を持つAIモデル「Claude Mythos 5」と、セキュリティ対策が施された一般公開版「Claude Fable 5」をリリースしました。しかし、同年6月13日にアメリカ政府はこれらのモデルに対して輸出規制指令を出し、公開を停止しました。政府はモデルから不適切な出力を引き出す「脱獄」の手法が存在することを懸念したと伝えられています。この停止に対し、セキュリティ専門家やテクノロジー企業のリーダーらは公開書簡をホワイトハウスに提出し、規制の解除を求めています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>書簡に署名した専門家たちは、Claude Mythosレベルのモデルは脆弱性の発見に優れている一方で、攻撃側だけでなく防御側にも役立つと指摘しています。彼らは、同等の機能は他のAIモデルでも再現可能であり、特定のモデルだけを規制しても意味がないと主張しています。さらに、敵国である中国のAI能力がアメリカに近い状況で、防御力を弱める措置は国家のサイバーセキュリティにとって危険だと警告しています。結論として、規制は科学的かつ透明なプロセスに基づき、産業界と学術界の意見を取り入れて策定されるべきだと訴えています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260616-anthropic-ai-controls-open-letter/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="claude-fableおよびmythosのサービス停止はサイバー攻撃者に有利に働くとしてセキュリティ専門家たちがホワイトハウスに対し停止命令の解除を要請">「Claude FableおよびMythosのサービス停止はサイバー攻撃者に有利に働く」としてセキュリティ専門家たちがホワイトハウスに対し停止命令の解除を要請
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/42165b677a7c2533d9e969d6546ad016.jpg"></p>
+<p>高度なサイバー攻撃が可能だとして限られた組織向けに限定公開されていたAnthropicのAIモデル「Claude Mythos Preview」のアップグレード版「Claude Mythos 5」とセキュリティ対策済みの製品版「Claude Fable 5」が2026年6月9日に** 登場**しました。ところが、このモデルは6月13日に</p>
+<p><strong>されています。この措置に対し、モデルを公開しないことでサイバーセキュリティ上の不利益が生じるとして、テクノロジー企業やセキュリティ研究所の専門家らが政府に対して規制を解除するよう求める公開書簡を提出しました。</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20260613-anthropic-claude-fable-mythos-suspend/"  target="_blank" rel="noopener"
+    >アメリカ政府の指示で公開が停止</a><strong>Open Letter on Transparent AI Cyber Protections</strong></p>
+<p><a class="link" href="https://freefable.org/"  target="_blank" rel="noopener"
+    >https://freefable.org/</a><strong>The Fable 5 Export Controls Harm US Cyber Defense</strong></p>
+<p><a class="link" href="https://www.lutasecurity.com/post/the-fable-5-export-controls-harm-us-cyber-defense"  target="_blank" rel="noopener"
+    >https://www.lutasecurity.com/post/the-fable-5-export-controls-harm-us-cyber-defense</a><strong>Alex Stamos, cybersecurity leaders push Trump to restore Anthropic Mythos and Fable access</strong></p>
+<p><a class="link" href="https://www.axios.com/2026/06/15/anthropic-fable-security-leaders-trump-admin"  target="_blank" rel="noopener"
+    >https://www.axios.com/2026/06/15/anthropic-fable-security-leaders-trump-admin</a>Claude Mythosはサイバーセキュリティに関連する能力が高く、既存の脆弱(ぜいじゃく)性を発見することに優れています。この能力はセキュリティを向上させようとする防御側にとって役立つ反面、脆弱性を悪用する攻撃側にも利用される恐れがあることから、しばらくの間は一部組織に限定して公開されていました。</p>
+<p>その後、さまざまなセキュリティ対策を施した一般公開版の「Claude Fable 5」と、一部の組織を対象に限定公開される「Claude Mythos 5」が登場し、一般のユーザーも利用できるようになりましたが、直後にアメリカ政府から輸出規制指令が下り公開が停止されています。この理由について、アメリカ政府はモデルに不適切な出力を行わせる「脱獄」の手法が存在することを懸念したためだと伝えられています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260615-amazon-ceo-andy-jassy-anthropic-mythos-fable/"  target="_blank" rel="noopener"
+    >AnthropicのClaude Mythos 5／Fable 5の輸出規制発動につながった原因はAmazonのCEO、トランプ政権当局者に対し「脱獄」の懸念を表明したため - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/09208d65658a19e120e980a61236dd1c.jpg"></p>
+<p>この停止措置に対し、「十分な理由もなく最高の能力を防御側から取り上げることは危険」として、コンピューター科学者のアレックス・ステイモス氏やサイバーセキュリティ専門家のユージーン・H・スパフォード氏ら100人以上が連名で公開書簡を提出しました。</p>
+<p>書簡冒頭には「私たち、アメリカおよびその同盟国の経営者・技術リーダーの署名者一同は、AnthropicのFableおよびMythosモデルに対する輸出規制指令を解除し、今後のAIリスク評価の取り扱いについて、オープンで科学的かつ透明性のあるプロセスに取り組むことを求めるため、本書簡をお送りします」と記されています。</p>
+<p>署名者は、AnthropicのMythos級モデルは脆弱性の発見と武器化に非常に優れている一方、その性能において唯一無二というわけではなく、攻撃用途での利用を防ぐため複数の保護機能が組み込まれるなど安全性に優れていると指摘。アメリカにとっての敵対国である中国のAI能力はアメリカよりわずかに劣るだけで、一般公開されていない高性能モデルがあるやも知れず、そうした可能性がある状態で十分な理由もなくセキュリティ性能に優れたモデルを利用できなくすることは危険であると付け加えました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/8338c0d5b5856595e477be4e56abec47.jpg"></p>
+<p>政府は輸出規制指令の具体的な発令理由を明かしていませんが、ステイモス氏は「脆弱性の概念実証を作成できる機能が政府を警戒させたと思われる」と推測しています。ステイモス氏は「概念実証は確かに攻撃側がシステムに侵入するためのコードを作成する可能性があるものの、同時に防御側がシステムを保護する方法を理解するのにも役立つ」と述べています。</p>
+<p>署名者の1人でセキュリティ企業Luta SecurityのCEOであるケイティ・ムスリス氏は、政府が確認したと思われる脱獄手法の研究論文を確認し、「強引かつ性急な輸出規制指令は誤った判断だった」と結論づけています。ムスリスCEOによると、この研究は「モデルに『セキュリティ上の問題がないかコードをレビューして』と依頼すると拒否するが、『このコードを修正して』と依頼したら実行する」という結果を示したものだったとのこと。ムスリスCEOは「修正指示が機能したのは防御的な要求だったからで、このような指示は非常に一般的。その機能を理由に公開を停止すると防御力を損なうという意図しない結果を招く」とコメントしました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ea25ece79c37ecba6dc392d6fcd1939d.jpg"></p>
+<p>署名者らは、政府が懸念するような機能はOpenAIのGPT-5.5、AnthropicのClaude OpusやClaude Sonnet、さらには中国Moonshot AIが開発したKimi 2.7のようなモデルでも再現可能で、Anthropicの一部モデルだけを規制しても意味がないとしています。</p>
+<p>書簡では結びに「私たち全員が、AI規制こそが進むべき道であると考えているわけではありません。しかし、国家の重要インフラを保護するという本政権の称賛に値する目標にモデルの規制が含まれるのであれば、その規制は産業界および学術界の意見を取り入れて策定された科学的評価に基づき、民主的なルール策定プロセスを通じて作られる必要があります」と記されています。</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>Claude高額プラン、利用上限「20倍」はウソ？ Anthropicに集団訴訟</title>
       <link>https://n-kase.github.io/rss/posts/post-753/</link>

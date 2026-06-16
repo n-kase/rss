@@ -6,7 +6,170 @@
     <description>Recent content in テクノロジー on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 13:35:44 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 14:06:50 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アメリカ政府はAnthropicのClaude Mythos 5およびClaude Fable 5に対して提供停止命令を出すも事前猶予はたった90分しかなかったことが明らかに</title>
+      <link>https://n-kase.github.io/rss/posts/post-819/</link>
+      <pubDate>Tue, 16 Jun 2026 14:06:50 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-819/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年6月、Anthropicは高度なサイバー攻撃が可能なAIモデル「<strong>Claude Mythos 5</strong>」と、セキュリティ対策を施した利用者制限撤廃版「<strong>Claude Fable 5</strong>」をリリースしました。これらのモデルはソフトウェアの脆弱性を自動的に見つけ出し、ネットワーク全体を乗っ取る攻撃を実行できるほどの性能を持っていました。リリースからわずか3日後、アメリカ政府は国家安全保障上の懸念から、中国政府関連グループによるアクセスの疑いがあるとして、両モデルの提供停止命令を出しました。命令書はAnthropicに届いてから実行までの猶予がわずか90分しかなく、具体的な違反内容は記載されていませんでした。この急迫した対応は、The Washington PostやTechCrunchなどのメディアで報じられ、AI業界にも政府の介入が及ぶことを示す出来事となりました。また、Anthropicと国防総省の間でデータ分析プロジェクトを巡る交渉が決裂していた背景も指摘されており、政府高官は解除に向けた協議を続けているものの、すぐに解決できるとは限らないと述べています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>今回の騒動は、先進的なAIモデルが持つサイバーセキュリティリスクと、国家がそれに対してどのように対応すべきかという緊張関係を浮き彫りにしました。極めて短い通知期間は、政府の決定が民間のAIサービスに即座かつ大きな影響を与える可能性を示しており、企業側は閉鎖的なモデルへの依存を見直すきっかけとなりました。専門家らは、こうした突発的な制限が利用者をオープンウェイトモデルへと誘導し、結果として米国以外のAI提供者（特に中国のAlibaba、DeepSeek、Tencentなど）へのシフトを促す可能性があると指摘しています。さらに、今回の事例は政府がAI技術に対して規制の枠を広げていることを象徴しており、今後のAI開発ではイノベーションと安全性、そして透明性のある規制コミュニケーションのバランスが一層重要になるでしょう。</p>
+<p><a class="link" href="https://gigazine.net/news/20260616-us-government-anthropic-ban-90-min/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="アメリカ政府はanthropicのclaude-mythos-5およびclaude-fable-5に対して提供停止命令を出すも事前猶予はたった90分しかなかったことが明らかに">アメリカ政府はAnthropicのClaude Mythos 5およびClaude Fable 5に対して提供停止命令を出すも事前猶予はたった90分しかなかったことが明らかに
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/495763c7b9188ad99edbdddada6b95d1.jpg"></p>
+<p>アメリカ政府がAnthropicのClaude Mythos 5およびClaude Fable 5に対して提供停止命令を出した件について、命令を受け取ってから実行するまでの時間的猶予はわずか90分しかなかったことが明らかになっています。</p>
+<p><strong>How a 90-minute White House deadline sparked Silicon Valley’s biggest AI fight - The Washington Post</strong></p>
+<p><a class="link" href="https://www.washingtonpost.com/technology/2026/06/15/how-90-minute-white-house-deadline-sparked-silicon-valleys-biggest-ai-fight/"  target="_blank" rel="noopener"
+    >https://www.washingtonpost.com/technology/2026/06/15/how-90-minute-white-house-deadline-sparked-silicon-valleys-biggest-ai-fight/</a></p>
+<p><strong>The US government&rsquo;s Anthropic models ban was never about an AI jailbreak | TechCrunch</strong></p>
+<p><a class="link" href="https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/"  target="_blank" rel="noopener"
+    >https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</a></p>
+<p><strong>The Once And Future Fable #2 - by Zvi Mowshowitz</strong></p>
+<p><a class="link" href="https://thezvi.substack.com/p/the-once-and-future-fable-2"  target="_blank" rel="noopener"
+    >https://thezvi.substack.com/p/the-once-and-future-fable-2</a></p>
+<p>2026年4月、Anthropicは高度なサイバー攻撃が可能な高性能AIとして「** Claude Mythos Preview**」を発表しました。Claude Mythos Previewは「ソフトウェアの脆弱(ぜいじゃく)性を発見して悪用する」能力が極めて高く、</p>
+<p><strong>したり、</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20260525-anthropic-project-glasswing/"  target="_blank" rel="noopener"
+    >深刻度「高」以上と推定される脆弱性候補を6202件発見</a><strong>したりしてきました。</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20260414-claude-mythos-preview-aisi-evaluation/"  target="_blank" rel="noopener"
+    >ネットワーク完全乗っ取り攻撃を自律的に実行できてしまうことが判明</a>このClaude Mythos Previewの正式版として、Anthropicは「Claude Mythos 5」と、セキュリティ対策を施したうえであらゆるユーザーが利用できる「Claude Fable」を6月10日にリリースしました。</p>
+<p><a class="link" href="https://gigazine.net/news/20260610-claude-mythos-fable/#google_vignette"  target="_blank" rel="noopener"
+    >ついに「Claude Mythos」の正式版が登場＆利用者制限撤廃版の「Claude Fable」も登場して誰でも使用可能に - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/26a639c5b9a1d815ed38764646e4eff4.png"></p>
+<p>しかし、リリースから3日でAnthropicは「アメリカ政府の国家安全保障当局による指示」を理由に、Claude Mythos 5およびClaude Fable 5の提供を停止。アメリカ政府は「中国政府と関連するグループがアクセスした疑いがある」として提供停止命令を出したという** 報道**や、Claude Mythos 5およびClaude Fable 5に施された安全対策(ガードレール)を回避する方法である「</p>
+<p><strong>」が見つかったため提供停止命令が出されたという</strong></p>
+<p><a class="link" href="https://www.shiftsecurity.jp/blog/20251105"  target="_blank" rel="noopener"
+    >脱獄(ジェイルブレイク)</a><strong>もあります。</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20260615-amazon-ceo-andy-jassy-anthropic-mythos-fable/"  target="_blank" rel="noopener"
+    >報道</a></p>
+<p><a class="link" href="https://gigazine.net/news/20260613-anthropic-claude-fable-mythos-suspend/"  target="_blank" rel="noopener"
+    >Anthropicがアメリカ政府の指示で「Claude Fable 5」と「Claude Mythos 5」の提供を停止 - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/9cb5903fcdad778e8ca94f966b476b66.png"></p>
+<p>AnthropicはClaude Mythos 5およびClaude Fable 5の提供停止命令に関する書簡をアメリカ政府から受け取っています。この書簡について、Anthropicは「AIモデルの安全対策を回避しようとする動きに関連している」と考えているものの、書簡には具体的な詳細が記載されていなかったため、確信は持てていない模様。</p>
+<p>アメリカ政府によるClaude Mythos 5およびClaude Fable 5の提供停止命令について、テクノロジーメディアのTechCrunchは「今回の政府による介入は、AI業界も政府の干渉から免れないことを示しています。また、より広範なテクノロジー業界に対する警告でもあります。『従わなければあなたとその製品を停止させる可能性がある』という警告です」と報じています。</p>
+<p>** Axios**が情報筋から入手した情報によると、アメリカ政府とAnthropicの間には2026年6月の第一週末に緊迫した状況があったそうです。アメリカ政府による提供停止命令は、AI製品の技術的な問題だけではなく、Anthropicとアメリカ政府の関係悪化に起因する問題であると報じています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260302-pentagon-anthropic-defense-dept/"  target="_blank" rel="noopener"
+    >Anthropicとアメリカ国防総省の交渉決裂の内幕、最後まで国防総省はAnthropicのAIを用いてアメリカ市民に関する大量データを分析したいと考えていた - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/67f7c97f6347cfda58cf0959848bafc8.jpg"></p>
+<p>さらに、Anthropicの幹部がトランプ政権の関係者と会談し、提供停止命令の解除に向けた協議を行ったことが** 報じられました**。政府高官は潜在的なセキュリティ上の脆弱性を理由に、Claude Mythos 5およびClaude Fable 5の提供停止を求めており、解決策が見つかるまで数日以上の時間がかかる可能性があるとのことです。政府高官は問題が迅速に解決できる可能性を否定していません。</p>
+<p>また、Anthropicの関係者がThe Washington Postに語った内容によると、Claude Mythos 5およびClaude Fable 5の提供停止命令に対する対応猶予はわずか90分しかなかったそうです。</p>
+<p>今回の騒動の最大の勝者は「オープンウェイトモデルになるだろう」という声もあります。その理由は、今回のようにある時点でAIモデルがユーザーや企業の間で利用できなくなってしまうことは、特定の国の技術に依存することが非常に現実的なリスクであることの証明になってしまうためです。</p>
+<p>クラウドストレージサービス・Boxのアーロン・レビィーCEOは、今回のような政府主導の制限が突発的に発生することになれば、アメリカ以外の国が頼る可能性が最も高い解決策はオープンウェイトのAIモデルであると指摘しました。</p>
+<p>The big winner in all of this is going to be open weights models. This is a huge win for the field, as a risk that was entirely theoretical and untested 2 days ago (that a model could be pulled back), now has a new precedent that’s been set.</p>
+<p>— Aaron Levie (@levie)</p>
+<p>The game theory the US should highly…<a class="link" href="https://x.com/levie/status/2066167615618466060?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >June 14, 2026</a></p>
+<p>オープンモデルの最先端を走るのはアメリカではなく中国のAI企業で、AlibabaやDeepSeek、Tencent、Xiaomiといった大手テクノロジー企業がアメリカのクローズドモデルに匹敵するオープンモデルを続々と公開しています。Claude Mythos 5およびClaude Fable 5のサービス停止直後には中国企業のZ.aiが最先端モデルの「GLM-5.2」をオープンモデルとして公開することを表名しています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260615-z-ai-glm-5-2/"  target="_blank" rel="noopener"
+    >Claude Fableのサービス停止を受けて中国企業が最先端モデル「GLM-5.2」を急遽発表、2026年6月中に無料公開へ - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ad5785e662bb2fa0756e6d02361d6cb2.png"></p>
+<p>なお、数十人の著名なセキュリティ研究者や専門家は、アメリカ政府に対して** 提供停止命令の撤回**を求めています。</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>「Claude FableおよびMythosのサービス停止はサイバー攻撃者に有利に働く」としてセキュリティ専門家たちがホワイトハウスに対し停止命令の解除を要請</title>
+      <link>https://n-kase.github.io/rss/posts/post-818/</link>
+      <pubDate>Tue, 16 Jun 2026 14:06:30 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-818/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>2026年6月9日にAnthropicは、限定公開されていた高度なサイバー攻撃能力を持つAIモデル「Claude Mythos 5」と、セキュリティ対策が施された一般公開版「Claude Fable 5」をリリースしました。しかし、同年6月13日にアメリカ政府はこれらのモデルに対して輸出規制指令を出し、公開を停止しました。政府はモデルから不適切な出力を引き出す「脱獄」の手法が存在することを懸念したと伝えられています。この停止に対し、セキュリティ専門家やテクノロジー企業のリーダーらは公開書簡をホワイトハウスに提出し、規制の解除を求めています。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>書簡に署名した専門家たちは、Claude Mythosレベルのモデルは脆弱性の発見に優れている一方で、攻撃側だけでなく防御側にも役立つと指摘しています。彼らは、同等の機能は他のAIモデルでも再現可能であり、特定のモデルだけを規制しても意味がないと主張しています。さらに、敵国である中国のAI能力がアメリカに近い状況で、防御力を弱める措置は国家のサイバーセキュリティにとって危険だと警告しています。結論として、規制は科学的かつ透明なプロセスに基づき、産業界と学術界の意見を取り入れて策定されるべきだと訴えています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260616-anthropic-ai-controls-open-letter/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="claude-fableおよびmythosのサービス停止はサイバー攻撃者に有利に働くとしてセキュリティ専門家たちがホワイトハウスに対し停止命令の解除を要請">「Claude FableおよびMythosのサービス停止はサイバー攻撃者に有利に働く」としてセキュリティ専門家たちがホワイトハウスに対し停止命令の解除を要請
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/42165b677a7c2533d9e969d6546ad016.jpg"></p>
+<p>高度なサイバー攻撃が可能だとして限られた組織向けに限定公開されていたAnthropicのAIモデル「Claude Mythos Preview」のアップグレード版「Claude Mythos 5」とセキュリティ対策済みの製品版「Claude Fable 5」が2026年6月9日に** 登場**しました。ところが、このモデルは6月13日に</p>
+<p><strong>されています。この措置に対し、モデルを公開しないことでサイバーセキュリティ上の不利益が生じるとして、テクノロジー企業やセキュリティ研究所の専門家らが政府に対して規制を解除するよう求める公開書簡を提出しました。</strong></p>
+<p><a class="link" href="https://gigazine.net/news/20260613-anthropic-claude-fable-mythos-suspend/"  target="_blank" rel="noopener"
+    >アメリカ政府の指示で公開が停止</a><strong>Open Letter on Transparent AI Cyber Protections</strong></p>
+<p><a class="link" href="https://freefable.org/"  target="_blank" rel="noopener"
+    >https://freefable.org/</a><strong>The Fable 5 Export Controls Harm US Cyber Defense</strong></p>
+<p><a class="link" href="https://www.lutasecurity.com/post/the-fable-5-export-controls-harm-us-cyber-defense"  target="_blank" rel="noopener"
+    >https://www.lutasecurity.com/post/the-fable-5-export-controls-harm-us-cyber-defense</a><strong>Alex Stamos, cybersecurity leaders push Trump to restore Anthropic Mythos and Fable access</strong></p>
+<p><a class="link" href="https://www.axios.com/2026/06/15/anthropic-fable-security-leaders-trump-admin"  target="_blank" rel="noopener"
+    >https://www.axios.com/2026/06/15/anthropic-fable-security-leaders-trump-admin</a>Claude Mythosはサイバーセキュリティに関連する能力が高く、既存の脆弱(ぜいじゃく)性を発見することに優れています。この能力はセキュリティを向上させようとする防御側にとって役立つ反面、脆弱性を悪用する攻撃側にも利用される恐れがあることから、しばらくの間は一部組織に限定して公開されていました。</p>
+<p>その後、さまざまなセキュリティ対策を施した一般公開版の「Claude Fable 5」と、一部の組織を対象に限定公開される「Claude Mythos 5」が登場し、一般のユーザーも利用できるようになりましたが、直後にアメリカ政府から輸出規制指令が下り公開が停止されています。この理由について、アメリカ政府はモデルに不適切な出力を行わせる「脱獄」の手法が存在することを懸念したためだと伝えられています。</p>
+<p><a class="link" href="https://gigazine.net/news/20260615-amazon-ceo-andy-jassy-anthropic-mythos-fable/"  target="_blank" rel="noopener"
+    >AnthropicのClaude Mythos 5／Fable 5の輸出規制発動につながった原因はAmazonのCEO、トランプ政権当局者に対し「脱獄」の懸念を表明したため - GIGAZINE</a></p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/09208d65658a19e120e980a61236dd1c.jpg"></p>
+<p>この停止措置に対し、「十分な理由もなく最高の能力を防御側から取り上げることは危険」として、コンピューター科学者のアレックス・ステイモス氏やサイバーセキュリティ専門家のユージーン・H・スパフォード氏ら100人以上が連名で公開書簡を提出しました。</p>
+<p>書簡冒頭には「私たち、アメリカおよびその同盟国の経営者・技術リーダーの署名者一同は、AnthropicのFableおよびMythosモデルに対する輸出規制指令を解除し、今後のAIリスク評価の取り扱いについて、オープンで科学的かつ透明性のあるプロセスに取り組むことを求めるため、本書簡をお送りします」と記されています。</p>
+<p>署名者は、AnthropicのMythos級モデルは脆弱性の発見と武器化に非常に優れている一方、その性能において唯一無二というわけではなく、攻撃用途での利用を防ぐため複数の保護機能が組み込まれるなど安全性に優れていると指摘。アメリカにとっての敵対国である中国のAI能力はアメリカよりわずかに劣るだけで、一般公開されていない高性能モデルがあるやも知れず、そうした可能性がある状態で十分な理由もなくセキュリティ性能に優れたモデルを利用できなくすることは危険であると付け加えました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/8338c0d5b5856595e477be4e56abec47.jpg"></p>
+<p>政府は輸出規制指令の具体的な発令理由を明かしていませんが、ステイモス氏は「脆弱性の概念実証を作成できる機能が政府を警戒させたと思われる」と推測しています。ステイモス氏は「概念実証は確かに攻撃側がシステムに侵入するためのコードを作成する可能性があるものの、同時に防御側がシステムを保護する方法を理解するのにも役立つ」と述べています。</p>
+<p>署名者の1人でセキュリティ企業Luta SecurityのCEOであるケイティ・ムスリス氏は、政府が確認したと思われる脱獄手法の研究論文を確認し、「強引かつ性急な輸出規制指令は誤った判断だった」と結論づけています。ムスリスCEOによると、この研究は「モデルに『セキュリティ上の問題がないかコードをレビューして』と依頼すると拒否するが、『このコードを修正して』と依頼したら実行する」という結果を示したものだったとのこと。ムスリスCEOは「修正指示が機能したのは防御的な要求だったからで、このような指示は非常に一般的。その機能を理由に公開を停止すると防御力を損なうという意図しない結果を招く」とコメントしました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/ea25ece79c37ecba6dc392d6fcd1939d.jpg"></p>
+<p>署名者らは、政府が懸念するような機能はOpenAIのGPT-5.5、AnthropicのClaude OpusやClaude Sonnet、さらには中国Moonshot AIが開発したKimi 2.7のようなモデルでも再現可能で、Anthropicの一部モデルだけを規制しても意味がないとしています。</p>
+<p>書簡では結びに「私たち全員が、AI規制こそが進むべき道であると考えているわけではありません。しかし、国家の重要インフラを保護するという本政権の称賛に値する目標にモデルの規制が含まれるのであれば、その規制は産業界および学術界の意見を取り入れて策定された科学的評価に基づき、民主的なルール策定プロセスを通じて作られる必要があります」と記されています。</p>
+</details>
+]]></description>
+    </item>
+    
+    <item>
+      <title>複数のAIを組み合わせてClaude Fable超えの性能を実現するシステム「Fusion」をOpenRouterがリリース</title>
+      <link>https://n-kase.github.io/rss/posts/post-817/</link>
+      <pubDate>Tue, 16 Jun 2026 14:06:17 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-817/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>OpenRouterは、異なるAIモデルを組み合わせて実行できる新しいシステム「Fusion」をリリースしました。このシステムは、ユーザーの入力を複数のモデルに並行して送信し、それぞれの応答を審査モデルで読み取って構造化された分析結果を作成し、その結果に基づいて呼び出しモデルが最終的な回答を生成する仕組みです。具体的には、「Claude Opus 4.8とGPT-5.5」や「Claude Opus 4.8とGPT-5.5とGemini 3.1 Pro」などの組み合わせが可能で、これらの組み合わせはベンチマークにおいてAnthropicが最高性能と主張するClaude Fable 5のスコアを上回ることが確認されています。また、コストと性能を示すグラフでは、「Gemini 3 FlashとKimi K2.6とDeepSeek V4 Pro」の組み合わせがClaude Fable 5の約半分のコストでほぼ同等のスコアを達成していることが示されています。Fusionの詳細なドキュメントと試用リンクも公開されており、OpenRouterのアカウントがあればすぐに体験できます。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>Fusionのリリース直後、一部のユーザーから審査モデルに意図せずClaude Opus 4.8が呼び出される現象が報告されました。特に、DeepSeek V4 ProとDeepSeek V4 Flash、Kimi K2.6を指定したにもかかわらず、審査モデルとしてClaude Opus 4.8が使われていたことがAPIログから判明し、これがバグではないかと指摘されました。この指摘に対し、OpenRouterの開発者であるToven氏はフロントエンドのバグであることを認め、APIを直接使う場合は問題なく動作すると説明し、修正を約束しました。これにより、当初の期待通りに低コストのオープンモデルだけで高い推論性能を得たいというニーズに応えるための改善が求められる状況となりました。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>Fusionの登場は、単一の巨大モデルに依存せず、複数の特化したモデルを組み合わせることで性能とコストのバランスを最適化しようとする業界の動きを反映しています。ベンチマーク結果が既存のトップモデルを上回ることから、モデルのアンサンブル手法が実用的な選択肢として注目される可能性が高まります。一方で、審査モデルの固定化というバグは、システムの透明性とユーザーの期待に応えるための重要な課題となります。今後の修正と改善により、Fusionはより柔軟で信頼性の高いマルチモデルAIプラットフォームとして発展していくことが期待されます。</p>
+<p><a class="link" href="https://gigazine.net/news/20260616-openrouter-ai-fusion/"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<h1 id="複数のaiを組み合わせてclaude-fable超えの性能を実現するシステムfusionをopenrouterがリリース">複数のAIを組み合わせてClaude Fable超えの性能を実現するシステム「Fusion」をOpenRouterがリリース
+</h1><p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/5d62a9728db8bd97005541713ebf010f.png"></p>
+<p>AIモデルのAPI提供サービスを展開するOpenRouterが異なるAIを組み合わせて実行できるシステム「<strong>Fusion</strong>」をリリースしました。Fusionは「Claude Opus 4.8とGPT-5.5」「Claude Opus 4.8とGPT-5.5とGemini 3.1 Pro」といったように高性能モデル同士を組み合わせて実行可能で、** Claude Fable 5**を超えるベンチマークスコアをたたき出すことにも成功しています。</p>
+<p><strong>Surpassing Frontier Performance with Fusion — OpenRouter Blog</strong></p>
+<p><a class="link" href="https://openrouter.ai/blog/announcements/fusion-beats-frontier/"  target="_blank" rel="noopener"
+    >https://openrouter.ai/blog/announcements/fusion-beats-frontier/</a>Fusionは「ユーザーの入力を複数のモデルに並列送信し、各モデルの応答を審査モデルで読み取って構造化された分析結果を生成し、呼び出しモデルで分析結果に基づいた最終的な回答を生成する」という仕組みで動作します。</p>
+<p>組み合わせごとのベンチマークスコアを並べたグラフが以下。青色がFusionを用いて複数モデルを組み合わせた結果で、オレンジ色が単一モデルの結果を示しています。「Claude Opus 4.8とGPT-5.5とGemini 3.1 Pro」「Claude Opus 4.8とGPT-5.5」「Claude Opus 4.8を2つ実行」という組み合わせでAnthropicが史上最高モデルとアピールしているClaude Fable 5のスコアを上回りました。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/f9a74296f1e42631443a0d2e18f35304.png"></p>
+<p>以下のグラフは横軸がコスト、縦軸がベンチマークスコアを示しています。「Gemini 3 FlashとKimi K2.6とDeepSeek V4 Pro」という組み合わせではClaude Fable 5の半分のコストでベンチマークスコア1％差まで迫っています。</p>
+<p><img loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/4531b2330fb6114cd469dd8cb126604c.png"></p>
+<p>Fusionのドキュメントは以下のリンク先で公開されています。</p>
+<p><strong>Fusion Server Tool | Multi-model AI Analysis with OpenRouter | OpenRouter | Documentation</strong></p>
+<p><a class="link" href="https://openrouter.ai/docs/guides/features/server-tools/fusion"  target="_blank" rel="noopener"
+    >https://openrouter.ai/docs/guides/features/server-tools/fusion</a></p>
+<p>また、OpenRouterのアカウントがあれば、以下のリンク先でFusionを用いたチャットを試すことができます。</p>
+<p><strong>Model Fusion | OpenRouter</strong></p>
+<p><a class="link" href="https://openrouter.ai/fusion"  target="_blank" rel="noopener"
+    >https://openrouter.ai/fusion</a></p>
+<p>なお、Fusionの公開直後の2026年6月14日には「DeepSeek V4 ProとDeepSeek V4 FlashとKimi K2.6」を指定したのに審査モデルとしてClaude Opus 4.8が使われるという事象が報告されていました。</p>
+<p>I have tried to use OpenRouter Fusion API with cheap open models only, and saw reasoning that surpasses any of them individually. Then I looked into API logs and saw that this &ldquo;Fusion&rdquo; still calls Opus 4.8 as a judge.</p>
+<p>— Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) (@teortaxesTex)</p>
+<p>I see no way to disable it.</p>
+<p>Not cool, OpenRouter. Not cool.<a class="link" href="https://t.co/CjC2NjMMNh"  target="_blank" rel="noopener"
+    >https://t.co/CjC2NjMMNh</a><a class="link" href="https://t.co/ZYUFO95OvB"  target="_blank" rel="noopener"
+    >pic.twitter.com/ZYUFO95OvB</a><a class="link" href="https://x.com/teortaxesTex/status/2066045540031234516?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >June 14, 2026</a></p>
+<p>OpenRouterの開発者である** Toven**氏は現象がバグであることを認めており、修正を約束しています。</p>
+<p>this just seems like a frontend bug and we’ll fix it! using it over the API is the thing we launched yesterday and is much more flexible</p>
+<p>— Toven (@pingToven)<a class="link" href="https://x.com/pingToven/status/2066145112409735581?ref_src=twsrc%5Etfw"  target="_blank" rel="noopener"
+    >June 14, 2026</a></p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>SAPPHIRE、補助電源ケーブル不要の「PhantomLink」対応Radeon RX 9070 XTとX870Eマザーボードを発売</title>
       <link>https://n-kase.github.io/rss/posts/post-808/</link>
