@@ -6,31 +6,130 @@
     <description>Recent content in タグ on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:16:35 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>App Store</title>
-      <link>https://n-kase.github.io/rss/tags/app-store/</link>
-      <pubDate>Tue, 16 Jun 2026 11:16:35 +0900</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/tags/app-store/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
+    <lastBuildDate>Tue, 16 Jun 2026 11:17:42 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple</title>
       <link>https://n-kase.github.io/rss/tags/apple/</link>
-      <pubDate>Tue, 16 Jun 2026 11:16:35 +0900</pubDate>
+      <pubDate>Tue, 16 Jun 2026 11:17:42 +0900</pubDate>
       
       <guid>https://n-kase.github.io/rss/tags/apple/</guid>
       <description>&lt;![CDATA[]]></description>
     </item>
     
     <item>
+      <title>Crouton</title>
+      <link>https://n-kase.github.io/rss/tags/crouton/</link>
+      <pubDate>Tue, 16 Jun 2026 11:17:42 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/crouton/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Swift</title>
+      <link>https://n-kase.github.io/rss/tags/swift/</link>
+      <pubDate>Tue, 16 Jun 2026 11:17:42 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/swift/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
       <title>アプリ開発</title>
       <link>https://n-kase.github.io/rss/tags/%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA/</link>
-      <pubDate>Tue, 16 Jun 2026 11:16:35 +0900</pubDate>
+      <pubDate>Tue, 16 Jun 2026 11:17:42 +0900</pubDate>
       
       <guid>https://n-kase.github.io/rss/tags/%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>デベロッパー活動</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC%E6%B4%BB%E5%8B%95/</link>
+      <pubDate>Tue, 16 Jun 2026 11:17:42 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC%E6%B4%BB%E5%8B%95/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Apple Design Award</title>
+      <link>https://n-kase.github.io/rss/tags/apple-design-award/</link>
+      <pubDate>Tue, 16 Jun 2026 11:17:28 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/apple-design-award/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>インディーデベロッパー</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC/</link>
+      <pubDate>Tue, 16 Jun 2026 11:17:28 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>クッキングアプリ</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%82%AF%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%97%E3%83%AA/</link>
+      <pubDate>Tue, 16 Jun 2026 11:17:28 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%82%AF%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%97%E3%83%AA/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>Apple Push Notifications</title>
+      <link>https://n-kase.github.io/rss/tags/apple-push-notifications/</link>
+      <pubDate>Tue, 16 Jun 2026 11:17:11 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/apple-push-notifications/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>コンソール</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</link>
+      <pubDate>Tue, 16 Jun 2026 11:17:11 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>ブロードキャスト</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88/</link>
+      <pubDate>Tue, 16 Jun 2026 11:17:11 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%83%96%E3%83%AD%E3%83%BC%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>メトリクス</title>
+      <link>https://n-kase.github.io/rss/tags/%E3%83%A1%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9/</link>
+      <pubDate>Tue, 16 Jun 2026 11:17:11 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E3%83%A1%E3%83%88%E3%83%AA%E3%82%AF%E3%82%B9/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>開発者</title>
+      <link>https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85/</link>
+      <pubDate>Tue, 16 Jun 2026 11:17:11 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85/</guid>
+      <description>&lt;![CDATA[]]></description>
+    </item>
+    
+    <item>
+      <title>App Store</title>
+      <link>https://n-kase.github.io/rss/tags/app-store/</link>
+      <pubDate>Tue, 16 Jun 2026 11:16:35 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/tags/app-store/</guid>
       <description>&lt;![CDATA[]]></description>
     </item>
     
@@ -242,15 +341,6 @@
     </item>
     
     <item>
-      <title>開発者</title>
-      <link>https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85/</link>
-      <pubDate>Tue, 16 Jun 2026 11:14:44 +0900</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
-    <item>
       <title>賞賛</title>
       <link>https://n-kase.github.io/rss/tags/%E8%B3%9E%E8%B3%9B/</link>
       <pubDate>Tue, 16 Jun 2026 11:14:44 +0900</pubDate>
@@ -310,15 +400,6 @@
       <pubDate>Tue, 16 Jun 2026 11:14:21 +0900</pubDate>
       
       <guid>https://n-kase.github.io/rss/tags/ai/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
-    <item>
-      <title>Apple Design Award</title>
-      <link>https://n-kase.github.io/rss/tags/apple-design-award/</link>
-      <pubDate>Tue, 16 Jun 2026 11:14:21 +0900</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/tags/apple-design-award/</guid>
       <description>&lt;![CDATA[]]></description>
     </item>
     
@@ -490,15 +571,6 @@
       <pubDate>Tue, 16 Jun 2026 11:11:30 +0900</pubDate>
       
       <guid>https://n-kase.github.io/rss/tags/student-challenge/</guid>
-      <description>&lt;![CDATA[]]></description>
-    </item>
-    
-    <item>
-      <title>Swift</title>
-      <link>https://n-kase.github.io/rss/tags/swift/</link>
-      <pubDate>Tue, 16 Jun 2026 11:11:30 +0900</pubDate>
-      
-      <guid>https://n-kase.github.io/rss/tags/swift/</guid>
       <description>&lt;![CDATA[]]></description>
     </item>
     

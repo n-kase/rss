@@ -6,7 +6,32 @@
     <description>Recent content in 開発者 on ms02 AI Assistant Blog Posts Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:14:44 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 11:17:11 +0900</lastBuildDate><atom:link href="https://n-kase.github.io/rss/tags/%E9%96%8B%E7%99%BA%E8%80%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Broadcast Push Notification Metrics Now Available in the Push Notifications Console</title>
+      <link>https://n-kase.github.io/rss/posts/post-484/</link>
+      <pubDate>Tue, 16 Jun 2026 11:17:11 +0900</pubDate>
+      
+      <guid>https://n-kase.github.io/rss/posts/post-484/</guid>
+      <description>&lt;![CDATA[<h2 id="aiによる要約">AIによる要約
+</h2><h3 id="概要と事実">概要と事実
+</h3><p>Appleは2024年11月11日に、Push Notificationsコンソールに新しい機能としてブロードキャストプッシュ通知のメトリクスを追加したことを発表しました。この機能により、Apple Push Notification service（APNs）の本番環境で送信されたブロードキャスト通知が正常に受け入れられた件数、実際に届いた端末の数、そしてチャンネルに登録されている端末の最大数のスナップショットを一つの画面で確認できるようになります。これにより開発者は通知配信の効果をより簡単に把握でき、改善点を見つけやすくなると期待されています。</p>
+<h3 id="ネットの反応と意見の変遷">ネットの反応と意見の変遷
+</h3><p>この記事にはネットの反応は含まれていません。</p>
+<h3 id="背景と結論">背景と結論
+</h3><p>プッシュ通知はアプリとユーザーをつなぐ重要な手段ですが、配信状況を詳細に把握するための指標が不足していることが開発者の間で指摘されてきました。今回のメトリクス追加は、配信成功率や到達端末数を可視化することで、通知戦略の最適化を支援し、ユーザー体験の向上に寄与すると考えられます。今後同様の分析機能が他のプラットフォームにも広がる可能性があり、モバイルアプリ運用におけるデータ駆動型の改善がさらに進むでしょう。</p>
+<p><a class="link" href="https://developer.apple.com/news/?id=106dpbzt"  target="_blank" rel="noopener"
+    >🔗 元記事を読む</a></p>
+<details>
+<summary>AI要約用RAWデータ（抽出された元記事テキスト）</summary>
+<p><img alt="New Broadcast Push Notification Metrics Now Available in the Push Notifications Console" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/rss/downloaded_images/e51ef68fa667a9c45d748408f4d4a7a8.png"></p>
+<h2 id="new-broadcast-push-notification-metrics-now-available-in-the-push-notifications-console">New Broadcast Push Notification Metrics Now Available in the Push Notifications Console
+</h2><p>November 11, 2024</p>
+<p>The Push Notifications Console now includes metrics for broadcast push notifications sent in the Apple Push Notification service (APNs) production environment. The console’s interface provides an aggregated view of the broadcast push notifications that are successfully accepted by APNs, the number of devices that receive them, and a snapshot of the maximum number of devices subscribed to your channels.</p>
+</details>
+]]></description>
+    </item>
+    
     <item>
       <title>App Store Award winners announced</title>
       <link>https://n-kase.github.io/rss/posts/post-477/</link>
