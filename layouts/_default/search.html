@@ -1,0 +1,180 @@
+{{ partial "head.html" . }}
+<body>
+  <div id="blog">
+    {{ partial "header.html" . }}
+    {{ partial "sidebar.html" . }}
+    {{ partial "post/header-cover.html" . }}
+    <div id="main" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}"
+      class="{{ with .Params.coverimage }}hasCover{{ end }}
+             {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
+             {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
+      <div class="post-header main-content-wrap text-left">
+        <h1 class="post-title">{{ .Title }}</h1>
+      </div>
+      <div class="main-content-wrap">
+        <form id="local-search-form" role="search"
+          data-locale="{{ .Site.Language.Lang }}"
+          data-json="{{ with .OutputFormats.Get "json" }}{{ .RelPermalink }}{{ end }}">
+          <input type="search" id="local-search-input"
+            class="form-control input--large search-input"
+            placeholder="{{ i18n "global.search" }}"
+            aria-label="{{ i18n "global.search" }}"
+            autocomplete="off" autofocus>
+        </form>
+        <p class="results-count text-medium" id="local-search-count" hidden
+          data-message-zero="{{ i18n "global.posts_found.zero" }}"
+          data-message-one="{{ i18n "global.posts_found.one" }}"
+          data-message-other="{{ i18n "global.posts_found.other" }}"></p>
+        <div id="local-search-noresult" class="text-center text-small" hidden>{{ i18n "global.posts_found.zero" }}</div>
+        <noscript>
+          <p class="text-center text-small">{{ if eq .Site.Language.Lang "ja" }}検索機能には JavaScript を有効にしてください。{{ else }}Please enable JavaScript to use search.{{ end }}</p>
+        </noscript>
+        <div id="local-search-results"></div>
+      </div>
+      <style>mark{background:#f9e79f;color:inherit;padding:0 .1em;border-radius:.15em}</style>
+      {{ partial "footer.html" . }}
+    </div>
+  </div>
+  <script>
+  (function () {
+    "use strict";
+    var form = document.getElementById("local-search-form");
+    var input = document.getElementById("local-search-input");
+    var resultsEl = document.getElementById("local-search-results");
+    var countEl = document.getElementById("local-search-count");
+    var noResultEl = document.getElementById("local-search-noresult");
+    if (!form || !input || !resultsEl) return;
+
+    var MAX_RESULTS = 25;
+    var locale = form.getAttribute("data-locale") || "ja";
+    var data = null;
+    var loading = null;
+
+    var monthEn = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+    function fmtDate(iso) {
+      var parts = String(iso || "").slice(0, 10).split("-");
+      if (parts.length !== 3) return "";
+      var y = parts[0], m = parseInt(parts[1], 10), d = parseInt(parts[2], 10);
+      if (!m || !d) return "";
+      if (locale === "ja") return y + "年" + m + "月" + d + "日";
+      return monthEn[m - 1] + " " + d + ", " + y;
+    }
+
+    function esc(s) {
+      return String(s).replace(/[&<>"']/g, function (c) {
+        return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+      });
+    }
+
+    function load() {
+      if (loading) return loading;
+      var url = form.getAttribute("data-json");
+      if (!url) return;
+      loading = fetch(url, { credentials: "same-origin" })
+        .then(function (r) {
+          if (!r.ok) throw new Error("HTTP " + r.status);
+          return r.json();
+        })
+        .then(function (d) {
+          data = d || [];
+          render(input.value);
+        })
+        .catch(function () {
+          noResultEl.textContent = (locale === "ja")
+            ? "検索データを取得できませんでした。"
+            : "Failed to load search data.";
+          noResultEl.hidden = false;
+        });
+      return loading;
+    }
+
+    function countMsg(n) {
+      if (n === 0) return countEl.getAttribute("data-message-zero");
+      if (n === 1) return countEl.getAttribute("data-message-one");
+      return countEl.getAttribute("data-message-other").replace("{n}", String(n));
+    }
+
+    function excerpt(p, contentIdx, qlen) {
+      var c = String(p.content || "");
+      if (contentIdx !== -1 && qlen > 0) {
+        var start = Math.max(0, contentIdx - 40);
+        var end = Math.min(c.length, contentIdx + qlen + 60);
+        return (start > 0 ? "…" : "") + esc(c.slice(start, contentIdx)) +
+          "<mark>" + esc(c.slice(contentIdx, contentIdx + qlen)) + "</mark>" +
+          esc(c.slice(contentIdx + qlen, end)) + (end < c.length ? "…" : "");
+      }
+      var s = esc(c.slice(0, 120));
+      return c.length > 120 ? s + "…" : s;
+    }
+
+    function resultNode(m, qlen) {
+      var p = m.p;
+      var html = "";
+      if (p.image) {
+        html += '<div class="media-left"><a class="link-unstyled" href="' + esc(p.permalink) + '">' +
+          '<img class="media-image" src="' + esc(p.image) + '" width="90" height="90" loading="lazy" alt=""></a></div>';
+      }
+      html += '<div class="media-body">';
+      html += '<a class="link-unstyled" href="' + esc(p.permalink) + '"><h3 class="media-heading">' + esc(p.title) + "</h3></a>";
+      if (p.date) html += '<span class="media-meta"><span class="text-small">' + fmtDate(p.date) + "</span></span>";
+      html += '<div class="media-content hide-xs font-merryweather">' + excerpt(p, m.contentIdx, qlen) + "</div>";
+      html += '</div><div style="clear:both;"></div><hr>';
+      var div = document.createElement("div");
+      div.className = "media";
+      div.innerHTML = html;
+      return div;
+    }
+
+    function render(rawQuery) {
+      if (!data) return;
+      var query = String(rawQuery || "").trim().toLowerCase();
+      resultsEl.innerHTML = "";
+      countEl.hidden = true;
+      noResultEl.hidden = true;
+      if (!query) return;
+
+      var matches = [];
+      for (var i = 0; i < data.length; i++) {
+        var p = data[i];
+        var t = String(p.title || "").toLowerCase();
+        var c = String(p.content || "").toLowerCase();
+        var titleIdx = t.indexOf(query);
+        var contentIdx = c.indexOf(query);
+        if (titleIdx === -1 && contentIdx === -1) continue;
+        matches.push({
+          p: p,
+          score: (titleIdx !== -1 ? 100 : 0) + (contentIdx !== -1 ? 1 : 0),
+          contentIdx: contentIdx
+        });
+      }
+      if (matches.length === 0) {
+        noResultEl.hidden = false;
+        return;
+      }
+      matches.sort(function (a, b) {
+        if (b.score !== a.score) return b.score - a.score;
+        return String(b.p.date || "").localeCompare(String(a.p.date || ""));
+      });
+      countEl.textContent = countMsg(matches.length);
+      countEl.hidden = false;
+      var frag = document.createDocumentFragment();
+      var top = matches.slice(0, MAX_RESULTS);
+      for (var j = 0; j < top.length; j++) {
+        frag.appendChild(resultNode(top[j], query.length));
+      }
+      resultsEl.appendChild(frag);
+    }
+
+    var debounceTimer = null;
+    input.addEventListener("input", function () {
+      if (!data) return;
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(function () { render(input.value); }, 100);
+    });
+    form.addEventListener("submit", function (e) { e.preventDefault(); });
+    input.addEventListener("focus", load);
+    load();
+  })();
+  </script>
+{{ partial "foot.html" . }}
