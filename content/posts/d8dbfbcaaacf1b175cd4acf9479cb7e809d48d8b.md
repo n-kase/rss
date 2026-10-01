@@ -157,6 +157,6 @@ Add some HTTP headers Referrer-Policy: same-…
 - カテゴリ: 未分類
 - フィード: FreshRSS releases
 - 公開日: 2025-05-04T05:27:27+09:00
-- 取得: RSS ダイジェスト 09:44 分 スナップショット
+- 取得: RSS ダイジェスト スナップショット
 
 </details>
