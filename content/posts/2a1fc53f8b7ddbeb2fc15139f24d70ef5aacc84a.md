@@ -3,6 +3,7 @@ title: "脳信号で発話・パソコンやスマホ操作、パラドロミク
 description: "10/1(木) 7:00 配信 最初の治験参加者は、コネクサスBCIを通じて意思を伝え、担当医マシュー・ウィルシーに感謝を述べた。今後治験に参加する人たちには、「怖がらないでください。他の人を助けられるのは、すばらしい経験です」と伝えた。（C）Paradromics、University of Michigan（フォー…"
 date: 2026-10-01T07:00:00+09:00
 categories: ["ニュース"]
+image: /rss/rss_digest_images/51cb8b9bfb77b9274d71522093b690cda0fb43fe.jpg
 ---
 
 ## 本文

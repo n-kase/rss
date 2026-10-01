@@ -3,6 +3,7 @@ title: "マイクロソフト、「Windows 11 26H2」をリリース--新機能�
 description: "10/1(木) 8:44 配信 2 コメント 2 件 マイクロソフト、「Windows 11 26H2」をリリース--新機能や移行は？の画像（ZDNET Japan） 「Windows」の新バージョンが登場した。期待された「Windows 12」ではなく、Windows 11の2026年版にあたる「Windows 11…"
 date: 2026-10-01T08:44:00+09:00
 categories: ["ニュース"]
+image: /rss/rss_digest_images/872785f2467cd195494dcb10bd1a52117d5866fb.jpg
 ---
 
 ## 本文

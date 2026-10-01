@@ -3,6 +3,7 @@ title: "【Kindleセール】50%オフ＆期間限定無料「白泉社『ドカ
 description: "Kindleセール 2026.10.01 【Kindleセール】50%オフ＆期間限定無料「白泉社『ドカ食いダイスキ！もちづきさん』新刊配信！ヤングアニマル9月新刊フェア」描くなるうえは・娘じゃなくて私が好きなの！？・邪命邪魅・D.ダイバー・ワールドエンダーなど（10/12まで） Amazonの Kindleセール 情報…"
 date: 2026-10-01T07:00:00+09:00
 categories: ["ネタ"]
+image: /rss/rss_digest_images/b082c7fc34bf7c32bd73356c3fd608b2fa4f0ed8.jpg
 ---
 
 ## 本文

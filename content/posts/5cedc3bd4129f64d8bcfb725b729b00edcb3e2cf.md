@@ -3,6 +3,7 @@ title: "千鳥・大悟×ディズニープラス『THE ONE SHOT』シーズン2
 description: "10/1(木) 9:00 配信 千鳥・大悟×ディズニープラス『THE ONE SHOT』シーズン2決定（C）FANY Studio（オリコン） ディズニー公式動画配信サービス「Disney+ （ディズニープラス）」のスターにて配信中のオリジナルバラエティ番組『THE ONE SHOT』（ザ・ワンショット）。お笑いコンビ…"
 date: 2026-10-01T09:00:00+09:00
 categories: ["ニュース"]
+image: /rss/rss_digest_images/d9fc10f47f7d7760356e1f3f818418c1c13795e9.jpg
 ---
 
 ## 本文

@@ -3,6 +3,7 @@ title: "FreshRSS 1.29.0"
 description: "FreshRSS / FreshRSS Public Uh oh! There was an error while loading. Please reload this page . Notifications You must be signed in to change notification setting…"
 date: 2026-05-10T23:43:38+09:00
 categories: ["未分類"]
+image: /rss/rss_digest_images/08ce7f291a1a1850bea37b9c4d80093841cf720f.jpg
 ---
 
 ## 本文

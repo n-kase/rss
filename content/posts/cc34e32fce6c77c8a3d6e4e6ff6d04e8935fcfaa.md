@@ -3,6 +3,7 @@ title: "「METAL ROBOT魂 ガンダムヴィダール」が彩色新たに復活
 description: "10/1(木) 9:15 配信 （写真：インサイド）（インサイド） プレミアムバンダイは、「METAL ROBOT魂 ＜SIDE MS＞ ガンダムヴィダール [Re:Coordinate]」の予約受付を10月2日16時より実施します。 【画像】金属感が映える！彩色新たに復活する「METAL ROBOT魂 ガンダムヴィダ…"
 date: 2026-10-01T09:15:03+09:00
 categories: ["ニュース"]
+image: /rss/rss_digest_images/bb24909490d3cb252caed61a7dee427b9e8bc92c.jpg
 ---
 
 ## 本文
