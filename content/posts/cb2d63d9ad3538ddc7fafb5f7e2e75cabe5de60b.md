@@ -4,6 +4,7 @@ description: "10/1(木) 9:34 配信 地区シリーズ進出を決め、タッ�
 date: 2026-10-01T09:34:24+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/c8e40f8d87cc1ce0fb03e89cfde27d46a3a6672d.jpg
+tags: ["村上宗隆", "ホワイトソックス", "MLB"]
 ---
 
 ## 本文

@@ -4,6 +4,7 @@ description: "Kindleセール 2026.10.01 【Kindleセール】50%オフ＆期間
 date: 2026-10-01T07:00:00+09:00
 categories: ["ネタ"]
 image: /rss/rss_digest_images/b082c7fc34bf7c32bd73356c3fd608b2fa4f0ed8.jpg
+tags: ["Kindleセール", "マンガ"]
 ---
 
 ## 本文

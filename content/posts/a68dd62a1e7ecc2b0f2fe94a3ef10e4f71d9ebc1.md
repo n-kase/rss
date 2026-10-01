@@ -4,6 +4,7 @@ description: "10/1(木) 8:51 配信 オードリー若林正恭（2024年10月�
 date: 2026-10-01T08:51:33+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/3eb075c44fcb99a98e1a18c65b3a55dd8bba9f28.jpg
+tags: ["オードリー", "芸人", "カナメストーン"]
 ---
 
 ## 本文

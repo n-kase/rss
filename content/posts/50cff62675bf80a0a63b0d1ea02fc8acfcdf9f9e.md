@@ -4,6 +4,7 @@ description: "10/1(木) 9:33 配信 グアバネコブセンチュウの第２�
 date: 2026-10-01T09:33:09+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/49866e52fd61dd970c47c9ee30797b5590ef455a.jpg
+tags: ["グアバネコブセンチュウ", "農業", "宮崎"]
 ---
 
 ## 本文

@@ -4,6 +4,7 @@ description: "10/1(木) 8:50 配信 メルセデス190 E 2.5-16エボリュー�
 date: 2026-10-01T08:50:02+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/1bc58207073c44816a3b2a789add10492a0cc623.jpg
+tags: ["クラシックカー", "メルセデス・ベンツ", "オークション"]
 ---
 
 ## 本文

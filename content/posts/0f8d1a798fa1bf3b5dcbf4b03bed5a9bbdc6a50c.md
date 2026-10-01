@@ -4,6 +4,7 @@ description: "キニ速-気になる速報- Follow @kinisoku_ ダウンタウン
 date: 2026-10-01T09:44:50+09:00
 categories: ["ネタ"]
 image: /rss/rss_digest_images/27b4e646e18bfdbb10da92f9dd191fd5a518ad82.jpg
+tags: ["松本人志", "ダウンタウン", "ガキ使"]
 ---
 
 ## 本文

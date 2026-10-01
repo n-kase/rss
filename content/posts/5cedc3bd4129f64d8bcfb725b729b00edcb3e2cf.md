@@ -4,6 +4,7 @@ description: "10/1(木) 9:00 配信 千鳥・大悟×ディズニープラス『
 date: 2026-10-01T09:00:00+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/d9fc10f47f7d7760356e1f3f818418c1c13795e9.jpg
+tags: ["THE ONE SHOT", "千鳥大悟", "ディズニープラス"]
 ---
 
 ## 本文

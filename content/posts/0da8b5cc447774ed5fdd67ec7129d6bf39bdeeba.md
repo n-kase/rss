@@ -4,6 +4,7 @@ description: "Kindleセール 2026.09.30 【Kindleセール】最大72%オフ「
 date: 2026-09-30T12:00:00+09:00
 categories: ["ネタ"]
 image: /rss/rss_digest_images/7ba74016e546f62660705971eee02eb4b88a187d.jpg
+tags: ["Kindleセール", "ライトノベル"]
 ---
 
 ## 本文

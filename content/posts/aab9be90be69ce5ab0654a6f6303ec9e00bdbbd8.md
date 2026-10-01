@@ -4,6 +4,7 @@ description: "2026/09/29 この記事にはアフィリエイト広告・広告�
 date: 2026-09-29T22:57:14+09:00
 categories: ["ガジェット"]
 image: /rss/rss_digest_images/a6926273e57ea009a6fb017706d6c17384b7ec6b.jpg
+tags: ["アプリセール", "iOS", "RPG"]
 ---
 
 ## 本文

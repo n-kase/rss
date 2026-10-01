@@ -4,6 +4,7 @@ description: "10/1(木) 7:00 配信 最初の治験参加者は、コネクサ�
 date: 2026-10-01T07:00:00+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/51cb8b9bfb77b9274d71522093b690cda0fb43fe.jpg
+tags: ["ブレインマシンインターフェース", "パラドロミクス", "医療"]
 ---
 
 ## 本文

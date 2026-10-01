@@ -4,6 +4,7 @@ description: "ニュース 世界初、3台の「MAZDA 787B」がそろうマツ
 date: 2026-10-01T09:44:50+09:00
 categories: ["カーライフ"]
 image: /rss/rss_digest_images/c1503f1a17e3c4bcbaa7b0cfa346718989bbc50f.jpg
+tags: ["マツダ", "MAZDA 787B", "ル・マン"]
 ---
 
 ## 本文

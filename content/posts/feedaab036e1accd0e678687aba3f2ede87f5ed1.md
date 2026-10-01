@@ -4,6 +4,7 @@ description: "10/1(木) 9:16 配信 7 コメント 7 件 新機能の「Point & 
 date: 2026-10-01T09:16:39+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/f2b0d3346827fb6121965e233faa1dbb955e8ca4.jpg
+tags: ["Xperia", "スマートフォン", "ソニー"]
 ---
 
 ## 本文

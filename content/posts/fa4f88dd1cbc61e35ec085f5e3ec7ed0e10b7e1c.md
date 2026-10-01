@@ -4,6 +4,7 @@ description: "この記事のカテゴリ： サイエンス＆テクノロジ�
 date: 2026-09-30T18:00:00+09:00
 categories: ["ネタ"]
 image: /rss/rss_digest_images/7de1e377739eb2881703a334ad2e6d86d59eb38d.jpg
+tags: ["ヒューマノイド", "GMO", "救急車"]
 ---
 
 ## 本文

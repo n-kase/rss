@@ -4,6 +4,7 @@ description: "キニ速-気になる速報- Follow @kinisoku_ 【悲報】女さ
 date: 2026-10-01T09:44:50+09:00
 categories: ["ネタ"]
 image: /rss/rss_digest_images/9115e937134572a4d54d988f174bbae35bae3e4c.jpg
+tags: ["映画館", "隣席"]
 ---
 
 ## 本文

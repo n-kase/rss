@@ -4,6 +4,7 @@ description: "10/1(木) 9:26 配信 116 コメント 116 件 愛知・名古屋�
 date: 2026-10-01T09:26:40+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/ad0a77a6ec7a177d3f1ff1071d4d50ff383f894e.jpg
+tags: ["サッカー", "アジア大会", "日韓対決"]
 ---
 
 ## 本文

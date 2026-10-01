@@ -4,6 +4,7 @@ description: "10/1(木) 9:15 配信 （写真：インサイド）（インサ�
 date: 2026-10-01T09:15:03+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/bb24909490d3cb252caed61a7dee427b9e8bc92c.jpg
+tags: ["ガンダム", "METAL ROBOT魂", "フィギュア"]
 ---
 
 ## 本文

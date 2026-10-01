@@ -4,6 +4,7 @@ description: "10/1(木) 8:30 配信 写真：INTERNET Watch（株式会社イン
 date: 2026-10-01T08:30:00+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/f059a9d7217012c8c491d864c23c87286da6172b.jpg
+tags: ["サイバーセキュリティ", "能動的サイバー防御", "基幹インフラ"]
 ---
 
 ## 本文

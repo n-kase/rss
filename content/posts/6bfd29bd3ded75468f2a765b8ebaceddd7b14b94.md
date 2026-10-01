@@ -4,6 +4,7 @@ description: "10/1(木) 8:44 配信 2 コメント 2 件 マイクロソフト�
 date: 2026-10-01T08:44:00+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/872785f2467cd195494dcb10bd1a52117d5866fb.jpg
+tags: ["Windows 11", "マイクロソフト", "アップデート"]
 ---
 
 ## 本文

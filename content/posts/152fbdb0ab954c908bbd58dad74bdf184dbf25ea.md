@@ -4,6 +4,7 @@ description: "10/1(木) 7:00 配信 ◆大阪 晴れ時々曇り ◆京都 晴�
 date: 2026-10-01T07:00:07+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/1b72509bf5b08055aef7f1ffced229604810cb50.jpg
+tags: ["天気", "西日本"]
 ---
 
 ## 本文

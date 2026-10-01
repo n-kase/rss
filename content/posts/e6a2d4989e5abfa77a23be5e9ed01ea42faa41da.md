@@ -4,6 +4,7 @@ description: "Sep 30,2026 21:45 11,345 山之内 渉 114 BRAVO!!! 30歳になっ
 date: 2026-09-30T21:45:00+09:00
 categories: ["ライフスタイル"]
 image: /rss/rss_digest_images/c59b862a13b8fc8709a701e5c922282c8829ebe1.jpg
+tags: ["革靴", "サンダース", "ファッション"]
 ---
 
 ## 本文

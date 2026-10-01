@@ -4,6 +4,7 @@ description: "FreshRSS / FreshRSS Public Uh oh! There was an error while loading
 date: 2025-05-04T05:27:27+09:00
 categories: ["未分類"]
 image: /rss/rss_digest_images/797e05ab57940601b66627e6b2c02449a79f2c26.jpg
+tags: ["FreshRSS", "RSSリーダー", "セキュリティ修正"]
 ---
 
 ## 本文

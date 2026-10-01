@@ -4,6 +4,7 @@ description: "10/1(木) 9:01 配信 1 コメント 1 件 写真:自動車情報�
 date: 2026-10-01T09:01:05+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/2b45ca4e1256b5c375aa01dc72a3e6b46baae9d5.jpg
+tags: ["マツダ", "ロードスター", "中古車"]
 ---
 
 ## 本文

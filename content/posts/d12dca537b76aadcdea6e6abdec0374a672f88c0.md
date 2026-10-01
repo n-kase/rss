@@ -4,6 +4,7 @@ description: "ライブドアニュース NHKと海外系 【声優】小岩井�
 date: 2026-10-01T09:44:50+09:00
 categories: ["ネタ"]
 image: /rss/rss_digest_images/596be1bd70742e74c26b9b2dfa67d7d9cb4e1faf.jpg
+tags: ["小岩井ことり", "声優"]
 ---
 
 ## 本文

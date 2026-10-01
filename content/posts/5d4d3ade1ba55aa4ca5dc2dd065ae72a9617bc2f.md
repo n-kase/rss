@@ -4,6 +4,7 @@ description: "10/1(木) 9:05 配信 7 コメント 7 件 優勝カップを手�
 date: 2026-10-01T09:05:24+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/84a2292a2fdc7a8e767e96288976197c0edef59d.jpg
+tags: ["サッカー", "マンチェスターC", "財務違反"]
 ---
 
 ## 本文

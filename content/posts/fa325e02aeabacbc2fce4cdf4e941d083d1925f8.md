@@ -4,6 +4,7 @@ description: "アナログ 2ちゃんねるまとめブログVIPPERな俺です�
 date: 2026-10-01T09:44:50+09:00
 categories: ["ネタ"]
 image: /rss/rss_digest_images/c4e5d5d18c3d4b9ed532c410c3ab726c3cb83a75.jpg
+tags: ["居酒屋", "お通し", "飲食"]
 ---
 
 ## 本文

@@ -4,6 +4,7 @@ description: "10/1(木) 8:59 配信 AI人工知能の文字とキーボード、
 date: 2026-10-01T08:59:52+09:00
 categories: ["ニュース"]
 image: /rss/rss_digest_images/81a48b99c054abc7ac5d20d1c7f53933f3a06f7d.jpg
+tags: ["AI", "銀行", "韓国"]
 ---
 
 ## 本文
