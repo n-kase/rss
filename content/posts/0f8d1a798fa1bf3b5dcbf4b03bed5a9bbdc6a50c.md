@@ -2,7 +2,7 @@
 title: "ダウンタウン松本人志、ガキ使最終回でＴＶ復帰を有力雑誌がリークしてしまうｗｗｗｗ"
 description: "キニ速-気になる速報- Follow @kinisoku_ ダウンタウン松本人志、ガキ使最終回でＴＶ復帰を有力雑誌がリークしてしまうｗｗｗｗ 41 コメント 2026/9/30 19:20 カテゴリ： 芸能 テレビ , Tweet 1： 名無し ：2026/09/30(水) 10:47:26.087 ID:oz2usV…"
 date: 2026-09-30T19:20:00+09:00
-categories: ["ネタ"]
+categories: ["未分類"]
 image: /rss/rss_digest_images/27b4e646e18bfdbb10da92f9dd191fd5a518ad82.jpg
 tags: ["松本人志", "ダウンタウン", "ガキ使"]
 ---
@@ -200,13 +200,10 @@ DXのあんな形の最終回で読売と揉めたのは事実なんやろけど
 
 [🔗 元記事を読む](http://blog.livedoor.jp/kinisoku/archives/5710823.html)
 
-出典: キニ速 / kinisoku
-
 <details>
 <summary>RSSメタ情報</summary>
 
-- カテゴリ: ネタ
-- フィード: キニ速 / kinisoku
+- カテゴリ: 未分類
 - 公開日: 2026-09-30T19:20:00+09:00
 - 取得: RSS ダイジェスト スナップショット
 

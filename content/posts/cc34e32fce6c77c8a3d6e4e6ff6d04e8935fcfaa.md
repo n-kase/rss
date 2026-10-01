@@ -2,7 +2,7 @@
 title: "「METAL ROBOT魂 ガンダムヴィダール」が彩色新たに復活！金属感が映える［Re:Coordinate］として再商品化(インサイド)"
 description: "10/1(木) 9:15 配信 （写真：インサイド）（インサイド） プレミアムバンダイは、「METAL ROBOT魂 ＜SIDE MS＞ ガンダムヴィダール [Re:Coordinate]」の予約受付を10月2日16時より実施します。 【画像】金属感が映える！彩色新たに復活する「METAL ROBOT魂 ガンダムヴィダ…"
 date: 2026-10-01T09:15:03+09:00
-categories: ["ニュース"]
+categories: ["未分類"]
 image: /rss/rss_digest_images/bb24909490d3cb252caed61a7dee427b9e8bc92c.jpg
 tags: ["ガンダム", "METAL ROBOT魂", "フィギュア"]
 ---
@@ -49,13 +49,10 @@ tags: ["ガンダム", "METAL ROBOT魂", "フィギュア"]
 
 [🔗 元記事を読む](https://news.yahoo.co.jp/articles/0a60e39e56db8b343dda19f4dfe1102b7a8d6fb2)
 
-出典: Yahoo!ニュース・エンタメ
-
 <details>
 <summary>RSSメタ情報</summary>
 
-- カテゴリ: ニュース
-- フィード: Yahoo!ニュース・エンタメ
+- カテゴリ: 未分類
 - 公開日: 2026-10-01T09:15:03+09:00
 - 取得: RSS ダイジェスト スナップショット
 

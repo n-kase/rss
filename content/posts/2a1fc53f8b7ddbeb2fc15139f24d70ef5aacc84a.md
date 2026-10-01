@@ -2,7 +2,7 @@
 title: "脳信号で発話・パソコンやスマホ操作、パラドロミクスの埋め込み型BCIが商用化へ前進(Forbes JAPAN)"
 description: "10/1(木) 7:00 配信 最初の治験参加者は、コネクサスBCIを通じて意思を伝え、担当医マシュー・ウィルシーに感謝を述べた。今後治験に参加する人たちには、「怖がらないでください。他の人を助けられるのは、すばらしい経験です」と伝えた。（C）Paradromics、University of Michigan（フォー…"
 date: 2026-10-01T07:00:00+09:00
-categories: ["ニュース"]
+categories: ["未分類"]
 image: /rss/rss_digest_images/51cb8b9bfb77b9274d71522093b690cda0fb43fe.jpg
 tags: ["ブレインマシンインターフェース", "パラドロミクス", "医療"]
 ---
@@ -47,13 +47,10 @@ BCI業界では、複数の疾患や…
 
 [🔗 元記事を読む](https://news.yahoo.co.jp/articles/5eb549a8633a71fb60ad3bb0e9babbe5d9c827f2)
 
-出典: Yahoo!ニュース・IT
-
 <details>
 <summary>RSSメタ情報</summary>
 
-- カテゴリ: ニュース
-- フィード: Yahoo!ニュース・IT
+- カテゴリ: 未分類
 - 公開日: 2026-10-01T07:00:00+09:00
 - 取得: RSS ダイジェスト スナップショット
 

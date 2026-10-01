@@ -2,7 +2,7 @@
 title: "【声優】小岩井ことりさんの胸 大変なことになってしまっていると話題に"
 description: "ライブドアニュース NHKと海外系 【声優】小岩井ことりさんの胸 大変なことになってしまっていると話題に Tweet カテゴリ 声優 0 ： ハムスター速報 2026年09月29日 11:28 ID：hamusoku 渋谷の夜空のもとで アニソンライブ＆DJを楽しめちゃう！ ＼💿️ Anisong Scramble 📀…"
 date: 2026-09-29T11:28:00+09:00
-categories: ["ネタ"]
+categories: ["未分類"]
 image: /rss/rss_digest_images/596be1bd70742e74c26b9b2dfa67d7d9cb4e1faf.jpg
 tags: ["小岩井ことり", "声優"]
 ---
@@ -146,13 +146,10 @@ https://twitter.com/hamusoku
 
 [🔗 元記事を読む](https://hamusoku.com/archives/11043691.html)
 
-出典: ハムスター速報 / hamusoku
-
 <details>
 <summary>RSSメタ情報</summary>
 
-- カテゴリ: ネタ
-- フィード: ハムスター速報 / hamusoku
+- カテゴリ: 未分類
 - 公開日: 2026-09-29T11:28:00+09:00
 - 取得: RSS ダイジェスト スナップショット
 

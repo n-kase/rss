@@ -2,7 +2,7 @@
 title: "千鳥・大悟×ディズニープラス『THE ONE SHOT』シーズン2決定「私が一番驚いています」 挑戦者を募集(オリコン)"
 description: "10/1(木) 9:00 配信 千鳥・大悟×ディズニープラス『THE ONE SHOT』シーズン2決定（C）FANY Studio（オリコン） ディズニー公式動画配信サービス「Disney+ （ディズニープラス）」のスターにて配信中のオリジナルバラエティ番組『THE ONE SHOT』（ザ・ワンショット）。お笑いコンビ…"
 date: 2026-10-01T09:00:00+09:00
-categories: ["ニュース"]
+categories: ["未分類"]
 image: /rss/rss_digest_images/d9fc10f47f7d7760356e1f3f818418c1c13795e9.jpg
 tags: ["THE ONE SHOT", "千鳥大悟", "ディズニープラス"]
 ---
@@ -61,13 +61,10 @@ Disney+幹部が語った日本戦略 人気グループの旅番組やお笑い
 
 [🔗 元記事を読む](https://news.yahoo.co.jp/articles/75b5e17f4bed7de4da374d633a06b76a0894bec0)
 
-出典: Yahoo!ニュース・エンタメ
-
 <details>
 <summary>RSSメタ情報</summary>
 
-- カテゴリ: ニュース
-- フィード: Yahoo!ニュース・エンタメ
+- カテゴリ: 未分類
 - 公開日: 2026-10-01T09:00:00+09:00
 - 取得: RSS ダイジェスト スナップショット
 

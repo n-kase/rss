@@ -2,7 +2,7 @@
 title: "マイクロソフト、「Windows 11 26H2」をリリース--新機能や移行は？(ZDNET Japan)"
 description: "10/1(木) 8:44 配信 2 コメント 2 件 マイクロソフト、「Windows 11 26H2」をリリース--新機能や移行は？の画像（ZDNET Japan） 「Windows」の新バージョンが登場した。期待された「Windows 12」ではなく、Windows 11の2026年版にあたる「Windows 11…"
 date: 2026-10-01T08:44:00+09:00
-categories: ["ニュース"]
+categories: ["未分類"]
 image: /rss/rss_digest_images/872785f2467cd195494dcb10bd1a52117d5866fb.jpg
 tags: ["Windows 11", "マイクロソフト", "アップデート"]
 ---
@@ -53,13 +53,10 @@ MAで小さい企業が変化をリード…
 
 [🔗 元記事を読む](https://news.yahoo.co.jp/articles/88a23316b26eb59e35a02e8c1d80079799aa15f6)
 
-出典: Yahoo!ニュース・IT
-
 <details>
 <summary>RSSメタ情報</summary>
 
-- カテゴリ: ニュース
-- フィード: Yahoo!ニュース・IT
+- カテゴリ: 未分類
 - 公開日: 2026-10-01T08:44:00+09:00
 - 取得: RSS ダイジェスト スナップショット
 

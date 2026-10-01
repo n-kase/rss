@@ -2,7 +2,7 @@
 title: "【悲報】女さん「いやあああ映画館で隣に知らない人が座るのおおお😭」ネットの男さんたち「別にいいだろｯｯｯ😡」"
 description: "キニ速-気になる速報- Follow @kinisoku_ 【悲報】女さん「いやあああ映画館で隣に知らない人が座るのおおお😭」ネットの男さんたち「別にいいだろｯｯｯ😡」 87 コメント 2026/9/30 19:40 カテゴリ： 雑学 その他 , Tweet 1： 名無し ：2026/09/30(水) 09:56:57…"
 date: 2026-09-30T19:40:00+09:00
-categories: ["ネタ"]
+categories: ["未分類"]
 image: /rss/rss_digest_images/9115e937134572a4d54d988f174bbae35bae3e4c.jpg
 tags: ["映画館", "隣席"]
 ---
@@ -214,13 +214,10 @@ Tweet
 
 [🔗 元記事を読む](http://blog.livedoor.jp/kinisoku/archives/5710809.html)
 
-出典: キニ速 / kinisokua
-
 <details>
 <summary>RSSメタ情報</summary>
 
-- カテゴリ: ネタ
-- フィード: キニ速 / kinisokua
+- カテゴリ: 未分類
 - 公開日: 2026-09-30T19:40:00+09:00
 - 取得: RSS ダイジェスト スナップショット
 

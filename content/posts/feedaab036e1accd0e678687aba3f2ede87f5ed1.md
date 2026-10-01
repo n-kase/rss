@@ -2,7 +2,7 @@
 title: "ソニー「Xperia 10 VIII」を10月8日発売、9万9000円 決済／ポイントアプリを即時起動(ITmedia Mobile)"
 description: "10/1(木) 9:16 配信 7 コメント 7 件 新機能の「Point & Payメニュー」のイメージ。側面にある電源ボタンを2回押すだけで、登録した決済やポイントアプリを画面を見ずに素早く起動できる。画像は初回起動時に表示される画面（写真：ITmedia Mobile） ソニーは10月1日、ミッドレンジモデルのス…"
 date: 2026-10-01T09:16:39+09:00
-categories: ["ニュース"]
+categories: ["未分類"]
 image: /rss/rss_digest_images/f2b0d3346827fb6121965e233faa1dbb955e8ca4.jpg
 tags: ["Xperia", "スマートフォン", "ソニー"]
 ---
@@ -59,13 +59,10 @@ Xperiaでレジ前の焦りをどう解消？ Xperia 10 VIIIの新機能「Point
 
 [🔗 元記事を読む](https://news.yahoo.co.jp/articles/25ae42472db0b0e6b787b8311f4d2097afb807ed)
 
-出典: Yahoo!ニュース・IT
-
 <details>
 <summary>RSSメタ情報</summary>
 
-- カテゴリ: ニュース
-- フィード: Yahoo!ニュース・IT
+- カテゴリ: 未分類
 - 公開日: 2026-10-01T09:16:39+09:00
 - 取得: RSS ダイジェスト スナップショット
 
