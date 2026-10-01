@@ -1,5 +1,8 @@
-[  
+[
+  {{- $first := true -}}
   {{- range .Site.RegularPages -}}
+    {{- if not $first -}},{{ end -}}
+    {{- $first = false -}}
     {
       "title": {{- .Title | jsonify -}},
       "contents": {{- .Plain | jsonify -}},
