@@ -1,0 +1,127 @@
+# Tranquilpeak theme config (alternate theme, built with --environment tranquilpeak).
+# Switching is via build.sh:  bash build.sh tranquilpeak  |  bash build.sh stack
+# Post URLs stay /posts/<sha1>/ (default permalinks) so published links don't change.
+#
+# NOTE: with --environment, Hugo loads config/_default/hugo.toml (stack settings)
+# and merges this file on top. Keys defined here replace the default for scalars;
+# arrays/tables (menus) under [languages.*] replace wholesale.
+baseURL = 'https://n-kase.github.io/rss/'
+defaultContentLanguage = 'ja'
+title = 'RSS Digest'
+theme = 'tranquilpeak'
+paginate = 20
+
+# Exclude stack-theme stub pages for archives/categories/tags so the
+# theme's own taxonomy templates render. Only applied for this environment.
+# NOTE: content/search/ is KEPT — the stub renders through
+# layouts/tranquilpeak/page/search.{html,json} (theme-scoped repo layouts,
+# ignored by the stack build), which provides a theme-independent search UI.
+ignoreFiles = ['content/archives/', 'content/categories/', 'content/tags/']
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[params]
+  mainSections = ['posts']
+  description = 'RSS ダイジェストと MANGA ZIP (漫画・小説) のアーカイブ'
+  syntaxHighlighter = 'highlight.js'
+  # Go date format; month names auto-translated via i18n/ja.yaml
+  dateFormat = '2006年1月2日'
+  clearReading = true
+  sidebarBehavior = 1
+  hierarchicalCategories = false
+  coverImage = 'images/cover.jpg'
+  thumbnailImage = true
+  autoThumbnailImage = true
+  thumbnailImagePosition = 'bottom'
+
+  # author (theme reads .Site.Params.author after our partial overrides)
+  [params.author]
+    name = 'Naoki'
+    bio = 'RSS ダイジェスト / 漫画・小説アーカイブ'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+  archive = 'archives'
+
+# Language-scoped menus replace the default (stack) ones for each language.
+[languages.ja]
+  label = '日本語'
+  locale = 'ja'
+  weight = 1
+  [languages.ja.menus]
+    [[languages.ja.menus.main]]
+      weight = 1
+      identifier = 'home'
+      name = 'ホーム'
+      pre = '<i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden="true"></i>'
+      url = '/'
+    [[languages.ja.menus.main]]
+      weight = 2
+      identifier = 'categories'
+      name = 'カテゴリ'
+      pre = '<i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>'
+      url = '/categories/'
+    [[languages.ja.menus.main]]
+      weight = 3
+      identifier = 'tags'
+      name = 'タグ'
+      pre = '<i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden="true"></i>'
+      url = '/tags/'
+    [[languages.ja.menus.main]]
+      weight = 4
+      identifier = 'archives'
+      name = 'アーカイブ'
+      pre = '<i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden="true"></i>'
+      url = '/archives/'
+    [[languages.ja.menus.misc]]
+      weight = 1
+      identifier = 'rss'
+      name = 'RSS'
+      pre = '<i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden="true"></i>'
+      url = '/index.xml'
+
+[languages.en]
+  label = 'English'
+  locale = 'en'
+  weight = 2
+  [languages.en.menus]
+    [[languages.en.menus.main]]
+      weight = 1
+      identifier = 'home'
+      name = 'Home'
+      pre = '<i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden="true"></i>'
+      url = '/'
+    [[languages.en.menus.main]]
+      weight = 2
+      identifier = 'categories'
+      name = 'Categories'
+      pre = '<i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden="true"></i>'
+      url = '/categories/'
+    [[languages.en.menus.main]]
+      weight = 3
+      identifier = 'tags'
+      name = 'Tags'
+      pre = '<i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden="true"></i>'
+      url = '/tags/'
+    [[languages.en.menus.main]]
+      weight = 4
+      identifier = 'archives'
+      name = 'Archives'
+      pre = '<i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden="true"></i>'
+      url = '/archives/'
+    [[languages.en.menus.misc]]
+      weight = 1
+      identifier = 'rss'
+      name = 'RSS'
+      pre = '<i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden="true"></i>'
+      url = '/index.xml'
