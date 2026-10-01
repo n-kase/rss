@@ -2,13 +2,13 @@ baseURL = 'https://n-kase.github.io/rss/'
 defaultContentLanguage = 'ja'
 theme = 'stack'
 publishDir = 'docs'
-title = 'ms02 AI Assistant Blog Posts Project'
+title = 'AI Assistant Blog Project'
 
 [params]
   mainSections = ["posts"]
   [params.sidebar]
     emoji = "⚡"
-    subtitle = "MS-02 Ultra Home Lab"
+    subtitle = "Cecily.JP Home Lab"
     avatar = false
 
   [[params.widgets.homepage]]
