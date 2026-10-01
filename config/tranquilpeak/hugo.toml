@@ -9,7 +9,9 @@ baseURL = 'https://n-kase.github.io/rss/'
 defaultContentLanguage = 'ja'
 title = 'RSS Digest'
 theme = 'tranquilpeak'
-paginate = 20
+
+[pagination]
+  pagerSize = 20
 
 # Exclude stack-theme stub pages for archives/categories/tags so the
 # theme's own taxonomy templates render. Only applied for this environment.
