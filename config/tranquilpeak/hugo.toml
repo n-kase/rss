@@ -13,9 +13,12 @@ paginate = 20
 
 # Exclude stack-theme stub pages for archives/categories/tags so the
 # theme's own taxonomy templates render. Only applied for this environment.
-# NOTE: content/search/ is KEPT — the stub renders through
-# layouts/tranquilpeak/page/search.{html,json} (theme-scoped repo layouts,
-# ignored by the stack build), which provides a theme-independent search UI.
+# NOTE: content/search/ is KEPT. In this environment the stub renders through
+# project-level layouts/_default/search.{html,json} (the theme has no
+# page/search templates, so template resolution falls through to _default),
+# providing a local-JSON search UI. In the stack build, the theme's own
+# themes/stack/layouts/page/search.{html,json} take precedence over _default,
+# so stack output is unchanged.
 ignoreFiles = ['content/archives/', 'content/categories/', 'content/tags/']
 
 [outputs]
